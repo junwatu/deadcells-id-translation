@@ -3,11 +3,13 @@
 
 ![preview](preview.jpg)
 
+Repositori *source code* untuk translasi game Dead Cells ke Bahasa Indonesia.
 
-
-[Translasi game Dead Cells untuk Bahasa Indonesia.](http://steamcommunity.com/sharedfiles/filedetails/?id=1244163580)
+[Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=1244163580)
 
 ## Cara Berkontribusi
+
+Saya sarankan untuk memiliki akun Steam agar bisa di ikut sertakan sebagai kontributor. 
 
 ### 1. Fork repositori ini 
 
