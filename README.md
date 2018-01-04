@@ -27,6 +27,8 @@ Translasi dituliskan pada key `msgstr` dengan referensi bahasa yang akan diartik
 
 ![msgstr](github-edit-mainpo-key.png)
 
+> Untuk kata `::word::` adalah variabel sehingga tidak perlu ditranslasikan
+
 Jangan lupa di simpan.
 
 ### 3. Lakukan Pull Request
