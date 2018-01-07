@@ -684,7 +684,7 @@ msgstr ""
 #. msgid "Rôôôôômmff....Le vaisseau qui doit t'emmener n'est pas encore là..."
 #: src/cine/EndGame.hx:96
 msgid "Ohhh ho ho... The vessel you're looking for hasn't docked yet..."
-msgstr "Oh ho ho... Wadah yang kamu cari belumlah ada..."
+msgstr "Oh ho ho... Tubuh yang kamu cari belumlah ada..."
 
 #. --------
 #. msgid "Rôôôôômmff....tu n'as rien à faire ici, étranger..."
@@ -735,7 +735,7 @@ msgstr "Jadi kamu sudah bisa sejauh ini?"
 msgid ""
 "Miserable abomination, you owe your meagre success to this pitiful body!"
 msgstr ""
-"Kekejian yang menyebalkan, Kau berutang sedikit kesuksesan kepada tubuh yang "
+"Kekejian yang menyebalkan, Kau berutang segala kesuksesanmu kepada tubuh yang "
 "menyedihkan ini!"
 
 #. --------
@@ -745,8 +745,8 @@ msgid ""
 "Do you at least know to whom belongs the unfortunate vessel you've chosen to "
 "parasite?"
 msgstr ""
-"Apakah kau setidaknya mengetahui milik siapakah tubuh yang kau pilih untuk "
-"kau kotori itu?"
+"Setidaknya kau tahu tidak siapa pemilik tubuh malang yang telah kau pilih itu "
+"wahai parasit?"
 
 #. --------
 #. msgid "Bien sûr que non..."
@@ -758,7 +758,7 @@ msgstr "Tentu saja kamu tidak..."
 #. msgid "En tout cas... Tu n'iras pas plus loin..."
 #: src/cine/EnterRoomBerserk.hx:107
 msgid "In any case... You'll go no further."
-msgstr "Dalam tiap kasus...kamu dilarang untuk bertindak."
+msgstr "Bagaimanapun caranya... kau akan tetap disini"
 
 #. --------
 #. msgid "Félicitations ! Vous avez réussi à abattre le Boss de cette demo !"
@@ -840,7 +840,7 @@ msgstr "Sekarang...Tahanan."
 #. msgid "HORS DE MA VUE ! Ta présence m'ennuie."
 #: src/cine/LeaveCollector.hx:33
 msgid "OUT OF MY SIGHT! Your presence grows tiring."
-msgstr "PERGI DARI HADAPANKU! Kehadiranmu."
+msgstr "PERGI DARI HADAPANKU! Kehadiranmu membuatku bosan"
 
 #. --------
 #. msgid "Regardez qui voilà..."
