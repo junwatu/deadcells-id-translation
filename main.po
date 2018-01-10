@@ -962,7 +962,7 @@ msgstr "Berguling"
 #. msgid "Vous avez offensé les Dieux !"
 #: src/en/Hero.hx:1337
 msgid "You have outraged the gods!"
-msgstr "Kau telah membuat marah para dewa!"
+msgstr "Kau telah memicu amarah para dewa!"
 
 #. --------
 #. msgid ""
@@ -1114,13 +1114,13 @@ msgstr "Terlalu banyak kesehatan!"
 #. msgid "Nouveau schéma découvert"
 #: src/pow/Pokecharge.hx:58
 msgid "New blueprint discovered"
-msgstr "Cetak biru baru ditemukan"
+msgstr "Blueprint baru ditemukan"
 
 #. --------
 #. msgid "Aucun nouveau schéma"
 #: src/pow/Pokecharge.hx:61
 msgid "No new blueprints"
-msgstr "Tidak ada cetak biru baru"
+msgstr "Tidak ada Blueprint baru"
 
 #. --------
 #. msgid "Interruption"
@@ -1360,7 +1360,7 @@ msgstr "Lanjutkan perjalanan saat ini"
 #. msgid "Recommencer dans la prison"
 #: src/pr/TitleScreen.hx:256
 msgid "Start again from the Prisoners' Cells"
-msgstr "Mulai lagi dari tahanan Cells"
+msgstr "Mengulang dari Sel Tahanan"
 
 #. --------
 #. msgid "Démarrer une partie"
