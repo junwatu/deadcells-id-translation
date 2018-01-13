@@ -1132,7 +1132,7 @@ msgstr "Gangguan"
 #. msgid "Tout va bien se passer !"
 #: src/pr/BetaDisclaimer.hx:52
 msgid "Don't panic!"
-msgstr "Orang Indonesia Pantang Panik!"
+msgstr "Jangan Panik!"
 
 #. --------
 #. msgid ""
@@ -1213,7 +1213,7 @@ msgstr "Kembali ke menu utama"
 #. msgid "Défi quotidien"
 #: src/pr/Game.hx:326
 msgid "Daily run"
-msgstr ""
+msgstr "Perjalanan Harian"
 
 #. --------
 #. msgid "Mode classement"
@@ -1389,7 +1389,7 @@ msgstr "Tidak dapat dibuka pada mode normal"
 #. msgid "Vous devez être connecté à Internet pour pouvoir jouer à ce mode."
 #: src/pr/TitleScreen.hx:271
 msgid "You must be connected to the internet to play in this mode."
-msgstr "Kau harus terkoneksi dengan internet untuk bermain pada mode ini."
+msgstr "Kamu harus terkoneksi dengan internet untuk bermain pada mode ini."
 
 #. --------
 #. msgid "Sauvegarde inaccessible"
@@ -1479,7 +1479,7 @@ msgstr "Catatan Tambalan"
 #. msgid "Crédits"
 #: src/pr/TitleScreen.hx:345 src/ui/Options.hx:149
 msgid "Credits"
-msgstr "Pendekar"
+msgstr "Staff Roll"
 
 #. --------
 #. msgid "Forum Accès anticipé"
@@ -1515,7 +1515,7 @@ msgstr "(::d::/::m::/::y:: ::hour::)"
 #. msgid "Abandonner la partie en cours"
 #: src/pr/TitleScreen.hx:386
 msgid "Abort Current Game"
-msgstr "Tentang Permainan Ini"
+msgstr "Batalkan Permainan Ini"
 
 #. --------
 #. msgid ""
@@ -1763,7 +1763,7 @@ msgstr "Tingkat Botol ::lvl::"
 #. msgid "Économie Lvl. ::lvl::"
 #: src/ui/CharacSheet.hx:512
 msgid "Gold recovery level ::lvl::"
-msgstr "Tingkat "
+msgstr "Tingkat pemulihan emas ::lvl::"
 
 #. --------
 #. msgid "Recyclage Lvl. ::lvl::"
@@ -1775,7 +1775,7 @@ msgstr "Tingkat daur ulang ::lvl::"
 #. msgid "Vide !"
 #: src/ui/CharacSheet.hx:611
 msgid "Nada!"
-msgstr ""
+msgstr "Kosong!"
 
 #. --------
 #. msgid "Armes"
@@ -1838,7 +1838,7 @@ msgstr "Tidak ada!"
 #: src/ui/CharacSheet.hx:1196 src/ui/DemoAutoPause.hx:8 src/ui/HUD.hx:664
 #: src/ui/Options.hx:277 src/ui/Options.hx:296
 msgid "Pause"
-msgstr "Berhenti Sebentar"
+msgstr "Pause"
 
 #. --------
 #. msgid "Reprendre"
@@ -1858,13 +1858,13 @@ msgstr "Coba Kembali"
 #. msgid "Investir des cellules (maintenir)"
 #: src/ui/CollectorPanel.hx:197
 msgid "Invest cells (hold A)"
-msgstr "Infestasikan cells (tahan A)"
+msgstr "Investasikan cells (tahan A)"
 
 #. --------
 #. msgid "Investir des cellules (maintenir)"
 #: src/ui/CollectorPanel.hx:197
 msgid "Invest cells (hold)"
-msgstr "Infestasikan cells (tahan)"
+msgstr "Investasikan cells (tahan)"
 
 #. --------
 #. msgid "Cacher les éléments indisponibles"
@@ -1889,7 +1889,7 @@ msgstr "Tutup"
 #. msgid "Pas de SCHEMA disponible!"
 #: src/ui/CollectorPanel.hx:384
 msgid "No blueprints available."
-msgstr "Tidak tersedia cetak biru."
+msgstr "Tidak tersedia Blueprints."
 
 #. --------
 #. msgid "Pas de SCHEMA disponible!"
@@ -1901,13 +1901,13 @@ msgstr "CETAK BIRU tidak tersedia!"
 #. msgid "Pas de SCHEMA méta disponible !"
 #: src/ui/CollectorPanel.hx:385
 msgid "No meta blueprints available."
-msgstr ""
+msgstr "Blueprints meta tidak tersedia"
 
 #. --------
 #. msgid "Pas de SCHEMA méta disponible !"
 #: src/ui/CollectorPanel.hx:385
 msgid "No meta BLUEPRINTS available!"
-msgstr ""
+msgstr "Tidak ada BLUEPRINTS meta yang tersedia!"
 
 #. --------
 #. msgid "Pas de SCHEMA d'arme disponible !"
@@ -1925,13 +1925,13 @@ msgstr "CETAK BIRU senjata tidak tersedia!"
 #. msgid "Pas de SCHEMA d'actif disponible !"
 #: src/ui/CollectorPanel.hx:387
 msgid "No active skill blueprints available."
-msgstr ""
+msgstr "blueprints kemampuan aktif tidak tersedia"
 
 #. --------
 #. msgid "Pas de SCHEMA d'actif disponible !"
 #: src/ui/CollectorPanel.hx:387
 msgid "No active skill BLUEPRINTS available!"
-msgstr ""
+msgstr "BLUEPRINTS kemampuan aktif tidak tersedia!"
 
 #. --------
 #. msgid "::n:: cellules restantes"
@@ -1943,68 +1943,68 @@ msgstr "Sisa ::n:: cells"
 #. msgid "::n:: cellule restante"
 #: src/ui/CollectorPanel.hx:633 src/ui/MetaPanelBase.hx:752
 msgid "::n:: cell left"
-msgstr ""
+msgstr "Sisa ::n:: cell left"
 
 #. --------
 #. msgid "Condition non remplie : débloquer \"::name::\""
 #: src/ui/CollectorPanel.hx:652 src/ui/CollectorPanel.hx:661
 #: src/ui/CollectorPanel2.hx:287
 msgid "Condition not met: unlock \"::name::\""
-msgstr ""
+msgstr "Kondisi belum dipenuhi: dapatkan \"::name::\""
 
 #. --------
 #. msgid "Condition non remplie : débloquer ::n:: objets supplémentaires"
 #: src/ui/CollectorPanel.hx:656 src/ui/CollectorPanel2.hx:291
 msgid "Condition not met: unlock ::n:: more items"
-msgstr ""
+msgstr "Kondisi belum ditemukan: bukalah item setidaknya ::n:: kali lagi"
 
 #. --------
 #. msgid "Condition non remplie : débloquer 1 objet supplémentaire"
 #: src/ui/CollectorPanel.hx:658 src/ui/CollectorPanel2.hx:292
 msgid "Condition not met: unlock 1 more item"
-msgstr ""
+msgstr "Kondisi belum ditemukan: bukalah 1 item lagi"
 
 #. --------
 #. msgid "Augmenter les dégâts :"
 #: src/ui/CollectorPanel.hx:668
 msgid "Increase damage:"
-msgstr ""
+msgstr "Meningkatkan damage:"
 
 #. --------
 #. msgid "Amélioration permanente obtenue !"
 #: src/ui/CollectorPanel.hx:890 src/ui/CollectorPanel2.hx:241
 msgid "Permanent improvement unlocked!"
-msgstr ""
+msgstr "Peningkatan Permanen terbuka!"
 
 #. --------
 #. msgid "Nouvelle arme de mélée débloquée !"
 #: src/ui/CollectorPanel.hx:891 src/ui/CollectorPanel2.hx:242
 msgid "New melee weapon unlocked!"
-msgstr ""
+msgstr "Senjata Jarak Dekat baru telah terbuka!"
 
 #. --------
 #. msgid "Nouvelle arme à distance débloquée !"
 #: src/ui/CollectorPanel.hx:892 src/ui/CollectorPanel2.hx:243
 msgid "New ranged weapon unlocked!"
-msgstr ""
+msgstr "Senjata Berjarak baru telah terbuka!"
 
 #. --------
 #. msgid "Nouveau bouclier débloqué !"
 #: src/ui/CollectorPanel.hx:893 src/ui/CollectorPanel2.hx:244
 msgid "New shield unlocked!"
-msgstr ""
+msgstr "Tameng baru telah terbuka!"
 
 #. --------
 #. msgid "Nouvel objet débloqué !"
 #: src/ui/CollectorPanel.hx:894 src/ui/CollectorPanel2.hx:246
 msgid "New item unlocked!"
-msgstr ""
+msgstr "Item baru telah terbuka!"
 
 #. --------
 #. msgid "Niveau supplémentaire !"
 #: src/ui/CollectorPanel.hx:899
 msgid "Extra level!"
-msgstr ""
+msgstr "Level Extra!"
 
 #. --------
 #. msgid "Arme améliorée !"
