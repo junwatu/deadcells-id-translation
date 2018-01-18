@@ -52,7 +52,7 @@ msgstr "Bonus +::num:: poin!"
 #. msgid "Pas besoin de soin"
 #: src/Fx.hx:12329
 msgid "Your health is already full"
-msgstr "Kesehatanmu sudah maksimal"
+msgstr "Nyawamu sudah penuh"
 
 #. --------
 #. msgid "::key::(MAINTENU) Passer"
