@@ -2010,116 +2010,116 @@ msgstr "Level Extra!"
 #. msgid "Arme améliorée !"
 #: src/ui/CollectorPanel.hx:900
 msgid "Weapon improved!"
-msgstr ""
+msgstr "Senjata diperbarui"
 
 #. --------
 #. msgid "Bouclier amélioré !"
 #: src/ui/CollectorPanel.hx:901
 msgid "Shield improved!"
-msgstr ""
+msgstr "Tameng Diperbarui"
 
 #. --------
 #. msgid "Objet amélioré !"
 #: src/ui/CollectorPanel.hx:902
 msgid "Item improved!"
-msgstr ""
+msgstr "Item Diperbarui"
 
 #. --------
 #. msgid "Bonus aux dégâts :"
 #: src/ui/CollectorPanel.hx:938
 msgid "Damage bonus:"
-msgstr ""
+msgstr "Damage tambahan"
 
 #. --------
 #. msgid "Vous pourrez aussi augmenter sa puissance !"
 #: src/ui/CollectorPanel.hx:956
 msgid "You could also increase its power!"
-msgstr ""
+msgstr "Kau dapat meningkatkan kekuatannya pula!"
 
 #. --------
 #. msgid "Confirmer"
 #: src/ui/CollectorPanel.hx:967 src/ui/MetaPanelBase.hx:914
 #: src/ui/Options.hx:363
 msgid "Confirm"
-msgstr ""
+msgstr "Yakin"
 
 #. --------
 #. msgid "Tri : Niveau croissant"
 #: src/ui/CollectorPanel.hx:1028
 msgid "Sort order: Level, increasing"
-msgstr ""
+msgstr "Sort order: Level, meningkat"
 
 #. --------
 #. msgid "Tri : Niveau décroissant"
 #: src/ui/CollectorPanel.hx:1029
 msgid "Sort order: Level, decreasing"
-msgstr ""
+msgstr "Sort order: Level, menurun"
 
 #. --------
 #. msgid "Tri : Coût"
 #: src/ui/CollectorPanel.hx:1031
 msgid "Sort order: cost"
-msgstr ""
+msgstr "Sort order: harga"
 
 #. --------
 #. msgid "Tri : Taux de complétion"
 #: src/ui/CollectorPanel.hx:1032
 msgid "Sort order: Completion"
-msgstr ""
+msgstr "Sort order: Penyelesaian"
 
 #. --------
 #. msgid "Afficher les éléments indisponibles"
 #: src/ui/CollectorPanel.hx:1068
 msgid "Show unavailable items"
-msgstr ""
+msgstr "Tunjukan barang yang tidak tersedia "
 
 #. --------
 #. msgid "Pas de nouveaux objets à débloquer"
 #: src/ui/CollectorPanel2.hx:178
 msgid "No new items to unlock"
-msgstr ""
+msgstr "Tidak ada barang baru untuk dibuka"
 
 #. --------
 #. msgid "Terminé"
 #: src/ui/CollectorPanel2.hx:197
 msgid "Done"
-msgstr ""
+msgstr "Selesai"
 
 #. --------
 #. msgid "Verrouillé"
 #: src/ui/CollectorPanel2.hx:210
 msgid "Locked"
-msgstr ""
+msgstr "Dikunci"
 
 #. --------
 #. msgid "Nouvelle mutation débloquée !"
 #: src/ui/CollectorPanel2.hx:245
 msgid "New mutation unlocked!"
-msgstr ""
+msgstr "Mutasi baru telah terbuka!"
 
 #. --------
 #. msgid "(MAINTENU)"
 #: src/ui/ControlLabel.hx:19 src/ui/ControlLabel.hx:43
 msgid "(HOLD)"
-msgstr ""
+msgstr "(TAHAN)"
 
 #. --------
 #. msgid "Continuer la partie en cours"
 #: src/ui/DemoAutoPause.hx:9
 msgid "Continue the current run"
-msgstr ""
+msgstr "Lanjutkan perjalanan saat ini"
 
 #. --------
 #. msgid "Retour au menu"
 #: src/ui/DemoAutoPause.hx:10
 msgid "Back to menu"
-msgstr ""
+msgstr "Kembali ke menu"
 
 #. --------
 #. msgid "Version demo"
 #: src/ui/Disclaimer.hx:16
 msgid "Demo version"
-msgstr ""
+msgstr "Versi Demo"
 
 #. --------
 #. msgid ""
@@ -2130,24 +2130,26 @@ msgid ""
 "This version of the game is subject to change (lots of it). Please report "
 "bugs on the Steam forum. Thanks for your help! :)"
 msgstr ""
+"Versi game saat ini rawan berubah (dan sering dirubah) Tolong laporkan "
+"bila ada keanehan di forum steam. Terima kasih atas bantuannya! :)"
 
 #. --------
 #. msgid "Dead Cells Alpha [build ::build::]"
 #: src/ui/Disclaimer.hx:31
 msgid "Dead Cells Alpha [build ::build::]"
-msgstr ""
+msgstr "Dead Cells Alpha [build ::build::]"
 
 #. --------
 #. msgid "Vous êtes mort, dommage !"
 #: src/ui/EndScoreMode.hx:91
 msgid "You're dead, too bad!"
-msgstr ""
+msgstr "Kamu mati, sayang sekali!"
 
 #. --------
 #. msgid "Plus de temps, dommage !"
 #: src/ui/EndScoreMode.hx:97
 msgid "No time left, too bad!"
-msgstr ""
+msgstr "Tidak ada waktu lagi, kasihan!"
 
 #. --------
 #. msgid ""
@@ -2157,37 +2159,37 @@ msgstr ""
 msgid ""
 "Congratulations!\n"
 "You've completed the daily run!"
-msgstr ""
+msgstr "Kamu telah menyelesaikan perjalanan harian!"
 
 #. --------
 #. msgid "Prochaine récompense dans ::num:: victoire quotidienne"
 #: src/ui/EndScoreMode.hx:115
 msgid "Next reward in ::num:: Daily Run victory"
-msgstr ""
+msgstr "Hadiah berikutnya dalam ::num:: kemenangan perjalanan harian"
 
 #. --------
 #. msgid "Prochaine récompense dans ::num:: victoires quotidiennes"
 #: src/ui/EndScoreMode.hx:117
 msgid "Next reward in ::num:: Daily Run victories"
-msgstr ""
+msgstr "Hadiah berikutnya dalam ::num:: kemenangan perjalanan harian"
 
 #. --------
 #. msgid "Bonus de victoire contre le Boss :"
 #: src/ui/EndScoreMode.hx:120
 msgid "Extra points for beating the Boss:"
-msgstr ""
+msgstr "Poin tambahan untuk menang melawan Boss"
 
 #. --------
 #. msgid "Score Total :"
 #: src/ui/EndScoreMode.hx:126
 msgid "Total Score:"
-msgstr ""
+msgstr "Skor Total"
 
 #. --------
 #. msgid "Connexion au serveur..."
 #: src/ui/EndScoreMode.hx:130
 msgid "Connecting to the server..."
-msgstr ""
+msgstr "Menghubungkan ke server..."
 
 #. --------
 #. msgid ""
@@ -2197,37 +2199,38 @@ msgstr ""
 msgid ""
 "Failed to send your score:\n"
 "(::reason::)"
-msgstr ""
+msgstr "Gagal untuk mengirim skor anda:\n"
+"(::reason::)"
 
 #. --------
 #. msgid "Score envoyé avec succés !"
 #: src/ui/EndScoreMode.hx:201
 msgid "Score sent successfully!"
-msgstr ""
+msgstr "Skor terkirim dengan sukses!"
 
 #. --------
 #. msgid "Réessayer d'envoyer"
 #: src/ui/EndScoreMode.hx:274
 msgid "Try to send again"
-msgstr ""
+msgstr "Coba dikirim ulang"
 
 #. --------
 #. msgid "Vous êtes monté au rang ::rng:: !"
 #: src/ui/EndScoreMode.hx:291
 msgid "You've climbed to position ::rng::!"
-msgstr ""
+msgstr "Kau mencapai posisi ::rng::!"
 
 #. --------
 #. msgid "Vous avez battu votre record !"
 #: src/ui/EndScoreMode.hx:295
 msgid "You've beaten your record!"
-msgstr ""
+msgstr "Kau telah mengalahkan rekor mu!"
 
 #. --------
 #. msgid "Vous êtes désormais au rang ::rng:: !"
 #: src/ui/EndScoreMode.hx:296
 msgid "You are now at position ::rng::!"
-msgstr ""
+msgstr "Kamu berada di posisi ::rng::!"
 
 #. --------
 #. msgid ""
@@ -2237,30 +2240,32 @@ msgstr ""
 msgid ""
 "Unfortunately you didn't beat your record for today, which is ::pts:: points."
 msgstr ""
+"Sayangnya, kamu tidak mengalahkan rekormu untuk hari ini, yaitu ::pts:: poin"
 
 #. --------
 #. msgid "Vous avez battu votre record, mais pas assez pour changer de rang."
 #: src/ui/EndScoreMode.hx:302
 msgid "You've beaten your record, but not enough to change rank."
-msgstr ""
+msgstr "Kamu telah mengalahkan rekormu, namun kurang cukup untuk "
+"mengubah ranking mu"
 
 #. --------
 #. msgid "Vous êtes toujours au rang ::rng::."
 #: src/ui/EndScoreMode.hx:304
 msgid "You're still at position ::rng::."
-msgstr ""
+msgstr "Kamu masih berada di posisi ::rng::"
 
 #. --------
 #. msgid "Vous avez perdu ::n:: cellules !"
 #: src/ui/GameOver.hx:38
 msgid "You lost ::n:: cells!"
-msgstr ""
+msgstr "Kamu kehilangan ::n:: cells"
 
 #. --------
 #. msgid "Vous n'avez perdu qu'une cellule."
 #: src/ui/GameOver.hx:38
 msgid "You lost one cell."
-msgstr ""
+msgstr "Kamu kehilangan satu cell"
 
 #. --------
 #. msgid "::d:: dég/s"
@@ -2268,109 +2273,112 @@ msgstr ""
 #. msgid "::d:: dégâts/sec"
 #: src/ui/ItemDesc.hx:54
 msgid "::d:: damage/s"
-msgstr ""
+msgstr "::d:: damage/s"
 
 #. --------
 #. msgid "::val:: (::crit::) dég/s"
 #: src/ui/ItemDesc.hx:54 src/ui/ItemDesc.hx:83
 msgid "::val:: (::crit::) damage/s"
-msgstr ""
+msgstr "::val:: (::crit::) damage/s"
 
 #. --------
 #. msgid "Munitions: ::n::"
 #: src/ui/ItemDesc.hx:59 src/ui/ItemDesc.hx:100
 msgid "Ammo: ::n::"
-msgstr ""
+msgstr "Amunisi: ::n::"
 
 #. --------
 #. msgid "Absorbe ::v::% dég"
 #: src/ui/ItemDesc.hx:76
 msgid "Absorb ::v::% damage"
-msgstr ""
+msgstr "Menyerap ::v::% damage"
 
 #. --------
 #. msgid "Inflige ::d:: dég"
 #: src/ui/ItemDesc.hx:78
 msgid "Inflict ::d:: damage"
-msgstr ""
+msgstr "Menimbulkan ::d:: damage"
 
 #. --------
 #. msgid "Inflige ::d:: (::crit::) dég"
 #: src/ui/ItemDesc.hx:78
 msgid "Inflict ::d:: (::crit::) damage"
-msgstr ""
+msgstr "Menimbulkan ::d:: (::crit::) damage"
 
 #. --------
 #. msgid "Aucune utilisation"
 #: src/ui/ItemDesc.hx:88
 msgid "No use"
-msgstr ""
+msgstr "Tidak ada gunanya"
 
 #. --------
 #. msgid "::d:: sec de rechargement"
 #: src/ui/ItemDesc.hx:89
 msgid "::d:: seconds recharge time"
-msgstr ""
+msgstr "::d:: sekon pemakaian kembali"
 
 #. --------
 #. msgid "Arme secondaire uniquement."
 #: src/ui/ItemDesc.hx:120
 msgid "Secondary weapon only."
-msgstr ""
+msgstr "Hanya senjata sekunder saja"
 
 #. --------
 #. msgid "Dégâts +::n::%"
 #: src/ui/ItemDesc.hx:150
 msgid "Damage +::n::%"
-msgstr ""
+msgstr "Damage +::n::%"
 
 #. --------
 #. msgid "Tous dégâts subis -::n::%"
 #: src/ui/ItemDesc.hx:154
 msgid "All damage taken -::n::%"
-msgstr ""
+msgstr "Semua damage yang akan diterima -::n::%"
 
 #. --------
 #. msgid "La puissance de cette Mutation augmente en fonction de votre Brutalité."
 #: src/ui/ItemDesc.hx:182
 msgid "This mutation increases in strength with you Brutality level."
-msgstr ""
+msgstr "Mutasi ini meningkatkan kekuatan mu yang berskala dengan "
+"level brutalitas."
 
 #. --------
 #. msgid "La puissance de cette Mutation augmente en fonction de votre Tactique."
 #: src/ui/ItemDesc.hx:184
 msgid "This mutation increases in strength with you Tactics level."
-msgstr ""
+msgstr "Mutasi ini meningkatkan kekuatan mu yang berskala dengan "
+"level taktik."
 
 #. --------
 #. msgid "La puissance de cette Mutation augmente en fonction de votre Survie."
 #: src/ui/ItemDesc.hx:186
 msgid "This mutation increases in strength with you Survival level."
-msgstr ""
+msgstr "Mutasi ini meningkatkan kekuatan mu yang berskala dengan "
+"level survival."
 
 #. --------
 #. msgid "Classement Défi Quotidien"
 #: src/ui/LeaderboardPanel.hx:162
 msgid "Daily Run Leaderboard"
-msgstr ""
+msgstr "Leaderboard perjalanan harian"
 
 #. --------
 #. msgid "Mon score"
 #: src/ui/LeaderboardPanel.hx:233
 msgid "My score"
-msgstr ""
+msgstr "Skor saya"
 
 #. --------
 #. msgid "Rafraîchir"
 #: src/ui/LeaderboardPanel.hx:234
 msgid "Refresh"
-msgstr ""
+msgstr "Refresh"
 
 #. --------
 #. msgid "::d::/::m::/::y::"
 #: src/ui/LeaderboardPanel.hx:277
 msgid "::d::/::m::/::y::"
-msgstr ""
+msgstr "::d::/::m::/::y::"
 
 #. --------
 #. msgid "..."
@@ -2380,7 +2388,7 @@ msgstr ""
 #: src/en/inter/npc/PerkMaster.hx:73 src/en/inter/npc/PerkMaster.hx:75
 #: src/en/inter/npc/PerkMaster.hx:77
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. --------
 #. msgid "The Incomplete One"
@@ -2390,109 +2398,109 @@ msgstr ""
 #. msgid "The Incomplete one"
 #: src/ui/LifeBarBoss.hx:39
 msgid "The Incomplete One"
-msgstr ""
+msgstr "Ia yang Tidak Sempurna"
 
 #. --------
 #. msgid "::name:: !"
 #: src/ui/LogManager.hx:103
 msgid "::name::!"
-msgstr ""
+msgstr "::name::!"
 
 #. --------
 #. msgid "Schéma pour avoir terminé ::num:: fois le Défi Quotidien :"
 #: src/ui/LogManager.hx:182
 msgid "Blueprint for finishing the Daily Run ::num:: times:"
-msgstr ""
+msgstr "Blueprint untuk menyelesaikan perjalanan harian ::num:: kali"
 
 #. --------
 #. msgid "Schéma RARE obtenu :"
 #: src/ui/LogManager.hx:185
 msgid "You found a RARE blueprint:"
-msgstr ""
+msgstr "Kamu menemukan blueprint LANGKA"
 
 #. --------
 #. msgid "Schéma obtenu :"
 #: src/ui/LogManager.hx:185
 msgid "Blueprint acquired:"
-msgstr ""
+msgstr "Blueprint ditemukan"
 
 #. --------
 #. msgid "Rune permanente obtenue"
 #: src/ui/LogManager.hx:209
 msgid "Permanent rune acquired"
-msgstr ""
+msgstr "Rune permanen didapatkan"
 
 #. --------
 #. msgid "Vous avez débloqué"
 #: src/ui/LogManager.hx:233
 msgid "You unlocked"
-msgstr ""
+msgstr "Kamu membuka"
 
 #. --------
 #. msgid "Investir des cellules"
 #: src/ui/MetaPanelBase.hx:847
 msgid "Invest cells"
-msgstr ""
+msgstr "Investasi cell"
 
 #. --------
 #. msgid "Manette"
 #: src/ui/Options.hx:142 src/ui/Options.hx:206
 msgid "Controller"
-msgstr ""
+msgstr "Kontroller"
 
 #. --------
 #. msgid "Clavier / souris"
 #: src/ui/Options.hx:143 src/ui/Options.hx:208
 msgid "Keyboard/mouse"
-msgstr ""
+msgstr "Keyboard/Mouse"
 
 #. --------
 #. msgid "Vidéo"
 #: src/ui/Options.hx:144 src/ui/Options.hx:209
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #. --------
 #. msgid "Sons"
 #: src/ui/Options.hx:146 src/ui/Options.hx:210
 msgid "Sound"
-msgstr ""
+msgstr "Suara"
 
 #. --------
 #. msgid "Langue"
 #: src/ui/Options.hx:147 src/ui/Options.hx:211
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 #. --------
 #. msgid "Régime alimentaire"
 #: src/ui/Options.hx:148 src/ui/Options.hx:212
 msgid "Diet"
-msgstr ""
+msgstr "Diet"
 
 #. --------
 #. msgid "Transfert"
 #: src/ui/Options.hx:150
 msgid "Transfer"
-msgstr ""
+msgstr "Transfer"
 
 #. --------
 #. msgid "Tutorial contrôles"
 #: src/ui/Options.hx:217
 msgid "Show a tutorial for the controls"
-msgstr ""
+msgstr "Tunjukkan sebuah tutorial untuk kontrol"
 
 #. --------
 #. msgid "Affiche les explications des commandes de jeu en début de partie."
 #: src/ui/Options.hx:217
 msgid "Show the controls at the beginning of the game."
-msgstr ""
+msgstr "Tunjukkan kontrol pada bagian awal game"
 
 #. --------
 #. msgid "Roulade prête"
 #: src/ui/Options.hx:220
 msgid "Show the roll cooldown feedback"
-msgstr ""
+msgstr "Tunjukan efek cooldown rolling"
 
 #. --------
 #. msgid ""
