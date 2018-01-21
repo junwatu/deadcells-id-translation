@@ -2508,13 +2508,14 @@ msgstr "Tunjukan efek cooldown rolling"
 #. "prête."
 #: src/ui/Options.hx:220
 msgid "Displays a light visual feedback when you can roll again."
-msgstr ""
+msgstr "Menunjukkan pembantuan pengelihatan kecil ketika dapat"
+"roll lagi"
 
 #. --------
 #. msgid "Roulade intelligente"
 #: src/ui/Options.hx:223
 msgid "Smart rolling"
-msgstr ""
+msgstr "Smart rolling"
 
 #. --------
 #. msgid ""
@@ -2523,37 +2524,38 @@ msgstr ""
 #: src/ui/Options.hx:223
 msgid ""
 "Will intelligently stop a roll if it would have taken you off a platform."
-msgstr ""
+msgstr "Akan memberhentikan roll jika roll tersebut akan menjatuhkan mu"
+"dari suatu platform"
 
 #. --------
 #. msgid "Annonce d'attaques"
 #: src/ui/Options.hx:226
 msgid "Show attack warning marker"
-msgstr ""
+msgstr "Tunjukkan penanda serangan musuh"
 
 #. --------
 #. msgid "Affiche un \"!\" lorsqu'un ennemi s'apprête à vous attaquer."
 #: src/ui/Options.hx:226
 msgid "Displays a \"!\" when an enemy is about to strike."
-msgstr ""
+msgstr "Menunjukkan sebuah \"!\" "
 
 #. --------
 #. msgid "Masquer contrôles"
 #: src/ui/Options.hx:229
 msgid "Hide controls in UI"
-msgstr ""
+msgstr "Sembunyikan skema kontrol di UI"
 
 #. --------
 #. msgid "Masquer les noms des boutons dans l'interface."
 #: src/ui/Options.hx:229
 msgid "Hides button names in the interface."
-msgstr ""
+msgstr "Sembunyikan tombol didalam interface"
 
 #. --------
 #. msgid "Activer la synchronisation Steam Cloud"
 #: src/ui/Options.hx:233
 msgid "Activate Steam Cloud synchronization"
-msgstr ""
+msgstr "Aktifkan Sinkronisasi Steam Cloud"
 
 #. --------
 #. msgid ""
@@ -2563,49 +2565,51 @@ msgstr ""
 msgid ""
 "We strongly advise that you deactivate this functionality if you want to "
 "play offline."
-msgstr ""
+msgstr "Kami sangat menyarankan kamu menonaktifkan fungsinalitas ini jika"
+"jika kamu ingin bermain offline"
 
 #. --------
 #. msgid "Options par défaut"
 #: src/ui/Options.hx:240 src/ui/Options.hx:241
 msgid "Restore default options"
-msgstr ""
+msgstr "Mengembalikan ke opsi semula"
 
 #. --------
 #. msgid "Restaurer les valeurs par défaut pour toutes les options"
 #: src/ui/Options.hx:241
 msgid "Restores default values  for all options"
-msgstr ""
+msgstr "Mengembalikan semua nilai seperti semula "
+"untuk semua opsi"
 
 #. --------
 #. msgid "Plein écran"
 #: src/ui/Options.hx:249
 msgid "Full screen mode"
-msgstr ""
+msgstr "Mode layar penuh"
 
 #. --------
 #. msgid "Plein écran fenêtré"
 #: src/ui/Options.hx:250
 msgid "Fullscreen windowed"
-msgstr ""
+msgstr "Layar penuh (windowed) "
 
 #. --------
 #. msgid "Fenêtré"
 #: src/ui/Options.hx:251
 msgid "Windowed"
-msgstr ""
+msgstr "Windowed"
 
 #. --------
 #. msgid "Activer VSync"
 #: src/ui/Options.hx:253
 msgid "Enable VSync"
-msgstr ""
+msgstr "Nyalakan VSync"
 
 #. --------
 #. msgid "Flash lumineux"
 #: src/ui/Options.hx:256
 msgid "Bright flashes"
-msgstr ""
+msgstr "Cahaya terang"
 
 #. --------
 #. msgid ""
@@ -2618,48 +2622,51 @@ msgid ""
 "(explosions, being wounded etc.) You can deactivate them if they bother you "
 "or pose a risk to your health."
 msgstr ""
+"Mengendalikan beragam macam cahaya yang berdampak terhadap layar"
+"(ledakan, saat terluka, dst.)" anda dapat tidak mengaktifkannya jika mereka"
+"menggangu mu atau meresikokan kesehatanmu"
 
 #. --------
 #. msgid "Activer les vibrations"
 #: src/ui/Options.hx:261
 msgid "Activate vibration"
-msgstr ""
+msgstr "Aktifkan getaran"
 
 #. --------
 #. msgid "Se déplacer avec le D-Pad"
 #: src/ui/Options.hx:264
 msgid "Use the D-Pad to move"
-msgstr ""
+msgstr "Gunakan D-Pad untuk bergerak"
 
 #. --------
 #. msgid "Active l'utilisation des flèches directionnelle pour se déplacer"
 #: src/ui/Options.hx:264
 msgid "Enable arrow keys to move "
-msgstr ""
+msgstr "Memperbolehkan tombol panah untuk bergerak"
 
 #. --------
 #. msgid "Active l'utilisation des flèches directionnelle pour se déplacer"
 #: src/ui/Options.hx:264
 msgid "Enable the use of the d-pad for moving around"
-msgstr ""
+msgstr "Memperbolahkan salah satu d-pad untuk bergerak"
 
 #. --------
 #. msgid "Configuration des touches"
 #: src/ui/Options.hx:268 src/ui/Options.hx:283
 msgid "Control configuration"
-msgstr ""
+msgstr "Konfigurasi Kontrol"
 
 #. --------
 #. msgid "Compétence gauche"
 #: src/ui/Options.hx:273 src/ui/Options.hx:292
 msgid "Left trigger skill"
-msgstr ""
+msgstr "Skill Trigger kiri"
 
 #. --------
 #. msgid "Compétence droite"
 #: src/ui/Options.hx:274 src/ui/Options.hx:293
 msgid "Right trigger skill"
-msgstr ""
+msgstr "Skill trigger kanan"
 
 #. --------
 #. msgid "Utiliser"
@@ -2668,7 +2675,7 @@ msgstr ""
 #: src/en/inter/RedTeleporter.hx:58 src/en/inter/ScoringDoor.hx:88
 #: src/en/inter/SubTeleporter.hx:43 src/en/inter/VineLadder.hx:194
 msgid "Use/Interact"
-msgstr ""
+msgstr "Gunakan/Interaksi"
 
 #. --------
 #. msgid "Utiliser"
@@ -2677,25 +2684,25 @@ msgstr ""
 #: src/en/inter/RedTeleporter.hx:58 src/en/inter/ScoringDoor.hx:88
 #: src/en/inter/SubTeleporter.hx:43 src/en/inter/VineLadder.hx:194
 msgid "Use"
-msgstr ""
+msgstr "Gunakan"
 
 #. --------
 #. msgid "Voir la carte"
 #: src/ui/Options.hx:278 src/ui/Options.hx:297
 msgid "Map"
-msgstr ""
+msgstr "Peta"
 
 #. --------
 #. msgid "Capturer souris"
 #: src/ui/Options.hx:280
 msgid "Mouse capture (mouse can't leave the game screen)."
-msgstr ""
+msgstr "Mouse capture (mouse tidak akan meninggalkan layar game)."
 
 #. --------
 #. msgid "Capturer souris"
 #: src/ui/Options.hx:280
 msgid "Mouse capture (mouse can't leave the game screen)"
-msgstr ""
+msgstr "Mouse capture (mouse tidak akan meninggalkan layar game)."
 
 #. --------
 #. msgid ""
@@ -2703,73 +2710,73 @@ msgstr ""
 #. "limites de la zone d'affichage."
 #: src/ui/Options.hx:280
 msgid "As long as the game window is open, lock the cursor in it."
-msgstr ""
+msgstr "Selama window game terbuka, kunci cursor didalamnya"
 
 #. --------
 #. msgid "Carte : focus"
 #: src/ui/Options.hx:298
 msgid "Map: focus"
-msgstr ""
+msgstr "Peta: Fokus"
 
 #. --------
 #. msgid "Carte : zoom avant"
 #: src/ui/Options.hx:299
 msgid "Map: Zoom in"
-msgstr ""
+msgstr "Peta: Zoom in"
 
 #. --------
 #. msgid "Carte : zoom arrière"
 #: src/ui/Options.hx:300
 msgid "Map: Zoom out"
-msgstr ""
+msgstr "Peta: Zoom out"
 
 #. --------
 #. msgid "Carte : haut"
 #: src/ui/Options.hx:301
 msgid "Map: up"
-msgstr ""
+msgstr "Peta: keatas"
 
 #. --------
 #. msgid "Carte : gauche"
 #: src/ui/Options.hx:302
 msgid "Map: Left"
-msgstr ""
+msgstr "Peta: kekiri"
 
 #. --------
 #. msgid "Carte : bas"
 #: src/ui/Options.hx:303
 msgid "Map: down"
-msgstr ""
+msgstr "Peta: kebawah"
 
 #. --------
 #. msgid "Carte : droite"
 #: src/ui/Options.hx:304
 msgid "Map: right"
-msgstr ""
+msgstr "Peta: kekanan"
 
 #. --------
 #. msgid "Suivant"
 #: src/ui/Options.hx:305
 msgid "Next"
-msgstr ""
+msgstr "Selanjutnya"
 
 #. --------
 #. msgid "Précédent"
 #: src/ui/Options.hx:306
 msgid "Previous"
-msgstr ""
+msgstr "Sebelumnya"
 
 #. --------
 #. msgid "Configuration par défaut"
 #: src/ui/Options.hx:307 src/ui/Options.hx:308
 msgid "Restore default configuration"
-msgstr ""
+msgstr "Mengembalikan konfigurasi semula"
 
 #. --------
 #. msgid "Restaurer la configuration clavier par défaut"
 #: src/ui/Options.hx:308
 msgid "Restore the default keyboard configuration"
-msgstr ""
+msgstr "Mengembalikan konfigurasi keyboard semula"
 
 #. --------
 #. msgid "Télécharger une autre langue"
@@ -2781,37 +2788,37 @@ msgstr "Unduh bahasa lain"
 #. msgid "Carnivore"
 #: src/ui/Options.hx:332
 msgid "Carnivore"
-msgstr ""
+msgstr "Karnivor"
 
 #. --------
 #. msgid "Castlevaniesque"
 #: src/ui/Options.hx:333
 msgid "Castlevaniesque"
-msgstr ""
+msgstr "Seperti Castlevania"
 
 #. --------
 #. msgid "Végétarien"
 #: src/ui/Options.hx:334
 msgid "Vegetarian"
-msgstr ""
+msgstr "Vegetarian"
 
 #. --------
 #. msgid "Frugivore"
 #: src/ui/Options.hx:335
 msgid "Fruitarian"
-msgstr ""
+msgstr "Fruitarian"
 
 #. --------
 #. msgid "Monstrueux"
 #: src/ui/Options.hx:336
 msgid "Monster"
-msgstr ""
+msgstr "Monster"
 
 #. --------
 #. msgid "Muet"
 #: src/ui/Options.hx:339
 msgid "Mute"
-msgstr ""
+msgstr "Mute"
 
 #. --------
 #. msgid "Volume principal"
