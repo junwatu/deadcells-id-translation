@@ -2824,25 +2824,25 @@ msgstr "Mute"
 #. msgid "Volume principal"
 #: src/ui/Options.hx:343
 msgid "Main volume"
-msgstr ""
+msgstr "Volume Utama"
 
 #. --------
 #. msgid "Volume musique"
 #: src/ui/Options.hx:347
 msgid "Music volume"
-msgstr ""
+msgstr "Volume Music"
 
 #. --------
 #. msgid "Volume effets"
 #: src/ui/Options.hx:351
 msgid "SFX volume"
-msgstr ""
+msgstr "Volume SFX"
 
 #. --------
 #. msgid "Volume ambiance"
 #: src/ui/Options.hx:355
 msgid "Ambient noise volume"
-msgstr ""
+msgstr "Volume Suara Ambien"
 
 #. --------
 #. msgid ""
@@ -2855,12 +2855,15 @@ msgid ""
 "Warning! If you already have save files in the Steam Cloud they will be "
 "permanently overwritten!"
 msgstr ""
+"Apakah anda ingin memindahkan save file local anda ke Steam Cloud?"
+"Peringatan! Jika anda mempunyai save file di Steam Cloud, file "
+"tersebut terganti dan hilang selamanya!"
 
 #. --------
 #. msgid "Transférer mes sauvegardes"
 #: src/ui/Options.hx:371 src/ui/Options.hx:377
 msgid "Transfer my save files"
-msgstr ""
+msgstr "Transfer save file saya"
 
 #. --------
 #. msgid ""
@@ -2874,36 +2877,39 @@ msgid ""
 "Warning! If you already have local save files they will be permanently "
 "overwritten!"
 msgstr ""
+"Apakah anda ingin memindahkan save file local anda ke Steam Cloud?"
+"Peringatan! Jika anda mempunyai save file di Steam Cloud, file "
+"tersebut terganti dan hilang selamanya!"
 
 #. --------
 #. msgid "Dead Cells est développé par Motion Twin"
 #: src/ui/Options.hx:386
 msgid "Dead Cells is developed by Motion Twin"
-msgstr ""
+msgstr "Dead Cells dibuat oleh Motion Twin"
 
 #. --------
 #. msgid "Dead Cells est développé par Motion Twin"
 #: src/ui/Options.hx:386
 msgid "Dead Cells is the evil offspring of Motion Twin"
-msgstr ""
+msgstr "Dead Cells adalah anak kembar jahatnya Motion Twin"
 
 #. --------
 #. msgid "Musique"
 #: src/ui/Options.hx:399
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 #. --------
 #. msgid "Marketing"
 #: src/ui/Options.hx:405
 msgid "Marketing"
-msgstr ""
+msgstr "Marekting"
 
 #. --------
 #. msgid "Remerciements"
 #: src/ui/Options.hx:413
 msgid "Thanks"
-msgstr ""
+msgstr "Terima Kasih"
 
 #. --------
 #. msgid ""
@@ -2914,163 +2920,164 @@ msgstr ""
 msgid ""
 "Dead Cells was created with the help of the FAJV - National Center for "
 "Cinema and Animation in France."
-msgstr ""
+msgstr "Dead Cells dibuat dengan bantuan dari FAJV - Pusat National"
+"Cinema dan Animasi di Perancis"
 
 #. --------
 #. msgid "Sélectionner une mutation"
 #: src/ui/PerkSelect.hx:86
 msgid "Select a mutation"
-msgstr ""
+msgstr "Pilih sebuah mutasi"
 
 #. --------
 #. msgid "Vous avez atteint le nombre max de mutations."
 #: src/ui/PerkSelect.hx:133
 msgid "You've reached the maximum number of mutations."
-msgstr ""
+msgstr "Kamu telah mencapai jumlah mutasi maksimum"
 
 #. --------
 #. msgid "Choisissez ::n:: mutations"
 #: src/ui/PerkSelect.hx:135
 msgid "Choose ::n:: mutations"
-msgstr ""
+msgstr "Pilihlah ::n:: mutasi"
 
 #. --------
 #. msgid "Choisissez 1 mutation"
 #: src/ui/PerkSelect.hx:135
 msgid "Choose 1 mutation"
-msgstr ""
+msgstr "Pilih 1 mutasi"
 
 #. --------
 #. msgid "Réinitialiser vos mutations (coûte ::cost:: OR)."
 #: src/ui/PerkSelect.hx:137
 msgid "Reset your mutations (cost ::cost:: GOLD)."
-msgstr ""
+msgstr "Ulang mutasi anda (cost ::cost:: GOLD)."
 
 #. --------
 #. msgid "Pas assez d'or"
 #: src/ui/PerkSelect.hx:143
 msgid "Not enough gold"
-msgstr ""
+msgstr "Uang tidak cukup"
 
 #. --------
 #. msgid "Mutations générales"
 #: src/ui/PerkSelect.hx:179
 msgid "General mutations"
-msgstr ""
+msgstr "Mutasi umum"
 
 #. --------
 #. msgid "Appuyez à nouveau pour confirmer"
 #: src/ui/PerkSelect.hx:521
 msgid "Press again to confirm"
-msgstr ""
+msgstr "Klik lagi untuk dipastikan "
 
 #. --------
 #. msgid "Vous avez ramassé"
 #: src/ui/ReplaceItem.hx:85
 msgid "You've looted"
-msgstr ""
+msgstr "Kamu telah dijarah"
 
 #. --------
 #. msgid "Vous pouvez acheter pour ::price::"
 #: src/ui/ReplaceItem.hx:88
 msgid "You can buy for ::price::"
-msgstr ""
+msgstr "Kamu dapat membeli ini dengan ::price::"
 
 #. --------
 #. msgid "Quel objet remplacer ?"
 #: src/ui/ReplaceItem.hx:99
 msgid "Swap which item?"
-msgstr ""
+msgstr "Tukar dengan barang apa?"
 
 #. --------
 #. msgid "Annuler l'achat"
 #: src/ui/ReplaceItem.hx:123
 msgid "Cancel the purchase"
-msgstr ""
+msgstr "Batalkan pembelihan"
 
 #. --------
 #. msgid "Valider"
 #: src/ui/ReplaceItem.hx:126 src/en/inter/SwitchBossRune.hx:384
 msgid "Accept"
-msgstr ""
+msgstr "Terima"
 
 #. --------
 #. msgid "Valider l'achat"
 #: src/ui/ReplaceItem.hx:126
 msgid "Confirm the purchase"
-msgstr ""
+msgstr "Pastikan pembelian"
 
 #. --------
 #. msgid "Nouvelle amulette :"
 #: src/ui/ReplaceTalisman.hx:51
 msgid "New amulet:"
-msgstr ""
+msgstr "Jimat baru"
 
 #. --------
 #. msgid "Nouvelle amulette (::price:: OR) :"
 #: src/ui/ReplaceTalisman.hx:53
 msgid "New amulet (::price:: Gold):"
-msgstr ""
+msgstr "Jimat baru (::price:: Gold):"
 
 #. --------
 #. msgid "Ancienne amulette :"
 #: src/ui/ReplaceTalisman.hx:73
 msgid "Old amulet:"
-msgstr ""
+msgstr "Amulet lama"
 
 #. --------
 #. msgid "Equiper"
 #: src/ui/ReplaceTalisman.hx:97
 msgid "Equip"
-msgstr ""
+msgstr "Pakai"
 
 #. --------
 #. msgid "Acheter pour ::price:: OR"
 #: src/ui/ReplaceTalisman.hx:97
 msgid "Buy for ::price:: GOLD"
-msgstr ""
+msgstr "Beli dengan ::price:: GOLD"
 
 #. --------
 #. msgid "Voulez vous recommencer la partie ?"
 #: src/ui/RestartGame.hx:59
 msgid "Would you like to restart your run?"
-msgstr ""
+msgstr "Apakah anda ingin mengulang perjalanan anda?"
 
 #. --------
 #. msgid "Bonus"
 #: src/ui/ScoringInfo.hx:52
 msgid "Bonus"
-msgstr ""
+msgstr "Bonus"
 
 #. --------
 #. msgid "Général"
 #: src/ui/StatsPanel.hx:172 src/ui/StatsPanel.hx:243
 msgid "General"
-msgstr ""
+msgstr "Umum"
 
 #. --------
 #. msgid "Exploration"
 #: src/ui/StatsPanel.hx:174 src/ui/StatsPanel.hx:273
 msgid "Exploration"
-msgstr ""
+msgstr "Eksplorasi"
 
 #. --------
 #. msgid "Biomes"
 #: src/ui/StatsPanel.hx:175
 msgid "Biomes"
-msgstr ""
+msgstr "Bioma"
 
 #. --------
 #. msgid "Monstres"
 #: src/ui/StatsPanel.hx:176 src/ui/StatsPanel.hx:299
 msgid "Monsters"
-msgstr ""
+msgstr "Monster"
 
 #. --------
 #. msgid "Combat"
 #: src/ui/StatsPanel.hx:177 src/ui/StatsPanel.hx:307
 msgid "Combat"
-msgstr ""
+msgstr "Pertempuran"
 
 #. --------
 #. msgid "Morts"
@@ -3078,253 +3085,253 @@ msgstr ""
 #. msgid "Mort"
 #: src/ui/StatsPanel.hx:178 src/ui/StatsPanel.hx:318
 msgid "Deaths"
-msgstr ""
+msgstr "Kematian"
 
 #. --------
 #. msgid "Nombre total de parties"
 #: src/ui/StatsPanel.hx:245
 msgid "Total number of runs"
-msgstr ""
+msgstr "Jumlah total perjalanan"
 
 #. --------
 #. msgid "Nombre total de parties terminées"
 #: src/ui/StatsPanel.hx:247
 msgid "Total number of completed runs"
-msgstr ""
+msgstr "Jumlah total perjalanan penuh"
 
 #. --------
 #. msgid "Plus grande quantité d'Or obtenue en même temps"
 #: src/ui/StatsPanel.hx:249
 msgid "Most gold held at any time"
-msgstr ""
+msgstr "Jumlah emas terbanyak yang pernah dimiliki"
 
 #. --------
 #. msgid "Or total gagné"
 #: src/ui/StatsPanel.hx:250
 msgid "Total gold collected"
-msgstr ""
+msgstr "Jumlah total emas yang terkumpul"
 
 #. --------
 #. msgid "Or total dépensé"
 #: src/ui/StatsPanel.hx:251
 msgid "Total gold spent"
-msgstr ""
+msgstr "Jumlah emas yang dibelanjakan"
 
 #. --------
 #. msgid "Plus grande quantité de Cellules obtenue en même temps"
 #: src/ui/StatsPanel.hx:253
 msgid "Most cells held at any time"
-msgstr ""
+msgstr "Jumlah cells terbanyak yang pernah dimiliki"
 
 #. --------
 #. msgid "Cellules gagnées"
 #: src/ui/StatsPanel.hx:254
 msgid "Cells collected"
-msgstr ""
+msgstr "Jumlah total Cells"
 
 #. --------
 #. msgid "Cellules dépensées"
 #: src/ui/StatsPanel.hx:255
 msgid "Cells spent"
-msgstr ""
+msgstr "Jumlah Cells yang dibelanjakan"
 
 #. --------
 #. msgid "Téléportations utilisés"
 #: src/ui/StatsPanel.hx:257
 msgid "Teleporters used"
-msgstr ""
+msgstr "Total penggunaan Teleporter"
 
 #. --------
 #. msgid "Soins utilisés"
 #: src/ui/StatsPanel.hx:258
 msgid "Healing flasks used"
-msgstr ""
+msgstr "Total penggunaan Health Flask"
 
 #. --------
 #. msgid "Soins utilisés"
 #: src/ui/StatsPanel.hx:258
 msgid "Health flasks used"
-msgstr ""
+msgstr "Total penggunaan Health Flask "
 
 #. --------
 #. msgid "Malédictions survécues"
 #: src/ui/StatsPanel.hx:259
 msgid "Curses survived"
-msgstr ""
+msgstr "Selamat dari kutukan"
 
 #. --------
 #. msgid "Schémas d'armes ramenés au Collecteur"
 #: src/ui/StatsPanel.hx:265
 msgid "Weapon blueprints recoverd"
-msgstr ""
+msgstr "Blueprint senjata yang ditemukan"
 
 #. --------
 #. msgid "Schémas d'armes ramenés au Collecteur"
 #: src/ui/StatsPanel.hx:265
 msgid "Weapon blueprints recovered"
-msgstr ""
+msgstr "Blueprint senjata yang ditemukan"
 
 #. --------
 #. msgid "Total d'arme débloquée"
 #: src/ui/StatsPanel.hx:266
 msgid "Total weapons unlocked"
-msgstr ""
+msgstr "Jumlah senjata terbuka"
 
 #. --------
 #. msgid "Schémas d'actifs ramenés au Collecteur"
 #: src/ui/StatsPanel.hx:268
 msgid "Active skill blueprints recovered"
-msgstr ""
+msgstr "Blueprint skill aktif yang ditemukan"
 
 #. --------
 #. msgid "Total d'actif débloqué"
 #: src/ui/StatsPanel.hx:269
 msgid "Total Active Skills unlocked"
-msgstr ""
+msgstr "Total skill aktif yang terbuka"
 
 #. --------
 #. msgid "Coffres normaux ouverts"
 #: src/ui/StatsPanel.hx:275
 msgid "Treasure chests looted"
-msgstr ""
+msgstr "Peti hartakarun dijarah"
 
 #. --------
 #. msgid "Coffres maudits ouverts"
 #: src/ui/StatsPanel.hx:276
 msgid "Cursed chests looted"
-msgstr ""
+msgstr "Peti terkutuk dijarah"
 
 #. --------
 #. msgid "Portails secrets ouverts"
 #: src/ui/StatsPanel.hx:278
 msgid "Secret areas discovered"
-msgstr ""
+msgstr "Area rahasia yang ditemukan"
 
 #. --------
 #. msgid "Défis réussis"
 #: src/ui/StatsPanel.hx:281
 msgid "Challenges succeed"
-msgstr ""
+msgstr "Tantangan yang berhasil ditaklukkan"
 
 #. --------
 #. msgid "Défis ratés"
 #: src/ui/StatsPanel.hx:283
 msgid "Challenges failed"
-msgstr ""
+msgstr "Tantangan yang gagal ditaklukkan"
 
 #. --------
 #. msgid "Biomes atteints"
 #: src/ui/StatsPanel.hx:287
 msgid "Biomes reached"
-msgstr ""
+msgstr "Bioma yang dicapai"
 
 #. --------
 #. msgid "Total de monstres occis"
 #: src/ui/StatsPanel.hx:310
 msgid "Total monsters slain"
-msgstr ""
+msgstr "Jumlah monster yang dibantai"
 
 #. --------
 #. msgid "Total de monstres élites occis"
 #: src/ui/StatsPanel.hx:312
 msgid "Total elite monsters slain"
-msgstr ""
+msgstr "Jumlah monster elit yang dibantai "
 
 #. --------
 #. msgid "Morts par un ennemi"
 #: src/ui/StatsPanel.hx:321
 msgid "Deaths by monster"
-msgstr ""
+msgstr "Dibunuh oleh monster"
 
 #. --------
 #. msgid "Morts par un piège"
 #: src/ui/StatsPanel.hx:323
 msgid "Deaths by trap"
-msgstr ""
+msgstr "Dibunuh oleh perangkap"
 
 #. --------
 #. msgid "Morts par chute mortelle"
 #: src/ui/StatsPanel.hx:325
 msgid "Deaths by fall"
-msgstr ""
+msgstr "Dibunuh oleh jatuh"
 
 #. --------
 #. msgid "Morts par suicide"
 #: src/ui/StatsPanel.hx:327
 msgid "Suicides"
-msgstr ""
+msgstr "Bunuh Diri"
 
 #. --------
 #. msgid "Cellules perdus"
 #: src/ui/StatsPanel.hx:329
 msgid "Cells lost"
-msgstr ""
+msgstr "Cells yang hilang"
 
 #. --------
 #. msgid "Que vous avez tué : ::n::"
 #: src/ui/StatsPanel.hx:393
 msgid "That you have killed ::n::"
-msgstr ""
+msgstr "Kamu telah dibunuh ::n::"
 
 #. --------
 #. msgid "Qui vous ont tué : ::n::"
 #: src/ui/StatsPanel.hx:396
 msgid "That have killed you ::n::"
-msgstr ""
+msgstr "Yang telah membunuh mu ::n::"
 
 #. --------
 #. msgid "Configuration actuelle"
 #: src/ui/SummaryBossRuneEffect.hx:73
 msgid "Current configuration"
-msgstr ""
+msgstr "Konfigurasi saat ini"
 
 #. --------
 #. msgid "Sélectionner une amélioration"
 #: src/ui/TierSelect.hx:63
 msgid "Select an improvement"
-msgstr ""
+msgstr "Pilih sebuah peningkatan"
 
 #. --------
 #. msgid "+::prct::% dégâts pour les équipements ROUGES."
 #: src/ui/TierSelect.hx:148
 msgid "+::prct::% damage for RED equipment."
-msgstr ""
+msgstr "+::prct::% damage untuk euqipment MERAH"
 
 #. --------
 #. msgid "+::prct::% vie."
 #: src/ui/TierSelect.hx:153 src/ui/TierSelect.hx:162 src/ui/TierSelect.hx:171
 msgid "+::prct::% health."
-msgstr ""
+msgstr "+::prct::% nyawa"
 
 #. --------
 #. msgid "+::prct::% dégâts pour les équipements MAUVES."
 #: src/ui/TierSelect.hx:157
 msgid "+::prct::% damage for VIOLET equipment."
-msgstr ""
+msgstr "+::prct::% damage untuk peralatan VIOLET"
 
 #. --------
 #. msgid "+::prct::% dégâts pour les équipements VERTS."
 #: src/ui/TierSelect.hx:166
 msgid "+::prct::% damage for GREEN equipment."
-msgstr ""
+msgstr "+::prct::% damage untuk peralatan HIJAU"
 
 #. --------
 #. msgid "Cette créature ne peut être transformée !"
 #: src/en/gr/Pokebomb.hx:47
 msgid "This creature can not be transformed!"
-msgstr ""
+msgstr "Makhluk ini tidak dapat dirubah!"
 
 #. --------
 #. msgid "Aucun nouveau schéma à tirer de cette créature."
 #: src/en/gr/Pokebomb.hx:52
 msgid "No new blueprint to be retrieved from this creature."
-msgstr ""
+msgstr "Tidak ada blueprint baru dari makhluk ini"
 
 #. --------
 #. msgid "Activer"
 #: src/en/inter/ATSwitch.hx:49 src/en/inter/exit/ATExit.hx:74
 msgid "Activate"
-msgstr ""
+msgstr "Aktifkan"
 
 #. --------
 #. msgid "Eliminez d'abord les ennemis proches !"
@@ -3333,7 +3340,7 @@ msgstr ""
 #: src/en/inter/Npc.hx:110 src/en/inter/ScoreButton.hx:77
 #: src/en/inter/exit/ATExit.hx:82
 msgid "Kill all nearby enemies first!"
-msgstr ""
+msgstr "Bunuh semua musuh yang dekat dulu "
 
 #. --------
 #. msgid "Ouvrir"
@@ -3344,7 +3351,7 @@ msgstr ""
 #: src/en/inter/door/ScoreDoor.hx:45 src/en/inter/door/TimedDoor.hx:67
 #: src/en/inter/door/TriggeredDoor.hx:92 src/en/inter/zdoor/RunicZDoor.hx:120
 msgid "Open"
-msgstr ""
+msgstr "Buka"
 
 #. --------
 #. msgid "Hé ! Vous là ! Ouvrez moi !"
