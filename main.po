@@ -3357,109 +3357,111 @@ msgstr "Buka"
 #. msgid "Hé ! Vous là ! Ouvrez moi !"
 #: src/en/inter/CursedChest.hx:72
 msgid "Hey! You there! Open me!"
-msgstr ""
+msgstr "Hei! Kamu! Bukalah aku!"
 
 #. --------
 #. msgid "J'ai été TRÈS vilain."
 #: src/en/inter/CursedChest.hx:73
 msgid "I've been naughty."
-msgstr ""
+msgstr "Aku belakangan ini sangat nakal..."
 
 #. --------
 #. msgid "Ouvrez moi FORT !"
 #: src/en/inter/CursedChest.hx:74
 msgid "Open me real HARD!"
-msgstr ""
+msgstr "Buka aku SEKERAS MUNGKIN!"
 
 #. --------
 #. msgid "Je suis un vilain coffre qui mérite d'être puni..."
 #: src/en/inter/CursedChest.hx:75
 msgid "I'm a naughty chest. I deserve to be punished."
-msgstr ""
+msgstr "Aku peti yang nakal. Aku harus dihukum."
 
 #. --------
 #. msgid "Hmmm... J'ai tant à vous donner..."
 #: src/en/inter/CursedChest.hx:76
 msgid "Ohhh.... I've got so much to give you..."
-msgstr ""
+msgstr "Ohhh.... banyak sekali yang ingin kuberikan "
+"kepadamu..."
 
 #. --------
 #. msgid "Je suis un coffre très cachotier vous savez."
 #: src/en/inter/CursedChest.hx:77
 msgid "You know I'm hiding a lot inside..."
-msgstr ""
+msgstr "Kau tahukan bahwa aku menyembunyikan banyak "
+"hal didalam..."
 
 #. --------
 #. msgid "Vous ne voulez pas voir ce que je vous réserve ?"
 #: src/en/inter/CursedChest.hx:78
 msgid "You don't want to see what I've got for you?"
-msgstr ""
+msgstr "Kamu tidak ingin melihat apa yang kusimpan untuk mu?"
 
 #. --------
 #. msgid "Allez... Je mérite bien une petite fessée..."
 #: src/en/inter/CursedChest.hx:79
 msgid "Come on... Just a little peek..."
-msgstr ""
+msgstr "Ayolah.. diintip sedikiit saja..."
 
 #. --------
 #. msgid "MAIS FRAPPEZ MOI BON SANG !!"
 #: src/en/inter/CursedChest.hx:80
 msgid "Open ME GODDAMIT!"
-msgstr ""
+msgstr "BUKA SAJALAH KONTOL"
 
 #. --------
 #. msgid "Trésor maudit découvert"
 #: src/en/inter/CursedChest.hx:407
 msgid "Cursed treasure found"
-msgstr ""
+msgstr "Harta karun terkutuk ditemukan"
 
 #. --------
 #. msgid "Retourner à l'entrée"
 #: src/en/inter/EntranceTeleporter.hx:39
 msgid "Return to the entry"
-msgstr ""
+msgstr "Kembali ke entry"
 
 #. --------
 #. msgid "Ca ne semble pas fonctionner."
 #: src/en/inter/EntranceTeleporter.hx:75
 msgid "It does not seem to work."
-msgstr ""
+msgstr "Barang ini sepertinya rusak"
 
 #. --------
 #. msgid "Descendre"
 #: src/en/inter/EventTrigger.hx:26
 msgid "Drop down"
-msgstr ""
+msgstr "Turun kebawah"
 
 #. --------
 #. msgid "Sortir"
 #: src/en/inter/Exit.hx:72
 msgid "Leave"
-msgstr ""
+msgstr "Pergi"
 
 #. --------
 #. msgid "Aie !"
 #: src/en/inter/Flower.hx:50
 msgid "Ouch!"
-msgstr ""
+msgstr "Ouch!"
 
 #. --------
 #. msgid "Mais !?"
 #: src/en/inter/Flower.hx:51
 msgid "What?!"
-msgstr ""
+msgstr "Apa?!"
 
 #. --------
 #. msgid "Aie !!"
 #: src/en/inter/Flower.hx:52
 msgid "Ouch!!"
-msgstr ""
+msgstr "Ouch!!"
 
 #. --------
 #. msgid "Il y a sûrement quelque part un moyen d'ouvrir cette barrière..."
 #: src/en/inter/ForceField.hx:72
 msgid "There must be a way to open this barrier..."
-msgstr ""
+msgstr "Pasti ada cara untuk membuka pembatas ini..."
 
 #. --------
 #. msgid "Je n'en ai pas besoin."
@@ -3469,116 +3471,116 @@ msgstr ""
 #. msgid "Je n'en ai pas besoin pour l'instant."
 #: src/en/inter/Fountain.hx:75
 msgid "I don't need that now."
-msgstr ""
+msgstr "Aku tidak membutuhkan ini sekarang"
 
 #. --------
 #. msgid "La fontaine est vide"
 #: src/en/inter/Fountain.hx:87
 msgid "The fountain is empty"
-msgstr ""
+msgstr "Air mancur itu kering"
 
 #. --------
 #. msgid "Fiole de soin remplie et santé restaurée"
 #: src/en/inter/Fountain.hx:94
 msgid "Health flask refilled and health restored"
-msgstr ""
+msgstr "Health flask dan nyawa terisi ulang"
 
 #. --------
 #. msgid "Santé restaurée"
 #: src/en/inter/Fountain.hx:96
 msgid "Health restored"
-msgstr ""
+msgstr "Nyawa terisi ulang"
 
 #. --------
 #. msgid "Fiole de soin remplie"
 #: src/en/inter/Fountain.hx:98
 msgid "Health flask refilled"
-msgstr ""
+msgstr "Health Flask terisi ulang"
 
 #. --------
 #. msgid "Secouer"
 #: src/en/inter/Gift.hx:54
 msgid "Shake"
-msgstr ""
+msgstr "Sentuh"
 
 #. --------
 #. msgid "Ho. Ho. Ho."
 #: src/en/inter/GiftSub.hx:24
 msgid "Ho. Ho. Ho."
-msgstr ""
+msgstr "Ho. Ho. Ho."
 
 #. --------
 #. msgid "Briser"
 #: src/en/inter/GoldNugget.hx:115 src/en/inter/GoldNugget.hx:119
 #: src/en/inter/GoldNugget.hx:122
 msgid "Break"
-msgstr ""
+msgstr "Pukul"
 
 #. --------
 #. msgid "Inutile pour l'instant"
 #: src/en/inter/HealPotion.hx:36
 msgid "Can't do that right now"
-msgstr ""
+msgstr "Aku tidak dapat melakukan ini sekarang"
 
 #. --------
 #. msgid "Potion de soin (::n:: PV)"
 #: src/en/inter/HealPotion.hx:40
 msgid "Health potion (::n:: HP)"
-msgstr ""
+msgstr "Health potion (::n:: HP)"
 
 #. --------
 #. msgid "Potion de soin (::n:: PV)"
 #: src/en/inter/HealPotion.hx:40
 msgid "Health flask (::n:: HP)"
-msgstr ""
+msgstr "Health flask (::n:: HP)"
 
 #. --------
 #. msgid "Potion de soin"
 #: src/en/inter/HealPotion.hx:50
 msgid "Health potion"
-msgstr ""
+msgstr "Ramuan Nyawa"
 
 #. --------
 #. msgid "Potion de soin"
 #: src/en/inter/HealPotion.hx:50
 msgid "Health flask"
-msgstr ""
+msgstr "Health flask"
 
 #. --------
 #. msgid "Régénère ::n:: points de santé."
 #: src/en/inter/HealPotion.hx:51
 msgid "Regenerates ::n:: health."
-msgstr ""
+msgstr "Memulihkan ::n:: nyawa"
 
 #. --------
 #. msgid "Secret découvert"
 #: src/en/inter/HiddenBlock.hx:91
 msgid "Secret discovered"
-msgstr ""
+msgstr "Rahasia ditemukan"
 
 #. --------
 #. msgid "ERROR: no target"
 #: src/en/inter/HiddenTrigger.hx:47 src/en/inter/PressurePlate.hx:104
 msgid "ERROR: no target"
-msgstr ""
+msgstr "ERROR: Tidak ada target"
 
 #. --------
 #. msgid "A suivre..."
 #: src/en/inter/HiddenTrigger.hx:54
 msgid "To continue..."
-msgstr ""
+msgstr "Untuk melanjutkan..."
 
 #. --------
 #. msgid "Félicitations ! Vous avez atteint la fin de cette demo !"
 #: src/en/inter/HiddenTrigger.hx:54
 msgid "Congratulations! You have reached the end of the demo!"
-msgstr ""
+msgstr "Selamat! Anda telah mencapai akhir demo!"
 
 #. --------
 #. msgid "Zone secrète découverte !"
 #: src/en/inter/HiddenTrigger.hx:60
 msgid "Secret area uncovered!"
-msgstr ""
+msgstr "Area rahasia ditemukan!"
 
 #. --------
 #. msgid "Examiner"
@@ -3587,7 +3589,7 @@ msgstr ""
 #: src/en/inter/HomonPipe.hx:53 src/en/inter/TimedItem.hx:107
 #: src/en/inter/WorkInProgress.hx:31 src/en/inter/npc/Knight.hx:41
 msgid "Look"
-msgstr ""
+msgstr "Lihat"
 
 #. --------
 #. msgid "Pas utile pour l'instant"
@@ -3598,7 +3600,7 @@ msgstr ""
 #: src/en/inter/ItemAltar.hx:92 src/en/inter/ItemDrop.hx:252
 #: src/en/inter/ShopBooth.hx:151 src/en/inter/TimedItem.hx:161
 msgid "Not useful for now"
-msgstr ""
+msgstr "Tidak berguna saat ini"
 
 #. --------
 #. msgid "Ramasser"
@@ -3606,19 +3608,19 @@ msgstr ""
 #: src/en/inter/TimedItem.hx:100 src/en/inter/UpgradeShrine.hx:102
 #: src/en/loot/Blueprint.hx:46
 msgid "Pick up"
-msgstr ""
+msgstr "Ambil"
 
 #. --------
 #. msgid "Recycler (::v:: OR)"
 #: src/en/inter/ItemDrop.hx:124 src/en/inter/TimedItem.hx:102
 msgid "Recycle (::v:: GOLD)"
-msgstr ""
+msgstr "Dijual ulang"
 
 #. --------
 #. msgid "Impossible de vendre cet objet."
 #: src/en/inter/ItemDrop.hx:242 src/en/inter/TimedItem.hx:156
 msgid "You can't sell this item."
-msgstr ""
+msgstr "Kamu tidak dapat menjual barang ini"
 
 #. --------
 #. msgid "Parler"
@@ -3626,109 +3628,110 @@ msgstr ""
 #: src/en/inter/npc/Blacksmith.hx:125 src/en/inter/npc/Collector.hx:59
 #: src/en/inter/npc/SewerCreature.hx:431
 msgid "Talk"
-msgstr ""
+msgstr "Bicara"
 
 #. --------
 #. msgid "Tout est à vendre !"
 #: src/en/inter/Merchant.hx:72
 msgid "Everything is for sale!"
-msgstr ""
+msgstr "Semua barang ini dijual!"
 
 #. --------
 #. msgid "Qu'est-ce qu'il vous faut ?"
 #: src/en/inter/Merchant.hx:73
 msgid "What can I do for you?"
-msgstr ""
+msgstr "Ada yang dapat saya bantu?"
 
 #. --------
 #. msgid "Vous achetez quelque chose ou bien ?"
 #: src/en/inter/Merchant.hx:74
 msgid "Are you going to buy something, or are you just hanging around?"
-msgstr ""
+msgstr "Apakah anda ingin membeli sesuatu, apa kamu cuma sekedar "
+"nongkrong saja"
 
 #. --------
 #. msgid "Dites, ça va finir par me gonfler..."
 #: src/en/inter/Merchant.hx:75
 msgid "You know, this is going to get old..."
-msgstr ""
+msgstr "Jujur saja ya, ini mulai membosankan.."
 
 #. --------
 #. msgid "BON ! Vous m'achetez quelque chose ?!"
 #: src/en/inter/Merchant.hx:77
 msgid "BUY SOMETHING OR GET OUT OF HERE!"
-msgstr ""
+msgstr "BELI SESUATU, ATAU KELUAR DARI SINI!"
 
 #. --------
 #. msgid "Fallait que je tombe sur l'idiot de l'île."
 #: src/en/inter/Merchant.hx:78
 msgid "He's got his head... In the clouds! Oh eh ha he haw..."
-msgstr ""
+msgstr "Pikiran mu itu.. selabil perempuan! Oh eh ha he haw..."
 
 #. --------
 #. msgid "Tout est trop cher pour vous ici, dégagez."
 #: src/en/inter/Merchant.hx:88
 msgid "My stuff is too good for you! Scram!"
-msgstr ""
+msgstr "Barang ini terlalu bagus untuk mu! Pergi sana!"
 
 #. --------
 #. msgid "Pas d'or ? Pas de matos."
 #: src/en/inter/Merchant.hx:89
 msgid "No gold? NO GOODIES!"
-msgstr ""
+msgstr "Tidak ada uang? TIDAK ADA BARANG!"
 
 #. --------
 #. msgid "La maison ne fait pas crédit."
 #: src/en/inter/Merchant.hx:90
 msgid "No! We don't offer credit!"
-msgstr ""
+msgstr "Tidak! Kita tidak memakai kredit!"
 
 #. --------
 #. msgid "Amenez de l'or, ou fichez le camp !"
 #: src/en/inter/Merchant.hx:91
 msgid "Bring the gold, or beat it!"
-msgstr ""
+msgstr "Bawalah uang, atau pergi sana!"
 
 #. --------
 #. msgid "Dehors, péon !"
 #: src/en/inter/Merchant.hx:92
 msgid "Outside, peasant!"
-msgstr ""
+msgstr "Keluar, rakyat jelata!"
 
 #. --------
 #. msgid "Vers la salle des fioles inférieure"
 #: src/en/inter/MiniTP.hx:85
 msgid "To the lower room"
-msgstr ""
+msgstr "Pergilah kebawah"
 
 #. --------
 #. msgid "Vers la salle des fioles supérieure"
 #: src/en/inter/MiniTP.hx:85
 msgid "To the upper room"
-msgstr ""
+msgstr "Pergilah keatas"
 
 #. --------
 #. msgid "Frotter"
 #: src/en/inter/RedTeleporter.hx:54
 msgid "Rub"
-msgstr ""
+msgstr "Raba"
 
 #. --------
 #. msgid "Barrière magique désactivée !"
 #: src/en/inter/ScoreButton.hx:52
 msgid "Magical barrier deactivated!"
-msgstr ""
+msgstr "Pembatas mistik ternonaktifkan!"
 
 #. --------
 #. msgid "L'accès au boss est désormais ouvert !"
 #: src/en/inter/ScoreButton.hx:52
 msgid "You now have access to the boss!"
-msgstr ""
+msgstr "Sekarang kau dapat melawan boss!"
 
 #. --------
 #. msgid "Désactiver la barrière"
 #: src/en/inter/ScoreButton.hx:70
 msgid "Deactivate the barrier."
-msgstr ""
+msgstr "Nonaktifkan pembatas"
 
 #. --------
 #. msgid "La barrière est déjà désactivée !"
