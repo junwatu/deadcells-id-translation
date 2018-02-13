@@ -3737,151 +3737,155 @@ msgstr "Nonaktifkan pembatas"
 #. msgid "La barrière est déjà désactivée !"
 #: src/en/inter/ScoreButton.hx:83
 msgid "The barrier has already been deactivated!"
-msgstr ""
+msgstr "Pembatas telah di deaktivasikan"
 
 #. --------
 #. msgid "Impossible de l'ouvrir..."
 #: src/en/inter/ScoringDoor.hx:184
 msgid "It cannot be opened."
-msgstr ""
+msgstr "Tidak dapat dibuka"
 
 #. --------
 #. msgid "Utiliser la rune"
 #: src/en/inter/SecretLever.hx:64
 msgid "Use the rune"
-msgstr ""
+msgstr "Pakailah runenya"
 
 #. --------
 #. msgid "Acheter"
 #: src/en/inter/ShopBooth.hx:87
 msgid "Buy"
-msgstr ""
+msgstr "Beli"
 
 #. --------
 #. msgid "Pas assez d'or !"
 #: src/en/inter/ShopBooth.hx:155 src/en/inter/ShopReroll.hx:116
 msgid "Not enough gold!"
-msgstr ""
+msgstr "Emasmu kurang cukup!"
 
 #. --------
 #. msgid "Aléatoire"
 #: src/en/inter/ShopCategory.hx:53 src/en/inter/ShopCategory.hx:55
 msgid "Random"
-msgstr ""
+msgstr "Acak"
 
 #. --------
 #. msgid "Capacités aléatoires"
 #: src/en/inter/ShopCategory.hx:56
 msgid "Random skills"
-msgstr ""
+msgstr "Skill acak"
 
 #. --------
 #. msgid "Armes aléatoires"
 #: src/en/inter/ShopCategory.hx:57
 msgid "Random weapons"
-msgstr ""
+msgstr "Senjata acak"
 
 #. --------
 #. msgid "Pièges déployés"
 #: src/en/inter/ShopCategory.hx:62
 msgid "Traps & Turrets"
-msgstr ""
+msgstr "Turret & Jebakan"
 
 #. --------
 #. msgid "Capacités diverses"
 #: src/en/inter/ShopCategory.hx:63
 msgid "Miscellaneous skills"
-msgstr ""
+msgstr "Skill berbagai macam"
 
 #. --------
 #. msgid "Mélée"
 #: src/en/inter/ShopCategory.hx:65 res/data.cdb:item/#177.name
 msgid "Melee"
-msgstr ""
+msgstr "Jarak Dekat"
 
 #. --------
 #. msgid "Distance"
 #: src/en/inter/ShopCategory.hx:66
 msgid "Ranged"
-msgstr ""
+msgstr "Jarak Jauh"
 
 #. --------
 #. msgid "???"
 #: src/en/inter/ShopCategory.hx:68
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. --------
 #. msgid "Obtenir des équipements aléatoires (ce choix est définitif)."
 #: src/en/inter/ShopCategory.hx:97 src/en/inter/ShopCategory.hx:99
 msgid "Randomly obtain some equipment (this choice is final)."
-msgstr ""
+msgstr "Mendapatkan beberapa ekuipmen secara acak (pilihan ini"
+"tidak dapat dirubah"
 
 #. --------
 #. msgid "Obtenir des Capacités aléatoires (ce choix est définitif)."
 #: src/en/inter/ShopCategory.hx:100
 msgid "Randomly obtain some skills (this choice is final)."
-msgstr ""
+msgstr "Mendapatkan beberapa skill secara acak (pilihan ini"
+"tidak dapat dirubah)"
 
 #. --------
 #. msgid "Obtenir des Armes aléatoires (ce choix est définitif)"
 #: src/en/inter/ShopCategory.hx:101
 msgid "Randomly obtain some weapons (this choice is final)."
-msgstr ""
+msgstr "Mendapatkan beberapa senjata secara acak (pilihan ini"
+"tidak dapat dirubah)"
 
 #. --------
 #. msgid "Obtenir des objets de la catégorie ::c:: (ce choix est définitif)."
 #: src/en/inter/ShopCategory.hx:106
 msgid "Obtain objects from the ::c:: category (this choice is final)."
-msgstr ""
+msgstr "Mendapatkan beberapa obyek dari kategori ::c:: (pilihan ini dapat"
+"dirubah)"
 
 #. --------
 #. msgid "Sélectionner"
 #: src/en/inter/ShopCategory.hx:107 src/ui/hud/map/MapFrame.hx:110
 msgid "Select"
-msgstr ""
+msgstr "Memilih"
 
 #. --------
 #. msgid "(maintenu)"
 #: src/en/inter/ShopReroll.hx:77
 msgid "(hold)"
-msgstr ""
+msgstr "(tahan)"
 
 #. --------
 #. msgid "Renouveler la boutique (::p:: OR)"
 #: src/en/inter/ShopReroll.hx:77
 msgid "Refresh the shop (::p:: GOLD)"
-msgstr ""
+msgstr "Restock toko (::p:: GOLD)"
 
 #. --------
 #. msgid "Maintenez pour renouveler la boutique"
 #: src/en/inter/ShopReroll.hx:111
 msgid "Hold to refresh the shop"
-msgstr ""
+msgstr ""Tekan untuk restock toko"
 
 #. --------
 #. msgid "Ça ne semble pas fonctionner."
 #: src/en/inter/SubTeleporter.hx:124
 msgid "It doesn't seem to work."
-msgstr ""
+msgstr "Sepertinya tidak mau bekerja"
 
 #. --------
 #. msgid "Inoculer les Cellules Souches de Boss"
 #: src/en/inter/SwitchBossRune.hx:117
 msgid "Inoculate boss cells"
-msgstr ""
+msgstr "Menanamkan cell boss"
 
 #. --------
 #. msgid "Ajouter/Retirer"
 #: src/en/inter/SwitchBossRune.hx:375
 msgid "Add/Remove"
-msgstr ""
+msgstr "Tambahkan/Hilangkan"
 
 #. --------
 #. msgid "Aucune Cellule Souche de Boss"
 #: src/en/inter/SwitchBossRune.hx:440
 msgid "No Boss Source Cells injected"
-msgstr ""
+msgstr "Tidak ada Cell Boss yang ditanamkan"
 
 #. --------
 #. msgid "::rune:: Cellule Souche de Boss inoculée"
@@ -3889,13 +3893,13 @@ msgstr ""
 #. msgid "::rune:: Cellules Souches de Boss inoculées"
 #: src/en/inter/SwitchBossRune.hx:442
 msgid "::rune:: Boss Source Cell injected"
-msgstr ""
+msgstr "::rune:: Cell Source Boss tertanamkan"
 
 #. --------
 #. msgid "Augmente un peu la difficulté"
 #: src/en/inter/SwitchBossRune.hx:460
 msgid "Slightly increases enemy strength"
-msgstr ""
+msgstr "Meningkatka kekuatan musuh sedikit"
 
 #. --------
 #. msgid "Augmente beaucoup la difficulté"
