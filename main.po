@@ -3905,502 +3905,506 @@ msgstr "Meningkatka kekuatan musuh sedikit"
 #. msgid "Augmente beaucoup la difficulté"
 #: src/en/inter/SwitchBossRune.hx:461
 msgid "Greatly increases the difficulty"
-msgstr ""
+msgstr "Membuat perjalanan lebih berat"
 
 #. --------
 #. msgid "Augmente énormement la difficulté"
 #: src/en/inter/SwitchBossRune.hx:462
 msgid "Dramatically increases the difficulty"
-msgstr ""
+msgstr "Membuat perjalanan Sangat berat"
 
 #. --------
 #. msgid "Réduit le nombre de fontaines de soin"
 #: src/en/inter/SwitchBossRune.hx:467
 msgid "Reduces the number of health fountains"
-msgstr ""
+msgstr "Mengurangi tempat refill nyawa"
 
 #. --------
 #. msgid "Retire toutes les fontaines de soin"
 #: src/en/inter/SwitchBossRune.hx:468
 msgid "Removes all health fountains"
-msgstr ""
+msgstr "Menghapus semua tempat refill nyawa"
 
 #. --------
 #. msgid "Augmente un peu la quantité de Cellules trouvées"
 #: src/en/inter/SwitchBossRune.hx:473
 msgid "Slightly increases the number of cells dropped by enemies"
-msgstr ""
+msgstr "Meningkati jumlah cell yang diberi musuh agak banyak"
 
 #. --------
 #. msgid "Augmente beaucoup la quantité de Cellules trouvées"
 #: src/en/inter/SwitchBossRune.hx:474
 msgid "Greatly increases the number of cells dropped by enemies"
-msgstr ""
+msgstr "Meningkati jumlah cell yang diberi musuh secara banyak"
 
 #. --------
 #. msgid "Augmente énormement la quantité de Cellules trouvées"
 #: src/en/inter/SwitchBossRune.hx:475
 msgid "Dramatically increases the number of cells dropped by enemies"
-msgstr ""
+msgstr "Meningkati jumlah cell yang diberi musuh secara drastis"
 
 #. --------
 #. msgid "Améliore la Forge Légendaire"
 #: src/en/inter/SwitchBossRune.hx:479
 msgid "Increases the level of the Foundry"
-msgstr ""
+msgstr "Meningkati level foundry"
 
 #. --------
 #. msgid "Permet d'obtenir des runes des Boss"
 #: src/en/inter/SwitchBossRune.hx:482
 msgid "Allows you to collect Boss Source Cells"
-msgstr ""
+msgstr "Memperbolehkan pengambilan boss source cells"
 
 #. --------
 #. msgid "Téléporteur cassé"
 #: src/en/inter/Teleport.hx:158
 msgid "Out of order Teleporter"
-msgstr ""
+msgstr "Teleporter out of order"
 
 #. --------
 #. msgid "Téléporteur"
 #: src/en/inter/Teleport.hx:162
 msgid "Teleporter"
-msgstr ""
+msgstr "Teleporter"
 
 #. --------
 #. msgid "Aucune destination disponible."
 #: src/en/inter/Teleport.hx:163
 msgid "You haven't unlocked another teleporter yet."
-msgstr ""
+msgstr "Kamu belum membuka teleporter yang lain."
 
 #. --------
 #. msgid "Se téléporter"
 #: src/en/inter/Teleport.hx:167
 msgid "Teleport"
-msgstr ""
+msgstr "Teleportasi"
 
 #. --------
 #. msgid "Ce qui se trouvait sur cet autel a disparu il y a ::t::..."
 #: src/en/inter/TimedItem.hx:128
-msgid "The ite from this alter disappeared ::t:: ago."
-msgstr ""
+msgid "The item from this alter disappeared ::t:: ago."
+msgstr "Barang dari altar ini menghilang ::t:: yang lalu."
 
 #. --------
 #. msgid "Coffre condamné"
 #: src/en/inter/TreasureChest.hx:247
 msgid "Sealed chest"
-msgstr ""
+msgstr "Peti tertutup"
 
 #. --------
 #. msgid "Vous avez échoué lors de ce défi, le coffre n'est plus accessible."
 #: src/en/inter/TreasureChest.hx:248
 msgid "You failed. The treasure has been sealed. Forever."
-msgstr ""
+msgstr "Kau gagal. Harta karunnya telah tertutup. Selamanya"
 
 #. --------
 #. msgid "Coffre verrouillé"
 #: src/en/inter/TreasureChest.hx:252
 msgid "Locked chest"
-msgstr ""
+msgstr "Peti terkunci"
 
 #. --------
 #. msgid "Terminez le défi afin de l'ouvrir."
 #: src/en/inter/TreasureChest.hx:253
 msgid "You must to complete the challenge first."
-msgstr ""
+msgstr "Kamu harus menyelesaikan tantangannya terlebih dahulu"
 
 #. --------
 #. msgid "Chatouiller"
 #: src/en/inter/VineLadder.hx:190
 msgid "Tickle"
-msgstr ""
+msgstr "Gelitik"
 
 #. --------
 #. msgid "Schéma déjà obtenu (::name::)"
 #: src/en/loot/Blueprint.hx:82
 msgid "You already have the ::name:: blueprint."
-msgstr ""
+msgstr "Kamu sudah mempunyai blueprint ::name::"
 
 #. --------
 #. msgid "Absorber"
 #: src/en/loot/BossCell.hx:76
 msgid "Absorb"
-msgstr ""
+msgstr "Serap"
 
 #. --------
 #. msgid "Tapez moi !"
 #: src/en/mob/Decoy.hx:144
 msgid "Hit me!"
-msgstr ""
+msgstr "PUKUL AKU!"
 
 #. --------
 #. msgid "Je suis sans défense !"
 #: src/en/mob/Decoy.hx:145
 msgid "I'm defenceless..."
-msgstr ""
+msgstr "Aku terbuka..."
 
 #. --------
 #. msgid "Hey bande de nazes !"
 #: src/en/mob/Decoy.hx:146
 msgid "Oi, losers! Over here!"
-msgstr ""
+msgstr "Hey, pencundang! Sini kamu!"
 
 #. --------
 #. msgid "Je suis là !"
 #: src/en/mob/Decoy.hx:147
 msgid "Here I am!"
-msgstr ""
+msgstr "Sini!"
 
 #. --------
 #. msgid "Résiste"
 #: src/tool/weap/Freeze.hx:56
 msgid "Resisted"
-msgstr ""
+msgstr "Tertahan"
 
 #. --------
 #. msgid "Déverrouiller"
 #: src/en/inter/door/LockedDoor.hx:92
 msgid "Unlock"
-msgstr ""
+msgstr "Buka"
 
 #. --------
 #. msgid "Clé requise : ::name::"
 #: src/en/inter/door/LockedDoor.hx:101
 msgid "Key required: ::name::"
-msgstr ""
+msgstr "Dibutuhkan kunci ::name::"
 
 #. --------
 #. msgid "Ouvert avec : ::key:: !"
 #: src/en/inter/door/LockedDoor.hx:110
 msgid "Opened with: ::key::!"
-msgstr ""
+msgstr "Terbuka dengan  ::key::"
 
 #. --------
 #. msgid "Nécessite : ::name::"
 #: src/en/inter/door/MetaDoor.hx:43
 msgid "::name:: needed"
-msgstr ""
+msgstr "dibutuhkan ::name::"
 
 #. --------
 #. msgid "Utilisé : ::name::"
 #: src/en/inter/door/MetaDoor.hx:49
 msgid "::name:: used"
-msgstr ""
+msgstr "::name:: telah dipakai"
 
 #. --------
 #. msgid "\"Payez le tribut, ou retournez sur vos pas !\""
 #: src/en/inter/door/MoneyDoor.hx:95
 msgid "\"Pay the tribute, or be gone!\""
-msgstr ""
+msgstr "\"Bayar ongkosnya, atau mati sana!\""
 
 #. --------
 #. msgid "Payer ::price:: OR"
 #: src/en/inter/door/MoneyDoor.hx:96
 msgid "Pay ::price:: GOLD"
-msgstr ""
+msgstr "Bayar ::price:: GOLD"
 
 #. --------
 #. msgid "Cette porte s'ouvre depuis un autre endroit."
 #: src/en/inter/door/ScoreDoor.hx:34 src/en/inter/door/TriggeredDoor.hx:60
 msgid "This door can't be opened from this side."
-msgstr ""
+msgstr "Pintu ini tidak dapat dibuka dari sisi ini"
 
 #. --------
 #. msgid "Je ne peux pas l'ouvrir d'ici."
 #: src/en/inter/door/ScoreDoor.hx:35 src/en/inter/door/TriggeredDoor.hx:61
 msgid "I cannot open it from here."
-msgstr ""
+msgstr "Saya tidak dapat membukanya dari sini"
 
 #. --------
 #. msgid "Cette porte est bloquée..."
 #: src/en/inter/door/ScoreDoor.hx:36 src/en/inter/door/TriggeredDoor.hx:62
 msgid "This door is blocked..."
-msgstr ""
+msgstr "Pintu ini terblokir..."
 
 #. --------
 #. msgid "Un mécanisme bloque la porte."
 #: src/en/inter/door/ScoreDoor.hx:37 src/en/inter/door/TriggeredDoor.hx:63
 msgid "Something is blocking the door."
-msgstr ""
+msgstr "Sesuatu menahan pintu ini"
 
 #. --------
 #. msgid "Cette porte a été condamnée il y a ::time::. Dommage..."
 #: src/en/inter/door/TimedDoor.hx:60
 msgid "This door was sealed ::time:: ago. Too bad..."
-msgstr ""
+msgstr "Pintu ini tersegel ::time:: yang lalu, sayang"
+"sekali"
 
 #. --------
 #. msgid "Porte minutée déverrouillée !"
 #: src/en/inter/door/TimedDoor.hx:80
 msgid "Timed door unlocked!"
-msgstr ""
+msgstr "Pintu waktu terbuka!"
 
 #. --------
 #. msgid "Cette porte ne s'ouvrira pas si j'ai encore des cellules sur moi."
 #: src/en/inter/door/TriggeredDoor.hx:57
 msgid "This door won't open if you're still carrying cells."
-msgstr ""
+msgstr "Pintu ini tidak akan terbuka jika anda masih memegang"
+"cells"
 
 #. --------
 #. msgid "Porte ouverte"
 #: src/en/inter/door/TriggeredDoor.hx:73
 msgid "Door opened"
-msgstr ""
+msgstr "Pintu terbuka"
 
 #. --------
 #. msgid "La porte ne semble pas alimentée."
 #: src/en/inter/exit/ATExit.hx:87
 msgid "The door seems to need electricity."
-msgstr ""
+msgstr "Pintu ini sepertinya membutuhkan listrik"
 
 #. --------
 #. msgid "Déjà de retour ?"
 #: src/en/inter/npc/AfterFirstDeath.hx:25 src/en/inter/npc/Knight.hx:156
 #: src/en/inter/npc/Knight.hx:338
 msgid "Back already?"
-msgstr ""
+msgstr "Kamu sudah kembali?"
 
 #. --------
 #. msgid "Oh, salut gamin."
 #: src/en/inter/npc/Blacksmith.hx:78
 msgid "Oh, hey kid."
-msgstr ""
+msgstr "Oh, hey bro."
 
 #. --------
 #. msgid "Tu a réussi à arriver jusqu'ici vivant."
 #: src/en/inter/npc/Blacksmith.hx:80
 msgid "You managed somehow to reach this place alive."
-msgstr ""
+msgstr "Entah bagaimana, kamu berhasil mencapai tempat ini."
 
 #. --------
 #. msgid "Enfin. \"Vivant\"... Si on peut dire ça."
 #: src/en/inter/npc/Blacksmith.hx:82
 msgid "Oh well. \"Alive\"... Sort of."
-msgstr ""
+msgstr "Ya mau bagaimana lagi. \"Kamu Hidup\".. semacamnya"
 
 #. --------
 #. msgid "Je suis le Forgeron."
 #: src/en/inter/npc/Blacksmith.hx:84
 msgid "I'm the Blacksmith."
-msgstr ""
+msgstr "Aku sang ahli besi"
 
 #. --------
 #. msgid "Je bosse avec le Collecteur, à côté."
 #: src/en/inter/npc/Blacksmith.hx:92
 msgid "I work with the Collector guy right there."
-msgstr ""
+msgstr "Aku bekerja dengan sang kolektor itu"
 
 #. --------
 #. msgid "Donc si t'as des Cellules, je peux améliorer ton équipement."
 #: src/en/inter/npc/Blacksmith.hx:100
 msgid "So if you have Cells, I can upgrade your stuff."
-msgstr ""
+msgstr "Jika kamu mempunyai cells, aku dapat memperbaharui"
+"barang mu"
 
 #. --------
 #. msgid "Tiens, tiens. Mais qui voilà..."
 #: src/en/inter/npc/Collector.hx:83
 msgid "Well well well, you're back..."
-msgstr ""
+msgstr "Hmm.. sepertinya kau datang lagi.."
 
 #. --------
 #. msgid "Suivez la lumière."
 #: src/en/inter/npc/CryptDemon.hx:70
 msgid "Follow the light."
-msgstr ""
+msgstr "Ikutilah cahaya"
 
 #. --------
 #. msgid "Voici donc l'anomalie qu'elle recherche..."
 #: src/en/inter/npc/CryptDemon.hx:88
 msgid "You must be the anomaly she's looking for..."
-msgstr ""
+msgstr "Kamu pasti kelaininan yang sedang ia cari..."
 
 #. --------
 #. msgid "Vous vous êtes aventuré bien loin sous la surface, Déchu."
 #: src/en/inter/npc/CryptDemon.hx:95
 msgid "You've come adventuring far below the surface, Fallen."
-msgstr ""
+msgstr "Kamu telah berpetualan jauh dibawah bumi, kawan."
 
 #. --------
 #. msgid "Obscure est la voie que vous avez choisi d'emprunter..."
 #: src/en/inter/npc/CryptDemon.hx:98
 msgid "Dark is the path your choices set before you..."
-msgstr ""
+msgstr "Arah jalan yang kau pilih nampaknya suram..."
 
 #. --------
 #. msgid "La lumière des stèles gardiennes vous accompagnera."
 #: src/en/inter/npc/CryptDemon.hx:103
 msgid "The light of the guardian colonnades will protect you."
-msgstr ""
+msgstr "Lampu dari koloni kami akan melindungi mu"
 
 #. --------
 #. msgid "Mais pour combien de temps encore ?"
 #: src/en/inter/npc/CryptDemon.hx:106
 msgid "But for how long?"
-msgstr ""
+msgstr "Namun untuk berapa lama?"
 
 #. --------
 #. msgid "Derrière vous, la grosse LUMIERE, juste là !"
 #: src/en/inter/npc/CryptDemon.hx:120
 msgid "Behind you, THE BIG LIGHT! Right there!"
-msgstr ""
+msgstr "Dibelakang mu, CAHAYA TERANG BENDERANG ITU! Disitu!"
 
 #. --------
 #. msgid "Vous ne seriez pas le prisonnier décapité vous ?"
 #: src/en/inter/npc/First.hx:29
 msgid "Are you the same one?"
-msgstr ""
+msgstr "Apakah kamu orang yang sama?"
 
 #. --------
 #. msgid "Vous avez perdu votre langue ?"
 #: src/en/inter/npc/First.hx:42 src/en/inter/npc/Knight.hx:92
 msgid "Well? Nothing to say for yourself?"
-msgstr ""
+msgstr "... kok diem sih?"
 
 #. --------
 #. msgid "Oh. Oui, pardon. Vous AVEZ perdu votre langue."
 #: src/en/inter/npc/First.hx:45
 msgid "I guess my usual gag is not use here..."
-msgstr ""
+msgstr "sepertinya lelucon biasaku tidak lucu"
 
 #. --------
 #. msgid "Cela doit être étrange de revenir d'entre les morts."
 #: src/en/inter/npc/First.hx:49 src/en/inter/npc/Knight.hx:100
 msgid "I suppose you didn't think to find yourself back here..."
-msgstr ""
+msgstr "Saya tidak berfikir kau akan menemukan tubuhmu disini.."
 
 #. --------
 #. msgid "Vous avez sûrement remarqué non ?"
 #: src/en/inter/npc/First.hx:56 src/en/inter/npc/Knight.hx:107
 msgid "But surely, you must have noticed!?"
-msgstr ""
+msgstr "Namun saya yakin, kamu telah melihatnyakan?!"
 
 #. --------
 #. msgid "Vous ne pouvez plus mourir."
 #: src/en/inter/npc/First.hx:59 src/en/inter/npc/Knight.hx:116
 msgid "You can no longer die."
-msgstr ""
+msgstr "Kamu tidak dapat mati lagi"
 
 #. --------
 #. msgid "J'ignore pourquoi..."
 #: src/en/inter/npc/First.hx:62 src/en/inter/npc/Knight.hx:119
 msgid "I still don't understand..."
-msgstr ""
+msgstr "Saya.. masih tidak mengerti"
 
 #. --------
 #. msgid ""
 #. "Mais vous n'êtes pas le premier dans ce cas là, si c'est votre question..."
 #: src/en/inter/npc/First.hx:65 src/en/inter/npc/Knight.hx:122
 msgid "It was like this with the others, for a while..."
-msgstr ""
+msgstr "Situasinya seperti ini juga dengan yang lain, untuk sesaat..."
 
 #. --------
 #. msgid "Vous avez mieux à faire..."
 #: src/en/inter/npc/First.hx:89 src/en/inter/npc/Knight.hx:54
 msgid "You can do better than this..."
-msgstr ""
+msgstr "Kamu lebih baik daripada ini..."
 
 #. --------
 #. msgid "Oh. Bonjour."
 #: src/en/inter/npc/First.hx:94 src/en/inter/npc/Knight.hx:337
 msgid "Oh. Hello."
-msgstr ""
+msgstr "Oh, hello."
 
 #. --------
 #. msgid "Ca sera sûrement très joli quand toutes ces flasques seront illuminées."
 #: src/en/inter/npc/Flasks.hx:30
 msgid "It's going to be a sight to see when all of these flasks are lit up..."
-msgstr ""
+msgstr "Ini akan menjadi suatu hal yang indah ketika semua ini menjadi terang..."
 
 #. --------
 #. msgid "Vous y travaillez, n'est-ce pas ?"
 #: src/en/inter/npc/Flasks.hx:40 src/en/inter/npc/Knight.hx:212
 msgid "It's your doing this isn't it?"
-msgstr ""
+msgstr "Ini hasil kelakuanmu kan?"
 
 #. --------
 #. msgid "Oui..."
 #: src/en/inter/npc/Flasks.hx:45
 msgid "Yes..."
-msgstr ""
+msgstr "Ya..."
 
 #. --------
 #. msgid "Evidemment que vous y travaillez."
 #: src/en/inter/npc/Flasks.hx:52
 msgid "of course it is..."
-msgstr ""
+msgstr "Tentu saja.."
 
 #. --------
 #. msgid "Evidemment que vous y travaillez."
 #: src/en/inter/npc/Flasks.hx:52
 msgid "Yes, of course it is..."
-msgstr ""
+msgstr "Tentu saja ini kelakuan mu..."
 
 #. --------
 #. msgid "Drôle d'endroit, tout de même."
 #: src/en/inter/npc/Flasks.hx:68 src/en/inter/npc/Knight.hx:199
 #: src/en/inter/npc/Knight.hx:339
 msgid "This is a strange place..."
-msgstr ""
+msgstr "Ini tempat yang sangat aneh..."
 
 #. --------
 #. msgid "Euh. Bonjour, j'imagine ?"
 #: src/en/inter/npc/InternMerchant.hx:36
 msgid "Eh. Hello, I guess?"
-msgstr ""
+msgstr "Err.. Hallo?"
 
 #. --------
 #. msgid "Vous voulez m'acheter quelque chose ?"
 #: src/en/inter/npc/InternMerchant.hx:37
 msgid "Are you wanting to buy something from me?"
-msgstr ""
+msgstr "Apakah kau ingin membeli sesuatu dariku?"
 
 #. --------
 #. msgid "C'est juste là."
 #: src/en/inter/npc/InternMerchant.hx:38
 msgid "It's just here."
-msgstr ""
+msgstr "Barangnya disini"
 
 #. --------
 #. msgid "Je n'ai pas grand chose, désolé."
 #: src/en/inter/npc/InternMerchant.hx:39
 msgid "I haven't got a lot to offer, sorry."
-msgstr ""
+msgstr "Saya tidak mempunyai banyak barang, maaf"
 
 #. --------
 #. msgid "Un jour, moi aussi j'aurai une vraie boutique."
 #: src/en/inter/npc/InternMerchant.hx:40
 msgid "One day, I'll have a real shopfront!"
-msgstr ""
+msgstr "Suatu hari, saya akan mempunyai sebuah toko!"
 
 #. --------
 #. msgid "Peut-être qu'ils arrêteront de m'appeler \"Guilain le stagiaire\"."
 #: src/en/inter/npc/InternMerchant.hx:41
 msgid "Maybe they'll stop calling me \"Guilain the intern\"..."
-msgstr ""
+msgstr "Mungkin suatu hari, mereka akan berhenti memanggil aku"
+"\"Guillain the Intern'\"
 
 #. --------
 #. msgid "Achetez quelque chose sinon ils vont me punir !"
 #: src/en/inter/npc/InternMerchant.hx:42
 msgid "Please buy something, else they'll punish me!"
-msgstr ""
+msgstr "Tolong beli sesuatu, aku takut dihukum lagi!"
 
 #. --------
 #. msgid "Allez, s'il vous plait !"
 #: src/en/inter/npc/InternMerchant.hx:43
 msgid "Go on! Please!"
-msgstr ""
+msgstr "Tolonglah, beli susuatu!"
 
 #. --------
 #. msgid "Il est mort."
 #: src/en/inter/npc/Knight.hx:52
 msgid "He's dead."
-msgstr ""
+msgstr "Dia mati"
 
 #. --------
 #. msgid "Vous ne seriez pas le prisonnier décapité, vous ?"
 #: src/en/inter/npc/Knight.hx:79
 msgid "Lost our head now did we..."
-msgstr ""
+msgstr "Kehilangan kepala mu ya..."
 
 #. --------
 #. msgid "Vous ne seriez pas le prisonnier décapité, vous ?"
