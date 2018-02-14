@@ -4532,7 +4532,8 @@ msgstr "Oh ya, maaf kalau bau..."
 #. "camelotte."
 #: src/en/inter/npc/PerkMaster.hx:70
 msgid "In any case, it beats selling a bunch of old ju... Stuff... Yeah stuff."
-msgstr ""
+msgstr "Apapun itu, ini lebih baik daripada menjual barang rongsok.. barang.."
+"ya.. baranglah"
 
 #. --------
 #. msgid ""
@@ -4540,115 +4541,116 @@ msgstr ""
 #. "ces c... corps !"
 #: src/en/inter/npc/PerkMaster.hx:71
 msgid "Well I'm going back to digging through the filth for some more goodies!"
-msgstr ""
+msgstr "Yasudah, aku akan kembali menjarah mayat ini untuk barang barang!"
 
 #. --------
 #. msgid "On se reparle p... plus tard !"
 #: src/en/inter/npc/PerkMaster.hx:72
 msgid "I'll see you again I guess..."
-msgstr ""
+msgstr "...Sampai jumpa kembali?"
 
 #. --------
 #. msgid "Euh..."
 #: src/en/inter/npc/PerkMaster.hx:74
 msgid "Errrr..."
-msgstr ""
+msgstr "Errr..."
 
 #. --------
 #. msgid "*tousse*"
 #: src/en/inter/npc/PerkMaster.hx:76
 msgid "*cough*"
-msgstr ""
+msgstr "*ehem*"
 
 #. --------
 #. msgid "Hé, bonjour monsieur le prisonnier !"
 #: src/en/inter/npc/PerkMaster.hx:97
 msgid "Hello hello Mr Prisoner sir!"
-msgstr ""
+msgstr "Selamat datang Tuan Tawanan!"
 
 #. --------
 #. msgid "::n:: mutations disponibles"
 #: src/en/inter/npc/PerkMaster.hx:129
 msgid "::n:: mutations available"
-msgstr ""
+msgstr "::n:: mutasi tersedia"
 
 #. --------
 #. msgid "1 mutation disponible"
 #: src/en/inter/npc/PerkMaster.hx:129
 msgid "1 mutation available"
-msgstr ""
+msgstr "1 mutasi tersedia"
 
 #. --------
 #. msgid "Je sais que c'est bon, mais il ne faut pas en abuser..."
 #: src/en/inter/npc/PlagueDoctor.hx:27
 msgid "I know it's good, but you be abusing it..."
-msgstr ""
+msgstr "Aku tahu ini bagus, namun cara memakainya tidak"
+"tidak seperti itu juga..."
 
 #. --------
 #. msgid "Ah ! Un client !"
 #: src/en/inter/npc/PlagueDoctor.hx:47
 msgid "Ah ha! A customer!"
-msgstr ""
+msgstr "Ah ha! Seorang pelanggan!"
 
 #. --------
 #. msgid "Vous avez la peau bien pâle, vous avez dû attraper la maladie..."
 #: src/en/inter/npc/PlagueDoctor.hx:48
 msgid "You're looking a little... pale. You must have the sickness..."
-msgstr ""
+msgstr "Kau terlihat terlalu.. pucat. Kamu pasti mempunyai penyakit..."
 
 #. --------
 #. msgid "Ne vous inquiétez pas, je sais comment soigner les gens."
 #: src/en/inter/npc/PlagueDoctor.hx:53
 msgid "Don't you worry though! I know how to take care of people."
-msgstr ""
+msgstr "Namun jangan khawatir! Aku tahu cara mengurusimu"
 
 #. --------
 #. msgid "Je ne suis pas comme ce charlatan d'alchimiste !"
 #: src/en/inter/npc/PlagueDoctor.hx:54
 msgid "I'm not one of those rip-off merchant alchemists!"
-msgstr ""
+msgstr "Aku bukanlah seorang penjual penipu!"
 
 #. --------
 #. msgid "Il n'y connaît rien..."
 #: src/en/inter/npc/PlagueDoctor.hx:55
 msgid "They don't know what they're on about..."
-msgstr ""
+msgstr "Mereka tidak tahu apa yang mereka bicarakan..."
 
 #. --------
 #. msgid "Je suis un homme de science moi !"
 #: src/en/inter/npc/PlagueDoctor.hx:56
 msgid "I 'm a man of science!"
-msgstr ""
+msgstr "Saya adalah seorang ilmuwan!"
 
 #. --------
 #. msgid "Bref approchez et détendez vous, ca risque de piquer un peu."
 #: src/en/inter/npc/PlagueDoctor.hx:57
 msgid "Never mind, come closer and relax. This might sting a little."
-msgstr ""
+msgstr "Lupakan saja, kemarilah dan rileks. Ini mungkin sakit sedikit."
 
 #. --------
 #. msgid "Eh voila ! Ca va mieux hein ?"
 #: src/en/inter/npc/PlagueDoctor.hx:77
 msgid "There! Better, no?"
-msgstr ""
+msgstr "Nah, bukankah begitu lebih baik?"
 
 #. --------
 #. msgid "Quoi ? Une bonne petite saignée ca marche à tous les coups !"
 #: src/en/inter/npc/PlagueDoctor.hx:81
 msgid "What? A little blood letting always does the trick!"
-msgstr ""
+msgstr "Apa? Pengeluaran darah sedikit selalu bekerja!"
 
 #. --------
 #. msgid "Faites pas votre chochotte..."
 #: src/en/inter/npc/PlagueDoctor.hx:82
 msgid "Oh, now don't be like that..."
-msgstr ""
+msgstr "Ayolah, jangan menjadi seperti itu..."
 
 #. --------
 #. msgid "Tenez prenez un bonbon, c'est offert par la maison."
 #: src/en/inter/npc/PlagueDoctor.hx:83
 msgid "Here, have a lolly, it's on the house."
-msgstr ""
+msgstr "Ini lolipop, karena kamu anak yang baik."
 
 #. --------
 #. msgid "Il parait qu'être maudit peut valoir le coup..."
