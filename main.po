@@ -4656,7 +4656,7 @@ msgstr "Ini lolipop, karena kamu anak yang baik."
 #. msgid "Il parait qu'être maudit peut valoir le coup..."
 #: src/en/inter/npc/ScoringGuy.hx:38
 msgid "It seems that being cursed might just be worth it..."
-msgstr ""
+msgstr "Sepertinya menjadi terkutuk tidak terlalu buruk..."
 
 #. --------
 #. msgid ""
@@ -4666,7 +4666,7 @@ msgstr ""
 msgid ""
 "I hear that the monsters become more and more pugnacious as you approach the "
 "end..."
-msgstr ""
+msgstr "Ku dengar semakin jauh  musuhnya semakin sadis pula..."
 
 #. --------
 #. msgid ""
@@ -4677,24 +4677,26 @@ msgid ""
 "Apparently there are things hidden in the walls... Perhaps it REALLY is "
 "worth looking around..."
 msgstr ""
+"katanya sih ada beberapa hal yang tersembunyi ditembok..."
+"Mungkin rumor tersbut benar benar NYATA..." 
 
 #. --------
 #. msgid "Alors comme ça, on est venu chercher un peu de challenge ?"
 #: src/en/inter/npc/ScoringGuy.hx:55
 msgid "So you've come looking for a bit of a challenge eh?"
-msgstr ""
+msgstr "Jadi kamu datang kesini mencari tantangan eh?"
 
 #. --------
 #. msgid "Ici, seuls les meilleurs des meilleurs..."
 #: src/en/inter/npc/ScoringGuy.hx:63
 msgid "Around here, only the best of the best..."
-msgstr ""
+msgstr "Ditempat ini, hanya yang paling hebat saja..."
 
 #. --------
 #. msgid "La crème de la crème..."
 #: src/en/inter/npc/ScoringGuy.hx:67
 msgid "The cream of the cream..."
-msgstr ""
+msgstr "Hanya yang paling hebat..."
 
 #. --------
 #. msgid "Que dis-je, L'ÉLITE DE L'ÉLITE... parvient à faire un score honorable !"
@@ -4702,13 +4704,14 @@ msgstr ""
 msgid ""
 "What am I saying, the ELITEST of the ELITEST-EST... manage to achieve an "
 "honourable score!"
-msgstr ""
+msgstr "Bukan, yang paling hebat dari yang paling paling hebat... saja yang"
+"dapat mencapai peringkat emas!"
 
 #. --------
 #. msgid "Tu t'en crois digne ?"
 #: src/en/inter/npc/ScoringGuy.hx:79
 msgid "Do you think you're up to it?"
-msgstr ""
+msgstr "Menurutmu kau dapat melakukannya?"
 
 #. --------
 #. msgid ""
@@ -4719,6 +4722,8 @@ msgid ""
 "In that case, head down and defeat this level's boss as fast as you can "
 "while scoring as many points as you can manage."
 msgstr ""
+"Jika begitu, turunlah dan kalahkan boss level ini secepat mungkin sambil" 
+"mencetak poin sebanyak banyaknya!"
 
 #. --------
 #. msgid ""
@@ -4729,12 +4734,14 @@ msgid ""
 "To help you out, you'll find equipment along the way, but some of those "
 "items might be locked."
 msgstr ""
+"Untuk membantumu, kau akan menemukan beberapa barang dijalan, namun"
+"beberapa barang tersebut mungkin barang yang belum terbuka"
 
 #. --------
 #. msgid "Peut-être que le Collecteur y est pour quelque chose, qui sait..."
 #: src/en/inter/npc/ScoringGuy.hx:95
 msgid "Maybe the Collector has something to do with that... Who knows?"
-msgstr ""
+msgstr "Siapa tahu Sang Kolektor mempunyai sesuatu tentang itu?"
 
 #. --------
 #. msgid ""
@@ -4743,48 +4750,49 @@ msgstr ""
 msgid ""
 "And don't forget... The shortest path is not always the path to victory..."
 msgstr ""
+"Dan jangan lupa.. jalan terpendek bukan berarti jalan yang benar..."
 
 #. --------
 #. msgid "Je sais ce que vous avez fait."
 #: src/en/inter/npc/Scribe.hx:50
 msgid "I know what you've done."
-msgstr ""
+msgstr "Aku tahu apa yang telah kau lakukan."
 
 #. --------
 #. msgid "Oui. Je connais TOUS vos petits secrets."
 #: src/en/inter/npc/Scribe.hx:58
 msgid "Yes... I know of ALL your little secrets."
-msgstr ""
+msgstr "Iya.. aku tahu SEMUA rahasia kotormu."
 
 #. --------
 #. msgid "Et je les consigne dans mon grimoire."
 #: src/en/inter/npc/Scribe.hx:61
 msgid "And I'm noting it all down in my little book."
-msgstr ""
+msgstr "Dan semuanya tertulis dalam buku kecilku."
 
 #. --------
 #. msgid "C'est mon travail."
 #: src/en/inter/npc/Scribe.hx:64
 msgid "That's my job."
-msgstr ""
+msgstr "Itulah tugasku"
 
 #. --------
 #. msgid "Vous tuez des trucs, je note."
 #: src/en/inter/npc/Scribe.hx:67
 msgid "You've been killing things I see..."
-msgstr ""
+msgstr "Kau telah membunuh banyak hal..."
 
 #. --------
 #. msgid "Encore mort ?"
 #: src/en/inter/npc/Scribe.hx:97 src/en/inter/npc/Scribe.hx:103
 msgid "Dead again eh?"
-msgstr ""
+msgstr "Mati lagi eh?"
 
 #. --------
 #. msgid "Vous avez été lamentable."
 #: src/en/inter/npc/Scribe.hx:100
 msgid "You weren't all that good now were you?"
-msgstr ""
+msgstr "Sepertinya kamu tidak terlalu jago ya?"
 
 #. --------
 #. msgid "J'ai noté vos \"exploits\". Enfin si on peut appeler ça comme ça."
@@ -4792,24 +4800,24 @@ msgstr ""
 msgid ""
 "I noticed your... \"achievements\", if that's what you want to call them."
 msgstr ""
+"Aku juga menyadari...\"pencapaianmu\", jika memang itu panggilannya."
 
 #. --------
 #. msgid "Vous revoila. Evidemment."
 #: src/en/inter/npc/Scribe.hx:102
 msgid "You. Back again. Of course."
-msgstr ""
+msgstr "Kamu. Kembali Lagi. Tentu Saja."
 
 #. --------
 #. msgid "Vous mourez de plus en plus vite à ce que je vois."
 #: src/en/inter/npc/Scribe.hx:104
 msgid "You really aren't getting any better are you?"
-msgstr ""
-
+msgstr "Kemampuanmu sepertinya masih tumpul saja"
 #. --------
 #. msgid "Rapporte la moi vite !"
 #: src/en/inter/npc/SewerCreature.hx:93 src/en/inter/npc/SewerCreature.hx:231
 msgid "Bring it to me now!"
-msgstr ""
+msgstr "Bawakan kepadaku sekarang!
 
 #. --------
 #. msgid "Elle est quelque part dans le coin ! Je le sais, je le SENS !"
