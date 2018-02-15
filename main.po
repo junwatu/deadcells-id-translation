@@ -4410,19 +4410,19 @@ msgstr "Kehilangan kepala mu ya..."
 #. msgid "Vous ne seriez pas le prisonnier décapité, vous ?"
 #: src/en/inter/npc/Knight.hx:79
 msgid "You wouldn't happen to be the headless chap now would you?"
-msgstr ""
+msgstr "Kamu.. bukan hantu jeruk purut kan?"
 
 #. --------
 #. msgid "Oh. Oui, pardon. Vous N'AVEZ PLUS de langue."
 #: src/en/inter/npc/Knight.hx:95
 msgid "Oh... Well. Yes, I see the problem..."
-msgstr ""
+msgstr "Oh... begitu ya. Err.. saya melihat permasalahannya"
 
 #. --------
 #. msgid "Ca n'a pas l'air de s'être très bien passé pour vous on dirait."
 #: src/en/inter/npc/Knight.hx:158
 msgid "Well it doesn't seem to be going all that well  for you..."
-msgstr ""
+msgstr "Sepertinya ini tidak akan berakhir baik untukmu.."
 
 #. --------
 #. msgid "Vous avez remarqué que tout semble différent à chaque fois ?"
