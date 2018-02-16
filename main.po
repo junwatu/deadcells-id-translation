@@ -4428,19 +4428,19 @@ msgstr "Sepertinya ini tidak akan berakhir baik untukmu.."
 #. msgid "Vous avez remarqué que tout semble différent à chaque fois ?"
 #: src/en/inter/npc/Knight.hx:168
 msgid "Have you noticed how everything seems a little different each time?"
-msgstr ""
+msgstr "Apakah kamu menyadari betapa bedanya setiap kali kamu mati?"
 
 #. --------
 #. msgid "On croirait presque que cette île est vivante."
 #: src/en/inter/npc/Knight.hx:177
 msgid "One could think the island is alive..."
-msgstr ""
+msgstr "Kamu dapat mengatakan bahwa pulau ini hidup..."
 
 #. --------
 #. msgid "C'est ridicule, n'est-ce pas ?"
 #: src/en/inter/npc/Knight.hx:180
 msgid "I wonder if... What do you make of all this?"
-msgstr ""
+msgstr "Hm.. menurutmu apa yang sedang terjadi?"
 
 #. --------
 #. msgid ""
@@ -4448,67 +4448,68 @@ msgstr ""
 #. "l'aide du Collecteur."
 #: src/en/inter/npc/Knight.hx:201
 msgid "This is going to be very pretty when it's done..."
-msgstr ""
+msgstr "Ini akan menjadi sangat indah ketika sudah selesai"
 
 #. --------
 #. msgid "Ah ah, oui... Evidemment que vous y travaillez."
 #: src/en/inter/npc/Knight.hx:221
 msgid "Ahhh, yes... Of course you're working on it."
-msgstr ""
+msgstr "Ahh, jadi kamu yang melakukannya..."
 
 #. --------
 #. msgid "Ah ah, oui... Evidemment que vous y travaillez."
 #: src/en/inter/npc/Knight.hx:221
 msgid "Ahhh, yes... Obviously all this is your doing."
-msgstr ""
+msgstr "Iya, benar... ini semua hasil ulah mu..."
 
 #. --------
 #. msgid "Comme tous les autres."
 #: src/en/inter/npc/Knight.hx:226
 msgid "Like all the rest, I guess."
-msgstr ""
+msgstr "Seperti yang lainnya kurasa."
 
 #. --------
 #. msgid "Il est MORT."
 #: src/en/inter/npc/Knight.hx:249
 msgid "He's DEAD."
-msgstr ""
+msgstr "dia MATI"
 
 #. --------
 #. msgid "Et c'est récent..."
 #: src/en/inter/npc/Knight.hx:257
 msgid "And that's recent..."
-msgstr ""
+msgstr "dan baru saat ini pula..."
 
 #. --------
 #. msgid "Oh... Intéressant !"
 #: src/en/inter/npc/Knight.hx:277
 msgid "Oh... Interesting!"
-msgstr ""
+msgstr "Oh..  sungguh menarik!"
 
 #. --------
 #. msgid "Mort depuis un moment."
 #: src/en/inter/npc/Knight.hx:299
 msgid "Dead for a while now."
-msgstr ""
+msgstr "Ia sudah mati..."
 
 #. --------
 #. msgid "Parler à Guillain"
 #: src/en/inter/npc/PerkMaster.hx:58
 msgid "Talk to Guillain"
-msgstr ""
+msgstr "Bicara kepada Guillain"
 
 #. --------
 #. msgid "Z... Ze suis bien content d'avoir découvert ce tas de cadavres !"
 #: src/en/inter/npc/PerkMaster.hx:66
 msgid "I'm really happy I found this great stinking pile of corpses!"
-msgstr ""
+msgstr "Aku sungguh senang aku menemukan tumpukan mayat busuk ini!"
 
 #. --------
 #. msgid "Vous n'imazinez pas tout ce qu'on trouve là dedans !"
 #: src/en/inter/npc/PerkMaster.hx:67
 msgid "You can't even imagine all the stuff you can find in here!"
-msgstr ""
+msgstr "Kamu tidak dapat membayangkan betapa banyaknya barang yang"
+"dapat kau temukan dari sini!"
 
 #. --------
 #. msgid ""
@@ -4518,7 +4519,8 @@ msgstr ""
 msgid ""
 "Bye the way, it's an odd thing to say... But you kind of look like these "
 "guys..."
-msgstr ""
+msgstr "Oh iya, ini mungkin kedengarannya aneh.. namun kamu kelihatannya"
+"mirip mereka..."
 
 #. --------
 #. msgid "Ah, et d... désolé pour l'odeur."
@@ -4823,104 +4825,106 @@ msgstr "Bawakan kepadaku sekarang!
 #. msgid "Elle est quelque part dans le coin ! Je le sais, je le SENS !"
 #: src/en/inter/npc/SewerCreature.hx:94
 msgid "It's somewhere here! I know it, I can FEEL it!"
-msgstr ""
+msgstr "Aku tahu ada disini! Dapat ku RASAKAN disini!"
 
 #. --------
 #. msgid "Tu l'as trouvée ?"
 #: src/en/inter/npc/SewerCreature.hx:95
 msgid "Did you find it yet!?"
-msgstr ""
+msgstr "Kamu sudah mendapatkannya?"
 
 #. --------
 #. msgid "Oh ma chère petite rune, où te trouves-tu..."
 #: src/en/inter/npc/SewerCreature.hx:96
 msgid "My precious little rune, where are you?"
-msgstr ""
+msgstr "Rajak berhargaku, dimana kamu?..."
 
 #. --------
 #. msgid "Ca y est ? Tu l'as ?"
 #: src/en/inter/npc/SewerCreature.hx:97
 msgid "Ok! You have it?"
-msgstr ""
+msgstr "Oh, kamu mempunyainya?"
 
 #. --------
 #. msgid "Qu'est ce que tu attends ?! Vas-y !"
 #: src/en/inter/npc/SewerCreature.hx:102
 msgid "What are you waiting for? Get out there!"
-msgstr ""
+msgstr "Apa yang kamu lakukan? Cepat sono!"
 
 #. --------
 #. msgid "Ça n'est pas en restant ici que tu vas récupérer la... ma rune..."
 #: src/en/inter/npc/SewerCreature.hx:103
 msgid "You're not going to find the... my... rune, sitting there like that!"
-msgstr ""
+msgstr "Kamu tidak akan menemukan sajakku dengan berdiam diri seperti itu!"
 
 #. --------
 #. msgid "Un peu de courage !"
 #: src/en/inter/npc/SewerCreature.hx:104
 msgid "A little courage my man!"
-msgstr ""
+msgstr "Berani sedikitlah kawan!"
 
 #. --------
 #. msgid "Un peu de nerf !"
 #: src/en/inter/npc/SewerCreature.hx:105
 msgid "Show a little nerve!"
-msgstr ""
+msgstr "Gagah sedikit kenapa!"
 
 #. --------
 #. msgid "Tu ne voudrais pas abandonner une pauvre âme en peine, hein, dis moi ?"
 #: src/en/inter/npc/SewerCreature.hx:106
 msgid "You wouldn't abandon a friend in need now would you, huh?"
-msgstr ""
+msgstr "Kamu nggak bakalan meninggalkan teman yang membutuhkan"
+"bantuan, kan?"
 
 #. --------
 #. msgid "Il n'y a plus personne..."
 #: src/en/inter/npc/SewerCreature.hx:111 src/en/inter/npc/SewerCreature.hx:166
 msgid "There's no one else..."
-msgstr ""
+msgstr "Aku selalu sendiri.."
 
 #. --------
 #. msgid "Il n'y a personne..."
 #: src/en/inter/npc/SewerCreature.hx:111 src/en/inter/npc/SewerCreature.hx:154
 #: src/en/inter/npc/SewerCreature.hx:166
 msgid "There is no one..."
-msgstr ""
+msgstr "selalu sendiri..."
 
 #. --------
 #. msgid "HEY TOI !"
 #: src/en/inter/npc/SewerCreature.hx:188
 msgid "HEY, YOU!"
-msgstr ""
+msgstr "HEY, KAMU!"
 
 #. --------
 #. msgid "Viens voir un peu là !"
 #: src/en/inter/npc/SewerCreature.hx:195
 msgid "Come over here for a bit!"
-msgstr ""
+msgstr "Sini sebentar!"
 
 #. --------
 #. msgid "Un peu lent, mais t'as l'air de comprendre ce que je dis..."
 #: src/en/inter/npc/SewerCreature.hx:205
 msgid "A little slow... But you seem to understand what I'm saying..."
-msgstr ""
+msgstr "Telmi sih... tapi sepertinya kamu mengerti apa yang kukatakan..."
 
 #. --------
 #. msgid "J'ai perdu une r... Je veux dire MA rune. Du coup, je suis coincé ici."
 #: src/en/inter/npc/SewerCreature.hx:208
 msgid "I lost a ru.. I mean MY rune. So you see I'm a little stuck..."
-msgstr ""
+msgstr "Aku kehilangan sajak.. maksudku sajakku. Jadi.. aku disini agak"
+"Terjebak..."
 
 #. --------
 #. msgid "Et j'ai BESOIN de ma rune..."
 #: src/en/inter/npc/SewerCreature.hx:211
 msgid "And I NEED my rune you see..."
-msgstr ""
+msgstr "Dan aku BUTUH sajak itu..."
 
 #. --------
 #. msgid "Tu ne voudrais pas aller me la chercher ?"
 #: src/en/inter/npc/SewerCreature.hx:214
 msgid "You wouldn't mind finding it for me now would you?"
-msgstr ""
+msgstr "Kamu ingin membantuku mencarinyakan?"
 
 #. --------
 #. msgid ""
@@ -4931,36 +4935,38 @@ msgid ""
 "Ho ho! Thank you! It's somewhere around here in these sewers, on your side "
 "of these bars..."
 msgstr ""
+"Ho ho! Terima kasih! Aku yakin sajaknya berada disekitar sini, di"
+"bagian mu setidaknya..." 
 
 #. --------
 #. msgid "Ah ! Te revoilà !"
 #: src/en/inter/npc/SewerCreature.hx:249
 msgid "Ah ha! There you are!"
-msgstr ""
+msgstr "Ah Ha! rupanya kau berada disitu!"
 
 #. --------
 #. msgid "C'est ici qu'elle se trouve ! La... MA rune se trouve un peu plus bas !"
 #: src/en/inter/npc/SewerCreature.hx:256
 msgid "It's here that you'll find it, I mean, MY rune!"
-msgstr ""
+msgstr "Disini kamu akan menemukannya, maksudku sajakku!"
 
 #. --------
 #. msgid "Quoi ? Mais non, tu n'as rien à craindre !"
 #: src/en/inter/npc/SewerCreature.hx:271
 msgid "What? No!, You have nothing to fear!"
-msgstr ""
+msgstr "Apa? Nggak usah takut..."
 
 #. --------
 #. msgid "Après être arrivé jusqu'ici, tu n'en feras qu'une bouchée !"
 #: src/en/inter/npc/SewerCreature.hx:274
 msgid "You've made it all this way! You're not going to chicken out now!"
-msgstr ""
+msgstr "Udah sejauh ini masa balik lagi sih?"
 
 #. --------
 #. msgid "Alors... VAS-Y !"
 #: src/en/inter/npc/SewerCreature.hx:277
 msgid "So... Go on!"
-msgstr ""
+msgstr "Ya sudah, pergi sana!"
 
 #. --------
 #. msgid "Hey, par ici !"
@@ -4968,37 +4974,37 @@ msgstr ""
 #. msgid "Viens par ici, toi !"
 #: src/en/inter/npc/SewerCreature.hx:294
 msgid "Hey! Over here!"
-msgstr ""
+msgstr "Hey!, kesiini!"
 
 #. --------
 #. msgid "J'ai vu ton combat, c'était plutôt impressionant."
 #: src/en/inter/npc/SewerCreature.hx:301
 msgid "I saw you fight... Not bad at all."
-msgstr ""
+msgstr "Aku melihatmu bertarung... boleh boleh"
 
 #. --------
 #. msgid "Est-ce que... tu l'as récupérée ?"
 #: src/en/inter/npc/SewerCreature.hx:304
 msgid "Did you... Find it?"
-msgstr ""
+msgstr "Kamu.. menemukannya?"
 
 #. --------
 #. msgid "Très bien. Maintenant, donne la moi."
 #: src/en/inter/npc/SewerCreature.hx:312
 msgid "Excellent! Now give it to me!"
-msgstr ""
+msgstr "Hebat! sekarang berikanlah kepadaku!"
 
 #. --------
 #. msgid "J'ai dit..."
 #: src/en/inter/npc/SewerCreature.hx:322
 msgid "I said..."
-msgstr ""
+msgstr "Ku bilang..."
 
 #. --------
 #. msgid "DONNE LA MOI !"
 #: src/en/inter/npc/SewerCreature.hx:325 src/en/inter/npc/SewerCreature.hx:369
 msgid "GIVE IT TO ME!"
-msgstr ""
+msgstr "BERIKANLAH KEPADAKU!"
 
 #. --------
 #. msgid "J'en étais sûr... Tu es comme tout les autres, après tout..."
