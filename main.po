@@ -5010,73 +5010,73 @@ msgstr "BERIKANLAH KEPADAKU!"
 #. msgid "J'en étais sûr... Tu es comme tout les autres, après tout..."
 #: src/en/inter/npc/SewerCreature.hx:338
 msgid "I knew it! You're just like all the rest!"
-msgstr ""
+msgstr "Sudahku ketahui! Kamu sama saja seperti yang lain!"
 
 #. --------
 #. msgid "Tu vas le regretter..."
 #: src/en/inter/npc/SewerCreature.hx:341
 msgid "You're going to regret this!"
-msgstr ""
+msgstr "Kamu akan menyesali ini kawan!"
 
 #. --------
 #. msgid "DONNE MOI LA RUNE !"
 #: src/en/inter/npc/SewerCreature.hx:364
 msgid "GIME ME THE RUNE!"
-msgstr ""
+msgstr "BERIKAN SAJAKKU!"
 
 #. --------
 #. msgid "C'est MA rune !"
 #: src/en/inter/npc/SewerCreature.hx:365
 msgid "It's MY rune!"
-msgstr ""
+msgstr "itu SAJAKKU!"
 
 #. --------
 #. msgid "A MOIIII !"
 #: src/en/inter/npc/SewerCreature.hx:370
 msgid "MINE!"
-msgstr ""
+msgstr "SAJAKKU!"
 
 #. --------
 #. msgid "RAH !"
 #: src/en/inter/npc/SewerCreature.hx:371
 msgid "AHHHH!"
-msgstr ""
+msgstr "AHHHH!"
 
 #. --------
 #. msgid "ALLEZ !"
 #: src/en/inter/npc/SewerCreature.hx:372
 msgid "GO ON!"
-msgstr ""
+msgstr "PERGI SANA!"
 
 #. --------
 #. msgid "Je VEUX ma rune !"
 #: src/en/inter/npc/SewerCreature.hx:380 src/en/inter/npc/SewerCreature.hx:385
 msgid "I WANT MY RUNE!"
-msgstr ""
+msgstr "AKU INGIN SAJAKKU!"
 
 #. --------
 #. msgid "Je récupèrerai ma rune, sois-en sûr..."
 #: src/en/inter/npc/SewerCreature.hx:381
 msgid "Don't think I won't get my rune back..."
-msgstr ""
+msgstr "Jangan berfikir aku tidak akan mendapatkan sajakku kembali"
 
 #. --------
 #. msgid "Je la récupèrerai, sois-en sûr..."
 #: src/en/inter/npc/SewerCreature.hx:386
 msgid "Sure and certain, I'll get it back..."
-msgstr ""
+msgstr "Aku sungguh yakin, bahwa aku akan mendapatkannya kembali..."
 
 #. --------
 #. msgid "Tu ne perds rien pour attendre..."
 #: src/en/inter/npc/SewerCreature.hx:387
 msgid "This isn't over!"
-msgstr ""
+msgstr "Ini belum selesai!"
 
 #. --------
 #. msgid "Lire"
 #: src/en/inter/npc/Sign.hx:26
 msgid "Read"
-msgstr ""
+msgstr "Baca"
 
 #. --------
 #. msgid ""
@@ -5087,12 +5087,14 @@ msgid ""
 "WARNING!\n"
 "You can no longer change the Runes once you pass through this door!"
 msgstr ""
+"PERINGATAN!\n"
+"Kamu tidak dapat mengubah sajakmu setelah melewati pintu ini!"
 
 #. --------
 #. msgid "ATTENTION: DANGER!"
 #: src/en/inter/npc/Sign.hx:75
 msgid "BEWARE!"
-msgstr ""
+msgstr "AWAS!"
 
 #. --------
 #. msgid ""
@@ -5103,48 +5105,51 @@ msgid ""
 "Please, do not attempt to take this shortcut if you're not properly "
 "equipped... You've been warned."
 msgstr ""
+"Tolong jangan mencoba jalan ini jika anda belum mempunyai ekuipmen"
+"yang lengkap... anda telah diperingatkan"
 
 #. --------
 #. msgid "Risque de mort prématurée."
 #: src/en/inter/npc/Sign.hx:81
 msgid "Risk of untimely death."
-msgstr ""
+msgstr "Resiko mati konyol"
 
 #. --------
 #. msgid "L'accès à la tour de l'horloge est interdit."
 #: src/en/inter/npc/Sign.hx:111
 msgid "Access to the Clock Tower is forbidden."
-msgstr ""
+msgstr "Akses ke Menara Jam sangat dilarang"
 
 #. --------
 #. msgid "Ici reposent les Architectes."
 #: src/en/inter/npc/Sign.hx:145
 msgid "Here lie the Architects."
-msgstr ""
+msgstr "Terbentanglah disini para arsitek"
 
 #. --------
 #. msgid "Faites une offrande ou retournez sur vos pas."
 #: src/en/inter/npc/Sign.hx:148
 msgid "Make an offering and return from whence you came."
-msgstr ""
+msgstr "Berilah sebuah persembahan dan kembalilah darimana"
+"kau datang"
 
 #. --------
 #. msgid "::n:: cellules de boss requises"
 #: src/en/inter/zdoor/RunicZDoor.hx:95
 msgid "::n:: boss cells required"
-msgstr ""
+msgstr "diperlukan ::n:: boss cells"
 
 #. --------
 #. msgid "1 cellule de boss requise"
 #: src/en/inter/zdoor/RunicZDoor.hx:97
 msgid "1 boss cell required"
-msgstr ""
+msgstr "diperlukan 1 cell boss"
 
 #. --------
 #. msgid "Finissons-en !"
 #: src/en/mob/boss/Berserk.hx:1110
 msgid "Let's finish this!"
-msgstr ""
+msgstr "Mari kita selesaikan!"
 
 #. HorizontalTurret (name)
 #.
@@ -5152,7 +5157,7 @@ msgstr ""
 #. msgid "Tourelle rapide"
 #: res/data.cdb:item/#0.name
 msgid "Quick-fire turret"
-msgstr ""
+msgstr "Turret Otomatis"
 
 #. HorizontalTurret (gameplayDesc)
 #.
@@ -5161,7 +5166,8 @@ msgstr ""
 #. "Tire rapidement sur tous les ennemis proches, infligeant ::+dps:: dégâts/sec."
 #: res/data.cdb:item/#0.gameplayDesc
 msgid "Rapid fires on nearby enemies, inflicting ::+dps:: damage/s."
-msgstr ""
+msgstr "Menembak panah dengan cepat kepada musuh yang dekat,"
+"menimbulkan kerusakan ::+dps::."
 
 #. StandardTurret (name)
 #.
@@ -5169,7 +5175,7 @@ msgstr ""
 #. msgid "Tranche-ligaments"
 #: res/data.cdb:item/#1.name
 msgid "Ligament slicer"
-msgstr ""
+msgstr "Pengiris Ligamen"
 
 #. StandardTurret (gameplayDesc)
 #.
@@ -5182,6 +5188,8 @@ msgid ""
 "Fires saws on nearby enemies, inflicting ::+dps:: damage/s, plus ::+dps2:: "
 "damage/s bleeding damage."
 msgstr ""
+"Menembakkan gergaji kepada musuh yang dekat, menimbulkan kerusakan sebesar"
+"::+dps:: dan menimbulkan pendarahan ::+dps2::. "
 
 #. HeavyTurret (name)
 #.
@@ -5189,7 +5197,7 @@ msgstr ""
 #. msgid "Tourelle lourde"
 #: res/data.cdb:item/#2.name
 msgid "Heavy turret"
-msgstr ""
+msgstr "Turret Berat"
 
 #. HeavyTurret (gameplayDesc)
 #.
@@ -5203,6 +5211,8 @@ msgid ""
 "Fires on all nearby enemies and inflicts ::+dps:: damage/s. Your own damage "
 "is increased by ::prct::% if you are close to the turret."
 msgstr ""
+"Menembak semua musuh yang dekat dan menimbulkan kerusakan sebsar ::+dps:: "
+"dan meningkatkan kekuatanmu sebesar ::prct::% jika berada didekat turret."
 
 #. CeilTurret (name)
 #.
@@ -5210,7 +5220,7 @@ msgstr ""
 #. msgid "Tourelle de plafond"
 #: res/data.cdb:item/#3.name
 msgid "Ceiling turret"
-msgstr ""
+msgstr "Turret Atap"
 
 #. CeilTurret (gameplayDesc)
 #.
@@ -5222,6 +5232,7 @@ msgstr ""
 msgid ""
 "Fires rapidly on any enemies passing below inflicting ::+dps:: damage/s."
 msgstr ""
+"Menembak dengan cepat musuh yang melewatinya, membuat kerusakan ::+dps::."
 
 #. FireTurret (name)
 #.
@@ -5229,7 +5240,7 @@ msgstr ""
 #. msgid "Tourelle lance-flammes"
 #: res/data.cdb:item/#4.name
 msgid "Flamethrower turret"
-msgstr ""
+msgstr "Turret Pelontar Api"
 
 #. FireTurret (gameplayDesc)
 #.
@@ -5239,7 +5250,7 @@ msgstr ""
 #. "sec)."
 #: res/data.cdb:item/#4.gameplayDesc
 msgid "Burns nearby enemies for ::duration:: seconds (::+dps:: damage/s)."
-msgstr ""
+msgstr "Membakar musuh untuk ::duration:: detik (::+dps:: dps)."
 
 #. GroundSaw (name)
 #.
@@ -5247,7 +5258,7 @@ msgstr ""
 #. msgid "Hachoir"
 #: res/data.cdb:item/#5.name res/data.cdb:mob/#30.name
 msgid "Meat grinder"
-msgstr ""
+msgstr "Penggiling Daging"
 
 #. GroundSaw (gameplayDesc)
 #.
@@ -5260,6 +5271,8 @@ msgid ""
 "Inflicts ::+dps:: damage/s and bleeding (::+dotDps:: damage/s) to enemies "
 "walking on it."
 msgstr ""
+"Menimbulkan kerusakan ::+dps:: dan pendarahan (::+dotDps:: dps) kepada musuh"
+"yang melangkahinya."
 
 #. RootTrap (name)
 #.
@@ -5267,7 +5280,7 @@ msgstr ""
 #. msgid "Piège à loups"
 #: res/data.cdb:item/#6.name
 msgid "Bear trap"
-msgstr ""
+msgstr "Jebakan beruang"
 
 #. RootTrap (gameplayDesc)
 #.
@@ -5281,6 +5294,9 @@ msgid ""
 "Launches ::count:: traps which immobilize enemies for ::duration:: seconds. "
 "Increases all damage taken by trapped enemies by ::+dps:: damage/s."
 msgstr ""
+"Melontarkan ::count:: jebakan yang memberhentikan musuh selama ::duration::"
+"detik. MMeningkatkan segala serangan yang diberikan kepada musuh sebersar"
+"::+dps::."
 
 #. Crusher (name)
 #.
@@ -5288,7 +5304,7 @@ msgstr ""
 #. msgid "Ecraseur"
 #: res/data.cdb:item/#7.name
 msgid "Crusher"
-msgstr ""
+msgstr "Penghancur"
 
 #. Crusher (gameplayDesc)
 #.
@@ -5297,7 +5313,7 @@ msgstr ""
 #. "Ecrase violemment (::+power:: dégâts) les ennemis pris dans sa zone d'effet."
 #: res/data.cdb:item/#7.gameplayDesc
 msgid "Violently crushes enemies in its area of effect (::+power:: damage)."
-msgstr ""
+msgstr "Secara ganas menghancurkan musuh disekitarnya (::+power:: damage)."
 
 #. Decoy (name)
 #.
@@ -5305,7 +5321,7 @@ msgstr ""
 #. msgid "Leurre explosif"
 #: res/data.cdb:item/#8.name
 msgid "Explosive lure"
-msgstr ""
+msgstr "Umpan Peledak"
 
 #. Decoy (gameplayDesc)
 #.
@@ -5320,6 +5336,9 @@ msgid ""
 "attracts all nearby enemies. Explodes after ::duration:: seconds (::+power:: "
 "damage)."
 msgstr ""
+"Kamu menghilang untuk ::duration:: detik dan meninggalkan umpan ditempatmu,"
+"Umpan menarik perhatian semua musuh dan akan meledak setelah ::duration::"
+"(::+power::)."
 
 #. Sanctuary (name)
 #.
@@ -5327,7 +5346,7 @@ msgstr ""
 #. msgid "Sanctuaire"
 #: res/data.cdb:item/#9.name
 msgid "Sanctuary"
-msgstr ""
+msgstr "Sanctuary"
 
 #. Sanctuary (gameplayDesc)
 #.
@@ -5336,7 +5355,7 @@ msgstr ""
 #: res/data.cdb:item/#9.gameplayDesc res/data.cdb:item/#10.gameplayDesc
 #: res/data.cdb:mob/#18.name
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 #. SanctuaryEmpty (name)
 #.
@@ -5344,7 +5363,7 @@ msgstr ""
 #. msgid "Sanctuaire (épuisé)"
 #: res/data.cdb:item/#10.name
 msgid "Sanctuary (exhausted)"
-msgstr ""
+msgstr "Sanctuary (exhausted)"
 
 #. DarknessLantern (name)
 #.
@@ -5352,7 +5371,7 @@ msgstr ""
 #. msgid "Veilleuse"
 #: res/data.cdb:item/#11.name
 msgid "Night light"
-msgstr ""
+msgstr "Lampu Malam"
 
 #. DarknessLantern (gameplayDesc)
 #.
@@ -5360,7 +5379,7 @@ msgstr ""
 #. msgid "Eclaire votre chemin."
 #: res/data.cdb:item/#11.gameplayDesc
 msgid "Enlighten your path."
-msgstr ""
+msgstr "Terangkanlah jalanmu"
 
 #. ExplosiveGrenade (name)
 #.
@@ -5368,7 +5387,7 @@ msgstr ""
 #. msgid "Grenade puissante"
 #: res/data.cdb:item/#12.name
 msgid "Heavy grenade"
-msgstr ""
+msgstr "Granat Berat"
 
 #. ExplosiveGrenade (gameplayDesc)
 #.
@@ -5376,7 +5395,7 @@ msgstr ""
 #. msgid "Une large explosion infligeant ::+power:: dégâts."
 #: res/data.cdb:item/#12.gameplayDesc
 msgid "A large explosion dealing ::+power:: damage."
-msgstr ""
+msgstr "Ledakan besar yang menimbulkan ::+power::."
 
 #. FastGrenade (name)
 #.
@@ -5384,7 +5403,7 @@ msgstr ""
 #. msgid "Grenade d'infanterie"
 #: res/data.cdb:item/#13.name
 msgid "Infantry grenade"
-msgstr ""
+msgstr "Granat Infantri"
 
 #. FastGrenade (gameplayDesc)
 #.
@@ -5392,7 +5411,7 @@ msgstr ""
 #. msgid "Explose en infligeant ::+power:: dégâts."
 #: res/data.cdb:item/#13.gameplayDesc
 msgid "Explodes, inflicting ::+power:: damage."
-msgstr ""
+msgstr "Meledak, menimbulkan ::+power:: damage"
 
 #. ClusterBomb (name)
 #.
@@ -5400,7 +5419,7 @@ msgstr ""
 #. msgid "Grappe explosive"
 #: res/data.cdb:item/#14.name
 msgid "Cluster bomb"
-msgstr ""
+msgstr "Bom Kluster"
 
 #. ClusterBomb (gameplayDesc)
 #.
@@ -5409,7 +5428,8 @@ msgstr ""
 #. "Explose en ::count:: petites bombes infligeant ::+power:: dégâts chacune."
 #: res/data.cdb:item/#14.gameplayDesc
 msgid "Explodes into ::count:: mini bombs inflicting ::+power:: damage each."
-msgstr ""
+msgstr "Meledak menjadi ::count:: bom kecil yang memimbulkan ::+power::"
+"setiap bom kecilnya"
 
 #. MagnetGrenade (name)
 #.
@@ -5417,7 +5437,7 @@ msgstr ""
 #. msgid "Grenade magnétique"
 #: res/data.cdb:item/#15.name
 msgid "Magnetic grenade"
-msgstr ""
+msgstr "Granat Magnet"
 
 #. MagnetGrenade (gameplayDesc)
 #.
@@ -5425,7 +5445,7 @@ msgstr ""
 #. msgid "Attire tout ce qui est proche et inflige ::+dps:: dégâts/sec."
 #: res/data.cdb:item/#15.gameplayDesc
 msgid "Attracts anything close to it and deals ::+dps:: damage/s."
-msgstr ""
+msgstr "Menarik semuanya ketempat itu dan menimbulkan ::+dps::."
 
 #. StunningGrenade (name)
 #.
@@ -5433,7 +5453,7 @@ msgstr ""
 #. msgid "Grenade étourdissante"
 #: res/data.cdb:item/#16.name
 msgid "Flashbang"
-msgstr ""
+msgstr "Flashbang"
 
 #. StunningGrenade (gameplayDesc)
 #.
@@ -5445,6 +5465,7 @@ msgstr ""
 msgid ""
 "Inflicts ::+power:: damage and stuns nearby enemies for ::duration:: seconds."
 msgstr ""
+"Menimbulkan ::+power:: damage dan mengejutkan musuh sekitar ::durasi:: detik."
 
 #. IceBomb (name)
 #.
@@ -5452,7 +5473,7 @@ msgstr ""
 #. msgid "Bombe givrante"
 #: res/data.cdb:item/#17.name
 msgid "Ice grenade"
-msgstr ""
+msgstr "Granat Es"
 
 #. IceBomb (gameplayDesc)
 #.
@@ -5460,7 +5481,8 @@ msgstr ""
 #. msgid "Explose en infligeant ::+power:: dégâts. Gèle les victimes."
 #: res/data.cdb:item/#17.gameplayDesc
 msgid "Explodes freezing nearby enemies and inflicting ::+power:: damage."
-msgstr ""
+msgstr "Ledakan membekukan musuh disekitar dan menimbulkan kerusakan"
+" sebesar:"
 
 #. FireBomb (name)
 #.
@@ -5468,7 +5490,7 @@ msgstr ""
 #. msgid "Bombe incendiaire"
 #: res/data.cdb:item/#18.name
 msgid "Fire grenade"
-msgstr ""
+msgstr "Granat Api"
 
 #. FireBomb (gameplayDesc)
 #.
@@ -5480,7 +5502,8 @@ msgstr ""
 msgid ""
 "Inflicts ::+power:: damage and burns nearby enemies for ::duration:: seconds "
 "(::+dps:: damage/s)."
-msgstr ""
+msgstr "Menimbulkan kerusakan sebesar ::power:: dan membakar musuh disekitar"
+"nya selama ::duration:: detik (::+dps:: dps)
 
 #. RootBomb (name)
 #.
@@ -5488,7 +5511,7 @@ msgstr ""
 #. msgid "Bombe de lière"
 #: res/data.cdb:item/#19.name
 msgid "Ivy grenade"
-msgstr ""
+msgstr "Granat Akar
 
 #. RootBomb (gameplayDesc)
 #.
