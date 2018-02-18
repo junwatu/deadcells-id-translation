@@ -5524,6 +5524,8 @@ msgid ""
 "Immobilizes all nearby enemies for ::duration:: seconds and inflicts ::"
 "+dps::  damage/s while they are trapped."
 msgstr ""
+"Melumpuhkan semua musuh disekitar selama ::duration:: sekon dan menimbul"
+"kan ::+dps:: dps selama mereka terjebak."
 
 #. OilBomb (name)
 #.
@@ -5531,7 +5533,7 @@ msgstr ""
 #. msgid "Bombe à huile"
 #: res/data.cdb:item/#20.name
 msgid "Oil grenade"
-msgstr ""
+msgstr "Bom Minyak"
 
 #. OilBomb (gameplayDesc)
 #.
@@ -5543,6 +5545,7 @@ msgstr ""
 msgid ""
 "Inflicts ::+power:: damage and covers nearby enemies with flammable oil."
 msgstr ""
+"Menimbulkan kerusakan sebesar ::+power:: dan memyelimuti musuh dalam minyak."
 
 #. SideBomb (name)
 #.
@@ -5550,7 +5553,7 @@ msgstr ""
 #. msgid "Nuée"
 #: res/data.cdb:item/#21.name
 msgid "Biter swarm"
-msgstr ""
+msgstr "Kerumunan Penggigit"
 
 #. SideBomb (gameplayDesc)
 #.
@@ -5558,7 +5561,7 @@ msgstr ""
 #. msgid "Invoque un groupe de créatures à votre service."
 #: res/data.cdb:item/#21.gameplayDesc
 msgid "Summons a swarm of small biting creatures to attack for you."
-msgstr ""
+msgstr "Memanggil sebuah kerumunan makhluk penggigit kecil."
 
 #. Pokebomb (name)
 #.
@@ -5566,7 +5569,7 @@ msgstr ""
 #. msgid "Grenade de complétion"
 #: res/data.cdb:item/#22.name res/data.cdb:item/#136.name
 msgid "Hunter's grenade"
-msgstr ""
+msgstr "Granat Pemburu"
 
 #. Pokebomb (gameplayDesc)
 #.
@@ -5581,6 +5584,9 @@ msgid ""
 "prct::% health or less, then use the Blueprint Extractor on the monster to "
 "obtain a blueprint from it."
 msgstr ""
+"Lemparlah granat ini kepada sebuah monster untuk memancing amarahnya. Ketika"
+"Darahnya mencapai ::prct::% , gunakanlah penarik ekstrak blueprint pada"
+"monster tersebut untuk mendapatkan blueprint darinya."
 
 #. Pokebomb (ambiantDesc)
 #.
@@ -5588,7 +5594,7 @@ msgstr ""
 #. msgid "Attrapez-les tous !"
 #: res/data.cdb:item/#22.ambiantDesc
 msgid "Catch 'em all!"
-msgstr ""
+msgstr "Catch 'em all!"
 
 #. SideTurret (name)
 #.
@@ -5596,7 +5602,7 @@ msgstr ""
 #. msgid "\"Agression\" (allié)"
 #: res/data.cdb:item/#23.name
 msgid "Aggressive apparition"
-msgstr ""
+msgstr "Hantu Agresif"
 
 #. SideTurret (gameplayDesc)
 #.
@@ -5604,7 +5610,7 @@ msgstr ""
 #. msgid "Invoque un allié attaquant les ennemis proches."
 #: res/data.cdb:item/#23.gameplayDesc
 msgid "Conjures an apparition that attacks nearby enemies."
-msgstr ""
+msgstr "Memanggil arwah yang menyerang musuh disekitar."
 
 #. SlowOrb (name)
 #.
@@ -5612,7 +5618,7 @@ msgstr ""
 #. msgid "Orbe de mort"
 #: res/data.cdb:item/#24.name
 msgid "Death orb"
-msgstr ""
+msgstr "Bola Kematian"
 
 #. SlowOrb (gameplayDesc)
 #.
@@ -5623,6 +5629,7 @@ msgstr ""
 msgid ""
 "Summons a slow moving but devastating orb of energy (::+dps:: damage/s)."
 msgstr ""
+"Memanggil bola yang berjalan lambat namun sangat menyakitkan (::+dps:: dps).
 
 #. KnivesCircle (name)
 #.
@@ -5630,7 +5637,7 @@ msgstr ""
 #. msgid "Danse des couteaux"
 #: res/data.cdb:item/#25.name
 msgid "Knife storm"
-msgstr ""
+msgstr "Badai Pisau"
 
 #. KnivesCircle (gameplayDesc)
 #.
@@ -5643,6 +5650,8 @@ msgid ""
 "Launches a storm of knives around you which causes bleed damage for ::"
 "duration:: seconds (::+dps:: damage/s)."
 msgstr ""
+"Melontarkan badai pisau disekelilingmu dan menyebabkan pendarahan"
+"yang berat sekitar ::duration:: detik (::+dps:: dps)."
 
 #. DamageBuff (name)
 #.
@@ -5650,7 +5659,7 @@ msgstr ""
 #. msgid "Puissance corrompue"
 #: res/data.cdb:item/#26.name
 msgid "Corrupted power"
-msgstr ""
+msgstr "Kekuatan Terlarang"
 
 #. DamageBuff (gameplayDesc)
 #.
@@ -5664,6 +5673,8 @@ msgid ""
 "You deal about ::+dps:: DPS for ::duration:: seconds. You also take +::prct::"
 "% extra damage during this period."
 msgstr ""
+"Kamu mengeluarkan ::+dps:: DPS salam ::+duration:: detik. Kamu juga mendapatkan "
+"::+prct::% damage tambahan selama waktu ini."
 
 #. LeechBuff (name)
 #.
@@ -5671,7 +5682,7 @@ msgstr ""
 #. msgid "Vampirisme"
 #: res/data.cdb:item/#27.name
 msgid "Vampirism"
-msgstr ""
+msgstr "Vampirisme"
 
 #. LeechBuff (gameplayDesc)
 #.
@@ -5681,7 +5692,9 @@ msgstr ""
 #. "sec."
 #: res/data.cdb:item/#27.gameplayDesc
 msgid "You recover ::+power:: HP per hit you give for ::duration:: seconds."
-msgstr ""
+msgstr "" 
+"Kamu mendapatkan ::+power:: nyawa setiap pukulan yang kau beri "
+"selama ::+duration:: detik."
 
 #. LeechBuffEmpty (name)
 #.
@@ -5689,7 +5702,7 @@ msgstr ""
 #. msgid "Vampirisme (vide)"
 #: res/data.cdb:item/#28.name
 msgid "Vampirism (empty)"
-msgstr ""
+msgstr "Vampirisme (kosong)"
 
 #. LeechBuffEmpty (gameplayDesc)
 #.
@@ -5697,7 +5710,7 @@ msgstr ""
 #. msgid "Se régénère lorsque vous quittez le niveau."
 #: res/data.cdb:item/#28.gameplayDesc res/data.cdb:item/#30.gameplayDesc
 msgid "Regenerates when you leave a level."
-msgstr ""
+msgstr "Kembali lagi setelah melewati level."
 
 #. ExtraHeal (name)
 #.
@@ -5705,7 +5718,7 @@ msgstr ""
 #. msgid "Tonique"
 #: res/data.cdb:item/#29.name
 msgid "Tonic"
-msgstr ""
+msgstr "Tonik"
 
 #. ExtraHeal (gameplayDesc)
 #.
@@ -5716,7 +5729,7 @@ msgstr ""
 #: res/data.cdb:item/#29.gameplayDesc
 msgid ""
 "Heals ::+power:: HP and completely protects you for ::duration:: seconds."
-msgstr ""
+msgstr "::+power:: HP dan melindungimu selama ::duration:: detik."
 
 #. ExtraHealEmpty (name)
 #.
@@ -5724,7 +5737,7 @@ msgstr ""
 #. msgid "Tonique (vide)"
 #: res/data.cdb:item/#30.name
 msgid "Tonic (empty)"
-msgstr ""
+msgstr "Tonik (kosong)"
 
 #. BulletKiller (name)
 #.
@@ -5732,7 +5745,7 @@ msgstr ""
 #. msgid "Déflecteur"
 #: res/data.cdb:item/#31.name
 msgid "Deflector"
-msgstr ""
+msgstr "Deflektor"
 
 #. BulletKiller (gameplayDesc)
 #.
@@ -5745,6 +5758,8 @@ msgid ""
 "Destroys all nearby projectiles, stuns the source for ::effectCharge:: "
 "seconds and inflicts ::+power:: damage."
 msgstr ""
+"Menghancurkan segala proyektil disekitar, dan membingungkan pelemparnya "
+"selama ::effectCharge:: detik dan menimbulkan ::+power:: damage."
 
 #. Hook (name)
 #.
@@ -5752,7 +5767,7 @@ msgstr ""
 #. msgid "Grappin"
 #: res/data.cdb:item/#32.name
 msgid "Grappling hook"
-msgstr ""
+msgstr "Grappling Hook"
 
 #. Hook (gameplayDesc)
 #.
@@ -5765,6 +5780,8 @@ msgid ""
 "Pulls an enemy to you. Your next melee attacks on the victim deal ::prct::% "
 "extra damage."
 msgstr ""
+"Menarik musuh kepada mu. Pukulanmu berikutnya akan melakukan ::prct::% "
+"damage tambahan."
 
 #. Hook (ambiantDesc)
 #.
@@ -5772,7 +5789,7 @@ msgstr ""
 #. msgid "Oui, comme Scorpion dans Mortal Kombat."
 #: res/data.cdb:item/#32.ambiantDesc
 msgid "Yes, just like Scorpion..."
-msgstr ""
+msgstr "Ya, seperti kalajengking..."
 
 #. BackBlink (name)
 #.
@@ -5780,7 +5797,7 @@ msgstr ""
 #. msgid "Déphasage"
 #: res/data.cdb:item/#33.name
 msgid "Phaser"
-msgstr ""
+msgstr "Phaser"
 
 #. BackBlink (gameplayDesc)
 #.
@@ -5800,6 +5817,8 @@ msgid ""
 "You teleport behind an enemy. The damage of your next melee attack is "
 "increased by ::prct::%."
 msgstr ""
+"Memindahkan diri kebelakang musuh. Serangan berikutnya akan tertingkat "
+"sebesar ::prct::%."
 
 #. TimeDistorsion (name)
 #.
@@ -5807,7 +5826,7 @@ msgstr ""
 #. msgid "Distorsion temporelle"
 #: res/data.cdb:item/#34.name
 msgid "Time bender"
-msgstr ""
+msgstr "Pengendalian Waktu"
 
 #. TimeDistorsion (gameplayDesc)
 #.
@@ -5815,7 +5834,7 @@ msgstr ""
 #. msgid "Ralenti tous les ennemis pendant ::duration::s."
 #: res/data.cdb:item/#34.gameplayDesc
 msgid "Slows the movement of all nearby enemies for ::duration::s."
-msgstr ""
+msgstr "Melambatkan semua gerakan musuh selama ::duration::s."
 
 #. ToxicCloud (name)
 #.
@@ -5823,7 +5842,7 @@ msgstr ""
 #. msgid "Nuage toxique"
 #: res/data.cdb:item/#35.name
 msgid "Toxic cloud"
-msgstr ""
+msgstr "Awan Racun"
 
 #. ToxicCloud (gameplayDesc)
 #.
@@ -5836,6 +5855,8 @@ msgid ""
 "Releases a toxic cloud of poison which inflicts ::+dps:: damage/s for ::"
 "duration:: seconds."
 msgstr ""
+"Mengeluarkan awan beracun yang menimbulkan ::+dps:: dps selama ::duration::"
+"detik."
 
 #. DamageAura (name)
 #.
@@ -5843,7 +5864,7 @@ msgstr ""
 #. msgid "Aura de lacération"
 #: res/data.cdb:item/#36.name
 msgid "Aura of laceration"
-msgstr ""
+msgstr "Aura Pencabikan"
 
 #. DamageAura (gameplayDesc)
 #.
@@ -5851,7 +5872,7 @@ msgstr ""
 #. msgid "Inflige ::+dps:: dégâts/sec aux cibles proches."
 #: res/data.cdb:item/#36.gameplayDesc
 msgid "Inflicts ::+dps:: damage/s to nearby enemies."
-msgstr ""
+msgstr "Menimbulkan ::+dps:: dps kepada musuh disekitar"
 
 #. Shockwave (name)
 #.
@@ -5859,7 +5880,7 @@ msgstr ""
 #. msgid "Onde de déni"
 #: res/data.cdb:item/#37.name
 msgid "Denial wave"
-msgstr ""
+msgstr "Arus Pembantahan"
 
 #. Shockwave (gameplayDesc)
 #.
@@ -5873,6 +5894,8 @@ msgid ""
 "Knocks all nearby enemies back and inflicts ::+power:: damage. If the victim "
 "is hurled against a wall, it takes ::+power2:: extra damage."
 msgstr ""
+"Menlontarkan musuh dan menimbulkan ::+power:: damage. Jika musuh terlontar ke "
+"tembok, musuh tersebut mendapatkan ::+power2:: extra damage."
 
 #. Wings (name)
 #.
@@ -5880,7 +5903,7 @@ msgstr ""
 #. msgid "Ailes de Corbeau"
 #: res/data.cdb:item/#38.name
 msgid "Crow's wings"
-msgstr ""
+msgstr "Sayap Gagak"
 
 #. Wings (gameplayDesc)
 #.
@@ -5893,6 +5916,8 @@ msgid ""
 "Temporarily allows you to float in the air while inflicting ::+dps:: damage/"
 "s to enemies below you."
 msgstr ""
+"Untuk sementara, dapat membuatmu malayang diudara sambil menimbulkan ::+dps::"
+"dps kepada musuh dibawah mu"
 
 #. Wings (ambiantDesc)
 #.
@@ -5900,7 +5925,7 @@ msgstr ""
 #. msgid "Croâââ !"
 #: res/data.cdb:item/#38.ambiantDesc
 msgid "Craaaawwwww!"
-msgstr ""
+msgstr "Craaaaawwww!"
 
 #. ComboMult (name)
 #.
@@ -5908,7 +5933,7 @@ msgstr ""
 #. msgid "Bonus de points"
 #: res/data.cdb:item/#39.name res/data.cdb:item/#161.name
 msgid "Extra points"
-msgstr ""
+msgstr "Poin Tambahan"
 
 #. Pokecharge (name)
 #.
@@ -5916,7 +5941,7 @@ msgstr ""
 #. msgid "Extraction de schéma"
 #: res/data.cdb:item/#40.name
 msgid "Blueprint Extractor"
-msgstr ""
+msgstr "Ekstrator Blueprint"
 
 #. Pokecharge (gameplayDesc)
 #.
@@ -5929,6 +5954,8 @@ msgid ""
 "Use this on a monster transformed by the Hunter's Grenade with less than ::"
 "prct::% health remaining."
 msgstr ""
+"Gunakan ini kepada monster yang tertransformasi oleh granat pemburu dengan"
+"nyawa sekitar ::prct::% ."
 
 #. StartSword (name)
 #.
@@ -5936,7 +5963,7 @@ msgstr ""
 #. msgid "Epée rouillée"
 #: res/data.cdb:item/#41.name
 msgid "Rusty sword"
-msgstr ""
+msgstr "Pedang Berkarat"
 
 #. StartSword (ambiantDesc)
 #.
@@ -5944,7 +5971,7 @@ msgstr ""
 #. msgid "Peut servir à tuer des gens."
 #: res/data.cdb:item/#41.ambiantDesc
 msgid "Kills things. Sometimes..."
-msgstr ""
+msgstr "Membunuh musuh, kadang kadang..."
 
 #. AdminWeapon (name)
 #.
@@ -5952,7 +5979,7 @@ msgstr ""
 #. msgid "ADMIN WEAPON"
 #: res/data.cdb:item/#42.name
 msgid "ADMIN WEAPON"
-msgstr ""
+msgstr "SENJATA ADMIN"
 
 #. AdminWeapon (gameplayDesc)
 #.
@@ -5960,7 +5987,7 @@ msgstr ""
 #. msgid "SHOULD NEVER DROP"
 #: res/data.cdb:item/#42.gameplayDesc
 msgid "SHOULD NEVER DROP"
-msgstr ""
+msgstr "TIDAK DAPAT DIJATOHKAN"
 
 #. QuickSword (name)
 #.
@@ -5968,7 +5995,7 @@ msgstr ""
 #. msgid "Epée équilibrée"
 #: res/data.cdb:item/#43.name
 msgid "Balanced blade"
-msgstr ""
+msgstr "Pedang Seimbang"
 
 #. QuickSword (gameplayDesc)
 #.
@@ -5976,7 +6003,7 @@ msgstr ""
 #. msgid "Soigneusement équilibrée pour enchainer des attaques rapides."
 #: res/data.cdb:item/#43.gameplayDesc
 msgid "Carefully balanced to allow consecutive rapid strikes."
-msgstr ""
+msgstr "Keseimbangannya memperbolehkan serangan cepat secara konsekutif."
 
 #. RevengeSword (name)
 #.
@@ -5984,7 +6011,7 @@ msgstr ""
 #. msgid "Désespoir"
 #: res/data.cdb:item/#44.name
 msgid "Spiteful sword"
-msgstr ""
+msgstr "Pedang Pembenci"
 
 #. RevengeSword (gameplayDesc)
 #.
@@ -5992,7 +6019,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE si vous avez subi des dégâts récemment."
 #: res/data.cdb:item/#44.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW if you have been hurt recently."
-msgstr ""
+msgstr "Menimbulkan CRITICAL BLOW jika dipukul sebelumnya."
 
 #. RevengeSword (ambiantDesc)
 #.
