@@ -6019,7 +6019,7 @@ msgstr "Pedang Pembenci"
 #. msgid "Inflige un COUP CRITIQUE si vous avez subi des dégâts récemment."
 #: res/data.cdb:item/#44.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW if you have been hurt recently."
-msgstr "Menimbulkan CRITICAL BLOW jika dipukul sebelumnya."
+msgstr "Menimbulkan CRITICAL jika dipukul sebelumnya."
 
 #. RevengeSword (ambiantDesc)
 #.
@@ -6028,7 +6028,7 @@ msgstr "Menimbulkan CRITICAL BLOW jika dipukul sebelumnya."
 #. "Une arme rouillée dont la puissance se révèle dans les moments difficiles."
 #: res/data.cdb:item/#44.ambiantDesc
 msgid "A rusty old weapon that gets more dangerous in a pinch..."
-msgstr ""
+msgstr "Sebuah pedang berkarat yang semakin berbahaya saat dibutuhkan..."
 
 #. BackStabber (name)
 #.
@@ -6036,7 +6036,7 @@ msgstr ""
 #. msgid "Dague d'assassin"
 #: res/data.cdb:item/#45.name
 msgid "Assassin's dagger"
-msgstr ""
+msgstr "Pisau Pembunuh"
 
 #. BackStabber (gameplayDesc)
 #.
@@ -6044,7 +6044,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE lorsque vous frappez dans le dos."
 #: res/data.cdb:item/#45.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW when you backstab your enemies."
-msgstr ""
+msgstr "Menimbulkan CRITICAL ketika menyerang dari belakang."
 
 #. BackStabber (ambiantDesc)
 #.
@@ -6052,7 +6052,7 @@ msgstr ""
 #. msgid "Légère mais mortelle si elle maniée comme il faut."
 #: res/data.cdb:item/#45.ambiantDesc
 msgid "Small, but deadly if you know where to stick it."
-msgstr ""
+msgstr "Kecil, namun mematikan jika kamu tahu caranya."
 
 #. Bleeder (name)
 #.
@@ -6060,7 +6060,7 @@ msgstr ""
 #. msgid "Bain de sang"
 #: res/data.cdb:item/#46.name
 msgid "Blood sword"
-msgstr ""
+msgstr "Pedang Darah"
 
 #. Bleeder (gameplayDesc)
 #.
@@ -6068,7 +6068,7 @@ msgstr ""
 #. msgid "Provoque des Saignements (::+dps:: dégâts/sec)."
 #: res/data.cdb:item/#46.gameplayDesc
 msgid "Causes bleeding (::+dps:: damage/s)."
-msgstr ""
+msgstr "Menimbulkan pendarahan (::+dps:: dps)."
 
 #. DualDaggers (name)
 #.
@@ -6076,7 +6076,7 @@ msgstr ""
 #. msgid "Dagues jumelles"
 #: res/data.cdb:item/#47.name
 msgid "Twin daggers"
-msgstr ""
+msgstr "Pisau Sepasang"
 
 #. DualDaggers (gameplayDesc)
 #.
@@ -6084,7 +6084,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE à la 3ème attaque consécutive."
 #: res/data.cdb:item/#47.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW on the third consecutive hit."
-msgstr ""
+msgstr "Serangan ketiga menimbulkan CRITICAL."
 
 #. DualDaggers (ambiantDesc)
 #.
@@ -6092,7 +6092,7 @@ msgstr ""
 #. msgid "Deux dagues pour le prix d'une, toujours plus de violence."
 #: res/data.cdb:item/#47.ambiantDesc
 msgid "Two knives for the price of one, more violence for your dollar!"
-msgstr ""
+msgstr "Dua pisau seharga satu, penawaran yang cukup bagus bukan?"
 
 #. BroadSword (name)
 #.
@@ -6100,7 +6100,7 @@ msgstr ""
 #. msgid "Epée large"
 #: res/data.cdb:item/#48.name
 msgid "Broad sword"
-msgstr ""
+msgstr "Pedang Besar"
 
 #. BroadSword (gameplayDesc)
 #.
@@ -6108,7 +6108,7 @@ msgstr ""
 #. msgid "Fait de très gros dégâts."
 #: res/data.cdb:item/#48.gameplayDesc
 msgid "Does massive damage."
-msgstr ""
+msgstr "Sangat Keras"
 
 #. BroadSword (ambiantDesc)
 #.
@@ -6116,7 +6116,7 @@ msgstr ""
 #. msgid "Lourde et lente, mais tellement violente."
 #: res/data.cdb:item/#48.ambiantDesc
 msgid "Slow and heavy, but looks badass. The best way to compensate."
-msgstr ""
+msgstr "Pelan dan lambat, namun sangat sadis."
 
 #. Shovel (name)
 #.
@@ -6124,7 +6124,7 @@ msgstr ""
 #. msgid "Pelle"
 #: res/data.cdb:item/#49.name
 msgid "Shovel"
-msgstr ""
+msgstr "Sekop"
 
 #. Shovel (gameplayDesc)
 #.
@@ -6132,7 +6132,7 @@ msgstr ""
 #. msgid "Projette les ennemis et les bombes."
 #: res/data.cdb:item/#49.gameplayDesc
 msgid "Flings enemies and bombs backwards."
-msgstr ""
+msgstr "Melontarkan musuh dan bom kebelakang"
 
 #. Shovel (ambiantDesc)
 #.
@@ -6140,7 +6140,7 @@ msgstr ""
 #. msgid "Tout objet peut devenir une arme mortelle avec une vélocité suffisante."
 #: res/data.cdb:item/#49.ambiantDesc
 msgid "Any object is a deadly weapon if you apply enough velocity."
-msgstr ""
+msgstr "Benda apapun senjata yang mematikan jika kau cukup cepat."
 
 #. EvilSword (name)
 #.
@@ -6148,7 +6148,7 @@ msgstr ""
 #. msgid "Epée maudite"
 #: res/data.cdb:item/#50.name
 msgid "Cursed sword"
-msgstr ""
+msgstr "Pedang Terkutuk"
 
 #. EvilSword (gameplayDesc)
 #.
@@ -6156,7 +6156,7 @@ msgstr ""
 #. msgid "Si vous subissez le moindre dégât, vous mourrez immédiatement."
 #: res/data.cdb:item/#50.gameplayDesc
 msgid "If you're hit, you're dead."
-msgstr ""
+msgstr "Jika kau terpukul, kamu mati"
 
 #. EvilSword (ambiantDesc)
 #.
@@ -6164,7 +6164,7 @@ msgstr ""
 #. msgid "Alors comme ça, vous voulez la jouer difficile ?"
 #: res/data.cdb:item/#50.ambiantDesc
 msgid "So you like to play hardball, do ya?"
-msgstr ""
+msgstr "Jadi kamu ingin hidup susah, ya?"
 
 #. BleedCrit (name)
 #.
@@ -6172,7 +6172,7 @@ msgstr ""
 #. msgid "Dague de cultiste sadique"
 #: res/data.cdb:item/#51.name
 msgid "Dagger of the sadistic cult"
-msgstr ""
+msgstr "Pedang Orang Sadis"
 
 #. BleedCrit (gameplayDesc)
 #.
@@ -6180,7 +6180,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE si la cible saigne ou est empoisonnée."
 #: res/data.cdb:item/#51.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW if the victim is bleeding or poisoned."
-msgstr ""
+msgstr "Menimbulkan critical apabila korban diracuni atau berdarah"
 
 #. BleedCrit (ambiantDesc)
 #.
@@ -6188,7 +6188,7 @@ msgstr ""
 #. msgid "Conçue pour appuyer là où ça fait mal."
 #: res/data.cdb:item/#51.ambiantDesc
 msgid "Turn the knife..."
-msgstr ""
+msgstr "Putar pisaunya..."
 
 #. SpeedBlade (name)
 #.
@@ -6196,7 +6196,7 @@ msgstr ""
 #. msgid "Epée de promptitude"
 #: res/data.cdb:item/#52.name
 msgid "Swift sword"
-msgstr ""
+msgstr "Pedang Cepat"
 
 #. SpeedBlade (gameplayDesc)
 #.
@@ -6204,7 +6204,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE si vous bénéficiez d'un mouvement accéléré."
 #: res/data.cdb:item/#52.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW if you have an active speed buff."
-msgstr ""
+msgstr "Menimbulkan CRITICAL jika speed buff aktif."
 
 #. SpeedBlade (ambiantDesc)
 #.
@@ -6217,6 +6217,8 @@ msgid ""
 "Take your time? Pft, what a joke. Hit hard and fast! Now there's a recipe "
 "for victory..."
 msgstr ""
+"Bersabar? Pft, lelucon yang bagus. Pukulan cepat dan keras, itulah kunci keme "
+"nangan..."
 
 #. Spear (name)
 #.
@@ -6224,7 +6226,7 @@ msgstr ""
 #. msgid "Lance de guerre"
 #: res/data.cdb:item/#53.name
 msgid "War spear"
-msgstr ""
+msgstr "Tombak Perang"
 
 #. Spear (gameplayDesc)
 #.
@@ -6235,6 +6237,7 @@ msgstr ""
 msgid ""
 "Inflicts a CRITICAL HIT when you strike several enemies at the same time."
 msgstr ""
+"Menimbulkan CRITICAL ketika musuh diserang berkali kali"
 
 #. Spear (ambiantDesc)
 #.
@@ -6242,7 +6245,7 @@ msgstr ""
 #. msgid "Une arme offrant une grande allonge au détriment de la rapidité."
 #: res/data.cdb:item/#53.ambiantDesc
 msgid "Trade in some speed, for a little range."
-msgstr ""
+msgstr "Tukarlah kecepatan, untuk jarak sedikit."
 
 #. ImpaleSpear (name)
 #.
@@ -6250,7 +6253,7 @@ msgstr ""
 #. msgid "Empaleuse"
 #: res/data.cdb:item/#54.name
 msgid "Impaler"
-msgstr ""
+msgstr "Penyula"
 
 #. ImpaleSpear (gameplayDesc)
 #.
@@ -6258,7 +6261,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE si la victime est bloquée contre un mur."
 #: res/data.cdb:item/#54.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW if the victime is up against a wall."
-msgstr ""
+msgstr "Menimbulkan CRITICAL ketika korban terpojok dengan tembok."
 
 #. ImpaleSpear (gameplayDesc)
 #.
@@ -6266,7 +6269,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE si la victime est bloquée contre un mur."
 #: res/data.cdb:item/#54.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW if the victim is up against a wall."
-msgstr ""
+msgstr "Menimbulkan CRITICAL jika korban terpojok dengan tembok"
 
 #. Rapier (name)
 #.
@@ -6274,7 +6277,7 @@ msgstr ""
 #. msgid "Rapière"
 #: res/data.cdb:item/#55.name
 msgid "Rapier"
-msgstr ""
+msgstr "Penusuk"
 
 #. Rapier (gameplayDesc)
 #.
@@ -6282,7 +6285,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE juste après une roulade."
 #: res/data.cdb:item/#55.gameplayDesc
 msgid "Inflicts a CRITICAL HIT immediately after rolling."
-msgstr ""
+msgstr "Menimbulkan CRITICAL setelah rolling"
 
 #. Rapier (ambiantDesc)
 #.
@@ -6290,7 +6293,7 @@ msgstr ""
 #. msgid "Tout en finesse."
 #: res/data.cdb:item/#55.ambiantDesc
 msgid "It's all in the wrist..."
-msgstr ""
+msgstr "Kuncinya berada di pergelangan..."
 
 #. DashSword (name)
 #.
@@ -6298,7 +6301,7 @@ msgstr ""
 #. msgid "Perce-carne"
 #: res/data.cdb:item/#56.name
 msgid "Meat skewer"
-msgstr ""
+msgstr "Pencabik Daging"
 
 #. DashSword (gameplayDesc)
 #.
@@ -6306,7 +6309,7 @@ msgstr ""
 #. msgid "Permet de passer dans le dos de la victime."
 #: res/data.cdb:item/#56.gameplayDesc
 msgid "Allows you to stab right through your enemies and appear behind them. "
-msgstr ""
+msgstr "Setelah mencabik musuhmu, teleportasi kebelakang mereka."
 
 #. DashSword (ambiantDesc)
 #.
@@ -6314,7 +6317,7 @@ msgstr ""
 #. msgid "Tu me vois, tu me vois plus."
 #: res/data.cdb:item/#56.ambiantDesc
 msgid "Now you see me, now you don't!"
-msgstr ""
+msgstr "Now you see me, Now you don't!"
 
 #. StunMace (name)
 #.
@@ -6322,7 +6325,7 @@ msgstr ""
 #. msgid "Casse noisettes"
 #: res/data.cdb:item/#57.name
 msgid "The nutcracker"
-msgstr ""
+msgstr "Penhancur Kepala"
 
 #. StunMace (gameplayDesc)
 #.
@@ -6330,7 +6333,7 @@ msgstr ""
 #. msgid "Etourdit les cibles qui ont plus de ::prct::% de vie."
 #: res/data.cdb:item/#57.gameplayDesc
 msgid "Stuns victims that have more than ::prct::% health."
-msgstr ""
+msgstr "Stun korban yang nyawanya diatas ::prct::% nyawa."
 
 #. BumpBoots (name)
 #.
@@ -6338,7 +6341,7 @@ msgstr ""
 #. msgid "Sandales de spartiate"
 #: res/data.cdb:item/#58.name
 msgid "Spartan sandals"
-msgstr ""
+msgstr "Sendal Sparta"
 
 #. BumpBoots (gameplayDesc)
 #.
@@ -6351,6 +6354,8 @@ msgid ""
 "Knocks enemies back and interrupts their attacks. Inflicts extra damage if "
 "the victim is hurled against a wall."
 msgstr ""
+"Musuh terdorong dan seranganya terganggu, menimbulkan damage ekstra apabila "
+"korban terdorong ke tembok"
 
 #. BumpBoots (ambiantDesc)
 #.
@@ -6358,7 +6363,7 @@ msgstr ""
 #. msgid "This. Is. DEAD CELLS!"
 #: res/data.cdb:item/#58.ambiantDesc
 msgid "This. Is. DEAD CELLS!"
-msgstr ""
+msgstr "THIS. IS. DEAD CELLS!"
 
 #. SpikedBoots (name)
 #.
@@ -6366,7 +6371,7 @@ msgstr ""
 #. msgid "Bottes cloutées"
 #: res/data.cdb:item/#59.name
 msgid "Spiked boots"
-msgstr ""
+msgstr "Sepatu berduri"
 
 #. SpikedBoots (gameplayDesc)
 #.
@@ -6374,7 +6379,7 @@ msgstr ""
 #. msgid "Inflige un coup critique si le coup de pied interrompt une attaque."
 #: res/data.cdb:item/#59.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW if the kick interrupts an attack."
-msgstr ""
+msgstr "Menimbulkan CRITICAL jika serangan menggangu serangan musuh."
 
 #. MultiKickBoots (name)
 #.
@@ -6382,7 +6387,7 @@ msgstr ""
 #. msgid "Bottes de Hayabusa"
 #: res/data.cdb:item/#60.name
 msgid "Hayabusa boots"
-msgstr ""
+msgstr "Sepatu Hayabusa"
 
 #. MultiKickBoots (gameplayDesc)
 #.
@@ -6390,7 +6395,7 @@ msgstr ""
 #. msgid "Le dernier coup inflige des dégâts de zone et repousse les ennemis."
 #: res/data.cdb:item/#60.gameplayDesc
 msgid "The last hit of the combo inflicts area damage and pushes enemies back."
-msgstr ""
+msgstr "Pukulan terakhir combo menimbulkan serangan area dan mendorong musuh."
 
 #. Whip (name)
 #.
@@ -6398,7 +6403,7 @@ msgstr ""
 #. msgid "Fouet de Valmont"
 #: res/data.cdb:item/#61.name
 msgid "Valmont's whip"
-msgstr ""
+msgstr "Cambuk Valmont"
 
 #. Whip (gameplayDesc)
 #.
@@ -6410,6 +6415,8 @@ msgstr ""
 msgid ""
 "Ignores shields and deals a CRITICAL HIT when striking at maximum range."
 msgstr ""
+"Mengabaikan tamen musuh dan menimbulkan CRITICAL jika menyerang di jarak "
+"maksimum."
 
 #. Whip (ambiantDesc)
 #.
@@ -6417,7 +6424,7 @@ msgstr ""
 #. msgid "La famille Valmont recommande ce fouet."
 #: res/data.cdb:item/#61.ambiantDesc
 msgid "A weapon popularised by the Baron Valmont du Cul."
-msgstr ""
+msgstr "Senjata yang dipopulerkan Baron Valmont du Cul"
 
 #. HookWhip (name)
 #.
@@ -6425,7 +6432,7 @@ msgstr ""
 #. msgid "Fouet d'entrave"
 #: res/data.cdb:item/#62.name
 msgid "Wrenching whip"
-msgstr ""
+msgstr "Cambuk Pengilir"
 
 #. HookWhip (gameplayDesc)
 #.
@@ -6433,7 +6440,7 @@ msgstr ""
 #. msgid "Ignore les boucliers. Attire les victimes."
 #: res/data.cdb:item/#62.gameplayDesc
 msgid "Ignores shields. Wrenches victims towards you."
-msgstr ""
+msgstr "Mengabaikan tameng, mengilir musuh kepada mu."
 
 #. OilSword (name)
 #.
@@ -6441,7 +6448,7 @@ msgstr ""
 #. msgid "Epée huileuse"
 #: res/data.cdb:item/#63.name
 msgid "Oiled Sword"
-msgstr ""
+msgstr "Pedang Berminyak"
 
 #. OilSword (name)
 #.
@@ -6449,7 +6456,7 @@ msgstr ""
 #. msgid "Epée huileuse"
 #: res/data.cdb:item/#63.name
 msgid "Oiled sword"
-msgstr ""
+msgstr "Pedang Berminyak"
 
 #. OilSword (gameplayDesc)
 #.
@@ -6457,7 +6464,7 @@ msgstr ""
 #. msgid "Applique de l'huile inflammable aux victimes."
 #: res/data.cdb:item/#63.gameplayDesc
 msgid "Applies flammable oil to victims."
-msgstr ""
+msgstr "Melapiskan korban dalam minyak."
 
 #. Burner (name)
 #.
@@ -6465,7 +6472,7 @@ msgstr ""
 #. msgid "Torche"
 #: res/data.cdb:item/#64.name
 msgid "Torch"
-msgstr ""
+msgstr "Obor"
 
 #. Burner (gameplayDesc)
 #.
@@ -6477,6 +6484,7 @@ msgid ""
 "Ignites your enemies and inflicts ::+dps:: damage/sec for ::duration:: "
 "seconds."
 msgstr ""
+"Membakar musuh dan menimbulkan ::_dps:: dps untuk ::duration:: sekon."
 
 #. Burner (ambiantDesc)
 #.
@@ -6484,7 +6492,7 @@ msgstr ""
 #. msgid "Ambiance garantie."
 #: res/data.cdb:item/#64.ambiantDesc
 msgid "Sure to warm up the crowd."
-msgstr ""
+msgstr "Sangat sangat hangat"
 
 #. LowHealth (name)
 #.
@@ -6492,7 +6500,7 @@ msgstr ""
 #. msgid "Charognarde"
 #: res/data.cdb:item/#65.name
 msgid "Frantic sword"
-msgstr ""
+msgstr "Pedang Kegilaan"
 
 #. LowHealth (gameplayDesc)
 #.
@@ -6500,7 +6508,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE lorsque vous avez moins de ::prct::% de vie."
 #: res/data.cdb:item/#65.gameplayDesc
 msgid "Inflicts a CRITICAL HIT when you're below ::prct::% health."
-msgstr ""
+msgstr "Menimbulkan CRITICAL ketika nyawamu berada dibawah ::prct::%."
 
 #. LowHealth (ambiantDesc)
 #.
