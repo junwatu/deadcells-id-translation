@@ -6516,7 +6516,7 @@ msgstr "Menimbulkan CRITICAL ketika nyawamu berada dibawah ::prct::%."
 #. msgid "L'arme de choix des combattants qui aiment vivre dangereusement."
 #: res/data.cdb:item/#65.ambiantDesc
 msgid "The weapon of choice for those who like to live dangerously."
-msgstr ""
+msgstr "Senjata pilihan untuk orang yang hidupnya berisiko."
 
 #. StartBow (name)
 #.
@@ -6524,7 +6524,7 @@ msgstr ""
 #. msgid "Arc du fils du geolier"
 #: res/data.cdb:item/#66.name
 msgid "Beginner's bow"
-msgstr ""
+msgstr "Panah Pemula"
 
 #. StartBow (gameplayDesc)
 #.
@@ -6532,7 +6532,7 @@ msgstr ""
 #. msgid "Les munitions se récupèrent quand vous achevez vos victimes."
 #: res/data.cdb:item/#66.gameplayDesc
 msgid "You recover your arrows when you kill your victim."
-msgstr ""
+msgstr "Menarik kembali anak panah ketika korban mati"
 
 #. StartBow (ambiantDesc)
 #.
@@ -6542,7 +6542,7 @@ msgstr ""
 #. "avec ça."
 #: res/data.cdb:item/#66.ambiantDesc
 msgid "The Jailer's son was getting pretty good at hunting rats with this..."
-msgstr ""
+msgstr "Anak sang sipir sangat jago memburu tikus dengan ini..."
 
 #. DualBow (name)
 #.
@@ -6550,7 +6550,7 @@ msgstr ""
 #. msgid "Arc à double-encoche"
 #: res/data.cdb:item/#67.name
 msgid "Double-notched bow"
-msgstr ""
+msgstr "Panah berbusur ganda"
 
 #. DualBow (gameplayDesc)
 #.
@@ -6558,7 +6558,7 @@ msgstr ""
 #. msgid "Tire ::count:: flèches à la fois."
 #: res/data.cdb:item/#67.gameplayDesc
 msgid "Shoots ::count:: arrows at once."
-msgstr ""
+msgstr "Menembak ::count:: anak panah pada saat yang sama."
 
 #. InfiniteBow (name)
 #.
@@ -6566,7 +6566,7 @@ msgstr ""
 #. msgid "Arc et carquois sans fond"
 #: res/data.cdb:item/#68.name
 msgid "Bow and infinite arrows"
-msgstr ""
+msgstr "Panah dan amunisi tak terbatas"
 
 #. InfiniteBow (gameplayDesc)
 #.
@@ -6574,7 +6574,7 @@ msgstr ""
 #. msgid "Munitions illimitées."
 #: res/data.cdb:item/#68.gameplayDesc
 msgid "Unlimited ammo."
-msgstr ""
+msgstr "Tidak akan pernah habis"
 
 #. InfiniteBow (ambiantDesc)
 #.
@@ -6582,7 +6582,7 @@ msgstr ""
 #. msgid "On n'a jamais trop de flèches - Legolas"
 #: res/data.cdb:item/#68.ambiantDesc
 msgid "There is no such thing as \"too many arrows\"."
-msgstr ""
+msgstr "Tidak ada yang namanya"
 
 #. InfiniteBow (ambiantDesc)
 #.
@@ -6590,7 +6590,7 @@ msgstr ""
 #. msgid "On n'a jamais trop de flèches - Legolas"
 #: res/data.cdb:item/#68.ambiantDesc
 msgid "There's no such thing as \"too many arrows\" - Legolas"
-msgstr ""
+msgstr "Tidak ada yang namanya \"terlalu banyak panah\" = Legolas"
 
 #. LongBow (name)
 #.
@@ -6598,7 +6598,7 @@ msgstr ""
 #. msgid "Arc de tireur d'élite"
 #: res/data.cdb:item/#69.name
 msgid "Hunter's longbow"
-msgstr ""
+msgstr "Panah Laras Panjang"
 
 #. LongBow (gameplayDesc)
 #.
@@ -6606,7 +6606,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE lorsque vous tirez à longue portée."
 #: res/data.cdb:item/#69.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW if you strike from far away."
-msgstr ""
+msgstr "Menimbulkan CRITICAL jika menyerang dari jauh."
 
 #. LongBow (ambiantDesc)
 #.
@@ -6614,7 +6614,7 @@ msgstr ""
 #. msgid "Dévastateur à longue portée, c'est le sniper en bois."
 #: res/data.cdb:item/#69.ambiantDesc
 msgid "Slow, but devastating at longe range."
-msgstr ""
+msgstr "Pelan, namun mematikan dijarak jauh."
 
 #. CloseCombatBow (name)
 #.
@@ -6622,7 +6622,7 @@ msgstr ""
 #. msgid "Arc de fantassin"
 #: res/data.cdb:item/#70.name
 msgid "Infantry bow"
-msgstr ""
+msgstr "Panah Infantri"
 
 #. CloseCombatBow (gameplayDesc)
 #.
@@ -6630,7 +6630,7 @@ msgstr ""
 #. msgid "Inflige un COUP CRITIQUE lorsque vous tirez à courte portée."
 #: res/data.cdb:item/#70.gameplayDesc
 msgid "Inflicts a CRITICAL BLOW  when you strike at close range."
-msgstr ""
+msgstr "Menimbulkan CRITICAL apabila saat menyerang di jarak dekat."
 
 #. CloseCombatBow (ambiantDesc)
 #.
@@ -6638,7 +6638,7 @@ msgstr ""
 #. msgid "Un arc spécialement conçu pour le corps à corps."
 #: res/data.cdb:item/#70.ambiantDesc
 msgid "A bow designed for close combat."
-msgstr ""
+msgstr "Panah yang dibuat untuk jarak dekat."
 
 #. FastBow (name)
 #.
@@ -6646,7 +6646,7 @@ msgstr ""
 #. msgid "Arc rapide"
 #: res/data.cdb:item/#71.name
 msgid "Quick bow"
-msgstr ""
+msgstr "Panah Cepat"
 
 #. FastBow (gameplayDesc)
 #.
@@ -6659,6 +6659,8 @@ msgid ""
 "Inflicts a CRITICAL HIT if the target has ::count:: or more arrows in its "
 "body."
 msgstr ""
+"Menimbulkan CRITICAL jika korban mempunyai ::count:: / lebih panah yang "
+"tertancap."
 
 #. FastBow (ambiantDesc)
 #.
@@ -6666,7 +6668,7 @@ msgstr ""
 #. msgid "La rapidité au détriment de la précision."
 #: res/data.cdb:item/#71.ambiantDesc
 msgid "Speed to the detriment of accuracy."
-msgstr ""
+msgstr "Kecepatan lebih penting daripada ketepatan."
 
 #. FrostBow (name)
 #.
@@ -6674,7 +6676,7 @@ msgstr ""
 #. msgid "Arc de glace"
 #: res/data.cdb:item/#72.name
 msgid "Ice bow"
-msgstr ""
+msgstr "Panah Es"
 
 #. FrostBow (gameplayDesc)
 #.
@@ -6682,7 +6684,7 @@ msgstr ""
 #. msgid "Congèle les ennemis."
 #: res/data.cdb:item/#72.gameplayDesc
 msgid "Freezes enemies struck by your arrows."
-msgstr ""
+msgstr "Membekukan musuh yang terserang oleh panahmu"
 
 #. CrossBow (name)
 #.
@@ -6690,7 +6692,7 @@ msgstr ""
 #. msgid "Arbalète lourde"
 #: res/data.cdb:item/#73.name
 msgid "Heavy crossbow"
-msgstr ""
+msgstr "Heavy Crossbow"
 
 #. CrossBow (gameplayDesc)
 #.
@@ -6698,7 +6700,7 @@ msgstr ""
 #. msgid "Tire plusieurs carreaux à la fois."
 #: res/data.cdb:item/#73.gameplayDesc
 msgid "Shoots multiple bolts at once."
-msgstr ""
+msgstr "Menembak beberapa panah dalam waktu yang sama."
 
 #. CrossBow (ambiantDesc)
 #.
@@ -6706,7 +6708,7 @@ msgstr ""
 #. msgid "Un carnage à courte portée."
 #: res/data.cdb:item/#73.ambiantDesc
 msgid "For short range bloodshed."
-msgstr ""
+msgstr "Untuk pembantaian jarak dekat."
 
 #. MultiCrossBow (name)
 #.
@@ -6714,7 +6716,7 @@ msgstr ""
 #. msgid "Arbalète à répétition"
 #: res/data.cdb:item/#74.name
 msgid "Repeater crossbow"
-msgstr ""
+msgstr "Repeater Crossbow"
 
 #. MultiCrossBow (gameplayDesc)
 #.
@@ -6722,7 +6724,7 @@ msgstr ""
 #. msgid "Tire de puissantes rafales de carreaux."
 #: res/data.cdb:item/#74.gameplayDesc
 msgid "Fires powerful bursts of bolts."
-msgstr ""
+msgstr "Membak beberapa panah yang menyakitkan."
 
 #. FrostCrossBow (name)
 #.
@@ -6730,7 +6732,7 @@ msgstr ""
 #. msgid "Arbalète de glace"
 #: res/data.cdb:item/#75.name
 msgid "Ice crossbow"
-msgstr ""
+msgstr "Ice Crossbow"
 
 #. FrostCrossBow (gameplayDesc)
 #.
@@ -6742,6 +6744,8 @@ msgstr ""
 msgid ""
 "A rapid shot freezes enemies. A long fire inflicts heavy critical damage."
 msgstr ""
+"Senjata otomatis yang menembak musuh. Serangan otomatis menimbulkan "
+"CRITICAL."
 
 #. ExplosiveCrossBow (name)
 #.
@@ -6749,7 +6753,7 @@ msgstr ""
 #. msgid "Arbalète explosive"
 #: res/data.cdb:item/#76.name
 msgid "Explosive crossbow"
-msgstr ""
+msgstr "Explosive Crossbow"
 
 #. ExplosiveCrossBow (gameplayDesc)
 #.
@@ -6762,6 +6766,8 @@ msgid ""
 "Fires explosive bolts that deal area damage. A direct hit on an enemy "
 "inflicts a critical blow."
 msgstr ""
+"Menembak panah peledak yang menimbulkan kerusakan area. Serangan "
+"langsung menimbulkan CRITICAL."
 
 #. MarkBow (name)
 #.
@@ -6769,7 +6775,7 @@ msgstr ""
 #. msgid "Arc du Hokuto"
 #: res/data.cdb:item/#77.name
 msgid "Hokuto's bow"
-msgstr ""
+msgstr "Panah Hokuto"
 
 #. MarkBow (gameplayDesc)
 #.
@@ -6784,6 +6790,8 @@ msgid ""
 "damage/s while they're marked. If they die the mark spreads to nearby "
 "enemies."
 msgstr ""
+"Menandakan korban selama ::duration:: detik. Musuh menerima extra ::+dps:: "
+"dps ketika tertanda. Jika mereka mati tanda itu menyebar ke musuh sekitarnya."
 
 #. MarkBow (ambiantDesc)
 #.
@@ -6791,7 +6799,7 @@ msgstr ""
 #. msgid "Tu ne le sais pas encore, mais tu es déjà mort."
 #: res/data.cdb:item/#77.ambiantDesc
 msgid "You don't know it yet, but you're already dead."
-msgstr ""
+msgstr " \"Omae wa mou, shindeiru"\ "
 
 #. ThrowingKnife (name)
 #.
@@ -6799,7 +6807,7 @@ msgstr ""
 #. msgid "Couteau de lancer"
 #: res/data.cdb:item/#78.name
 msgid "Throwing knife"
-msgstr ""
+msgstr "Pisau lempar"
 
 #. ThrowingKnife (gameplayDesc)
 #.
@@ -6812,6 +6820,8 @@ msgid ""
 "Causes bleeding (::+dps:: damage/s for ::duration:: seconds). The attack "
 "automatically targets the closest enemy."
 msgstr ""
+"Menimbulkan pendarahan (::+dps:: dps selama ::duration:: detik). "
+"Serangannya otomatis menyerang musuh terdekat."
 
 #. LightningWhip (name)
 #.
@@ -6819,7 +6829,7 @@ msgstr ""
 #. msgid "Fouet électrique"
 #: res/data.cdb:item/#79.name
 msgid "Electric whip"
-msgstr ""
+msgstr "Pecutan Listrik"
 
 #. LightningWhip (gameplayDesc)
 #.
@@ -6827,7 +6837,7 @@ msgstr ""
 #. msgid "Vise automatiquement les enemis proches."
 #: res/data.cdb:item/#79.gameplayDesc
 msgid "Automatically targets the closest enemy."
-msgstr ""
+msgstr "Secara otomatis mentargetkan musuh terdekat."
 
 #. ThrowingTorch (name)
 #.
@@ -6835,7 +6845,7 @@ msgstr ""
 #. msgid "Torches de lancer"
 #: res/data.cdb:item/#80.name
 msgid "Fire brands"
-msgstr ""
+msgstr "Molotov"
 
 #. ThrowingTorch (gameplayDesc)
 #.
@@ -6848,6 +6858,8 @@ msgid ""
 "Ignites the ground and your enemies inflicting ::+dps:: damage/sec for ::"
 "duration:: seconds."
 msgstr ""
+"Membakar lantai dan musuhmu, menimbulkan ::+dps:: dps selama ::duration:: "
+"detik"
 
 #. ThrowingIce (name)
 #.
@@ -6855,7 +6867,7 @@ msgstr ""
 #. msgid "Éclat de glace"
 #: res/data.cdb:item/#81.name
 msgid "Ice shock"
-msgstr ""
+msgstr "Ice Shock"
 
 #. ThrowingIce (gameplayDesc)
 #.
@@ -6868,6 +6880,8 @@ msgid ""
 "Slows down enemies. Inflicts critical damage when an enemy is in water or "
 "covered in oil."
 msgstr ""
+"Melambatkan musuh. menimbulkan serangan critical ketika musuh terlumuri "
+"minyak"
 
 #. FireBall (name)
 #.
@@ -6875,7 +6889,7 @@ msgstr ""
 #. msgid "Pyrotechnie"
 #: res/data.cdb:item/#82.name
 msgid "Pyrotechnics"
-msgstr ""
+msgstr "Pyroteknik"
 
 #. FireBall (gameplayDesc)
 #.
@@ -6888,6 +6902,8 @@ msgid ""
 "Launched several flaming projectiles. Inflicts critical damage on enemies "
 "covered with oil."
 msgstr ""
+"Melontarkan beberapa proyektil terbakar. Menimbulkan CRITICAL pada musuh "
+"yang dilumuri minyak."
 
 #. Lightning (name)
 #.
@@ -6895,7 +6911,7 @@ msgstr ""
 #. msgid "Eclair"
 #: res/data.cdb:item/#83.name
 msgid "Lightning bolt"
-msgstr ""
+msgstr "Lightning Bolt"
 
 #. Lightning (gameplayDesc)
 #.
@@ -6905,6 +6921,7 @@ msgstr ""
 msgid ""
 "Continuously casting deals critical hits. But be wary of too much power..."
 msgstr ""
+"Penyerangan secara menerus menimbulkan CRITICAL. Namun hati hati..."
 
 #. Lightning (ambiantDesc)
 #.
@@ -6912,7 +6929,7 @@ msgstr ""
 #. msgid "Devenez Palpatine."
 #: res/data.cdb:item/#83.ambiantDesc
 msgid "Join the dark side."
-msgstr ""
+msgstr "UNLIMITED POWAAH!"
 
 #. FlameThrower (name)
 #.
@@ -6920,7 +6937,7 @@ msgstr ""
 #. msgid "Lance-flammes"
 #: res/data.cdb:item/#84.name
 msgid "Fire torrent"
-msgstr ""
+msgstr "Halilintar Api"
 
 #. FlameThrower (gameplayDesc)
 #.
@@ -6928,7 +6945,7 @@ msgstr ""
 #. msgid "Brûle les ennemis et le sol à courte portée."
 #: res/data.cdb:item/#84.gameplayDesc
 msgid "Burns ground and enemies at close range."
-msgstr ""
+msgstr "Membakar tanah dan musuh dijarak dekat"
 
 #. FlameThrower (ambiantDesc)
 #.
@@ -6936,7 +6953,7 @@ msgstr ""
 #. msgid "Cuisson à coeur."
 #: res/data.cdb:item/#84.ambiantDesc
 msgid "Rare, medium or well-done?"
-msgstr ""
+msgstr "Rare, medium, atau well-done?"
 
 #. Freeze (name)
 #.
@@ -6944,7 +6961,7 @@ msgstr ""
 #. msgid "Congélation"
 #: res/data.cdb:item/#85.name
 msgid "Frost blast"
-msgstr ""
+msgstr "Letusan Es"
 
 #. Freeze (gameplayDesc)
 #.
@@ -6957,6 +6974,7 @@ msgid ""
 "Freezes enemies in front of you. Does not deal damage is the enemy is "
 "already frozen."
 msgstr ""
+"Membekukan musuh, musuh yang sudah beku tidak tersakiti"
 
 #. StartShield (name)
 #.
@@ -6964,7 +6982,7 @@ msgstr ""
 #. msgid "Vieux bouclier en bois"
 #: res/data.cdb:item/#86.name
 msgid "Good ol' wooden shield"
-msgstr ""
+msgstr "Tameng Kayu yang baik"
 
 #. StartShield (gameplayDesc)
 #.
@@ -6977,6 +6995,8 @@ msgid ""
 "Hold the shield up to reduce some damage. Parry at the right time to cancel "
 "all damage."
 msgstr ""
+"Tahanlah tameng untuk mengurangi serangan musuh. Parry pada saat yang tepat "
+"untuk menghapuskan serangan musuh."
 
 #. Shield (name)
 #.
@@ -6984,7 +7004,7 @@ msgstr ""
 #. msgid "Assommoir"
 #: res/data.cdb:item/#87.name
 msgid "KO shield"
-msgstr ""
+msgstr "Tameng KO"
 
 #. Shield (gameplayDesc)
 #.
@@ -6994,7 +7014,7 @@ msgstr ""
 #. "Parade réussie."
 #: res/data.cdb:item/#87.gameplayDesc
 msgid "Stuns blocked enemies. Stuns last longer when you parry."
-msgstr ""
+msgstr "Stun saat menahan. Stun lebih lama ketika musuh diparry."
 
 #. AreaShield (name)
 #.
@@ -7002,7 +7022,7 @@ msgstr ""
 #. msgid "Punition"
 #: res/data.cdb:item/#88.name
 msgid "Punishment"
-msgstr ""
+msgstr "Penghukuman"
 
 #. AreaShield (gameplayDesc)
 #.
