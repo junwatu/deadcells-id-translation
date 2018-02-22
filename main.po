@@ -7004,7 +7004,7 @@ msgstr ""
 #. msgid "Assommoir"
 #: res/data.cdb:item/#87.name
 msgid "KO shield"
-msgstr "Tameng KO"
+msgstr "KO Shield"
 
 #. Shield (gameplayDesc)
 #.
@@ -7035,6 +7035,8 @@ msgid ""
 "Deals damage to all nearby enemies when you block an attack. Deals critical "
 "damage when you parry."
 msgstr ""
+"Menimbulkan damage kepada semua musuh disekitar ketika menangkis. menimbul "
+"kan CRITICAL ketika parry"
 
 #. BumpShield (name)
 #.
@@ -7042,7 +7044,7 @@ msgstr ""
 #. msgid "Bouclier de dégagement"
 #: res/data.cdb:item/#89.name
 msgid "Shove shield"
-msgstr ""
+msgstr "Shove Shield"
 
 #. BumpShield (gameplayDesc)
 #.
@@ -7054,6 +7056,7 @@ msgstr ""
 msgid ""
 "Violently knocks back enemies. Double the effect if you parry correctly."
 msgstr ""
+"Mendorong musuh dengan keras. Efek ini digandakan ketika parrynya benar."
 
 #. Rampart (name)
 #.
@@ -7061,7 +7064,7 @@ msgstr ""
 #. msgid "Rempart"
 #: res/data.cdb:item/#90.name
 msgid "Force shield"
-msgstr ""
+msgstr "Force Shield"
 
 #. Rampart (gameplayDesc)
 #.
@@ -7074,6 +7077,8 @@ msgid ""
 "Absorbes extra damage when held up. Creates a force field for ::duration:: "
 "seconds when you parry correctly."
 msgstr ""
+"Menangkis damage tambahan ketika tertahan. Membuat forcefield selama "
+"::duration:: detik ketika parry benar."
 
 #. DashShield (name)
 #.
@@ -7081,7 +7086,7 @@ msgstr ""
 #. msgid "Bouclier d'assaut"
 #: res/data.cdb:item/#91.name
 msgid "Assault Shield"
-msgstr ""
+msgstr "Assault Shield"
 
 #. DashShield (gameplayDesc)
 #.
@@ -7089,7 +7094,7 @@ msgstr ""
 #. msgid "Bloque les attaques tout en chargeant en avant."
 #: res/data.cdb:item/#91.gameplayDesc
 msgid "Causes you to charge forward while blocking."
-msgstr ""
+msgstr "Melaju kedepan ketika menangkis"
 
 #. BloodShield (name)
 #.
@@ -7097,7 +7102,7 @@ msgstr ""
 #. msgid "Bouclier sanguinaire"
 #: res/data.cdb:item/#92.name
 msgid "Blood shield"
-msgstr ""
+msgstr "Blood Shield"
 
 #. BloodShield (gameplayDesc)
 #.
@@ -7111,6 +7116,8 @@ msgid ""
 "Causes bleeding (::+dps:: damage/s for ::duration:: seconds) when you block "
 "an enemy. Bleeding affects nearby enemies if you parry."
 msgstr ""
+"Menimbulkan pendarahan (::+dps:: dps selama ::duration:: detik) ketika men "
+"ahan. Penderahan berefek kepada musuh disekitar ketika parry. "
 
 #. GreedShield (name)
 #.
@@ -7118,7 +7125,7 @@ msgstr ""
 #. msgid "Bouclier Greedy"
 #: res/data.cdb:item/#93.name
 msgid "Greed shield"
-msgstr ""
+msgstr "Greed Shield"
 
 #. GreedShield (gameplayDesc)
 #.
@@ -7138,6 +7145,8 @@ msgid ""
 "Blocks attacks and shakes out any loose gold from your enemy's teeth (once "
 "per enemy). Also transforms enemy arrows into gold."
 msgstr ""
+"Menahan serangan dan mengeluarkan uang sisa dari musuh (sekali per musuh). "
+"Panah musuh berubah menjadi emas."
 
 #. SpikeShield (name)
 #.
@@ -7145,7 +7154,7 @@ msgstr ""
 #. msgid "Bouclier à pointes"
 #: res/data.cdb:item/#94.name
 msgid "Spiked shield"
-msgstr ""
+msgstr "Spiked Shield"
 
 #. SpikeShield (gameplayDesc)
 #.
@@ -7153,7 +7162,7 @@ msgstr ""
 #. msgid "Inflige d'importants dégâts aux ennemis bloqués."
 #: res/data.cdb:item/#94.gameplayDesc
 msgid "Inflicts significant damage to blocked enemies."
-msgstr ""
+msgstr "Menimbulkan serangan signifikan kepada musuh yang menahan."
 
 #. ParryShield (name)
 #.
@@ -7161,7 +7170,7 @@ msgstr ""
 #. msgid "Bouclier de contre"
 #: res/data.cdb:item/#95.name
 msgid "Counter shield"
-msgstr ""
+msgstr "Counter Shield"
 
 #. ParryShield (gameplayDesc)
 #.
@@ -7174,6 +7183,8 @@ msgid ""
 "Can not be held up permanently. Deflected grenades and shots are sent back "
 "with more power."
 msgstr ""
+"Tidak dapat ditahan selamanya. granat dan panah yang ditepis dikembalikan "
+"dengan kekuatan yang lebih kuat. "
 
 #. HoldShield (name)
 #.
@@ -7181,7 +7192,7 @@ msgstr ""
 #. msgid "Bouclier de première ligne"
 #: res/data.cdb:item/#96.name
 msgid "Front line shield"
-msgstr ""
+msgstr "Front Line Shield"
 
 #. HoldShield (gameplayDesc)
 #.
@@ -7191,7 +7202,7 @@ msgstr ""
 #. "Parade."
 #: res/data.cdb:item/#96.gameplayDesc
 msgid "Absorbes extra damage. Can not be used to parry."
-msgstr ""
+msgstr "Menahan serangan tambahan. Tidak dapat digunakan untuk parrying."
 
 #. PrisonerCloth (name)
 #.
@@ -7199,7 +7210,7 @@ msgstr ""
 #. msgid "Collier de prisonnier"
 #: res/data.cdb:item/#97.name
 msgid "Prisoner's collar"
-msgstr ""
+msgstr "Prisoner's Collar"
 
 #. PrisonerCloth (ambiantDesc)
 #.
@@ -7207,7 +7218,7 @@ msgstr ""
 #. msgid "Rien de notable, si ce n'est une odeur persistante de rat crevé."
 #: res/data.cdb:item/#97.ambiantDesc
 msgid "Nothing worth mentioning, except maybe a vague whiff of dead rat..."
-msgstr ""
+msgstr "Tidak ada apapun, kecuali bau bangkai tikus."
 
 #. Talisman1 (name)
 #.
@@ -7215,7 +7226,7 @@ msgstr ""
 #. msgid "Talisman de rubis"
 #: res/data.cdb:item/#98.name
 msgid "Ruby amulet"
-msgstr ""
+msgstr "Gelang Ruby"
 
 #. Talisman1 (gameplayDesc)
 #.
@@ -7229,6 +7240,7 @@ msgstr ""
 msgid ""
 "You may only equip one amulet at a time, but their effects are powerful..."
 msgstr ""
+"Kamu hanya dapat memakai satu gelang saja, namun efeknya sangat kuat..."
 
 #. Talisman1 (ambiantDesc)
 #.
@@ -7243,6 +7255,8 @@ msgid ""
 "A fine object, adroitly hidden under your clothes to make less work for the "
 "artists."
 msgstr ""
+"Benda yang sangat berharga, tersembunyi didalam baju agar artistnya tidak "
+"kelelahan."
 
 #. Talisman2 (name)
 #.
@@ -7250,7 +7264,7 @@ msgstr ""
 #. msgid "Talisman de topaze"
 #: res/data.cdb:item/#99.name
 msgid "Topaz amulet"
-msgstr ""
+msgstr "Kalung Topaz"
 
 #. Talisman3 (name)
 #.
@@ -7258,7 +7272,7 @@ msgstr ""
 #. msgid "Talisman de saphir"
 #: res/data.cdb:item/#100.name
 msgid "Sapphire amulet"
-msgstr ""
+msgstr "Kalung Sapphire"
 
 #. Talisman4 (name)
 #.
@@ -7266,7 +7280,7 @@ msgstr ""
 #. msgid "Talisman aurifère"
 #: res/data.cdb:item/#101.name
 msgid "Golden amulet"
-msgstr ""
+msgstr "Kalung Emas"
 
 #. Talisman5 (name)
 #.
@@ -7274,7 +7288,7 @@ msgstr ""
 #. msgid "Talisman de pierre de lune"
 #: res/data.cdb:item/#102.name
 msgid "Moonstone amulet"
-msgstr ""
+msgstr "Kalung Moonstone"
 
 #. Immortality (name)
 #.
@@ -7282,7 +7296,7 @@ msgstr ""
 #. msgid "\"Ygdar Orus Li Ox !\""
 #: res/data.cdb:item/#103.name
 msgid "\"Ygdar Orus Li Ox !\""
-msgstr ""
+msgstr "\"Ygdar Orus Li Ox !\""
 
 #. Immortality (gameplayDesc)
 #.
@@ -7290,7 +7304,7 @@ msgstr ""
 #. msgid "Vous sauve la vie UNE fois (inefficace contre les Malédictions)."
 #: res/data.cdb:item/#103.gameplayDesc
 msgid "Saves your life ONCE. Does NOT work against Curses."
-msgstr ""
+msgstr "Menyelamatkan hidupmu sekali, tidak bekerja saat terkutuk."
 
 #. Immortality (ambiantDesc)
 #.
@@ -7298,7 +7312,7 @@ msgstr ""
 #. msgid "Qui a dit qu'on ne pouvait pas tromper la mort ?"
 #: res/data.cdb:item/#103.ambiantDesc
 msgid "Who says you can't cheat Death?"
-msgstr ""
+msgstr "Siapa bilang hidup cuma satu kali?"
 
 #. GenericKey (name)
 #.
@@ -7306,7 +7320,7 @@ msgstr ""
 #. msgid "Clé"
 #: res/data.cdb:item/#104.name
 msgid "Key"
-msgstr ""
+msgstr "Kunci"
 
 #. GenericKey (gameplayDesc)
 #.
@@ -7314,7 +7328,7 @@ msgstr ""
 #. msgid "Ouvre les portes verrouillées (original, non ?)"
 #: res/data.cdb:item/#104.gameplayDesc
 msgid "Unlocks doors. Who would have guessed?"
-msgstr ""
+msgstr "Membuka pintu, hebat bukan?"
 
 #. CemeteryKey (name)
 #.
@@ -7322,7 +7336,7 @@ msgstr ""
 #. msgid "Clé du cimetière"
 #: res/data.cdb:item/#105.name
 msgid "Graveyard key"
-msgstr ""
+msgstr "Kunci Kuburan"
 
 #. CemeteryKey (gameplayDesc)
 #.
@@ -7330,7 +7344,7 @@ msgstr ""
 #. msgid "Ouvre les portes des enfers..."
 #: res/data.cdb:item/#105.gameplayDesc
 msgid "Open the gates of Hell..."
-msgstr ""
+msgstr "Membuka pintu neraka..."
 
 #. CryptKey (name)
 #.
@@ -7338,7 +7352,7 @@ msgstr ""
 #. msgid "Clé de la crypte"
 #: res/data.cdb:item/#106.name
 msgid "Crypt key"
-msgstr ""
+msgstr "Kunci Peti"
 
 #. CryptKey (gameplayDesc)
 #.
@@ -7346,7 +7360,7 @@ msgstr ""
 #. msgid "Elle semble très ancienne."
 #: res/data.cdb:item/#106.gameplayDesc
 msgid "It seems to be very old."
-msgstr ""
+msgstr "Sepertinya sangat tua."
 
 #. CemSecretKey (name)
 #.
@@ -7354,7 +7368,7 @@ msgstr ""
 #. msgid "Clé de l'architecte"
 #: res/data.cdb:item/#107.name
 msgid "Architect's key"
-msgstr ""
+msgstr "Kunci Arsitek"
 
 #. CemSecretKey (gameplayDesc)
 #.
@@ -7362,7 +7376,7 @@ msgstr ""
 #. msgid "Trouvée dans un mur, reste à savoir à quoi elle sert."
 #: res/data.cdb:item/#107.gameplayDesc
 msgid "Found in a wall... Now to find out what it's for..."
-msgstr ""
+msgstr "Ditemukan disebuah tembok.. sekarang untuk apa ya?"
 
 #. VillageKey (name)
 #.
@@ -7370,7 +7384,7 @@ msgstr ""
 #. msgid "Clé du village"
 #: res/data.cdb:item/#108.name
 msgid "Village key"
-msgstr ""
+msgstr "Kunci Perdesaan"
 
 #. TowerKey (name)
 #.
@@ -7378,7 +7392,7 @@ msgstr ""
 #. msgid "Clé de l'horloger"
 #: res/data.cdb:item/#109.name
 msgid "Watchmaker's key"
-msgstr ""
+msgstr "Kunci Pengawas"
 
 #. TowerSecretKey (name)
 #.
@@ -7386,7 +7400,7 @@ msgstr ""
 #. msgid "Clé du Clocher"
 #: res/data.cdb:item/#110.name
 msgid "Clocktower key"
-msgstr ""
+msgstr "Kunci Menara Jam"
 
 #. CourtyardKey (name)
 #.
@@ -7394,7 +7408,7 @@ msgstr ""
 #. msgid "Clé du jardinier"
 #: res/data.cdb:item/#111.name
 msgid "Gardener's key"
-msgstr ""
+msgstr "Kunci Tukang Kebun"
 
 #. ChristmasKey (name)
 #.
@@ -7402,7 +7416,7 @@ msgstr ""
 #. msgid "Clé du fou"
 #: res/data.cdb:item/#112.name
 msgid "Fool key"
-msgstr ""
+msgstr "Kunci Orang Bodoh"
 
 #. SurvivalUp (name)
 #.
@@ -7410,7 +7424,7 @@ msgstr ""
 #. msgid "Survie +1"
 #: res/data.cdb:item/#113.name
 msgid "Survival +1"
-msgstr ""
+msgstr "Survival +1"
 
 #. SurvivalUp (gameplayDesc)
 #.
@@ -7418,7 +7432,7 @@ msgstr ""
 #. msgid "Augmente les points de vie."
 #: res/data.cdb:item/#113.gameplayDesc
 msgid "Increase health."
-msgstr ""
+msgstr "Meningkatkan nyawa."
 
 #. BrutalityUp (name)
 #.
@@ -7426,7 +7440,7 @@ msgstr ""
 #. msgid "Brutalité +1"
 #: res/data.cdb:item/#114.name
 msgid "Brutality +1"
-msgstr ""
+msgstr "Brutalitas +1"
 
 #. BrutalityUp (gameplayDesc)
 #.
@@ -7434,7 +7448,7 @@ msgstr ""
 #. msgid "Augmente les dégâts des armes."
 #: res/data.cdb:item/#114.gameplayDesc
 msgid "Increase weapon damage."
-msgstr ""
+msgstr "Meningkatkan damage senjata."
 
 #. TacticUp (name)
 #.
@@ -7442,7 +7456,7 @@ msgstr ""
 #. msgid "Tactique +1"
 #: res/data.cdb:item/#115.name
 msgid "Tactics +1"
-msgstr ""
+msgstr "Taktik +1"
 
 #. TacticUp (gameplayDesc)
 #.
@@ -7453,6 +7467,8 @@ msgstr ""
 #: res/data.cdb:item/#115.gameplayDesc
 msgid "Increase active skill damage and reduce their cooldown timer."
 msgstr ""
+"Semua skill aktif tertingkat damagenya dan cooldownnya diren "
+"dahi"
 
 #. LadderKey (name)
 #.
@@ -7460,7 +7476,7 @@ msgstr ""
 #. msgid "Rune des vignes"
 #: res/data.cdb:item/#116.name
 msgid "Vine rune"
-msgstr ""
+msgstr "Sajak Perambat"
 
 #. LadderKey (gameplayDesc)
 #.
@@ -7469,7 +7485,7 @@ msgstr ""
 #. "Cette RUNE PERMANENTE vous permet de faire pousser des vignes grimpantes."
 #: res/data.cdb:item/#116.gameplayDesc
 msgid "This rune PERMANENTLY gives you the ability to grow climbable vines."
-msgstr ""
+msgstr "Sajak ini secara permanen memberimu kemampuan untuk merambat."
 
 #. TeleportKey (name)
 #.
@@ -7477,7 +7493,7 @@ msgstr ""
 #. msgid "Rune de téléportation"
 #: res/data.cdb:item/#117.name
 msgid "Teleportation rune"
-msgstr ""
+msgstr "Sajak Teleportasi"
 
 #. TeleportKey (gameplayDesc)
 #.
@@ -7486,7 +7502,7 @@ msgstr ""
 #: res/data.cdb:item/#117.gameplayDesc
 msgid ""
 "This rune PERMANENTLY gives you the ability to use the teleportation tombs."
-msgstr ""
+msgstr "Sajak ini secara permanen memberikan akses untuk teleportasi."
 
 #. ScoringKey (name)
 #.
