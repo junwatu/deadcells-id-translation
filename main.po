@@ -7510,7 +7510,7 @@ msgstr "Sajak ini secara permanen memberikan akses untuk teleportasi."
 #. msgid "Rune du Challenger"
 #: res/data.cdb:item/#118.name
 msgid "Challenger Rune"
-msgstr ""
+msgstr "Sajak Tantangan"
 
 #. ScoringKey (gameplayDesc)
 #.
@@ -7523,6 +7523,8 @@ msgid ""
 "This PERMANENTE RUNE unlocks the door leading to the daily run in the "
 "Prisoners' Cells."
 msgstr ""
+"Sajak ini memperbolehkan akses untuk melakukan daily di Sel Tawanan "
+"secara PERMANEN."
 
 #. BreakableGroundKey (name)
 #.
@@ -7530,7 +7532,7 @@ msgstr ""
 #. msgid "Rune du Bélier"
 #: res/data.cdb:item/#119.name
 msgid "Belier's Rune"
-msgstr ""
+msgstr "Sajak Belier"
 
 #. BreakableGroundKey (gameplayDesc)
 #.
@@ -7540,6 +7542,8 @@ msgstr ""
 msgid ""
 "This rune PERMANENTLY gives you the ability to break through fragile ground."
 msgstr ""
+"Sajak ini memberi kemampuan untuk menghancurkan tanah yang rapuh secara "
+"PERMANEN."
 
 #. WallJumpKey (name)
 #.
@@ -7547,7 +7551,7 @@ msgstr ""
 #. msgid "Rune de l'Araignée"
 #: res/data.cdb:item/#120.name
 msgid "The Spider's Rune"
-msgstr ""
+msgstr "Sajak Laba Laba"
 
 #. WallJumpKey (gameplayDesc)
 #.
@@ -7556,6 +7560,8 @@ msgstr ""
 #: res/data.cdb:item/#120.gameplayDesc
 msgid "This rune PERMANENTLY gives you the ability to climb walls."
 msgstr ""
+"Sajak ini memberikan kemampuan untuk memanjat tembok secara PERMANEN."
+
 
 #. Flask1 (name)
 #.
@@ -7563,7 +7569,7 @@ msgstr ""
 #. msgid "Potion de soin I"
 #: res/data.cdb:item/#121.name
 msgid "Healing Potion I"
-msgstr ""
+msgstr "Ramuan Vitalitas I"
 
 #. Flask1 (name)
 #.
@@ -7571,7 +7577,7 @@ msgstr ""
 #. msgid "Potion de soin I"
 #: res/data.cdb:item/#121.name
 msgid "Health flask I"
-msgstr ""
+msgstr "Botol Vitalitas I"
 
 #. Flask1 (gameplayDesc)
 #.
@@ -7580,6 +7586,7 @@ msgstr ""
 #: res/data.cdb:item/#121.gameplayDesc
 msgid "You now own a health flask you can use at any time."
 msgstr ""
+"Kamu sekarang mempunya Botol Vitalitas yang dapat dipakai kapanpun."
 
 #. Flask2 (name)
 #.
@@ -7587,7 +7594,7 @@ msgstr ""
 #. msgid "Potion de soin II"
 #: res/data.cdb:item/#122.name
 msgid "Healing Potion II"
-msgstr ""
+msgstr "Ramuan Vitalitas II"
 
 #. Flask2 (name)
 #.
@@ -7595,7 +7602,7 @@ msgstr ""
 #. msgid "Potion de soin II"
 #: res/data.cdb:item/#122.name
 msgid "Health flask II"
-msgstr ""
+msgstr "Botol Vitalitas II"
 
 #. Flask2 (gameplayDesc)
 #.
@@ -7603,7 +7610,7 @@ msgstr ""
 #. msgid "Votre fiole de soin peut être utilisée 2 fois."
 #: res/data.cdb:item/#122.gameplayDesc
 msgid "Your health flask now has 2 charges."
-msgstr ""
+msgstr "Sekarang dapat dipakai sebanyak dua kali."
 
 #. Flask3 (name)
 #.
@@ -7611,7 +7618,7 @@ msgstr ""
 #. msgid "Potion de soin III"
 #: res/data.cdb:item/#123.name
 msgid "Healing Potion III"
-msgstr ""
+msgstr "Ramuan Vitalitas III"
 
 #. Flask3 (name)
 #.
@@ -7619,7 +7626,7 @@ msgstr ""
 #. msgid "Potion de soin III"
 #: res/data.cdb:item/#123.name
 msgid "Health flask III"
-msgstr ""
+msgstr "Botol Vitalitas III"
 
 #. Flask3 (gameplayDesc)
 #.
@@ -7627,7 +7634,7 @@ msgstr ""
 #. msgid "Votre fiole de soin peut être utilisée 3 fois."
 #: res/data.cdb:item/#123.gameplayDesc
 msgid "Your health flask now has 3 charges."
-msgstr ""
+msgstr "Sekarang dapat dipakai sebanyak tiga kali."
 
 #. Flask4 (name)
 #.
@@ -7635,7 +7642,7 @@ msgstr ""
 #. msgid "Potion de soin IV"
 #: res/data.cdb:item/#124.name
 msgid "Healing Potion IV"
-msgstr ""
+msgstr "Ramuan Vitalitas IV"
 
 #. Flask4 (name)
 #.
@@ -7643,7 +7650,7 @@ msgstr ""
 #. msgid "Potion de soin IV"
 #: res/data.cdb:item/#124.name
 msgid "Health flask IV"
-msgstr ""
+msgstr "Botol Vitalitas IV"
 
 #. Flask4 (gameplayDesc)
 #.
@@ -7651,7 +7658,7 @@ msgstr ""
 #. msgid "Votre fiole de soin peut être utilisée 4 fois."
 #: res/data.cdb:item/#124.gameplayDesc
 msgid "Your health flask now has four charges."
-msgstr ""
+msgstr "Sekarang dapat dipakai sebanyak empat kali."
 
 #. Money1 (name)
 #.
@@ -7659,7 +7666,7 @@ msgstr ""
 #. msgid "Sauvetage de l'or I"
 #: res/data.cdb:item/#125.name
 msgid "Gold recovery I"
-msgstr ""
+msgstr "Pengembalian Emas I"
 
 #. Money1 (gameplayDesc)
 #.
@@ -7669,6 +7676,7 @@ msgstr ""
 #: res/data.cdb:item/#127.gameplayDesc res/data.cdb:item/#128.gameplayDesc
 msgid "You conserve up to ::power:: GOLD when you die."
 msgstr ""
+"Emas secara otomatis tertabung sebanyak ::power:: ketika mati"
 
 #. Money2 (name)
 #.
@@ -7676,7 +7684,7 @@ msgstr ""
 #. msgid "Sauvetage de l'or II"
 #: res/data.cdb:item/#126.name
 msgid "Gold recovery II"
-msgstr ""
+msgstr "Pengembalian Emas II"
 
 #. Money3 (name)
 #.
@@ -7684,7 +7692,7 @@ msgstr ""
 #. msgid "Sauvetage de l'or III"
 #: res/data.cdb:item/#127.name
 msgid "Gold recovery III"
-msgstr ""
+msgstr "Pengembalian Emas III"
 
 #. Money4 (name)
 #.
@@ -7692,7 +7700,7 @@ msgstr ""
 #. msgid "Sauvetage de l'or IV"
 #: res/data.cdb:item/#128.name
 msgid "Gold recovery IV"
-msgstr ""
+msgstr "Pengembalian Emas IV"
 
 #. RandomBow (name)
 #.
@@ -7700,7 +7708,7 @@ msgstr ""
 #. msgid "Arc de départ aléatoire"
 #: res/data.cdb:item/#129.name
 msgid "Random starter bow"
-msgstr ""
+msgstr "Panah awalan acak"
 
 #. RandomBow (gameplayDesc)
 #.
@@ -7708,7 +7716,7 @@ msgstr ""
 #. msgid "L'arc de départ est tiré aléatoirement parmi vos arcs débloqués."
 #: res/data.cdb:item/#129.gameplayDesc
 msgid "The starting bow is randomly drawn from those you have unlocked."
-msgstr ""
+msgstr "Kamu memulai dengan panah yang terpilih secara acak."
 
 #. RandomShield (name)
 #.
@@ -7716,7 +7724,7 @@ msgstr ""
 #. msgid "Bouclier de départ aléatoire"
 #: res/data.cdb:item/#130.name
 msgid "Random starter shield"
-msgstr ""
+msgstr "Tameng pilihan acak"
 
 #. RandomShield (gameplayDesc)
 #.
@@ -7725,7 +7733,7 @@ msgstr ""
 #. "Le bouclier de départ est tiré aléatoirement parmi vos boucliers débloqués."
 #: res/data.cdb:item/#130.gameplayDesc
 msgid "The starting shield is randomly drawn from those you have unlocked."
-msgstr ""
+msgstr "Kamu memulai dengan tameng yang terpilih secara acak."
 
 #. RandomCC (name)
 #.
@@ -7733,7 +7741,7 @@ msgstr ""
 #. msgid "Arme de mélée aléatoire"
 #: res/data.cdb:item/#131.name
 msgid "Random melee weapon"
-msgstr ""
+msgstr "Senjata pilihan acak"
 
 #. RandomCC (gameplayDesc)
 #.
@@ -7742,7 +7750,7 @@ msgstr ""
 #. "L'arme de mélée de départ est tirée aléatoirement parmi vos armes débloquées."
 #: res/data.cdb:item/#131.gameplayDesc
 msgid "The starting weapon is randomly drawn from those you have unlocked."
-msgstr ""
+msgstr "Kamu memulai dengan senjata yang terpilih secara acak"
 
 #. Recycling1 (name)
 #.
@@ -7750,7 +7758,7 @@ msgstr ""
 #. msgid "Recyclage I"
 #: res/data.cdb:item/#132.name
 msgid "Recycling I"
-msgstr ""
+msgstr "Pendauran Ulang I"
 
 #. Recycling1 (gameplayDesc)
 #.
@@ -7763,6 +7771,8 @@ msgid ""
 "You can transform the items you find on the ground or in chests into gold "
 "(at ::prct::% of the sale price)."
 msgstr ""
+"Kamu dapat mendaur ulang barang yang kamu temukan menjadi emas (::prct::% "
+"dari harga barang).
 
 #. Recycling2 (name)
 #.
@@ -7770,7 +7780,7 @@ msgstr ""
 #. msgid "Recyclage II"
 #: res/data.cdb:item/#133.name
 msgid "Recycling II"
-msgstr ""
+msgstr "Pendauran Ulang II"
 
 #. ShopRerolls (name)
 #.
@@ -7778,7 +7788,7 @@ msgstr ""
 #. msgid "Renouvellement des stocks"
 #: res/data.cdb:item/#134.name
 msgid "Stockchange"
-msgstr ""
+msgstr "Penggantian Stock"
 
 #. ShopRerolls (gameplayDesc)
 #.
@@ -7790,6 +7800,7 @@ msgstr ""
 msgid ""
 "You can refresh the contents of a shop, for a completely reasonable price..."
 msgstr ""
+"Kamu dapat mengulang isi dari sebuah toko, untuk harga yang sangat wwajar..."
 
 #. ShopCategories (name)
 #.
