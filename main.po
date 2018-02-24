@@ -7808,7 +7808,7 @@ msgstr ""
 #. msgid "Catégories de marchandises"
 #: res/data.cdb:item/#135.name
 msgid "Merchandise category"
-msgstr ""
+msgstr "Kategori Barang"
 
 #. ShopCategories (gameplayDesc)
 #.
@@ -7821,6 +7821,8 @@ msgid ""
 "The merchants offer a certain category of items when you meet them from now "
 "on."
 msgstr ""
+"Para pedagang akan menawarkan berbagai macam barang ketika kau menemui "
+"mereka mulai dari sekarang."
 
 #. PokebombUnlock (gameplayDesc)
 #.
@@ -7833,14 +7835,15 @@ msgid ""
 "Unlocks a special item, the \"Hunter's Grenade\" in the Prison Cells. The "
 "grenade allows you to hunt for rare Blueprints more easily."
 msgstr ""
-
+"Membuka barang spesial, \"Granat Pemburu"\ di sel tawanan. Granat ini mem "
+"perbolehkan anda untuk mencari Blueprint langkah dengan mudah."
 #. BossRune1 (gameplayDesc)
 #.
 #. --------
 #. msgid "Cellule Souche de l'Assassin"
 #: res/data.cdb:item/#137.gameplayDesc
 msgid "Assassin's Source Cell"
-msgstr ""
+msgstr "Source Cell Assassin"
 
 #. BossRune2 (gameplayDesc)
 #.
@@ -7848,7 +7851,7 @@ msgstr ""
 #. msgid "Cellule Souche de l'Inachevé"
 #: res/data.cdb:item/#138.gameplayDesc
 msgid "The Incomplete One's Source Cell"
-msgstr ""
+msgstr "Source Cell Yang Tidak Sempurna"
 
 #. BossRune3 (gameplayDesc)
 #.
@@ -7856,7 +7859,7 @@ msgstr ""
 #. msgid "Cellule Souche du Guetteur"
 #: res/data.cdb:item/#139.gameplayDesc
 msgid "The Watcher's Source Cell"
-msgstr ""
+msgstr "Source Cell Sang Pengawas"
 
 #. BossRune4 (name)
 #.
@@ -7864,7 +7867,7 @@ msgstr ""
 #. msgid "BossRune4"
 #: res/data.cdb:item/#140.name
 msgid "BossRune4"
-msgstr ""
+msgstr "BossRune4"
 
 #. BossRune4 (gameplayDesc)
 #.
@@ -7872,7 +7875,7 @@ msgstr ""
 #. msgid "UNUSED"
 #: res/data.cdb:item/#140.gameplayDesc res/data.cdb:item/#141.gameplayDesc
 msgid "UNUSED"
-msgstr ""
+msgstr "UNUSED"
 
 #. BossRune5 (name)
 #.
@@ -7880,7 +7883,7 @@ msgstr ""
 #. msgid "BossRune5"
 #: res/data.cdb:item/#141.name
 msgid "BossRune5"
-msgstr ""
+msgstr "BossRune5"
 
 #. AnyUp (name)
 #.
@@ -7888,7 +7891,7 @@ msgstr ""
 #. msgid "Parchemin de puissance"
 #: res/data.cdb:item/#142.name
 msgid "Scroll of power"
-msgstr ""
+msgstr "Scroll kekuatan"
 
 #. AnyUp (gameplayDesc)
 #.
@@ -7896,7 +7899,7 @@ msgstr ""
 #. msgid "Améliore l'une de vos 3 caractéristiques au choix !"
 #: res/data.cdb:item/#142.gameplayDesc
 msgid "Choose one of your three stats to improve!"
-msgstr ""
+msgstr "Pilih salah satu dari tiga stats untuk"
 
 #. BTUp (name)
 #.
@@ -7904,7 +7907,7 @@ msgstr ""
 #. msgid "Parchemin de l'Assassin"
 #: res/data.cdb:item/#143.name
 msgid "Scroll of the Assassin"
-msgstr ""
+msgstr "Scroll Sang Assassin"
 
 #. BTUp (gameplayDesc)
 #.
@@ -7912,7 +7915,7 @@ msgstr ""
 #. msgid "Améliore au choix votre Brutalité ou votre Tactique."
 #: res/data.cdb:item/#143.gameplayDesc
 msgid "Allows you to improve either Brutality or Tactics."
-msgstr ""
+msgstr "Dapat memperhebat Brutalitas atau Taktik."
 
 #. BSUp (name)
 #.
@@ -7920,7 +7923,7 @@ msgstr ""
 #. msgid "Parchemin du Minotaure"
 #: res/data.cdb:item/#144.name
 msgid "The Minotaur's Scroll"
-msgstr ""
+msgstr "Scroll Sang Minotaur"
 
 #. BSUp (gameplayDesc)
 #.
@@ -7928,7 +7931,7 @@ msgstr ""
 #. msgid "Améliore au choix votre Brutalité ou votre Survie."
 #: res/data.cdb:item/#144.gameplayDesc
 msgid "Allows you to improve either Brutality or Survival."
-msgstr ""
+msgstr "Dapat memperhebat Brutalitas atau Survival"
 
 #. TSUp (name)
 #.
@@ -7936,7 +7939,7 @@ msgstr ""
 #. msgid "Parchemin du Gardien"
 #: res/data.cdb:item/#145.name
 msgid "Guardian's Scroll"
-msgstr ""
+msgstr "Scroll Pelindung"
 
 #. TSUp (gameplayDesc)
 #.
@@ -7944,7 +7947,7 @@ msgstr ""
 #. msgid "Améliore au choix votre Tactique ou votre Survie."
 #: res/data.cdb:item/#145.gameplayDesc
 msgid "Allows you to improve either Tactics or Survival."
-msgstr ""
+msgstr "Dapat memperhebat Taktik atau Survival"
 
 #. AllUp (name)
 #.
@@ -7952,7 +7955,7 @@ msgstr ""
 #. msgid "Parchemin de puissance épique"
 #: res/data.cdb:item/#146.name
 msgid "Epic scroll of power"
-msgstr ""
+msgstr "Epic scroll of Power"
 
 #. AllUp (gameplayDesc)
 #.
@@ -7960,7 +7963,7 @@ msgstr ""
 #. msgid "Améliore vos 3 caractéristiques. Oui, oui, les 3 !"
 #: res/data.cdb:item/#146.gameplayDesc
 msgid "Improve your 3 stats. Yes, the 3!"
-msgstr ""
+msgstr "Meningkatkan semua stat. Iya, semua!"
 
 #. DeathMoney (name)
 #.
@@ -7968,7 +7971,7 @@ msgstr ""
 #. msgid "Sac du déchu"
 #: res/data.cdb:item/#147.name
 msgid "Dead man's purse"
-msgstr ""
+msgstr "Dead Man's Purse"
 
 #. DeathMoney (gameplayDesc)
 #.
@@ -7977,7 +7980,7 @@ msgstr ""
 #. "Ce sac contient l'or que vous aviez lors de votre précédente... tentative."
 #: res/data.cdb:item/#147.gameplayDesc
 msgid "This bag contains some of the gold from a previous life."
-msgstr ""
+msgstr "Tas ini mengandung beberapa emas dari kehidupan sebelumnya."
 
 #. GemPack (name)
 #.
@@ -7986,7 +7989,7 @@ msgstr ""
 #: res/data.cdb:item/#148.name res/data.cdb:item/#148.gameplayDesc
 #: res/data.cdb:item/#149.name res/data.cdb:item/#149.gameplayDesc
 msgid "NOT MEANT TO BE SEEN"
-msgstr ""
+msgstr "NOT MEANT TO BE SEEN"
 
 #. SmallMeat (name)
 #.
@@ -7994,7 +7997,7 @@ msgstr ""
 #. msgid "Brochette"
 #: res/data.cdb:item/#150.name
 msgid "Kebab"
-msgstr ""
+msgstr "Kebab"
 
 #. SmallMeat (gameplayDesc)
 #.
@@ -8006,7 +8009,7 @@ msgstr ""
 #: res/data.cdb:item/#156.gameplayDesc res/data.cdb:item/#157.gameplayDesc
 #: res/data.cdb:item/#158.gameplayDesc res/data.cdb:item/#159.gameplayDesc
 msgid "Restores ::prct::% HP."
-msgstr ""
+msgstr "Memulihkan ::prct::% HP"
 
 #. LargeMeat (name)
 #.
@@ -8014,7 +8017,7 @@ msgstr ""
 #. msgid "Grosse volaille"
 #: res/data.cdb:item/#151.name
 msgid "Chicken"
-msgstr ""
+msgstr "Ayam"
 
 #. SmallVeggie (name)
 #.
@@ -8022,7 +8025,7 @@ msgstr ""
 #. msgid "Carotte"
 #: res/data.cdb:item/#152.name
 msgid "Carrot"
-msgstr ""
+msgstr "Wortel"
 
 #. LargeVeggie (name)
 #.
@@ -8030,7 +8033,7 @@ msgstr ""
 #. msgid "Gros radis"
 #: res/data.cdb:item/#153.name
 msgid "Big ol' radish"
-msgstr ""
+msgstr "Lobak yang Besar"
 
 #. SmallMonster (name)
 #.
@@ -8038,7 +8041,7 @@ msgstr ""
 #. msgid "Viscères"
 #: res/data.cdb:item/#154.name
 msgid "Guts"
-msgstr ""
+msgstr "Usus"
 
 #. LargeMonster (name)
 #.
@@ -8046,7 +8049,7 @@ msgstr ""
 #. msgid "Gros oeil"
 #: res/data.cdb:item/#155.name
 msgid "Monster's eye"
-msgstr ""
+msgstr "Mata Monster"
 
 #. SmallFruit (name)
 #.
@@ -8054,7 +8057,7 @@ msgstr ""
 #. msgid "Cerises"
 #: res/data.cdb:item/#156.name
 msgid "Cherry"
-msgstr ""
+msgstr "Ceri"
 
 #. LargeFruit (name)
 #.
@@ -8062,7 +8065,7 @@ msgstr ""
 #. msgid "Pastèque"
 #: res/data.cdb:item/#157.name
 msgid "Watermelon"
-msgstr ""
+msgstr "Semangka"
 
 #. SmallCastlevania (name)
 #.
@@ -8070,7 +8073,7 @@ msgstr ""
 #. msgid "Patisserie"
 #: res/data.cdb:item/#158.name
 msgid "Cakes"
-msgstr ""
+msgstr "Kue"
 
 #. LargeCastlevania (name)
 #.
@@ -8078,7 +8081,7 @@ msgstr ""
 #. msgid "Dinde"
 #: res/data.cdb:item/#159.name
 msgid "Turkey"
-msgstr ""
+msgstr "Kalkun"
 
 #. FlaskRefill (name)
 #.
@@ -8086,7 +8089,7 @@ msgstr ""
 #. msgid "Recharge de potion"
 #: res/data.cdb:item/#160.name
 msgid "Flask rechage"
-msgstr ""
+msgstr "Pengisi Ulang Botol Vitalitas"
 
 #. FlaskRefill (gameplayDesc)
 #.
@@ -8094,7 +8097,7 @@ msgstr ""
 #. msgid "Restitue 1 charge de potion."
 #: res/data.cdb:item/#160.gameplayDesc
 msgid "Restores 1 health flask charge."
-msgstr ""
+msgstr "Memulihkan 1 porsi botol vitalitas"
 
 #. ComboMultDrop (gameplayDesc)
 #.
@@ -8102,7 +8105,7 @@ msgstr ""
 #. msgid "Ajoute un bonus de points"
 #: res/data.cdb:item/#161.gameplayDesc
 msgid "Add extra points"
-msgstr ""
+msgstr "Menambah poin tambahan"
 
 #. LoreNotes (name)
 #.
