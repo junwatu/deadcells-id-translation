@@ -8509,7 +8509,7 @@ msgstr "Serangan balasan setelah parrying menimbulkan +::power:: damage."
 #. msgid "Encaissement"
 #: res/data.cdb:item/#186.name
 msgid "Absorption"
-msgstr ""
+msgstr "Penyerapan"
 
 #. P_HealOnParry (gameplayDesc)
 #.
@@ -8517,7 +8517,7 @@ msgstr ""
 #. msgid "+::+power:: PV après une parade au bouclier."
 #: res/data.cdb:item/#186.gameplayDesc
 msgid "+::+power:: HP after a successful parry with a shield."
-msgstr ""
+msgstr "+::power:: HP setelah sukses parrying dengan tameng."
 
 #. P_HealOnKill (name)
 #.
@@ -8525,7 +8525,7 @@ msgstr ""
 #. msgid "Nécromancie"
 #: res/data.cdb:item/#187.name
 msgid "Necromancy"
-msgstr ""
+msgstr "Necromancy"
 
 #. P_HealOnKill (gameplayDesc)
 #.
@@ -8533,7 +8533,7 @@ msgstr ""
 #. msgid "+::+power:: PV après la mort d'un ennemi."
 #: res/data.cdb:item/#187.gameplayDesc
 msgid "+::+power:: HP when you kill an enemy."
-msgstr ""
+msgstr "+::power:: HP ketika kamu membunuh musuh."
 
 #. P_Hot (name)
 #.
@@ -8541,7 +8541,7 @@ msgstr ""
 #. msgid "Soin prolongé"
 #: res/data.cdb:item/#188.name
 msgid "Prolonged healing"
-msgstr ""
+msgstr "Perpanjangan Pemulihan"
 
 #. P_Hot (gameplayDesc)
 #.
@@ -8554,6 +8554,8 @@ msgid ""
 "Health flasks' healing effect is spread over ::duration:: seconds, but "
 "during this period you deal +::+dps:: extra damage/s."
 msgstr ""
+"Efek penyembuhan Botol Vitalitas tersebar melalui beberapa ::duration:: "
+"detik, namun dps anda bertambah (+::dps::) selama periode ini."
 
 #. P_Food (name)
 #.
@@ -8561,7 +8563,7 @@ msgstr ""
 #. msgid "Gastronomie"
 #: res/data.cdb:item/#189.name
 msgid "Gastronomy"
-msgstr ""
+msgstr "Gastronomi"
 
 #. P_Food (gameplayDesc)
 #.
@@ -8574,6 +8576,8 @@ msgid ""
 "Eating food gives you +::+dps:: damage/s for ::duration:: seconds. The "
 "healing effect is also increased by +::prct::%."
 msgstr ""
+"Memakan makanan memberikanmu +::dps:: dps selama ::duration:: detik. "
+"Efek makanan pun tertingkat sebanyak +::prct::%."
 
 #. P_Ammo (name)
 #.
@@ -8581,7 +8585,7 @@ msgstr ""
 #. msgid "Munitions"
 #: res/data.cdb:item/#190.name
 msgid "Ammunition"
-msgstr ""
+msgstr "Amunisi"
 
 #. P_Ammo (gameplayDesc)
 #.
@@ -8589,7 +8593,7 @@ msgstr ""
 #. msgid "Munitions de vos armes x::power::."
 #: res/data.cdb:item/#190.gameplayDesc
 msgid "::power::x ammunition on your ranged weapons."
-msgstr ""
+msgstr "::power::x amunisi untuk senjata berjarak."
 
 #. P_Yolo (name)
 #.
@@ -8597,7 +8601,7 @@ msgstr ""
 #. msgid "Ygdar Orus Li Ox"
 #: res/data.cdb:item/#191.name
 msgid "Ygdar Orus Li Ox"
-msgstr ""
+msgstr "Ygdar Orus Li Ox"
 
 #. P_Yolo (gameplayDesc)
 #.
@@ -8605,7 +8609,7 @@ msgstr ""
 #. msgid "Vous sauve UNE fois en cas de décès prématuré."
 #: res/data.cdb:item/#191.gameplayDesc
 msgid "Saves you ONCE if you meet a premature end."
-msgstr ""
+msgstr "Menyelamatkan mu sekali ketika kau mati konyol."
 
 #. P_Rally (name)
 #.
@@ -8613,7 +8617,7 @@ msgstr ""
 #. msgid "Récupération"
 #: res/data.cdb:item/#192.name
 msgid "Rally"
-msgstr ""
+msgstr "Rally"
 
 #. P_Rally (gameplayDesc)
 #.
@@ -8626,6 +8630,8 @@ msgid ""
 "The time available to recover your health after taking damage is multiplied "
 "by ::count::."
 msgstr ""
+"Waktu untuk mengembalikan darah mu setelah terkena damage tertambah sebanyak "
+"::count::."
 
 #. P_QuickHeal (name)
 #.
@@ -8633,7 +8639,7 @@ msgstr ""
 #. msgid "Soin d'urgence"
 #: res/data.cdb:item/#193.name
 msgid "Emergency triage"
-msgstr ""
+msgstr "Triage Darurat"
 
 #. P_QuickHeal (gameplayDesc)
 #.
@@ -8646,14 +8652,15 @@ msgid ""
 "Accelerates the use of your health flask by ::prct::% and completely "
 "protects you for ::duration:: seconds."
 msgstr ""
-
+"Mempercepat waktu untuk menggunakan botol vitalitas sebanyak ::prct::% "
+"dan melindungimu selama ::duration:: detik."
 #. P_SpeedBuff (name)
 #.
 #. --------
 #. msgid "Vélocité"
 #: res/data.cdb:item/#194.name
 msgid "Velocity"
-msgstr ""
+msgstr "Velositas"
 
 #. P_SpeedBuff (gameplayDesc)
 #.
@@ -8666,14 +8673,14 @@ msgid ""
 "The speed bonus from killing multiple enemies in a row lasts ::count::x "
 "longer."
 msgstr ""
-
+"Bonus kecepatan dari membunuh musuh bertahan ::count::x lebih lama."
 #. P_Curse (name)
 #.
 #. --------
 #. msgid "Aliénation"
 #: res/data.cdb:item/#195.name
 msgid "Alienation"
-msgstr ""
+msgstr "Alienasi"
 
 #. P_Curse (gameplayDesc)
 #.
@@ -8686,6 +8693,8 @@ msgid ""
 "Curses restore ::prct::% HP and require ::count::x less kills to be rid of "
 "them."
 msgstr ""
+"Kutukan memulihkan ::prct::%HP dan membutuhkan ::count::x pembunuhan lebih "
+"sedikit agar kutukannya hilang. "
 
 #. Zombie (name)
 #.
@@ -8693,7 +8702,7 @@ msgstr ""
 #. msgid "Zombie"
 #: res/data.cdb:mob/#0.name res/data.cdb:mob/#1.name
 msgid "Zombie"
-msgstr ""
+msgstr "Zombie"
 
 #. FastZombie (name)
 #.
@@ -8701,7 +8710,7 @@ msgstr ""
 #. msgid "Zombie coureur"
 #: res/data.cdb:mob/#2.name
 msgid "Running zombie"
-msgstr ""
+msgstr "Zombie berlari"
 
 #. FlyZombie (name)
 #.
@@ -8709,7 +8718,7 @@ msgstr ""
 #. msgid "Zombie purulent"
 #: res/data.cdb:mob/#3.name res/data.cdb:mob/#5.name
 msgid "Host zombie"
-msgstr ""
+msgstr "Zombie Sarang"
 
 #. S_Fly (name)
 #.
@@ -8717,7 +8726,7 @@ msgstr ""
 #. msgid "Mouche à cadavre"
 #: res/data.cdb:mob/#4.name
 msgid "Corpse biter"
-msgstr ""
+msgstr "Penggigit Mayat"
 
 #. S_Worm (name)
 #.
@@ -8725,7 +8734,7 @@ msgstr ""
 #. msgid "Ver à cadavre"
 #: res/data.cdb:mob/#6.name
 msgid "Corpse worm"
-msgstr ""
+msgstr "Cacing Mayat"
 
 #. S_WallEggWorm (name)
 #.
@@ -8733,7 +8742,7 @@ msgstr ""
 #. msgid "Ver tisseur"
 #: res/data.cdb:mob/#7.name
 msgid "Sick worm"
-msgstr ""
+msgstr "Cacing Sakit"
 
 #. EliteSideKick (name)
 #.
@@ -8741,7 +8750,7 @@ msgstr ""
 #. msgid "Lieutenant"
 #: res/data.cdb:mob/#8.name
 msgid "Lieutenant"
-msgstr ""
+msgstr "Letnan"
 
 #. Scorpio (name)
 #.
@@ -8749,7 +8758,7 @@ msgstr ""
 #. msgid "Scorpion"
 #: res/data.cdb:mob/#9.name
 msgid "Scorpion"
-msgstr ""
+msgstr "Kalajengking"
 
 #. Hammer (name)
 #.
@@ -8757,7 +8766,7 @@ msgstr ""
 #. msgid "Hammer"
 #: res/data.cdb:mob/#10.name
 msgid "Mechanical spider"
-msgstr ""
+msgstr "Laba Laba mekanis"
 
 #. Grenader (name)
 #.
@@ -8769,7 +8778,7 @@ msgstr ""
 #. msgid "Emprisonneur"
 #: res/data.cdb:mob/#11.name
 msgid "Grenadier"
-msgstr ""
+msgstr "Granatir"
 
 #. ClusterGrenader (name)
 #.
@@ -8777,7 +8786,7 @@ msgstr ""
 #. msgid "Bombardier"
 #: res/data.cdb:mob/#12.name
 msgid "Bombardier"
-msgstr ""
+msgstr "Bombardir"
 
 #. Archer (name)
 #.
@@ -8785,7 +8794,7 @@ msgstr ""
 #. msgid "Archer mort-vivant"
 #: res/data.cdb:mob/#13.name
 msgid "Undead archer"
-msgstr ""
+msgstr "Mayat Pemanah"
 
 #. Ninja (name)
 #.
@@ -8793,7 +8802,7 @@ msgstr ""
 #. msgid "Traqueur noir"
 #: res/data.cdb:mob/#14.name
 msgid "The tracker"
-msgstr ""
+msgstr "Sang Pelacak"
 
 #. Runner (name)
 #.
@@ -8801,7 +8810,7 @@ msgstr ""
 #. msgid "Coureur"
 #: res/data.cdb:mob/#15.name
 msgid "Phazer"
-msgstr ""
+msgstr "Phazer"
 
 #. LeapingDuelyst (name)
 #.
@@ -8809,7 +8818,7 @@ msgstr ""
 #. msgid "Cannibale"
 #: res/data.cdb:mob/#16.name
 msgid "Canibal"
-msgstr ""
+msgstr "Kanibal"
 
 #. Shield (name)
 #.
@@ -8817,7 +8826,7 @@ msgstr ""
 #. msgid "Porteur de bouclier"
 #: res/data.cdb:mob/#17.name
 msgid "Shield bearer"
-msgstr ""
+msgstr "Pemegang Tameng"
 
 #. SpikedSatyr (name)
 #.
@@ -8825,7 +8834,7 @@ msgstr ""
 #. msgid "Epineux"
 #: res/data.cdb:mob/#19.name
 msgid "Thorny"
-msgstr ""
+msgstr "Throny"
 
 #. Worm (name)
 #.
@@ -8833,7 +8842,7 @@ msgstr ""
 #. msgid "Ver dégoutant"
 #: res/data.cdb:mob/#20.name
 msgid "Ugly worm"
-msgstr ""
+msgstr "Cacing Menjijikan"
 
 #. BatDasher (name)
 #.
@@ -8841,7 +8850,7 @@ msgstr ""
 #. msgid "Chauve-souris"
 #: res/data.cdb:mob/#21.name
 msgid "Bat"
-msgstr ""
+msgstr "Kelelawar"
 
 #. BatKamikaze (name)
 #.
@@ -8849,7 +8858,7 @@ msgstr ""
 #. msgid "Kamikaze"
 #: res/data.cdb:mob/#22.name
 msgid "Kamikaze"
-msgstr ""
+msgstr "Kamikaze"
 
 #. Fly (name)
 #.
@@ -8857,7 +8866,7 @@ msgstr ""
 #. msgid "Bourdon lacérateur"
 #: res/data.cdb:mob/#23.name
 msgid "Flying biter"
-msgstr ""
+msgstr "Penggigit Terbang"
 
 #. Scarecrow (name)
 #.
@@ -8865,7 +8874,7 @@ msgstr ""
 #. msgid "Scarecrow"
 #: res/data.cdb:mob/#24.name
 msgid "Scarecrow"
-msgstr ""
+msgstr "Boneka Sawah"
 
 #. Decoy (name)
 #.
@@ -8873,7 +8882,7 @@ msgstr ""
 #. msgid "Leurre"
 #: res/data.cdb:mob/#25.name
 msgid "Lure"
-msgstr ""
+msgstr "Umpan"
 
 #. BuriedBat (name)
 #.
@@ -8881,7 +8890,7 @@ msgstr ""
 #. msgid "Oiseau des sables"
 #: res/data.cdb:mob/#26.name
 msgid "Sand bird"
-msgstr ""
+msgstr "Burung Pasir"
 
 #. Shielder (name)
 #.
@@ -8889,7 +8898,7 @@ msgstr ""
 #. msgid "Protecteur"
 #: res/data.cdb:mob/#27.name
 msgid "Defender"
-msgstr ""
+msgstr "Sang Pelindung"
 
 #. Comboter (name)
 #.
@@ -8901,7 +8910,7 @@ msgstr ""
 #. msgid "Fouetard"
 #: res/data.cdb:mob/#28.name
 msgid "Slasher"
-msgstr ""
+msgstr "Sang Penyayat"
 
 #. Hooker (name)
 #.
@@ -8909,7 +8918,7 @@ msgstr ""
 #. msgid "Attrapeur"
 #: res/data.cdb:mob/#29.name
 msgid "Catcher"
-msgstr ""
+msgstr "Sang Penangkap"
 
 #. Spawner (name)
 #.
@@ -8917,7 +8926,7 @@ msgstr ""
 #. msgid "Crache-mort"
 #: res/data.cdb:mob/#31.name
 msgid "Death spitter"
-msgstr ""
+msgstr "Peracun Mematikan"
 
 #. Spawnling (name)
 #.
@@ -8925,7 +8934,7 @@ msgstr ""
 #. msgid "Fluide de cadavre"
 #: res/data.cdb:mob/#32.name
 msgid "Spawnling"
-msgstr ""
+msgstr "Anak Cacing"
 
 #. Spinner (name)
 #.
@@ -8933,7 +8942,7 @@ msgstr ""
 #. msgid "Fouetard"
 #: res/data.cdb:mob/#33.name
 msgid "Spinner"
-msgstr ""
+msgstr "Spinner"
 
 #. PirateChief (name)
 #.
@@ -8941,7 +8950,7 @@ msgstr ""
 #. msgid "Chef Pirate"
 #: res/data.cdb:mob/#34.name
 msgid "Pirate captain"
-msgstr ""
+msgstr "Kapten Bajak Laut"
 
 #. Spiker (name)
 #.
@@ -8949,7 +8958,7 @@ msgstr ""
 #. msgid "Empalleur"
 #: res/data.cdb:mob/#35.name
 msgid "Spiker"
-msgstr ""
+msgstr "Spiker"
 
 #. Shocker (name)
 #.
@@ -8957,7 +8966,7 @@ msgstr ""
 #. msgid "Electrocuteur"
 #: res/data.cdb:mob/#36.name
 msgid "Shocker"
-msgstr ""
+msgstr "Pengejut"
 
 #. Mage360 (name)
 #.
@@ -8965,7 +8974,7 @@ msgstr ""
 #. msgid "Inquisiteur"
 #: res/data.cdb:mob/#37.name
 msgid "Inquisitor"
-msgstr ""
+msgstr "Inquisitor"
 
 #. OrbLauncher (name)
 #.
@@ -8973,7 +8982,7 @@ msgstr ""
 #. msgid "Lanceur d'Orbe"
 #: res/data.cdb:mob/#38.name
 msgid "Orb caster"
-msgstr ""
+msgstr "Penyihir"
 
 #. Golem (name)
 #.
@@ -8981,7 +8990,7 @@ msgstr ""
 #. msgid "Golem"
 #: res/data.cdb:mob/#39.name
 msgid "Golem"
-msgstr ""
+msgstr "Golem"
 
 #. Fogger (name)
 #.
@@ -8989,7 +8998,7 @@ msgstr ""
 #. msgid "Masqueur"
 #: res/data.cdb:mob/#40.name
 msgid "Fogger"
-msgstr ""
+msgstr "Pengkabut"
 
 #. Elite (name)
 #.
@@ -8997,7 +9006,7 @@ msgstr ""
 #. msgid "Créature élite"
 #: res/data.cdb:mob/#41.name
 msgid "Elite monster"
-msgstr ""
+msgstr "Monster Elit"
 
 #. Beholder (name)
 #.
