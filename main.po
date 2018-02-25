@@ -8105,7 +8105,7 @@ msgstr "Memulihkan 1 porsi botol vitalitas"
 #. msgid "Ajoute un bonus de points"
 #: res/data.cdb:item/#161.gameplayDesc
 msgid "Add extra points"
-msgstr "Menambah poin tambahan"
+msgstr "Menambahkan poin tambahan"
 
 #. LoreNotes (name)
 #.
@@ -8113,7 +8113,7 @@ msgstr "Menambah poin tambahan"
 #. msgid "Un bout de parchemin"
 #: res/data.cdb:item/#162.name
 msgid "A scrap of parchment"
-msgstr ""
+msgstr "Sebagian dari Perkamen"
 
 #. HugeGem (name)
 #.
@@ -8121,7 +8121,7 @@ msgstr ""
 #. msgid "Rubis"
 #: res/data.cdb:item/#163.name
 msgid "Ruby"
-msgstr ""
+msgstr "Ruby"
 
 #. HugeGem (gameplayDesc)
 #.
@@ -8131,7 +8131,7 @@ msgstr ""
 #. "bagatelle de ::$power:: OR !"
 #: res/data.cdb:item/#163.gameplayDesc
 msgid "An precious gem worth ::$power:: GOLD!"
-msgstr ""
+msgstr "Sebuah batu mulia berharga ::$power:: EMAS!"
 
 #. BigGem (name)
 #.
@@ -8139,7 +8139,7 @@ msgstr ""
 #. msgid "Saphir bleu"
 #: res/data.cdb:item/#164.name res/data.cdb:item/#172.name
 msgid "Blue saphire"
-msgstr ""
+msgstr "Saffir Biru"
 
 #. BigGem (gameplayDesc)
 #.
@@ -8147,7 +8147,7 @@ msgstr ""
 #. msgid "Une magnifique pierre d'une valeur de ::$power:: OR !"
 #: res/data.cdb:item/#164.gameplayDesc
 msgid "A magnificent jewel worth ::$power:: GOLD!"
-msgstr ""
+msgstr "Batu hebat ini berharga ::$power:: EMAS!"
 
 #. MediumGem (name)
 #.
@@ -8155,7 +8155,7 @@ msgstr ""
 #. msgid "Améthyste"
 #: res/data.cdb:item/#165.name res/data.cdb:item/#173.name
 msgid "Amethyst"
-msgstr ""
+msgstr "Amethyst"
 
 #. MediumGem (gameplayDesc)
 #.
@@ -8163,7 +8163,7 @@ msgstr ""
 #. msgid "Cette jolie pierre vous rapportera ::$power:: OR ! Ma précieuuuuse..."
 #: res/data.cdb:item/#165.gameplayDesc
 msgid "This purple stone is worth ::$power:: GOLD! My precioooouuuusssss..."
-msgstr ""
+msgstr "Batu ungu ini berharga ::$power:: EMAS! My preciooooouuuusss..."
 
 #. SmallGem (name)
 #.
@@ -8171,7 +8171,7 @@ msgstr ""
 #. msgid "Malachite"
 #: res/data.cdb:item/#166.name res/data.cdb:item/#174.name
 msgid "Malachite"
-msgstr ""
+msgstr "Malachite"
 
 #. SmallGem (gameplayDesc)
 #.
@@ -8183,6 +8183,7 @@ msgid ""
 "Probably fake, but you should be able to trick a poor soul into buying it "
 "for ::$power:: GOLD."
 msgstr ""
+"Mungkin palsu, namun anda tetap menjualnya seharga ::$power:: EMAS."
 
 #. MinorGem (name)
 #.
@@ -8190,7 +8191,7 @@ msgstr ""
 #. msgid "Caillou brillant"
 #: res/data.cdb:item/#167.name
 msgid "Shiny rock"
-msgstr ""
+msgstr "Batu Kinclong"
 
 #. MinorGem (gameplayDesc)
 #.
@@ -8200,7 +8201,7 @@ msgstr ""
 #. "même ?"
 #: res/data.cdb:item/#167.gameplayDesc
 msgid "Seriously? Is this even worth picking up?"
-msgstr ""
+msgstr "Apa kam- ..terserah deh"
 
 #. SpawnerGem (name)
 #.
@@ -8208,7 +8209,7 @@ msgstr ""
 #. msgid "Coeur noir"
 #: res/data.cdb:item/#168.name
 msgid "Black heart"
-msgstr ""
+msgstr "Hati hitam"
 
 #. SpawnerGem (gameplayDesc)
 #.
@@ -8217,7 +8218,7 @@ msgstr ""
 #. "Ca se vend relativement bien, vous pourrez en tirer ::$power:: OR au moins."
 #: res/data.cdb:item/#168.gameplayDesc
 msgid "This sells quite well! Easiest ::$power:: you'll ever make..."
-msgstr ""
+msgstr " ::$power:: termudah yang pernah kau jual..."
 
 #. GreedGem (name)
 #.
@@ -8225,7 +8226,7 @@ msgstr ""
 #. msgid "Dent en or"
 #: res/data.cdb:item/#169.name
 msgid "Gold tooth"
-msgstr ""
+msgstr "Gigi Emas"
 
 #. GreedGem (gameplayDesc)
 #.
@@ -8233,7 +8234,7 @@ msgstr ""
 #. msgid "Une dent d'une valeur de ::$power:: OR, il l'avait bien cherché..."
 #: res/data.cdb:item/#169.gameplayDesc
 msgid "A gold tooth worth ::$power:: GOLD. He had it coming to him anyway..."
-msgstr ""
+msgstr "Gigi Emas yang berharga ::$power:: EMAS. Ompong masih jaman ini..."
 
 #. CellGold (name)
 #.
@@ -8241,7 +8242,7 @@ msgstr ""
 #. msgid "Cellule en or"
 #: res/data.cdb:item/#170.name
 msgid "Golden cell"
-msgstr ""
+msgstr "Cell Emas"
 
 #. CellGold (gameplayDesc)
 #.
@@ -8249,7 +8250,7 @@ msgstr ""
 #. msgid "Une petite cellule en or d'une valeur de ::$power:: OR."
 #: res/data.cdb:item/#170.gameplayDesc
 msgid "A nice prize worth ::$power:: GOLD."
-msgstr ""
+msgstr "Hadiah yang bagus seharga ::$power:: EMAS."
 
 #. GreedArrow (name)
 #.
@@ -8257,7 +8258,7 @@ msgstr ""
 #. msgid "Flêche en or"
 #: res/data.cdb:item/#171.name
 msgid "Golden arrow"
-msgstr ""
+msgstr "Panah Emas"
 
 #. GreedArrow (gameplayDesc)
 #.
@@ -8269,6 +8270,7 @@ msgstr ""
 msgid ""
 "A transmuted arrow worth ::$power:: GOLD. For the aristocratic marksman."
 msgstr ""
+"Panah yang terubah seharga ::$power:: EMAS. Untuk orang kaya?"
 
 #. BigGemScore (gameplayDesc)
 #.
@@ -8276,7 +8278,7 @@ msgstr ""
 #. msgid "Une magnifique pierre d'une valeur de ::$power:: points !"
 #: res/data.cdb:item/#172.gameplayDesc
 msgid "A magnificent jewel worth ::$power:: points!"
-msgstr ""
+msgstr "Sebuah Batu mulia berharga ::$power:: poin!"
 
 #. MediumGemScore (gameplayDesc)
 #.
@@ -8285,7 +8287,7 @@ msgstr ""
 #. "Cette jolie pierre vous rapportera ::$power:: points ! Ma précieuuuuse..."
 #: res/data.cdb:item/#173.gameplayDesc
 msgid "This purple stone is worth ::$power:: points! My precioooouuuusssss..."
-msgstr ""
+msgstr "Batu ungu ini berharga ::$power:: poin! My precioooouuss..."
 
 #. SmallGemScore (gameplayDesc)
 #.
@@ -8297,6 +8299,7 @@ msgid ""
 "Probably fake, but you should be able to trick a poor soul into buying it "
 "for ::$power:: points."
 msgstr ""
+"Mungkin palsu, namun seharusnya dapat dijual seharga ::$power:: poin."
 
 #. P_DmgKill (name)
 #.
@@ -8304,7 +8307,7 @@ msgstr ""
 #. msgid "Enchaînement"
 #: res/data.cdb:item/#175.name
 msgid "Flow"
-msgstr ""
+msgstr "Pengaliran"
 
 #. P_DmgKill (gameplayDesc)
 #.
@@ -8316,6 +8319,7 @@ msgstr ""
 msgid ""
 "About +::+dps:: damage/s for ::duration:: seconds after killing an enemy."
 msgstr ""
+"Menambah ::+dps:: dps selama ::duration:: detik setelah membunuh musuh."
 
 #. P_DmgRevenge (name)
 #.
@@ -8323,7 +8327,7 @@ msgstr ""
 #. msgid "Vengeance"
 #: res/data.cdb:item/#176.name
 msgid "Vengance"
-msgstr ""
+msgstr "Pembalasan"
 
 #. P_DmgRevenge (gameplayDesc)
 #.
@@ -8333,7 +8337,7 @@ msgstr ""
 #. "blessure."
 #: res/data.cdb:item/#176.gameplayDesc
 msgid "About +::+dps:: damage/s for ::duration:: seconds after taking damage."
-msgstr ""
+msgstr "Menambah ::+dps:: dps selama ::duration:: detik setelah terpukul"
 
 #. P_ManyMobsAround (gameplayDesc)
 #.
@@ -8345,14 +8349,15 @@ msgstr ""
 msgid ""
 "About +::+dps:: damage/s while there are at least ::count:: enemies nearby."
 msgstr ""
+"Menambah ::+dps:: dps selama ada ::count:: musuh disekitarmu."
 
 #. P_DmgDotsAround (name)
 #.
-#. --------
+#.0 --------
 #. msgid "Sadisme"
 #: res/data.cdb:item/#178.name
 msgid "Sadism"
-msgstr ""
+msgstr "Sadisme"
 
 #. P_DmgDotsAround (gameplayDesc)
 #.
@@ -8365,14 +8370,14 @@ msgid ""
 "About +::+dps:: damage/s if a nearby enemy is taking Poison, Bleed or Burn "
 "damage."
 msgstr ""
-
+"Menambah ::+dps:: dps selama musuh terkena racun, terbakar, atau berdarah."
 #. P_CorruptedHealing (name)
 #.
 #. --------
 #. msgid "Soin corrompu"
 #: res/data.cdb:item/#179.name
 msgid "Corruption"
-msgstr ""
+msgstr "Korupsi"
 
 #. P_CorruptedHealing (gameplayDesc)
 #.
@@ -8385,6 +8390,8 @@ msgid ""
 "Your health flasks only restore ::prct::% HP but they add +::+dps:: damage/s "
 "for ::duration:: seconds when used."
 msgstr ""
+"Botol Vitalitasmu hanya memulihkan ::prct::% namun menambah ::+dps:: dps"
+"selama ::duration:: detik ketika digunakan."
 
 #. P_Cooldown (name)
 #.
@@ -8392,7 +8399,7 @@ msgstr ""
 #. msgid "Efficacité"
 #: res/data.cdb:item/#180.name
 msgid "Efficiency"
-msgstr ""
+msgstr "Efisiensi"
 
 #. P_Cooldown (gameplayDesc)
 #.
@@ -8400,7 +8407,7 @@ msgstr ""
 #. msgid "-::cdr::% délai d'utilisation des capacités actives."
 #: res/data.cdb:item/#180.gameplayDesc
 msgid "-::cdr::% cool down delay when using your skills."
-msgstr ""
+msgstr "::cdr::% cooldown delay ketika menggunakan skillmu"
 
 #. P_DeployedDmg (name)
 #.
@@ -8408,7 +8415,7 @@ msgstr ""
 #. msgid "Soutien"
 #: res/data.cdb:item/#181.name
 msgid "Support"
-msgstr ""
+msgstr "Bala Bantuan"
 
 #. P_DeployedDmg (gameplayDesc)
 #.
@@ -8418,7 +8425,7 @@ msgstr ""
 #. "déployée."
 #: res/data.cdb:item/#181.gameplayDesc
 msgid "About +::+dps:: damage/s while you're nearby a deployed skill."
-msgstr ""
+msgstr "Menambah ::+dps:: dps selama kau berada didekat skill yang dipakai."
 
 #. P_DeathBomb (name)
 #.
@@ -8426,7 +8433,7 @@ msgstr ""
 #. msgid "Cadeau de départ"
 #: res/data.cdb:item/#182.name
 msgid "Parting gift"
-msgstr ""
+msgstr "Hadiah Perpisahan"
 
 #. P_DeathBomb (gameplayDesc)
 #.
@@ -8446,7 +8453,7 @@ msgstr ""
 #. msgid "Tranquilité"
 #: res/data.cdb:item/#183.name
 msgid "Tranquility"
-msgstr ""
+msgstr "Tenang Jiwa"
 
 #. P_NoMobAround (gameplayDesc)
 #.
@@ -8455,7 +8462,7 @@ msgstr ""
 #. "+::+dps:: dégâts/sec environ tant qu'il n'y a aucun ennemi près de vous."
 #: res/data.cdb:item/#183.gameplayDesc
 msgid "About +::+dps:: damage/s for while there are no enemies nearby."
-msgstr ""
+msgstr "Menambah ::+dps:: dps selama tidak ada musuh disekitar"
 
 #. P_AmmoOnHit (name)
 #.
@@ -8463,7 +8470,7 @@ msgstr ""
 #. msgid "Arrachage"
 #: res/data.cdb:item/#184.name
 msgid "Wrench"
-msgstr ""
+msgstr "Obeng"
 
 #. P_AmmoOnHit (gameplayDesc)
 #.
@@ -8476,6 +8483,8 @@ msgid ""
 "A melee attack on a nearby enemy with a projectile stuck in it causes the "
 "projectile to fall out and inflicts ::+power:: damage."
 msgstr ""
+"Serangan dari senjata ini selama masih ada proyektil menimbulkan "
+"proyektil jatuh dan menimbulkan ::+power:: damage."
 
 #. P_DmgParry (name)
 #.
@@ -8483,7 +8492,7 @@ msgstr ""
 #. msgid "Contre-attaque"
 #: res/data.cdb:item/#185.name
 msgid "Counter attack"
-msgstr ""
+msgstr "Serangan Pembalasan"
 
 #. P_DmgParry (gameplayDesc)
 #.
@@ -8492,7 +8501,7 @@ msgstr ""
 #. "Votre prochaine attaque après une Parade réussie inflige +::+power:: dégâts."
 #: res/data.cdb:item/#185.gameplayDesc
 msgid "Your first attack after a successful parry inflicts +::+power:: damage."
-msgstr ""
+msgstr "Serangan balasan setelah parrying menimbulkan +::power:: damage."
 
 #. P_HealOnParry (name)
 #.
