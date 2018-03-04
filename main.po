@@ -9502,7 +9502,7 @@ msgstr "Perlambatan dari pembekuan bertahan ::power::x lebih lama."
 #. "Le ralentissement après le dégel est propagé à tous les monstres proches."
 #: res/data.cdb:affix/#41.desc
 msgid "Slows down all nearby enemies when the victim thaws out."
-msgstr "Melambatkan semua musuh disekitar ketika musuh tidak beku lagi."
+msgstr "Melambatkan semua musuh disekitar ketika korban tidak beku lagi."
 
 #. IceBleed (desc)
 #.
@@ -9510,7 +9510,7 @@ msgstr "Melambatkan semua musuh disekitar ketika musuh tidak beku lagi."
 #. msgid "La victime subit un saignement lorsqu'elle dégèle."
 #: res/data.cdb:affix/#42.desc
 msgid "The victim suffers bleed damage when it thaws out."
-msgstr ""
+msgstr "Korban terkena pendarahan ketika tidak beku lagi."
 
 #. AmmoRetrieval (desc)
 #.
@@ -9518,7 +9518,7 @@ msgstr ""
 #. msgid "Fait tomber toutes les flêches plantées sur les victimes."
 #: res/data.cdb:affix/#43.desc
 msgid "Causes all arrows to fall from victims."
-msgstr ""
+msgstr "Menyebabkan semua panah untuk jatuh dari korban."
 
 #. OilOnUse (desc)
 #.
@@ -9526,7 +9526,7 @@ msgstr ""
 #. msgid "Couvre le sol d'huile autour de vous."
 #: res/data.cdb:affix/#44.desc
 msgid "Cover the ground around you with flammable oil."
-msgstr ""
+msgstr "Melapisi tanah disekitarmu dengan minyak."
 
 #. PoisonOnUse (desc)
 #.
@@ -9534,7 +9534,7 @@ msgstr ""
 #. msgid "Génère un nuage toxique autour de vous."
 #: res/data.cdb:affix/#45.desc
 msgid "Release a cloud of poisonous gas around you."
-msgstr ""
+msgstr "Mengeluarkan awan beracun disekitarmu."
 
 #. FireOnUse (desc)
 #.
@@ -9542,7 +9542,7 @@ msgstr ""
 #. msgid "Enflamme le sol autour de vous."
 #: res/data.cdb:affix/#46.desc
 msgid "Ignite the ground around you."
-msgstr ""
+msgstr "Membakar tanah disekitarmu."
 
 #. DeployedDmg (desc)
 #.
@@ -9551,6 +9551,7 @@ msgstr ""
 #: res/data.cdb:affix/#47.desc
 msgid "Increase your damage by ::prct::% when you are close."
 msgstr ""
+"Meningkatkan damage sebesar ::prct::% ketika dekat dengan musuh."
 
 #. DeployedResist (desc)
 #.
@@ -9560,6 +9561,8 @@ msgstr ""
 #: res/data.cdb:affix/#48.desc
 msgid "Reduce damage taken by ::prct::% as long as you are close."
 msgstr ""
+"Mengurangi damage yang dikenakan sebesar ::prct::% ketika dekat dengan "
+"musuh."
 
 #. CantBeSold (desc)
 #.
@@ -9567,7 +9570,7 @@ msgstr ""
 #. msgid "Ne peut être vendu."
 #: res/data.cdb:affix/#49.desc
 msgid "Can not be sold."
-msgstr ""
+msgstr "Tidak dapat dijual."
 
 #. Colorless (desc)
 #.
@@ -9575,7 +9578,7 @@ msgstr ""
 #. msgid "Incolore (votre tier le plus élevé s'applique à cet objet)"
 #: res/data.cdb:affix/#50.desc
 msgid "Colorless (your highest tier applies to this object)"
-msgstr ""
+msgstr "Tidak berwarna (status tertinggi berlaku pada barang ini)"
 
 #. WeakDamage (desc)
 #.
@@ -9583,7 +9586,7 @@ msgstr ""
 #. msgid "Dégâts de cet équipement réduits de -::prct::%."
 #: res/data.cdb:affix/#51.desc
 msgid "Damage from this equipment is reduced by -::prct::%."
-msgstr ""
+msgstr "Damage dari barang ini dikurangi sebesar ::prct::%."
 
 #. Cursed (desc)
 #.
@@ -9591,7 +9594,7 @@ msgstr ""
 #. msgid "Vous subissez +::prct::% dégâts."
 #: res/data.cdb:affix/#52.desc
 msgid "You take +::prct::% damage."
-msgstr ""
+msgstr "Kamu terkena damage +::prct::%"
 
 #. StrongIce (desc)
 #.
@@ -9600,6 +9603,8 @@ msgstr ""
 #: res/data.cdb:affix/#53.desc
 msgid "Reduces the chance of unfreezing an enemy when attacking."
 msgstr ""
+"Mengurangi kesempatan untuk tidak membekukan musuh ketika "
+"menyerang."
 
 #. Poison (desc)
 #.
@@ -9607,7 +9612,7 @@ msgstr ""
 #. msgid "Empoisonne la victime."
 #: res/data.cdb:affix/#54.desc
 msgid "Poison the victim."
-msgstr ""
+msgstr "Meracuni korban."
 
 #. Oil (desc)
 #.
@@ -9615,7 +9620,7 @@ msgstr ""
 #. msgid "Applique de l'huile sur la victime."
 #: res/data.cdb:affix/#55.desc
 msgid "Covers the victim in flammable oil."
-msgstr ""
+msgstr "Menyelimuti korban dengan minyak. "
 
 #. OilAndFireOnUse (desc)
 #.
@@ -9625,7 +9630,7 @@ msgstr ""
 #. "pieds !"
 #: res/data.cdb:affix/#56.desc
 msgid "Cover the ground around you with oil and light it up!"
-msgstr ""
+msgstr "Menyelimuti tanah disekitarmu dengan minyak yang terbakar!"
 
 #. FireBullet (desc)
 #.
@@ -9633,7 +9638,7 @@ msgstr ""
 #. msgid "Les tirs laissent une trainée de flammes."
 #: res/data.cdb:affix/#57.desc
 msgid "Projectile burn the ground behind them."
-msgstr ""
+msgstr "Proyektil membakar tanah dibelakangnya."
 
 #. PoisonBullet (desc)
 #.
@@ -9641,7 +9646,7 @@ msgstr ""
 #. msgid "Les tirs explosent en un nuage toxique."
 #: res/data.cdb:affix/#58.desc
 msgid "Projectiles explode in a cloud of toxic gas."
-msgstr ""
+msgstr "Proyektil mengeluarkan awan beracun."
 
 #. PoisonCloud (desc)
 #.
@@ -9649,7 +9654,7 @@ msgstr ""
 #. msgid "Crée un nuage de poison autour de la victime."
 #: res/data.cdb:affix/#59.desc
 msgid "Releases a cloud of poison around the victim."
-msgstr ""
+msgstr "Mengeluarkan gas beracun disekitar korban."
 
 #. CounterAttack (desc)
 #.
@@ -9662,7 +9667,7 @@ msgstr ""
 #. msgid "Attaquer immédiatement après un blocage inflige ::prct::% de dégâts."
 #: res/data.cdb:affix/#60.desc
 msgid "Attacking immediately after parrying inflicts ::prct::% damage."
-msgstr ""
+msgstr "Menyerang setelah parrying menimbulkan ::prct%::% damage."
 
 #. IceArmor (desc)
 #.
@@ -9670,7 +9675,7 @@ msgstr ""
 #. msgid "Vous gelez les ennemis qui vous touchent."
 #: res/data.cdb:affix/#61.desc
 msgid "Any enemy that touches you is frozen."
-msgstr ""
+msgstr "Musuh yang menyentuhmu terbekukan."
 
 #. Retaliation (desc)
 #.
@@ -9679,7 +9684,7 @@ msgstr ""
 #. "Tous les dégâts que vous subissez sont infligés également à leur auteur."
 #: res/data.cdb:affix/#62.desc
 msgid "All the damage you take is also dealt to nearby enemies."
-msgstr ""
+msgstr "Semua serangan yang kau terima dilempar ke musuh sekitar."
 
 #. ArrowSalve (desc)
 #.
@@ -9687,7 +9692,7 @@ msgstr ""
 #. msgid "Tire une volée de flèches (::+power:: dégâts / flèche)"
 #: res/data.cdb:affix/#63.desc
 msgid "Fires a volley of arrows (::+power:: damage / arrow)"
-msgstr ""
+msgstr "Menembakkan serumpuhan panah (::+power:: damage/arrow)"
 
 #. DoubleDamage (desc)
 #.
@@ -9696,6 +9701,7 @@ msgstr ""
 #: res/data.cdb:affix/#64.desc
 msgid "Damage dealt x::power::, damage received x::power2::!"
 msgstr ""
+"Damage yang ditimbulkan x::power::, damage yang diterima x::power2:: !"
 
 #. QuadDamage (desc)
 #.
@@ -9720,6 +9726,8 @@ msgid ""
 "Recover ::prct::% of your life with each melee attack, but take x::power:: "
 "damage!"
 msgstr ""
+"Memulihkan ::prct::% dari nyawamu dengan setiap melee attack, namun menerima "
+x::power:: damage!"
 
 #. PoisonImmunity (desc)
 #.
@@ -9727,7 +9735,7 @@ msgstr ""
 #. msgid "Le poison n'a aucun effet sur vous."
 #: res/data.cdb:affix/#67.desc
 msgid "Poison no longer affects you. Sewers, here we come..."
-msgstr ""
+msgstr "Racun tidak berpengaruh bagimu. Saatnya minum baygon..."
 
 #. PoisonHeal (desc)
 #.
@@ -9735,7 +9743,7 @@ msgstr ""
 #. msgid "Le poison vous soigne au lieu de vous blesser."
 #: res/data.cdb:affix/#68.desc
 msgid "Poison heals you rather than hurting you."
-msgstr ""
+msgstr "Racun menyembuhkanmu daripada menyakitimu."
 
 #. FireFeet (desc)
 #.
@@ -9743,7 +9751,7 @@ msgstr ""
 #. msgid "Vous enflammez le sol sous vos pas pendant ::duration:: sec."
 #: res/data.cdb:affix/#69.desc
 msgid "Every step you take burns the ground for ::duration:: seconds."
-msgstr ""
+msgstr "Setiap langkah membakar tanah selama ::duration:: detik."
 
 #. FireDodge (desc)
 #.
@@ -9751,7 +9759,7 @@ msgstr ""
 #. msgid "Vos esquives enflamment le sol pendant ::duration:: sec."
 #: res/data.cdb:affix/#70.desc
 msgid "Rolling ignites the ground for ::duration:: seconds."
-msgstr ""
+msgstr "Rolling membakar tanah selama ::duration:: detik."
 
 #. PoisonDodge (desc)
 #.
@@ -9759,7 +9767,7 @@ msgstr ""
 #. msgid "Vous laissez un nuage de poison quand vous esquivez."
 #: res/data.cdb:affix/#71.desc
 msgid "You leave behind a cloud of toxic gas when you roll."
-msgstr ""
+msgstr "Kamu meninggalkan gas beracun ketika rolling."
 
 #. FullLifeDamage (desc)
 #.
@@ -9767,7 +9775,7 @@ msgstr ""
 #. msgid "+::prct::% de dégâts si votre vie est à son maximum."
 #: res/data.cdb:affix/#72.desc
 msgid "+::prct::% damage when your health is at its maximum."
-msgstr ""
+msgstr "+::prct::% damage ketika nyawamu penuh."
 
 #. Invisibility (desc)
 #.
@@ -9780,6 +9788,8 @@ msgid ""
 "Make you invisible after ::duration:: without attacking. You next strike "
 "while still being invisible inflicts +::prct::% damage."
 msgstr ""
+"Membuatmu menghilang setelah ::duration:: tanpa menyerang. Serangan "
+"berikutnya saat menghilang menimbulkan +::prct::% damage."
 
 #. Invisibility (desc)
 #.
@@ -9792,6 +9802,8 @@ msgid ""
 "Makes you invisible after ::duration::/sec without attacking. While "
 "invisible your first hit will do +::prct::% damage."
 msgstr ""
+"Membuatmu menghilang setelah ::duration:: tanpa menyerang. Serangan "
+"berikutnya saat menghilang menimbulkan +::prct::% damage."
 
 #. BleedPoison (desc)
 #.
@@ -9799,7 +9811,7 @@ msgstr ""
 #. msgid "Les saignements provoquent des empoisonnements."
 #: res/data.cdb:affix/#74.desc
 msgid "Bleeding inflicts poison damage too."
-msgstr ""
+msgstr "Pendarahan menimbulkan peracunan pula."
 
 #. BleedPropagation (desc)
 #.
@@ -9809,6 +9821,7 @@ msgstr ""
 msgid ""
 "If an enemy dies while bleeding, nearby enemies will begin to bleed too."
 msgstr ""
+"Ketika musuh sedang berdarah, musuh disekitar akan berdarah pula."
 
 #. MarioJump (desc)
 #.
@@ -9816,7 +9829,7 @@ msgstr ""
 #. msgid "Mode Super Mario : sauter sur un ennemi l'étourdit."
 #: res/data.cdb:affix/#76.desc
 msgid "Super Mario Mode: Jumping on an enemy's head stuns it."
-msgstr ""
+msgstr "Super Mario Mode: Stun ketika meloncati musuh. "
 
 #. SecretHint (desc)
 #.
@@ -9824,7 +9837,7 @@ msgstr ""
 #. msgid "Révèle les passages secrets."
 #: res/data.cdb:affix/#77.desc
 msgid "Reveals secret passages."
-msgstr ""
+msgstr "Mengungkapkan jalan rahasia."
 
 #. PrisonStart (name)
 #.
@@ -9832,7 +9845,7 @@ msgstr ""
 #. msgid "Quartier des prisonniers"
 #: res/data.cdb:level/#0.name res/data.cdb:level/#52.name
 msgid "The Prisoners' Cells"
-msgstr ""
+msgstr "Sel Tahanan"
 
 #. PrisonCourtyard (name)
 #.
@@ -9840,7 +9853,7 @@ msgstr ""
 #. msgid "Promenade des condamnés"
 #: res/data.cdb:level/#1.name
 msgid "The Promenade of the Condemned"
-msgstr ""
+msgstr "Jalanan Terkutuk"
 
 #. PrisonDepths (name)
 #.
@@ -9848,7 +9861,7 @@ msgstr ""
 #. msgid "Profondeurs de la Prison"
 #: res/data.cdb:level/#2.name res/data.cdb:level/#53.name
 msgid "The Prison Depths"
-msgstr ""
+msgstr "Kedalaman Penjara"
 
 #. PrisonRoof (name)
 #.
@@ -9880,7 +9893,7 @@ msgstr "Sumur beracun"
 #. msgid "Ancien réseau d'égouts"
 #: res/data.cdb:level/#6.name res/data.cdb:level/#56.name
 msgid "The Old Sewers"
-msgstr ""
+msgstr "Sumur Jadul"
 
 #. Bridge (name)
 #.
@@ -9888,7 +9901,7 @@ msgstr ""
 #. msgid "Pont noir"
 #: res/data.cdb:level/#7.name
 msgid "The Black Bridge"
-msgstr ""
+msgstr "Jembatan Hitam"
 
 #. BeholderPit (name)
 #.
@@ -9896,7 +9909,7 @@ msgstr ""
 #. msgid "Crypte nauséabonde"
 #: res/data.cdb:level/#8.name
 msgid "The Insufferable Crypt"
-msgstr ""
+msgstr "Tempat Tersembunyi Terlaknat"
 
 #. PrisonCorrupt (name)
 #.
@@ -9904,7 +9917,7 @@ msgstr ""
 #. msgid "Prison corrompue"
 #: res/data.cdb:level/#9.name
 msgid "Corrupted Prison"
-msgstr ""
+msgstr "Penjara Yang Rusak"
 
 #. StiltVillage (name)
 #.
@@ -9912,7 +9925,7 @@ msgstr ""
 #. msgid "Gué des Brumes"
 #: res/data.cdb:level/#10.name
 msgid "The Fog Fjord"
-msgstr ""
+msgstr "Fjord Berkabut"
 
 #. AncientTemple (name)
 #.
@@ -9920,7 +9933,7 @@ msgstr ""
 #. msgid "Sanctuaire endormi"
 #: res/data.cdb:level/#11.name
 msgid "Slumbering Sanctuary"
-msgstr ""
+msgstr "Suaka Nanberkasa"
 
 #. Cemetery (name)
 #.
@@ -9928,7 +9941,7 @@ msgstr ""
 #. msgid "Cimetière du Val"
 #: res/data.cdb:level/#12.name
 msgid "Graveyard"
-msgstr ""
+msgstr "Kuburan"
 
 #. Crypt (name)
 #.
@@ -9936,7 +9949,7 @@ msgstr ""
 #. msgid "Sépulcre oublié"
 #: res/data.cdb:level/#13.name
 msgid "Forgotten Sepulchre"
-msgstr ""
+msgstr "Makam Terlupakan"
 
 #. ClockTower (name)
 #.
@@ -9944,7 +9957,7 @@ msgstr ""
 #. msgid "Tour de l'Horloge"
 #: res/data.cdb:level/#14.name
 msgid "The Clock Tower"
-msgstr ""
+msgstr "Menara Jam"
 
 #. TopClockTower (name)
 #.
@@ -9952,7 +9965,7 @@ msgstr ""
 #. msgid "Salle de l'Horloge"
 #: res/data.cdb:level/#15.name
 msgid "The Clock Room"
-msgstr ""
+msgstr "Ruangan Jam"
 
 #. Cavern (name)
 #.
@@ -9960,7 +9973,7 @@ msgstr ""
 #. msgid "Caverne"
 #: res/data.cdb:level/#16.name
 msgid "Cavern"
-msgstr ""
+msgstr "Gua"
 
 #. Giant (name)
 #.
@@ -9968,7 +9981,7 @@ msgstr ""
 #. msgid "Repaire du Gardien"
 #: res/data.cdb:level/#17.name
 msgid "The Guardian's Retreat"
-msgstr ""
+msgstr "Tempat Pelindung"
 
 #. Castle (name)
 #.
@@ -9976,7 +9989,7 @@ msgstr ""
 #. msgid "Château"
 #: res/data.cdb:level/#18.name
 msgid "Castle"
-msgstr ""
+msgstr "Kastil"
 
 #. IllegalLevel (name)
 #.
@@ -9984,7 +9997,7 @@ msgstr ""
 #. msgid "Repos des architectes"
 #: res/data.cdb:level/#19.name
 msgid "Repository of the Architects"
-msgstr ""
+msgstr "Repositori Sang Arkitek"
 
 #. PrisonRoofCorrupt (name)
 #.
@@ -9992,7 +10005,7 @@ msgstr ""
 #. msgid "Toits corrompus"
 #: res/data.cdb:level/#20.name
 msgid "Corrupted Ramparts"
-msgstr ""
+msgstr "Benteng Yang Hancur"
 
 #. BoatDock (name)
 #.
@@ -10000,7 +10013,7 @@ msgstr ""
 #. msgid "Embarcadère"
 #: res/data.cdb:level/#21.name
 msgid "The Wharf"
-msgstr ""
+msgstr "Dermaga"
 
 #. T_AfterBridge (name)
 #.
@@ -10008,7 +10021,7 @@ msgstr ""
 #. msgid "Collecteur"
 #: res/data.cdb:level/#30.name
 msgid "The Collector"
-msgstr ""
+msgstr "Sang Kolektor"
 
 #. DebugTipyx (name)
 #.
@@ -10016,7 +10029,7 @@ msgstr ""
 #. msgid "Debug Tipyx"
 #: res/data.cdb:level/#41.name
 msgid "Debug Tipyx"
-msgstr ""
+msgstr "Debug Tipyx"
 
 #. DebugSeb (name)
 #.
@@ -10024,7 +10037,7 @@ msgstr ""
 #. msgid "Debug Seb"
 #: res/data.cdb:level/#42.name
 msgid "Debug seb"
-msgstr ""
+msgstr "Debug seb"
 
 #. DebugThomas (name)
 #.
@@ -10032,7 +10045,7 @@ msgstr ""
 #. msgid "Debug Thomas"
 #: res/data.cdb:level/#43.name
 msgid "Debug Thomas"
-msgstr ""
+msgstr "Debug Thomas"
 
 #. DebugSkool (name)
 #.
@@ -10040,7 +10053,7 @@ msgstr ""
 #. msgid "Debug Skool"
 #: res/data.cdb:level/#44.name
 msgid "Debug Skool"
-msgstr ""
+msgstr "Debug Skool"
 
 #. DebugMat (name)
 #.
@@ -10048,7 +10061,7 @@ msgstr ""
 #. msgid "Debug Looping"
 #: res/data.cdb:level/#45.name
 msgid "Debug Looping"
-msgstr ""
+msgstr "Debug Looping"
 
 #. DebugGwen (name)
 #.
@@ -10056,7 +10069,7 @@ msgstr ""
 #. msgid "Debug Gwen"
 #: res/data.cdb:level/#46.name
 msgid "Debug Gwen"
-msgstr ""
+msgstr "Debug Gwen"
 
 #. Custom (name)
 #.
@@ -10064,7 +10077,7 @@ msgstr ""
 #. msgid "Custom"
 #: res/data.cdb:level/#47.name
 msgid "Custom"
-msgstr ""
+msgstr "Custom"
 
 #. Chall_1 (name)
 #.
@@ -10073,35 +10086,35 @@ msgstr ""
 #: res/data.cdb:level/#49.name res/data.cdb:level/#50.name
 #: res/data.cdb:level/#51.name
 msgid "Challenge"
-msgstr ""
+msgstr "Challenge"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Santé augmentée !"
 msgid "Health increased!"
-msgstr ""
+msgstr "Nyawa Tertingkat!"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Dégâts des armes augmentés !"
 msgid "Weapon damage increased!"
-msgstr ""
+msgstr "Damage senjata Tertingkat!"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Dégâts et délais des compétences actives améliorés !"
 msgid "Skill power and cooldown improved!"
-msgstr ""
+msgstr "Kekuatan dan Cooldown Skill tertingkat!"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "+::n:: PV"
 msgid "+::n:: HP"
-msgstr ""
+msgstr "+::n:: HP"
 
 #. Deprecated
 #.
@@ -10110,35 +10123,35 @@ msgstr ""
 #. "Vous avez mis fin à votre malédiction, ce qui vous rapporte ::pts:: "
 #. "supplémentaires !"
 msgid "You have put an end to your curse, which brings you back ::pts:: extra!"
-msgstr ""
+msgstr "Kutukanmu telah terangkat, dan menyembuhkan ::pts:: tambahan!"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Bloqué !"
 msgid "Blocked!"
-msgstr ""
+msgstr "Terblokir!"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Pas utile pour l'instant."
 msgid "Not useful for now."
-msgstr ""
+msgstr "Tidak berguna untuk sekarang."
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Accès anticipé (::date:: - ::git::)"
 msgid "Early access (::date:: - ::git::)"
-msgstr ""
+msgstr "Early access (::date:: - ::git::)"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Nouvelle arme débloquée !"
 msgid "New weapon unlocked!"
-msgstr ""
+msgstr "Senjata baru terbuka!"
 
 #. Deprecated
 #.
@@ -10150,27 +10163,29 @@ msgid ""
 "Unlock this item from the Collector in the normal game mode to use it in "
 "your Daily Runs"
 msgstr ""
+"Buka barang ini dari Sang Collector dari game normal agar dapat dipakai "
+"dalam Daily Runs."
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Requiert votre présence pour fonctionner."
 msgid "You need to be close by for this to work."
-msgstr ""
+msgstr "Kamu harus dekat agar dapat bekerja."
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Puissance +::n::%"
 msgid "+::n::% Power"
-msgstr ""
+msgstr "+::n::% Power"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Il me faut une clé..."
 msgid "I need a key..."
-msgstr ""
+msgstr "Aku butuh kunci..."
 
 #. Deprecated
 #. HorizontalTurret (name)
@@ -10178,7 +10193,7 @@ msgstr ""
 #. --------
 #. msgid "Tourelle horizontale"
 msgid "Horizontal turret"
-msgstr ""
+msgstr "Turret Horizontal"
 
 #. Deprecated
 #. RootTrap (gameplayDesc)
@@ -10191,6 +10206,7 @@ msgid ""
 "Launches ::count:: traps which immobilize enemies for ::duration:: seconds. "
 "Increases all damage taken by trapped enemies by ::prct::%."
 msgstr ""
+"Melontarkan ::count:: jebakan yang mengunci musuh
 
 #. Deprecated
 #. DamageBuff (gameplayDesc)
@@ -10203,6 +10219,8 @@ msgid ""
 "You deal +::prct::% damage for ::duration:: seconds. You also take +::prct2::"
 "% extra damage during this period."
 msgstr ""
+"Kamu menimbulkan +::prct::% damage untuk ::duration:: detik. Kamu juka menerima "
+"+::prct2:: & damage tambahan saat periode ini."
 
 #. Deprecated
 #. LeechBuff (gameplayDesc)
@@ -10216,6 +10234,7 @@ msgid ""
 "You recover ::+power:: HP per melee hit that you deal for ::duration:: "
 "seconds. You also take +::prct::% extra damage during this period."
 msgstr ""
+"Memulihkan ::+power:: nyawamu setiap pukulan
 
 #. Deprecated
 #. ExtraHeal (gameplayDesc)
