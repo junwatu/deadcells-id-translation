@@ -10234,7 +10234,8 @@ msgid ""
 "You recover ::+power:: HP per melee hit that you deal for ::duration:: "
 "seconds. You also take +::prct::% extra damage during this period."
 msgstr ""
-"Memulihkan ::+power:: nyawamu setiap pukulan
+"Memulihkan ::+power:: nyawamu setiap pukulan selama ::duration:: "
+"detik. Kamu terkena damage tambahan +::prct::% saat periode ini."
 
 #. Deprecated
 #. ExtraHeal (gameplayDesc)
@@ -10247,6 +10248,8 @@ msgid ""
 "Heals ::+power:: HP and completely protects you for ::duration:: seconds. "
 "Single use."
 msgstr ""
+"Menyembuhkan ::+power:: HP dan melindungimu sepenuhnya selama ::duration:: "
+"detik. Sekali pakai."
 
 #. Deprecated
 #. Decoy (gameplayDesc)
@@ -10259,6 +10262,8 @@ msgid ""
 "You disappear for ::duration:: seconds and leave a lure in your place which "
 "attracts all nearby enemies."
 msgstr ""
+"Menghilang selama ::duration:: detik dan meninggalkan umpan ditempatmu yang "
+"menarik perhatian semua musuh."
 
 #. Deprecated
 #. ComboMult (gameplayDesc)
@@ -10267,7 +10272,7 @@ msgstr ""
 #. msgid ""
 #. "Ajoute un bonus de points pour une durée de ::duration:: sec. Usage unique !"
 msgid "Adda a score bonus for ::duration:: seconds. Single use!"
-msgstr ""
+msgstr "Menambah skor tambahan ::selama:: detik. Sekali pakai!"
 
 #. Deprecated
 #. DamageAura (gameplayDesc)
@@ -10275,7 +10280,7 @@ msgstr ""
 #. --------
 #. msgid "Inflige des dégâts aux cibles proches."
 msgid "Deals damage to nearby ennemies."
-msgstr ""
+msgstr "Menimbulkan damage ke musuh sekitar."
 
 #. Deprecated
 #. StartShield (gameplayDesc)
@@ -10288,6 +10293,8 @@ msgid ""
 "Like any old shield, it allows you to block attacks and temporarily protects "
 "you if you take damage."
 msgstr ""
+"Seperti tameng apapun, anda dapat menahan serangan dan melindungi diri "
+"untuk sementara ketika terkena damage."
 
 #. Deprecated
 #. HoldShield (name)
@@ -10295,7 +10302,7 @@ msgstr ""
 #. --------
 #. msgid "Bouclier maintenu"
 msgid "Held Shield"
-msgstr ""
+msgstr "Tameng yang Ditahan"
 
 #. Deprecated
 #. HoldShield (gameplayDesc)
@@ -10303,7 +10310,7 @@ msgstr ""
 #. --------
 #. msgid "Maintenez pour bloquer les attaques."
 msgid "Hold to block attacks."
-msgstr ""
+msgstr "Tahan untuk menahan tameng"
 
 #. Deprecated
 #. Shield (name)
@@ -10319,7 +10326,7 @@ msgstr "Perisai kokoh"
 #. --------
 #. msgid "Permet de bloquer les attaques et d'étourdir les ennemis."
 msgid "Blocks attacks and stuns the attacker."
-msgstr ""
+msgstr "Menahan serangan dan membisingkan penyerang."
 
 #. Deprecated
 #. BumpShield (gameplayDesc)
@@ -10328,7 +10335,7 @@ msgstr ""
 #. msgid ""
 #. "Permet de bloquer les attaques et de repousser fortement les ennemis bloqués."
 msgid "Blocks attacks and violently shoves blocked enemies backwards."
-msgstr ""
+msgstr "Menahan serangan dan mendorong musuh dengan keras."
 
 #. Deprecated
 #. Rampart (gameplayDesc)
@@ -10338,7 +10345,7 @@ msgstr ""
 #. "Permet de bloquer les attaques. Génère un champ de force quand vous y "
 #. "parvenez."
 msgid "Triggers a force field when you parry."
-msgstr ""
+msgstr "Menimbulkan force field ketika parrying. "
 
 #. Deprecated
 #. BloodShield (gameplayDesc)
@@ -10351,6 +10358,8 @@ msgid ""
 "Blocks attacks and causes bleeding (::+dps:: damage/s for ::duration:: "
 "seconds) on all nearby enemies."
 msgstr ""
+"Menangkis serangan musuh dan menyebabkan pendarahan (::+dps:: dps "
+"selama ::duration:: detik) terhadap semua musuh disekitar."
 
 #. Deprecated
 #. SpikeShield (gameplayDesc)
@@ -10397,7 +10406,7 @@ msgstr "Tendang korban kebelakang dan ganggu serangan mereka."
 #. --------
 #. msgid "VIE +1"
 msgid "+1 Health"
-msgstr "+1 Sehat"
+msgstr "+1 Kesehatan"
 
 #. Deprecated
 #. WeaponUp (name)
@@ -10436,6 +10445,8 @@ msgid ""
 "This PERMANENTE RUNE allows you to open the door leading to the daily run in "
 "the Prisoners' Cells."
 msgstr ""
+"SAJAK PERMANEN Ini memberikan kemampuan untuk membuka pintu untuk melakukan "
+"daily run di sel tawanan."
 
 #. Deprecated
 #. SmallMeat (gameplayDesc)
@@ -10443,7 +10454,7 @@ msgstr ""
 #. --------
 #. msgid "Soigne ::+power:: PV."
 msgid "Restores ::+power:: HP."
-msgstr ""
+msgstr "Memulihkan ::power::HP"
 
 #. Deprecated
 #. Berserk (name)
@@ -10451,7 +10462,7 @@ msgstr ""
 #. --------
 #. msgid "Cheikha Lyra"
 msgid "Cheikha Lyra"
-msgstr ""
+msgstr "Cheika Lyra"
 
 #. Deprecated
 #. PoisonShield (desc)
@@ -10459,7 +10470,7 @@ msgstr ""
 #. --------
 #. msgid "Empoisonne les ennemis bloqués."
 msgid "Poison enemies when you parry."
-msgstr ""
+msgstr "Meracuni musuh ketika menepis."
 
 #. Deprecated
 #. FireShield (desc)
@@ -10467,7 +10478,7 @@ msgstr ""
 #. --------
 #. msgid "Enflamme les ennemis bloqués."
 msgid "Burn enemies when you parry."
-msgstr ""
+msgstr "Membakar musuh ketika menepis."
 
 #. Deprecated
 #. FrostShield (desc)
@@ -10475,7 +10486,7 @@ msgstr ""
 #. --------
 #. msgid "Congèle les ennemis bloqués."
 msgid "Freeze enemies when you parry."
-msgstr ""
+msgstr "Membekukan musuh ketika menepis."
 
 #. Deprecated
 #. LowArmor (desc)
@@ -10483,7 +10494,7 @@ msgstr ""
 #. --------
 #. msgid "Dégâts réduits de ::prct::%"
 msgid "Damage taken reduced by ::prct::%"
-msgstr ""
+msgstr "Damage yang diterima dikurangi sebesar ::prct::%"
 
 #. Deprecated
 #. AmmoRetrieval (desc)
