@@ -9727,7 +9727,7 @@ msgid ""
 "damage!"
 msgstr ""
 "Memulihkan ::prct::% dari nyawamu dengan setiap melee attack, namun menerima "
-x::power:: damage!"
+"x::power:: damage!"
 
 #. PoisonImmunity (desc)
 #.
