@@ -7,7 +7,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Language-Team: \n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.0.6\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Language: id_ID\n"
@@ -198,7 +198,6 @@ msgstr "Kekuatan"
 #. --------
 #. msgid "Arme de mélée"
 #: src/Lang.hx:478
-#, fuzzy
 msgid "Melee weapon"
 msgstr "Senjata Serang"
 
@@ -289,8 +288,8 @@ msgid ""
 "Your score could not be saved, you need to be connected to ::platform:: for "
 "this to work."
 msgstr ""
-"Skor anda tidak bisa disimpan, anda harus terkoneksi dengan ::platform:: "
-"agar bisa bekerja."
+"Skor anda tidak bisa disimpan, anda harus terkoneksi dengan ::platform:: agar "
+"bisa bekerja."
 
 #. --------
 #. msgid "Échec"
@@ -641,11 +640,11 @@ msgstr "Kamu? Saya sekarang tidak punya waktu untuk mengurusimu."
 #. "t'accord maintenant."
 #: src/cine/DisappearingBerserk.hx:43
 msgid ""
-"It won't hurt you to wait, unfortunately, I don't have any time for you "
-"right now."
+"It won't hurt you to wait, unfortunately, I don't have any time for you right "
+"now."
 msgstr ""
-"Tidak ada salahnya bagimu untuk menunggu, sepertinya, Sekarang saya tidak "
-"punya waktu untukmu."
+"Tidak ada salahnya bagimu untuk menunggu, sepertinya, Sekarang saya tidak punya "
+"waktu untukmu."
 
 #. --------
 #. msgid "Toi ici ? Mes guerriers s'occuperont de toi, sois en sûr..."
@@ -731,9 +730,7 @@ msgstr "Jadi kamu sudah bisa sejauh ini?"
 #. --------
 #. msgid "Misérable abomination, tu ne dois ta piètre réussite qu'à ce corps !"
 #: src/cine/EnterRoomBerserk.hx:94
-#, fuzzy
-msgid ""
-"Miserable abomination, you owe your meagre success to this pitiful body!"
+msgid "Miserable abomination, you owe your meagre success to this pitiful body!"
 msgstr ""
 "Kekejian yang menyebalkan, Kau berutang segala kesuksesanmu kepada tubuh yang "
 "menyedihkan ini!"
@@ -814,8 +811,7 @@ msgstr "Usaha tersisa ::n::"
 #. "priver."
 #: src/cine/LeaveCollector.hx:24
 msgid ""
-"Everything you buy here is yours FOREVER. Not even Death can take it from "
-"you."
+"Everything you buy here is yours FOREVER. Not even Death can take it from you."
 msgstr ""
 "Apapun yang kamu beli di sini milikmu SELAMANYA. Kematianpun tidak dapat "
 "mengambilnya darimu."
@@ -827,8 +823,7 @@ msgstr ""
 #: src/cine/LeaveCollector.hx:27
 msgid "Simply put, if you want more power, then bring me more cells!"
 msgstr ""
-"Sederhana saja, jika kamu ingin kekuatan lebih, maka bawakan lebih banyak "
-"cells!"
+"Sederhana saja, jika kamu ingin kekuatan lebih, maka bawakan lebih banyak cells!"
 
 #. --------
 #. msgid "Bon. Et maintenant, prisonnier..."
@@ -854,11 +849,11 @@ msgstr "Kamu lagi...Menarik..."
 #. "fréquentable ici-bas."
 #: src/cine/MeetCollector.hx:34
 msgid ""
-"I am the Collector and I'm about the closest thing to company you will get "
-"down here."
+"I am the Collector and I'm about the closest thing to company you will get down "
+"here."
 msgstr ""
-"Aku adalah Sang Kolektor dan Aku adalah teman terdekatmu yang bisa kau "
-"jumpai di bawah sini."
+"Aku adalah Sang Kolektor dan Aku adalah teman terdekatmu yang bisa kau jumpai "
+"di bawah sini."
 
 #. --------
 #. msgid ""
@@ -866,8 +861,8 @@ msgstr ""
 #. "petites choses utiles..."
 #: src/cine/MeetCollector.hx:37
 msgid ""
-"In exchange for the CELLS you pillage from your foes, I can provide you with "
-"a few useful items..."
+"In exchange for the CELLS you pillage from your foes, I can provide you with a "
+"few useful items..."
 msgstr ""
 "Sebagai imbalan untuk CELLS yang kau jarah dari musuh musuhmu, Aku dapat "
 "memberimu beberapa barang yang berguna..."
@@ -878,11 +873,11 @@ msgstr ""
 #. "expérimentaux, dirons-nous."
 #: src/cine/MeetCollector.hx:40
 msgid ""
-"If you uncover any BLUEPRINTS, I may be able to provide you with some "
-"more... experimental items."
+"If you uncover any BLUEPRINTS, I may be able to provide you with some more... "
+"experimental items."
 msgstr ""
-"Jika kau menemukan BLUEPRINTS, maka mungkin aku bisa menyediakanmu lebih "
-"banyak dengan beberapa...barang barang eksperimental."
+"Jika kau menemukan BLUEPRINTS, maka mungkin aku bisa menyediakanmu lebih banyak "
+"dengan beberapa...barang barang eksperimental."
 
 #. --------
 #. msgid "Faille de défi découverte"
@@ -1141,16 +1136,16 @@ msgstr "Jangan Panik!"
 #. "sauter sur 10km...), et d'autres moins (perdre toute votre sauvegarde)."
 #: src/pr/BetaDisclaimer.hx:62
 msgid ""
-"Dead Cells is in Early Access! This means there will be bugs... Hopefully "
-"not too many though... Some will be funny (getting your head stuck in a "
-"wall, falling through the floor etc), others won't be (losing your save in a "
-"crash and the like)."
+"Dead Cells is in Early Access! This means there will be bugs... Hopefully not "
+"too many though... Some will be funny (getting your head stuck in a wall, "
+"falling through the floor etc), others won't be (losing your save in a crash "
+"and the like)."
 msgstr ""
-"Dead Cells masih dalam tahap Akses Awal! artinya akan muncul bugs..."
-"Diharapkan tidak terlalu banyak juga...Beberapa agak luculah (seperti "
-"kepalamu bisa menancap di tembok, jatuh tembus melalui lantai dsb), "
-"sedangkan yang lain mungkin tidak terjadi (seperti kehilangan data saat "
-"terjadi kegagalan sistem dan semacamnya)."
+"Dead Cells masih dalam tahap Akses Awal! artinya akan muncul bugs...Diharapkan "
+"tidak terlalu banyak juga...Beberapa agak luculah (seperti kepalamu bisa "
+"menancap di tembok, jatuh tembus melalui lantai dsb), sedangkan yang lain "
+"mungkin tidak terjadi (seperti kehilangan data saat terjadi kegagalan sistem "
+"dan semacamnya)."
 
 #. --------
 #. msgid ""
@@ -1158,8 +1153,8 @@ msgstr ""
 #. "corriger les problèmes."
 #: src/pr/BetaDisclaimer.hx:64
 msgid ""
-"The important part is that you have fun playing the game, while we get to "
-"work adding new content and fixing any problems..."
+"The important part is that you have fun playing the game, while we get to work "
+"adding new content and fixing any problems..."
 msgstr ""
 "Yang paling penting adalah kamu bisa merasa senang memainkan permainan ini, "
 "sedangkan kami bekerja untuk menambahkan konten baru dan memperbaiki segala "
@@ -1411,8 +1406,7 @@ msgstr "Penyimpanan ini membutuhkan versi gim yang lebih baru."
 
 #. --------
 #. msgid "Slot ::index::"
-#: src/pr/TitleScreen.hx:279 src/pr/TitleScreen.hx:282
-#: src/pr/TitleScreen.hx:368
+#: src/pr/TitleScreen.hx:279 src/pr/TitleScreen.hx:282 src/pr/TitleScreen.hx:368
 msgid "Slot ::index::"
 msgstr "Slot ::index::"
 
@@ -1442,10 +1436,9 @@ msgstr "Apa kau yakin ingin mensetel ulang slot ::index::?"
 
 #. --------
 #. msgid "Annuler"
-#: src/pr/TitleScreen.hx:318 src/pr/TitleScreen.hx:390
-#: src/pr/TitleScreen.hx:419 src/pr/TitleScreen.hx:438
-#: src/pr/TitleScreen.hx:450 src/ui/PerkSelect.hx:92 src/ui/ReplaceItem.hx:123
-#: src/ui/ReplaceTalisman.hx:103 src/ui/Window.hx:94
+#: src/pr/TitleScreen.hx:318 src/pr/TitleScreen.hx:390 src/pr/TitleScreen.hx:419
+#: src/pr/TitleScreen.hx:438 src/pr/TitleScreen.hx:450 src/ui/PerkSelect.hx:92
+#: src/ui/ReplaceItem.hx:123 src/ui/ReplaceTalisman.hx:103 src/ui/Window.hx:94
 #: src/en/inter/SwitchBossRune.hx:389
 msgid "Cancel"
 msgstr "Batal"
@@ -1464,8 +1457,8 @@ msgstr "Mainkan"
 
 #. --------
 #. msgid "Options"
-#: src/pr/TitleScreen.hx:331 src/ui/CharacSheet.hx:191
-#: src/ui/CharacSheet.hx:195 src/ui/CharacSheet.hx:1226 src/ui/Options.hx:141
+#: src/pr/TitleScreen.hx:331 src/ui/CharacSheet.hx:191 src/ui/CharacSheet.hx:195
+#: src/ui/CharacSheet.hx:1226 src/ui/Options.hx:141
 msgid "Settings"
 msgstr "Pengesetan"
 
@@ -1648,8 +1641,7 @@ msgstr "Mulai sekarang, setiap kali item ini muncul maka akan lebih kuat lagi!"
 #. "objet."
 #: src/ui/BlacksmithPanel.hx:237
 msgid "The Foundry isn't currently equipped to upgrade this item any further."
-msgstr ""
-"Foundry saat ini tidak dilengkapi untuk mengupgrade item ini lebih jauh."
+msgstr "Foundry saat ini tidak dilengkapi untuk mengupgrade item ini lebih jauh."
 
 #. --------
 #. msgid "Bonus d'attributs: ::n::"
@@ -1785,8 +1777,7 @@ msgstr "Senjata"
 
 #. --------
 #. msgid "Inverser"
-#: src/ui/CharacSheet.hx:699 src/ui/CharacSheet.hx:721
-#: src/ui/ReplaceItem.hx:129
+#: src/ui/CharacSheet.hx:699 src/ui/CharacSheet.hx:721 src/ui/ReplaceItem.hx:129
 msgid "Swap"
 msgstr "Tukar"
 
@@ -2038,8 +2029,7 @@ msgstr "Kau dapat meningkatkan kekuatannya pula!"
 
 #. --------
 #. msgid "Confirmer"
-#: src/ui/CollectorPanel.hx:967 src/ui/MetaPanelBase.hx:914
-#: src/ui/Options.hx:363
+#: src/ui/CollectorPanel.hx:967 src/ui/MetaPanelBase.hx:914 src/ui/Options.hx:363
 msgid "Confirm"
 msgstr "Yakin"
 
@@ -2127,11 +2117,11 @@ msgstr "Versi Demo"
 #. "forum Steam. Merci pour votre soutien :)"
 #: src/ui/Disclaimer.hx:21
 msgid ""
-"This version of the game is subject to change (lots of it). Please report "
-"bugs on the Steam forum. Thanks for your help! :)"
+"This version of the game is subject to change (lots of it). Please report bugs "
+"on the Steam forum. Thanks for your help! :)"
 msgstr ""
-"Versi game saat ini rawan berubah (dan sering dirubah) Tolong laporkan "
-"bila ada keanehan di forum steam. Terima kasih atas bantuannya! :)"
+"Versi game saat ini rawan berubah (dan sering dirubah) Tolong laporkan bila ada "
+"keanehan di forum steam. Terima kasih atas bantuannya! :)"
 
 #. --------
 #. msgid "Dead Cells Alpha [build ::build::]"
@@ -2199,7 +2189,8 @@ msgstr "Menghubungkan ke server..."
 msgid ""
 "Failed to send your score:\n"
 "(::reason::)"
-msgstr "Gagal untuk mengirim skor anda:\n"
+msgstr ""
+"Gagal untuk mengirim skor anda:\n"
 "(::reason::)"
 
 #. --------
@@ -2246,8 +2237,8 @@ msgstr ""
 #. msgid "Vous avez battu votre record, mais pas assez pour changer de rang."
 #: src/ui/EndScoreMode.hx:302
 msgid "You've beaten your record, but not enough to change rank."
-msgstr "Kamu telah mengalahkan rekormu, namun kurang cukup untuk "
-"mengubah ranking mu"
+msgstr ""
+"Kamu telah mengalahkan rekormu, namun kurang cukup untuk mengubah ranking mu"
 
 #. --------
 #. msgid "Vous êtes toujours au rang ::rng::."
@@ -2339,22 +2330,20 @@ msgstr "Semua damage yang akan diterima -::n::%"
 #. msgid "La puissance de cette Mutation augmente en fonction de votre Brutalité."
 #: src/ui/ItemDesc.hx:182
 msgid "This mutation increases in strength with you Brutality level."
-msgstr "Mutasi ini meningkatkan kekuatan mu yang berskala dengan "
-"level brutalitas."
+msgstr ""
+"Mutasi ini meningkatkan kekuatan mu yang berskala dengan level brutalitas."
 
 #. --------
 #. msgid "La puissance de cette Mutation augmente en fonction de votre Tactique."
 #: src/ui/ItemDesc.hx:184
 msgid "This mutation increases in strength with you Tactics level."
-msgstr "Mutasi ini meningkatkan kekuatan mu yang berskala dengan "
-"level taktik."
+msgstr "Mutasi ini meningkatkan kekuatan mu yang berskala dengan level taktik."
 
 #. --------
 #. msgid "La puissance de cette Mutation augmente en fonction de votre Survie."
 #: src/ui/ItemDesc.hx:186
 msgid "This mutation increases in strength with you Survival level."
-msgstr "Mutasi ini meningkatkan kekuatan mu yang berskala dengan "
-"level survival."
+msgstr "Mutasi ini meningkatkan kekuatan mu yang berskala dengan level survival."
 
 #. --------
 #. msgid "Classement Défi Quotidien"
@@ -2508,8 +2497,7 @@ msgstr "Tunjukan efek cooldown rolling"
 #. "prête."
 #: src/ui/Options.hx:220
 msgid "Displays a light visual feedback when you can roll again."
-msgstr "Menunjukkan pembantuan pengelihatan kecil ketika dapat"
-"roll lagi"
+msgstr "Menunjukkan pembantuan pengelihatan kecil ketika dapatroll lagi"
 
 #. --------
 #. msgid "Roulade intelligente"
@@ -2522,10 +2510,10 @@ msgstr "Smart rolling"
 #. "Interrompt intelligemment la roulade si elle vous fait tomber d'une plate-"
 #. "forme."
 #: src/ui/Options.hx:223
-msgid ""
-"Will intelligently stop a roll if it would have taken you off a platform."
-msgstr "Akan memberhentikan roll jika roll tersebut akan menjatuhkan mu"
-"dari suatu platform"
+msgid "Will intelligently stop a roll if it would have taken you off a platform."
+msgstr ""
+"Akan memberhentikan roll jika roll tersebut akan menjatuhkan mudari suatu "
+"platform"
 
 #. --------
 #. msgid "Annonce d'attaques"
@@ -2563,10 +2551,11 @@ msgstr "Aktifkan Sinkronisasi Steam Cloud"
 #. "hors-ligne."
 #: src/ui/Options.hx:233
 msgid ""
-"We strongly advise that you deactivate this functionality if you want to "
-"play offline."
-msgstr "Kami sangat menyarankan kamu menonaktifkan fungsinalitas ini jika"
-"jika kamu ingin bermain offline"
+"We strongly advise that you deactivate this functionality if you want to play "
+"offline."
+msgstr ""
+"Kami sangat menyarankan kamu menonaktifkan fungsinalitas ini jikajika kamu "
+"ingin bermain offline"
 
 #. --------
 #. msgid "Options par défaut"
@@ -2578,8 +2567,7 @@ msgstr "Mengembalikan ke opsi semula"
 #. msgid "Restaurer les valeurs par défaut pour toutes les options"
 #: src/ui/Options.hx:241
 msgid "Restores default values  for all options"
-msgstr "Mengembalikan semua nilai seperti semula "
-"untuk semua opsi"
+msgstr "Mengembalikan semua nilai seperti semula untuk semua opsi"
 
 #. --------
 #. msgid "Plein écran"
@@ -2618,13 +2606,13 @@ msgstr "Cahaya terang"
 #. "flashes présentent une gêne ou un risque pour vous."
 #: src/ui/Options.hx:256
 msgid ""
-"Controls the different flashes that impact the entire game screen "
-"(explosions, being wounded etc.) You can deactivate them if they bother you "
-"or pose a risk to your health."
+"Controls the different flashes that impact the entire game screen (explosions, "
+"being wounded etc.) You can deactivate them if they bother you or pose a risk "
+"to your health."
 msgstr ""
-"Mengendalikan beragam macam cahaya yang berdampak terhadap layar"
-"(ledakan, saat terluka, dst.)" anda dapat tidak mengaktifkannya jika mereka"
-"menggangu mu atau meresikokan kesehatanmu"
+"Mengendalikan beragam macam cahaya yang berdampak terhadap layar(ledakan, saat "
+"terluka, dst.)\" anda dapat tidak mengaktifkannya jika merekamenggangu mu atau "
+"meresikokan kesehatanmu"
 
 #. --------
 #. msgid "Activer les vibrations"
@@ -2855,9 +2843,9 @@ msgid ""
 "Warning! If you already have save files in the Steam Cloud they will be "
 "permanently overwritten!"
 msgstr ""
-"Apakah anda ingin memindahkan save file local anda ke Steam Cloud?"
-"Peringatan! Jika anda mempunyai save file di Steam Cloud, file "
-"tersebut terganti dan hilang selamanya!"
+"Apakah anda ingin memindahkan save file local anda ke Steam Cloud?Peringatan! "
+"Jika anda mempunyai save file di Steam Cloud, file tersebut terganti dan hilang "
+"selamanya!"
 
 #. --------
 #. msgid "Transférer mes sauvegardes"
@@ -2877,9 +2865,9 @@ msgid ""
 "Warning! If you already have local save files they will be permanently "
 "overwritten!"
 msgstr ""
-"Apakah anda ingin memindahkan save file local anda ke Steam Cloud?"
-"Peringatan! Jika anda mempunyai save file di Steam Cloud, file "
-"tersebut terganti dan hilang selamanya!"
+"Apakah anda ingin memindahkan save file local anda ke Steam Cloud?Peringatan! "
+"Jika anda mempunyai save file di Steam Cloud, file tersebut terganti dan hilang "
+"selamanya!"
 
 #. --------
 #. msgid "Dead Cells est développé par Motion Twin"
@@ -2918,10 +2906,11 @@ msgstr "Terima Kasih"
 #. "du numérique."
 #: src/ui/Options.hx:414
 msgid ""
-"Dead Cells was created with the help of the FAJV - National Center for "
-"Cinema and Animation in France."
-msgstr "Dead Cells dibuat dengan bantuan dari FAJV - Pusat National"
-"Cinema dan Animasi di Perancis"
+"Dead Cells was created with the help of the FAJV - National Center for Cinema "
+"and Animation in France."
+msgstr ""
+"Dead Cells dibuat dengan bantuan dari FAJV - Pusat NationalCinema dan Animasi "
+"di Perancis"
 
 #. --------
 #. msgid "Sélectionner une mutation"
@@ -3336,9 +3325,8 @@ msgstr "Aktifkan"
 #. --------
 #. msgid "Eliminez d'abord les ennemis proches !"
 #: src/en/inter/ATSwitch.hx:56 src/en/inter/ClassicDiscreetDoor.hx:32
-#: src/en/inter/Exit.hx:79 src/en/inter/MonsterDoor.hx:93
-#: src/en/inter/Npc.hx:110 src/en/inter/ScoreButton.hx:77
-#: src/en/inter/exit/ATExit.hx:82
+#: src/en/inter/Exit.hx:79 src/en/inter/MonsterDoor.hx:93 src/en/inter/Npc.hx:110
+#: src/en/inter/ScoreButton.hx:77 src/en/inter/exit/ATExit.hx:82
 msgid "Kill all nearby enemies first!"
 msgstr "Bunuh semua musuh yang dekat dulu "
 
@@ -3381,15 +3369,13 @@ msgstr "Aku peti yang nakal. Aku harus dihukum."
 #. msgid "Hmmm... J'ai tant à vous donner..."
 #: src/en/inter/CursedChest.hx:76
 msgid "Ohhh.... I've got so much to give you..."
-msgstr "Ohhh.... banyak sekali yang ingin kuberikan "
-"kepadamu..."
+msgstr "Ohhh.... banyak sekali yang ingin kuberikan kepadamu..."
 
 #. --------
 #. msgid "Je suis un coffre très cachotier vous savez."
 #: src/en/inter/CursedChest.hx:77
 msgid "You know I'm hiding a lot inside..."
-msgstr "Kau tahukan bahwa aku menyembunyikan banyak "
-"hal didalam..."
+msgstr "Kau tahukan bahwa aku menyembunyikan banyak hal didalam..."
 
 #. --------
 #. msgid "Vous ne voulez pas voir ce que je vous réserve ?"
@@ -3646,8 +3632,7 @@ msgstr "Ada yang dapat saya bantu?"
 #. msgid "Vous achetez quelque chose ou bien ?"
 #: src/en/inter/Merchant.hx:74
 msgid "Are you going to buy something, or are you just hanging around?"
-msgstr "Apakah anda ingin membeli sesuatu, apa kamu cuma sekedar "
-"nongkrong saja"
+msgstr "Apakah anda ingin membeli sesuatu, apa kamu cuma sekedar nongkrong saja"
 
 #. --------
 #. msgid "Dites, ça va finir par me gonfler..."
@@ -3815,29 +3800,25 @@ msgstr "???"
 #. msgid "Obtenir des équipements aléatoires (ce choix est définitif)."
 #: src/en/inter/ShopCategory.hx:97 src/en/inter/ShopCategory.hx:99
 msgid "Randomly obtain some equipment (this choice is final)."
-msgstr "Mendapatkan beberapa ekuipmen secara acak (pilihan ini"
-"tidak dapat dirubah"
+msgstr "Mendapatkan beberapa ekuipmen secara acak (pilihan initidak dapat dirubah"
 
 #. --------
 #. msgid "Obtenir des Capacités aléatoires (ce choix est définitif)."
 #: src/en/inter/ShopCategory.hx:100
 msgid "Randomly obtain some skills (this choice is final)."
-msgstr "Mendapatkan beberapa skill secara acak (pilihan ini"
-"tidak dapat dirubah)"
+msgstr "Mendapatkan beberapa skill secara acak (pilihan initidak dapat dirubah)"
 
 #. --------
 #. msgid "Obtenir des Armes aléatoires (ce choix est définitif)"
 #: src/en/inter/ShopCategory.hx:101
 msgid "Randomly obtain some weapons (this choice is final)."
-msgstr "Mendapatkan beberapa senjata secara acak (pilihan ini"
-"tidak dapat dirubah)"
+msgstr "Mendapatkan beberapa senjata secara acak (pilihan initidak dapat dirubah)"
 
 #. --------
 #. msgid "Obtenir des objets de la catégorie ::c:: (ce choix est définitif)."
 #: src/en/inter/ShopCategory.hx:106
 msgid "Obtain objects from the ::c:: category (this choice is final)."
-msgstr "Mendapatkan beberapa obyek dari kategori ::c:: (pilihan ini dapat"
-"dirubah)"
+msgstr "Mendapatkan beberapa obyek dari kategori ::c:: (pilihan ini dapatdirubah)"
 
 #. --------
 #. msgid "Sélectionner"
@@ -3861,7 +3842,7 @@ msgstr "Restock toko (::p:: GOLD)"
 #. msgid "Maintenez pour renouveler la boutique"
 #: src/en/inter/ShopReroll.hx:111
 msgid "Hold to refresh the shop"
-msgstr ""Tekan untuk restock toko"
+msgstr "\"Tekan untuk restock toko"
 
 #. --------
 #. msgid "Ça ne semble pas fonctionner."
@@ -4127,8 +4108,7 @@ msgstr "Sesuatu menahan pintu ini"
 #. msgid "Cette porte a été condamnée il y a ::time::. Dommage..."
 #: src/en/inter/door/TimedDoor.hx:60
 msgid "This door was sealed ::time:: ago. Too bad..."
-msgstr "Pintu ini tersegel ::time:: yang lalu, sayang"
-"sekali"
+msgstr "Pintu ini tersegel ::time:: yang lalu, sayangsekali"
 
 #. --------
 #. msgid "Porte minutée déverrouillée !"
@@ -4140,8 +4120,7 @@ msgstr "Pintu waktu terbuka!"
 #. msgid "Cette porte ne s'ouvrira pas si j'ai encore des cellules sur moi."
 #: src/en/inter/door/TriggeredDoor.hx:57
 msgid "This door won't open if you're still carrying cells."
-msgstr "Pintu ini tidak akan terbuka jika anda masih memegang"
-"cells"
+msgstr "Pintu ini tidak akan terbuka jika anda masih memegangcells"
 
 #. --------
 #. msgid "Porte ouverte"
@@ -4196,8 +4175,7 @@ msgstr "Aku bekerja dengan sang kolektor itu"
 #. msgid "Donc si t'as des Cellules, je peux améliorer ton équipement."
 #: src/en/inter/npc/Blacksmith.hx:100
 msgid "So if you have Cells, I can upgrade your stuff."
-msgstr "Jika kamu mempunyai cells, aku dapat memperbaharui"
-"barang mu"
+msgstr "Jika kamu mempunyai cells, aku dapat memperbaharuibarang mu"
 
 #. --------
 #. msgid "Tiens, tiens. Mais qui voilà..."
@@ -4379,8 +4357,8 @@ msgstr "Suatu hari, saya akan mempunyai sebuah toko!"
 #. msgid "Peut-être qu'ils arrêteront de m'appeler \"Guilain le stagiaire\"."
 #: src/en/inter/npc/InternMerchant.hx:41
 msgid "Maybe they'll stop calling me \"Guilain the intern\"..."
-msgstr "Mungkin suatu hari, mereka akan berhenti memanggil aku"
-"\"Guillain the Intern'\"
+msgstr ""
+"Mungkin suatu hari, mereka akan berhenti memanggil aku\"Guillain the Intern'\\"
 
 #. --------
 #. msgid "Achetez quelque chose sinon ils vont me punir !"
@@ -4508,8 +4486,9 @@ msgstr "Aku sungguh senang aku menemukan tumpukan mayat busuk ini!"
 #. msgid "Vous n'imazinez pas tout ce qu'on trouve là dedans !"
 #: src/en/inter/npc/PerkMaster.hx:67
 msgid "You can't even imagine all the stuff you can find in here!"
-msgstr "Kamu tidak dapat membayangkan betapa banyaknya barang yang"
-"dapat kau temukan dari sini!"
+msgstr ""
+"Kamu tidak dapat membayangkan betapa banyaknya barang yangdapat kau temukan "
+"dari sini!"
 
 #. --------
 #. msgid ""
@@ -4517,10 +4496,9 @@ msgstr "Kamu tidak dapat membayangkan betapa banyaknya barang yang"
 #. "beaucoup."
 #: src/en/inter/npc/PerkMaster.hx:68
 msgid ""
-"Bye the way, it's an odd thing to say... But you kind of look like these "
-"guys..."
-msgstr "Oh iya, ini mungkin kedengarannya aneh.. namun kamu kelihatannya"
-"mirip mereka..."
+"Bye the way, it's an odd thing to say... But you kind of look like these guys..."
+msgstr ""
+"Oh iya, ini mungkin kedengarannya aneh.. namun kamu kelihatannyamirip mereka..."
 
 #. --------
 #. msgid "Ah, et d... désolé pour l'odeur."
@@ -4534,8 +4512,9 @@ msgstr "Oh ya, maaf kalau bau..."
 #. "camelotte."
 #: src/en/inter/npc/PerkMaster.hx:70
 msgid "In any case, it beats selling a bunch of old ju... Stuff... Yeah stuff."
-msgstr "Apapun itu, ini lebih baik daripada menjual barang rongsok.. barang.."
-"ya.. baranglah"
+msgstr ""
+"Apapun itu, ini lebih baik daripada menjual barang rongsok.. barang..ya.. "
+"baranglah"
 
 #. --------
 #. msgid ""
@@ -4585,8 +4564,7 @@ msgstr "1 mutasi tersedia"
 #. msgid "Je sais que c'est bon, mais il ne faut pas en abuser..."
 #: src/en/inter/npc/PlagueDoctor.hx:27
 msgid "I know it's good, but you be abusing it..."
-msgstr "Aku tahu ini bagus, namun cara memakainya tidak"
-"tidak seperti itu juga..."
+msgstr "Aku tahu ini bagus, namun cara memakainya tidaktidak seperti itu juga..."
 
 #. --------
 #. msgid "Ah ! Un client !"
@@ -4676,11 +4654,11 @@ msgstr "Ku dengar semakin jauh  musuhnya semakin sadis pula..."
 #. "VRAIMENT le coup de les scruter."
 #: src/en/inter/npc/ScoringGuy.hx:40
 msgid ""
-"Apparently there are things hidden in the walls... Perhaps it REALLY is "
-"worth looking around..."
+"Apparently there are things hidden in the walls... Perhaps it REALLY is worth "
+"looking around..."
 msgstr ""
-"katanya sih ada beberapa hal yang tersembunyi ditembok..."
-"Mungkin rumor tersbut benar benar NYATA..." 
+"katanya sih ada beberapa hal yang tersembunyi ditembok...Mungkin rumor tersbut "
+"benar benar NYATA..."
 
 #. --------
 #. msgid "Alors comme ça, on est venu chercher un peu de challenge ?"
@@ -4706,8 +4684,9 @@ msgstr "Hanya yang paling hebat..."
 msgid ""
 "What am I saying, the ELITEST of the ELITEST-EST... manage to achieve an "
 "honourable score!"
-msgstr "Bukan, yang paling hebat dari yang paling paling hebat... saja yang"
-"dapat mencapai peringkat emas!"
+msgstr ""
+"Bukan, yang paling hebat dari yang paling paling hebat... saja yangdapat "
+"mencapai peringkat emas!"
 
 #. --------
 #. msgid "Tu t'en crois digne ?"
@@ -4721,11 +4700,11 @@ msgstr "Menurutmu kau dapat melakukannya?"
 #. "possible tout en faisant un maximum de points."
 #: src/en/inter/npc/ScoringGuy.hx:87
 msgid ""
-"In that case, head down and defeat this level's boss as fast as you can "
-"while scoring as many points as you can manage."
+"In that case, head down and defeat this level's boss as fast as you can while "
+"scoring as many points as you can manage."
 msgstr ""
-"Jika begitu, turunlah dan kalahkan boss level ini secepat mungkin sambil" 
-"mencetak poin sebanyak banyaknya!"
+"Jika begitu, turunlah dan kalahkan boss level ini secepat mungkin "
+"sambilmencetak poin sebanyak banyaknya!"
 
 #. --------
 #. msgid ""
@@ -4733,11 +4712,11 @@ msgstr ""
 #. "que certains objets soient interdit."
 #: src/en/inter/npc/ScoringGuy.hx:91
 msgid ""
-"To help you out, you'll find equipment along the way, but some of those "
-"items might be locked."
+"To help you out, you'll find equipment along the way, but some of those items "
+"might be locked."
 msgstr ""
-"Untuk membantumu, kau akan menemukan beberapa barang dijalan, namun"
-"beberapa barang tersebut mungkin barang yang belum terbuka"
+"Untuk membantumu, kau akan menemukan beberapa barang dijalan, namunbeberapa "
+"barang tersebut mungkin barang yang belum terbuka"
 
 #. --------
 #. msgid "Peut-être que le Collecteur y est pour quelque chose, qui sait..."
@@ -4749,10 +4728,8 @@ msgstr "Siapa tahu Sang Kolektor mempunyai sesuatu tentang itu?"
 #. msgid ""
 #. "Et n'oublie pas, le chemin le plus court n'est pas forcément le meilleur..."
 #: src/en/inter/npc/ScoringGuy.hx:99
-msgid ""
-"And don't forget... The shortest path is not always the path to victory..."
-msgstr ""
-"Dan jangan lupa.. jalan terpendek bukan berarti jalan yang benar..."
+msgid "And don't forget... The shortest path is not always the path to victory..."
+msgstr "Dan jangan lupa.. jalan terpendek bukan berarti jalan yang benar..."
 
 #. --------
 #. msgid "Je sais ce que vous avez fait."
@@ -4799,10 +4776,8 @@ msgstr "Sepertinya kamu tidak terlalu jago ya?"
 #. --------
 #. msgid "J'ai noté vos \"exploits\". Enfin si on peut appeler ça comme ça."
 #: src/en/inter/npc/Scribe.hx:101
-msgid ""
-"I noticed your... \"achievements\", if that's what you want to call them."
-msgstr ""
-"Aku juga menyadari...\"pencapaianmu\", jika memang itu panggilannya."
+msgid "I noticed your... \"achievements\", if that's what you want to call them."
+msgstr "Aku juga menyadari...\"pencapaianmu\", jika memang itu panggilannya."
 
 #. --------
 #. msgid "Vous revoila. Evidemment."
@@ -4815,11 +4790,12 @@ msgstr "Kamu. Kembali Lagi. Tentu Saja."
 #: src/en/inter/npc/Scribe.hx:104
 msgid "You really aren't getting any better are you?"
 msgstr "Kemampuanmu sepertinya masih tumpul saja"
+
 #. --------
 #. msgid "Rapporte la moi vite !"
 #: src/en/inter/npc/SewerCreature.hx:93 src/en/inter/npc/SewerCreature.hx:231
 msgid "Bring it to me now!"
-msgstr "Bawakan kepadaku sekarang!
+msgstr "Bawakan kepadaku sekarang"
 
 #. --------
 #. msgid "Elle est quelque part dans le coin ! Je le sais, je le SENS !"
@@ -4873,8 +4849,7 @@ msgstr "Gagah sedikit kenapa!"
 #. msgid "Tu ne voudrais pas abandonner une pauvre âme en peine, hein, dis moi ?"
 #: src/en/inter/npc/SewerCreature.hx:106
 msgid "You wouldn't abandon a friend in need now would you, huh?"
-msgstr "Kamu nggak bakalan meninggalkan teman yang membutuhkan"
-"bantuan, kan?"
+msgstr "Kamu nggak bakalan meninggalkan teman yang membutuhkanbantuan, kan?"
 
 #. --------
 #. msgid "Il n'y a plus personne..."
@@ -4911,8 +4886,8 @@ msgstr "Telmi sih... tapi sepertinya kamu mengerti apa yang kukatakan..."
 #. msgid "J'ai perdu une r... Je veux dire MA rune. Du coup, je suis coincé ici."
 #: src/en/inter/npc/SewerCreature.hx:208
 msgid "I lost a ru.. I mean MY rune. So you see I'm a little stuck..."
-msgstr "Aku kehilangan sajak.. maksudku sajakku. Jadi.. aku disini agak"
-"Terjebak..."
+msgstr ""
+"Aku kehilangan sajak.. maksudku sajakku. Jadi.. aku disini agakTerjebak..."
 
 #. --------
 #. msgid "Et j'ai BESOIN de ma rune..."
@@ -4932,11 +4907,11 @@ msgstr "Kamu ingin membantuku mencarinyakan?"
 #. "grille."
 #: src/en/inter/npc/SewerCreature.hx:228
 msgid ""
-"Ho ho! Thank you! It's somewhere around here in these sewers, on your side "
-"of these bars..."
+"Ho ho! Thank you! It's somewhere around here in these sewers, on your side of "
+"these bars..."
 msgstr ""
-"Ho ho! Terima kasih! Aku yakin sajaknya berada disekitar sini, di"
-"bagian mu setidaknya..." 
+"Ho ho! Terima kasih! Aku yakin sajaknya berada disekitar sini, dibagian mu "
+"setidaknya..."
 
 #. --------
 #. msgid "Ah ! Te revoilà !"
@@ -5102,11 +5077,11 @@ msgstr "AWAS!"
 #. "adéquate."
 #: src/en/inter/npc/Sign.hx:78
 msgid ""
-"Please, do not attempt to take this shortcut if you're not properly "
-"equipped... You've been warned."
+"Please, do not attempt to take this shortcut if you're not properly equipped... "
+"You've been warned."
 msgstr ""
-"Tolong jangan mencoba jalan ini jika anda belum mempunyai ekuipmen"
-"yang lengkap... anda telah diperingatkan"
+"Tolong jangan mencoba jalan ini jika anda belum mempunyai ekuipmenyang "
+"lengkap... anda telah diperingatkan"
 
 #. --------
 #. msgid "Risque de mort prématurée."
@@ -5130,8 +5105,7 @@ msgstr "Terbentanglah disini para arsitek"
 #. msgid "Faites une offrande ou retournez sur vos pas."
 #: src/en/inter/npc/Sign.hx:148
 msgid "Make an offering and return from whence you came."
-msgstr "Berilah sebuah persembahan dan kembalilah darimana"
-"kau datang"
+msgstr "Berilah sebuah persembahan dan kembalilah darimanakau datang"
 
 #. --------
 #. msgid "::n:: cellules de boss requises"
@@ -5166,8 +5140,9 @@ msgstr "Turret Otomatis"
 #. "Tire rapidement sur tous les ennemis proches, infligeant ::+dps:: dégâts/sec."
 #: res/data.cdb:item/#0.gameplayDesc
 msgid "Rapid fires on nearby enemies, inflicting ::+dps:: damage/s."
-msgstr "Menembak panah dengan cepat kepada musuh yang dekat,"
-"menimbulkan kerusakan ::+dps::."
+msgstr ""
+"Menembak panah dengan cepat kepada musuh yang dekat,menimbulkan kerusakan ::"
+"+dps::."
 
 #. StandardTurret (name)
 #.
@@ -5188,8 +5163,8 @@ msgid ""
 "Fires saws on nearby enemies, inflicting ::+dps:: damage/s, plus ::+dps2:: "
 "damage/s bleeding damage."
 msgstr ""
-"Menembakkan gergaji kepada musuh yang dekat, menimbulkan kerusakan sebesar"
-"::+dps:: dan menimbulkan pendarahan ::+dps2::. "
+"Menembakkan gergaji kepada musuh yang dekat, menimbulkan kerusakan sebesar::"
+"+dps:: dan menimbulkan pendarahan ::+dps2::. "
 
 #. HeavyTurret (name)
 #.
@@ -5208,11 +5183,11 @@ msgstr "Turret Berat"
 #. "tourelle."
 #: res/data.cdb:item/#2.gameplayDesc
 msgid ""
-"Fires on all nearby enemies and inflicts ::+dps:: damage/s. Your own damage "
-"is increased by ::prct::% if you are close to the turret."
+"Fires on all nearby enemies and inflicts ::+dps:: damage/s. Your own damage is "
+"increased by ::prct::% if you are close to the turret."
 msgstr ""
-"Menembak semua musuh yang dekat dan menimbulkan kerusakan sebsar ::+dps:: "
-"dan meningkatkan kekuatanmu sebesar ::prct::% jika berada didekat turret."
+"Menembak semua musuh yang dekat dan menimbulkan kerusakan sebsar ::+dps:: dan "
+"meningkatkan kekuatanmu sebesar ::prct::% jika berada didekat turret."
 
 #. CeilTurret (name)
 #.
@@ -5229,10 +5204,8 @@ msgstr "Turret Atap"
 #. "Tire sur tous les ennemis qui passent en dessous, infligeant ::+dps:: dégâts/"
 #. "sec."
 #: res/data.cdb:item/#3.gameplayDesc
-msgid ""
-"Fires rapidly on any enemies passing below inflicting ::+dps:: damage/s."
-msgstr ""
-"Menembak dengan cepat musuh yang melewatinya, membuat kerusakan ::+dps::."
+msgid "Fires rapidly on any enemies passing below inflicting ::+dps:: damage/s."
+msgstr "Menembak dengan cepat musuh yang melewatinya, membuat kerusakan ::+dps::."
 
 #. FireTurret (name)
 #.
@@ -5271,8 +5244,8 @@ msgid ""
 "Inflicts ::+dps:: damage/s and bleeding (::+dotDps:: damage/s) to enemies "
 "walking on it."
 msgstr ""
-"Menimbulkan kerusakan ::+dps:: dan pendarahan (::+dotDps:: dps) kepada musuh"
-"yang melangkahinya."
+"Menimbulkan kerusakan ::+dps:: dan pendarahan (::+dotDps:: dps) kepada "
+"musuhyang melangkahinya."
 
 #. RootTrap (name)
 #.
@@ -5295,8 +5268,8 @@ msgid ""
 "Increases all damage taken by trapped enemies by ::+dps:: damage/s."
 msgstr ""
 "Melontarkan ::count:: jebakan yang memberhentikan musuh selama ::duration::"
-"detik. MMeningkatkan segala serangan yang diberikan kepada musuh sebersar"
-"::+dps::."
+"detik. MMeningkatkan segala serangan yang diberikan kepada musuh sebersar::"
+"+dps::."
 
 #. Crusher (name)
 #.
@@ -5337,8 +5310,8 @@ msgid ""
 "damage)."
 msgstr ""
 "Kamu menghilang untuk ::duration:: detik dan meninggalkan umpan ditempatmu,"
-"Umpan menarik perhatian semua musuh dan akan meledak setelah ::duration::"
-"(::+power::)."
+"Umpan menarik perhatian semua musuh dan akan meledak setelah ::duration::(::"
+"+power::)."
 
 #. Sanctuary (name)
 #.
@@ -5428,8 +5401,9 @@ msgstr "Bom Kluster"
 #. "Explose en ::count:: petites bombes infligeant ::+power:: dégâts chacune."
 #: res/data.cdb:item/#14.gameplayDesc
 msgid "Explodes into ::count:: mini bombs inflicting ::+power:: damage each."
-msgstr "Meledak menjadi ::count:: bom kecil yang memimbulkan ::+power::"
-"setiap bom kecilnya"
+msgstr ""
+"Meledak menjadi ::count:: bom kecil yang memimbulkan ::+power::setiap bom "
+"kecilnya"
 
 #. MagnetGrenade (name)
 #.
@@ -5481,8 +5455,7 @@ msgstr "Granat Es"
 #. msgid "Explose en infligeant ::+power:: dégâts. Gèle les victimes."
 #: res/data.cdb:item/#17.gameplayDesc
 msgid "Explodes freezing nearby enemies and inflicting ::+power:: damage."
-msgstr "Ledakan membekukan musuh disekitar dan menimbulkan kerusakan"
-" sebesar:"
+msgstr "Ledakan membekukan musuh disekitar dan menimbulkan kerusakan sebesar:"
 
 #. FireBomb (name)
 #.
@@ -5500,10 +5473,9 @@ msgstr "Granat Api"
 #. "duration:: secondes (::+dps:: dégâts / sec)."
 #: res/data.cdb:item/#18.gameplayDesc
 msgid ""
-"Inflicts ::+power:: damage and burns nearby enemies for ::duration:: seconds "
-"(::+dps:: damage/s)."
+"Inflicts ::+power:: damage and burns nearby enemies for ::duration:: seconds (::"
+"+dps:: damage/s)."
 msgstr "Menimbulkan kerusakan sebesar ::power:: dan membakar musuh disekitar"
-"nya selama ::duration:: detik (::+dps:: dps)
 
 #. RootBomb (name)
 #.
@@ -5511,7 +5483,7 @@ msgstr "Menimbulkan kerusakan sebesar ::power:: dan membakar musuh disekitar"
 #. msgid "Bombe de lière"
 #: res/data.cdb:item/#19.name
 msgid "Ivy grenade"
-msgstr "Granat Akar
+msgstr "Granat Aka"
 
 #. RootBomb (gameplayDesc)
 #.
@@ -5521,11 +5493,11 @@ msgstr "Granat Akar
 #. "subissent ::+dps:: dégâts / sec tant qu'elles sont emprisonnées."
 #: res/data.cdb:item/#19.gameplayDesc
 msgid ""
-"Immobilizes all nearby enemies for ::duration:: seconds and inflicts ::"
-"+dps::  damage/s while they are trapped."
+"Immobilizes all nearby enemies for ::duration:: seconds and inflicts ::+dps::  "
+"damage/s while they are trapped."
 msgstr ""
-"Melumpuhkan semua musuh disekitar selama ::duration:: sekon dan menimbul"
-"kan ::+dps:: dps selama mereka terjebak."
+"Melumpuhkan semua musuh disekitar selama ::duration:: sekon dan menimbulkan ::"
+"+dps:: dps selama mereka terjebak."
 
 #. OilBomb (name)
 #.
@@ -5542,8 +5514,7 @@ msgstr "Bom Minyak"
 #. "Inflige ::+power:: dégâts et applique de l'huile inflammable dans sa zone "
 #. "d'effet."
 #: res/data.cdb:item/#20.gameplayDesc
-msgid ""
-"Inflicts ::+power:: damage and covers nearby enemies with flammable oil."
+msgid "Inflicts ::+power:: damage and covers nearby enemies with flammable oil."
 msgstr ""
 "Menimbulkan kerusakan sebesar ::+power:: dan memyelimuti musuh dalam minyak."
 
@@ -5584,9 +5555,9 @@ msgid ""
 "prct::% health or less, then use the Blueprint Extractor on the monster to "
 "obtain a blueprint from it."
 msgstr ""
-"Lemparlah granat ini kepada sebuah monster untuk memancing amarahnya. Ketika"
-"Darahnya mencapai ::prct::% , gunakanlah penarik ekstrak blueprint pada"
-"monster tersebut untuk mendapatkan blueprint darinya."
+"Lemparlah granat ini kepada sebuah monster untuk memancing amarahnya. "
+"KetikaDarahnya mencapai ::prct::% , gunakanlah penarik ekstrak blueprint "
+"padamonster tersebut untuk mendapatkan blueprint darinya."
 
 #. Pokebomb (ambiantDesc)
 #.
@@ -5626,10 +5597,8 @@ msgstr "Bola Kematian"
 #. msgid ""
 #. "Invoque une orbe dévastatrice (::+dps:: dégâts/sec) qui se déplace lentement."
 #: res/data.cdb:item/#24.gameplayDesc
-msgid ""
-"Summons a slow moving but devastating orb of energy (::+dps:: damage/s)."
+msgid "Summons a slow moving but devastating orb of energy (::+dps:: damage/s)."
 msgstr ""
-"Memanggil bola yang berjalan lambat namun sangat menyakitkan (::+dps:: dps).
 
 #. KnivesCircle (name)
 #.
@@ -5650,8 +5619,8 @@ msgid ""
 "Launches a storm of knives around you which causes bleed damage for ::"
 "duration:: seconds (::+dps:: damage/s)."
 msgstr ""
-"Melontarkan badai pisau disekelilingmu dan menyebabkan pendarahan"
-"yang berat sekitar ::duration:: detik (::+dps:: dps)."
+"Melontarkan badai pisau disekelilingmu dan menyebabkan pendarahanyang berat "
+"sekitar ::duration:: detik (::+dps:: dps)."
 
 #. DamageBuff (name)
 #.
@@ -5670,11 +5639,11 @@ msgstr "Kekuatan Terlarang"
 #. "période."
 #: res/data.cdb:item/#26.gameplayDesc
 msgid ""
-"You deal about ::+dps:: DPS for ::duration:: seconds. You also take +::prct::"
-"% extra damage during this period."
+"You deal about ::+dps:: DPS for ::duration:: seconds. You also take +::prct::% "
+"extra damage during this period."
 msgstr ""
-"Kamu mengeluarkan ::+dps:: DPS salam ::+duration:: detik. Kamu juga mendapatkan "
-"::+prct::% damage tambahan selama waktu ini."
+"Kamu mengeluarkan ::+dps:: DPS salam ::+duration:: detik. Kamu juga "
+"mendapatkan ::+prct::% damage tambahan selama waktu ini."
 
 #. LeechBuff (name)
 #.
@@ -5692,9 +5661,9 @@ msgstr "Vampirisme"
 #. "sec."
 #: res/data.cdb:item/#27.gameplayDesc
 msgid "You recover ::+power:: HP per hit you give for ::duration:: seconds."
-msgstr "" 
-"Kamu mendapatkan ::+power:: nyawa setiap pukulan yang kau beri "
-"selama ::+duration:: detik."
+msgstr ""
+"Kamu mendapatkan ::+power:: nyawa setiap pukulan yang kau beri selama ::"
+"+duration:: detik."
 
 #. LeechBuffEmpty (name)
 #.
@@ -5727,8 +5696,7 @@ msgstr "Tonik"
 #. "Vous soigne de ::+power:: PV et vous protège totalement pendant ::duration:: "
 #. "sec."
 #: res/data.cdb:item/#29.gameplayDesc
-msgid ""
-"Heals ::+power:: HP and completely protects you for ::duration:: seconds."
+msgid "Heals ::+power:: HP and completely protects you for ::duration:: seconds."
 msgstr "::+power:: HP dan melindungimu selama ::duration:: detik."
 
 #. ExtraHealEmpty (name)
@@ -5755,8 +5723,8 @@ msgstr "Deflektor"
 #. "+power:: dégâts et est étourdit ::effectCharge:: secondes."
 #: res/data.cdb:item/#31.gameplayDesc
 msgid ""
-"Destroys all nearby projectiles, stuns the source for ::effectCharge:: "
-"seconds and inflicts ::+power:: damage."
+"Destroys all nearby projectiles, stuns the source for ::effectCharge:: seconds "
+"and inflicts ::+power:: damage."
 msgstr ""
 "Menghancurkan segala proyektil disekitar, dan membingungkan pelemparnya "
 "selama ::effectCharge:: detik dan menimbulkan ::+power:: damage."
@@ -5780,8 +5748,8 @@ msgid ""
 "Pulls an enemy to you. Your next melee attacks on the victim deal ::prct::% "
 "extra damage."
 msgstr ""
-"Menarik musuh kepada mu. Pukulanmu berikutnya akan melakukan ::prct::% "
-"damage tambahan."
+"Menarik musuh kepada mu. Pukulanmu berikutnya akan melakukan ::prct::% damage "
+"tambahan."
 
 #. Hook (ambiantDesc)
 #.
@@ -5814,8 +5782,8 @@ msgstr "Phaser"
 #. "prochaine attaque au corps à corps sont augmentés de ::prct::%."
 #: res/data.cdb:item/#33.gameplayDesc
 msgid ""
-"You teleport behind an enemy. The damage of your next melee attack is "
-"increased by ::prct::%."
+"You teleport behind an enemy. The damage of your next melee attack is increased "
+"by ::prct::%."
 msgstr ""
 "Memindahkan diri kebelakang musuh. Serangan berikutnya akan tertingkat "
 "sebesar ::prct::%."
@@ -5891,8 +5859,8 @@ msgstr "Arus Pembantahan"
 #. "supplémentaires."
 #: res/data.cdb:item/#37.gameplayDesc
 msgid ""
-"Knocks all nearby enemies back and inflicts ::+power:: damage. If the victim "
-"is hurled against a wall, it takes ::+power2:: extra damage."
+"Knocks all nearby enemies back and inflicts ::+power:: damage. If the victim is "
+"hurled against a wall, it takes ::+power2:: extra damage."
 msgstr ""
 "Menlontarkan musuh dan menimbulkan ::+power:: damage. Jika musuh terlontar ke "
 "tembok, musuh tersebut mendapatkan ::+power2:: extra damage."
@@ -5913,8 +5881,8 @@ msgstr "Sayap Gagak"
 #. "dégâts/sec aux ennemis en dessous."
 #: res/data.cdb:item/#38.gameplayDesc
 msgid ""
-"Temporarily allows you to float in the air while inflicting ::+dps:: damage/"
-"s to enemies below you."
+"Temporarily allows you to float in the air while inflicting ::+dps:: damage/s "
+"to enemies below you."
 msgstr ""
 "Untuk sementara, dapat membuatmu malayang diudara sambil menimbulkan ::+dps::"
 "dps kepada musuh dibawah mu"
@@ -5954,8 +5922,8 @@ msgid ""
 "Use this on a monster transformed by the Hunter's Grenade with less than ::"
 "prct::% health remaining."
 msgstr ""
-"Gunakan ini kepada monster yang tertransformasi oleh granat pemburu dengan"
-"nyawa sekitar ::prct::% ."
+"Gunakan ini kepada monster yang tertransformasi oleh granat pemburu dengannyawa "
+"sekitar ::prct::% ."
 
 #. StartSword (name)
 #.
@@ -6214,8 +6182,8 @@ msgstr "Menimbulkan CRITICAL jika speed buff aktif."
 #. "marche."
 #: res/data.cdb:item/#52.ambiantDesc
 msgid ""
-"Take your time? Pft, what a joke. Hit hard and fast! Now there's a recipe "
-"for victory..."
+"Take your time? Pft, what a joke. Hit hard and fast! Now there's a recipe for "
+"victory..."
 msgstr ""
 "Bersabar? Pft, lelucon yang bagus. Pukulan cepat dan keras, itulah kunci keme "
 "nangan..."
@@ -6234,10 +6202,8 @@ msgstr "Tombak Perang"
 #. msgid ""
 #. "Inflige un COUP CRITIQUE lorsque vous touchez plusieurs cibles à la fois."
 #: res/data.cdb:item/#53.gameplayDesc
-msgid ""
-"Inflicts a CRITICAL HIT when you strike several enemies at the same time."
-msgstr ""
-"Menimbulkan CRITICAL ketika musuh diserang berkali kali"
+msgid "Inflicts a CRITICAL HIT when you strike several enemies at the same time."
+msgstr "Menimbulkan CRITICAL ketika musuh diserang berkali kali"
 
 #. Spear (ambiantDesc)
 #.
@@ -6351,8 +6317,8 @@ msgstr "Sendal Sparta"
 #. "supplémentaires si la victime est projetée contre un mur."
 #: res/data.cdb:item/#58.gameplayDesc
 msgid ""
-"Knocks enemies back and interrupts their attacks. Inflicts extra damage if "
-"the victim is hurled against a wall."
+"Knocks enemies back and interrupts their attacks. Inflicts extra damage if the "
+"victim is hurled against a wall."
 msgstr ""
 "Musuh terdorong dan seranganya terganggu, menimbulkan damage ekstra apabila "
 "korban terdorong ke tembok"
@@ -6412,8 +6378,7 @@ msgstr "Cambuk Valmont"
 #. "Ignore les boucliers. Inflige un COUP CRITIQUE si le coup est porté par "
 #. "l'extrêmité du fouet."
 #: res/data.cdb:item/#61.gameplayDesc
-msgid ""
-"Ignores shields and deals a CRITICAL HIT when striking at maximum range."
+msgid "Ignores shields and deals a CRITICAL HIT when striking at maximum range."
 msgstr ""
 "Mengabaikan tamen musuh dan menimbulkan CRITICAL jika menyerang di jarak "
 "maksimum."
@@ -6481,10 +6446,8 @@ msgstr "Obor"
 #. "Enflamme vos ennemis et inflige ::+dps:: dégâts/sec pendant ::duration:: sec)"
 #: res/data.cdb:item/#64.gameplayDesc
 msgid ""
-"Ignites your enemies and inflicts ::+dps:: damage/sec for ::duration:: "
-"seconds."
-msgstr ""
-"Membakar musuh dan menimbulkan ::_dps:: dps untuk ::duration:: sekon."
+"Ignites your enemies and inflicts ::+dps:: damage/sec for ::duration:: seconds."
+msgstr "Membakar musuh dan menimbulkan ::_dps:: dps untuk ::duration:: sekon."
 
 #. Burner (ambiantDesc)
 #.
@@ -6656,8 +6619,7 @@ msgstr "Panah Cepat"
 #. "dans le corps."
 #: res/data.cdb:item/#71.gameplayDesc
 msgid ""
-"Inflicts a CRITICAL HIT if the target has ::count:: or more arrows in its "
-"body."
+"Inflicts a CRITICAL HIT if the target has ::count:: or more arrows in its body."
 msgstr ""
 "Menimbulkan CRITICAL jika korban mempunyai ::count:: / lebih panah yang "
 "tertancap."
@@ -6741,11 +6703,9 @@ msgstr "Ice Crossbow"
 #. "Un tir bref congèle les ennemis. Un tir maintenu inflige de lourds dégâts "
 #. "critiques."
 #: res/data.cdb:item/#75.gameplayDesc
-msgid ""
-"A rapid shot freezes enemies. A long fire inflicts heavy critical damage."
+msgid "A rapid shot freezes enemies. A long fire inflicts heavy critical damage."
 msgstr ""
-"Senjata otomatis yang menembak musuh. Serangan otomatis menimbulkan "
-"CRITICAL."
+"Senjata otomatis yang menembak musuh. Serangan otomatis menimbulkan CRITICAL."
 
 #. ExplosiveCrossBow (name)
 #.
@@ -6763,11 +6723,11 @@ msgstr "Explosive Crossbow"
 #. "carreau subit une blessure critique."
 #: res/data.cdb:item/#76.gameplayDesc
 msgid ""
-"Fires explosive bolts that deal area damage. A direct hit on an enemy "
-"inflicts a critical blow."
+"Fires explosive bolts that deal area damage. A direct hit on an enemy inflicts "
+"a critical blow."
 msgstr ""
-"Menembak panah peledak yang menimbulkan kerusakan area. Serangan "
-"langsung menimbulkan CRITICAL."
+"Menembak panah peledak yang menimbulkan kerusakan area. Serangan langsung "
+"menimbulkan CRITICAL."
 
 #. MarkBow (name)
 #.
@@ -6787,11 +6747,10 @@ msgstr "Panah Hokuto"
 #: res/data.cdb:item/#77.gameplayDesc
 msgid ""
 "Marks the victim for ::duration:: seconds. The enemy takes ::+dps:: extra "
-"damage/s while they're marked. If they die the mark spreads to nearby "
-"enemies."
+"damage/s while they're marked. If they die the mark spreads to nearby enemies."
 msgstr ""
-"Menandakan korban selama ::duration:: detik. Musuh menerima extra ::+dps:: "
-"dps ketika tertanda. Jika mereka mati tanda itu menyebar ke musuh sekitarnya."
+"Menandakan korban selama ::duration:: detik. Musuh menerima extra ::+dps:: dps "
+"ketika tertanda. Jika mereka mati tanda itu menyebar ke musuh sekitarnya."
 
 #. MarkBow (ambiantDesc)
 #.
@@ -6799,7 +6758,7 @@ msgstr ""
 #. msgid "Tu ne le sais pas encore, mais tu es déjà mort."
 #: res/data.cdb:item/#77.ambiantDesc
 msgid "You don't know it yet, but you're already dead."
-msgstr " \"Omae wa mou, shindeiru"\ "
+msgstr " \"Omae wa mou, shindeiru\"\\ "
 
 #. ThrowingKnife (name)
 #.
@@ -6820,8 +6779,8 @@ msgid ""
 "Causes bleeding (::+dps:: damage/s for ::duration:: seconds). The attack "
 "automatically targets the closest enemy."
 msgstr ""
-"Menimbulkan pendarahan (::+dps:: dps selama ::duration:: detik). "
-"Serangannya otomatis menyerang musuh terdekat."
+"Menimbulkan pendarahan (::+dps:: dps selama ::duration:: detik). Serangannya "
+"otomatis menyerang musuh terdekat."
 
 #. LightningWhip (name)
 #.
@@ -6858,8 +6817,7 @@ msgid ""
 "Ignites the ground and your enemies inflicting ::+dps:: damage/sec for ::"
 "duration:: seconds."
 msgstr ""
-"Membakar lantai dan musuhmu, menimbulkan ::+dps:: dps selama ::duration:: "
-"detik"
+"Membakar lantai dan musuhmu, menimbulkan ::+dps:: dps selama ::duration:: detik"
 
 #. ThrowingIce (name)
 #.
@@ -6880,8 +6838,7 @@ msgid ""
 "Slows down enemies. Inflicts critical damage when an enemy is in water or "
 "covered in oil."
 msgstr ""
-"Melambatkan musuh. menimbulkan serangan critical ketika musuh terlumuri "
-"minyak"
+"Melambatkan musuh. menimbulkan serangan critical ketika musuh terlumuri minyak"
 
 #. FireBall (name)
 #.
@@ -6902,8 +6859,8 @@ msgid ""
 "Launched several flaming projectiles. Inflicts critical damage on enemies "
 "covered with oil."
 msgstr ""
-"Melontarkan beberapa proyektil terbakar. Menimbulkan CRITICAL pada musuh "
-"yang dilumuri minyak."
+"Melontarkan beberapa proyektil terbakar. Menimbulkan CRITICAL pada musuh yang "
+"dilumuri minyak."
 
 #. Lightning (name)
 #.
@@ -6918,10 +6875,8 @@ msgstr "Lightning Bolt"
 #. --------
 #. msgid "Maintenez longtemps pour infliger des coups critiques."
 #: res/data.cdb:item/#83.gameplayDesc
-msgid ""
-"Continuously casting deals critical hits. But be wary of too much power..."
-msgstr ""
-"Penyerangan secara menerus menimbulkan CRITICAL. Namun hati hati..."
+msgid "Continuously casting deals critical hits. But be wary of too much power..."
+msgstr "Penyerangan secara menerus menimbulkan CRITICAL. Namun hati hati..."
 
 #. Lightning (ambiantDesc)
 #.
@@ -6971,10 +6926,9 @@ msgstr "Letusan Es"
 #. "gelée."
 #: res/data.cdb:item/#85.gameplayDesc
 msgid ""
-"Freezes enemies in front of you. Does not deal damage is the enemy is "
-"already frozen."
-msgstr ""
-"Membekukan musuh, musuh yang sudah beku tidak tersakiti"
+"Freezes enemies in front of you. Does not deal damage is the enemy is already "
+"frozen."
+msgstr "Membekukan musuh, musuh yang sudah beku tidak tersakiti"
 
 #. StartShield (name)
 #.
@@ -6992,8 +6946,8 @@ msgstr "Tameng Kayu yang baik"
 #. "tenter une PARADE et annuler tous les dégâts."
 #: res/data.cdb:item/#86.gameplayDesc
 msgid ""
-"Hold the shield up to reduce some damage. Parry at the right time to cancel "
-"all damage."
+"Hold the shield up to reduce some damage. Parry at the right time to cancel all "
+"damage."
 msgstr ""
 "Tahanlah tameng untuk mengurangi serangan musuh. Parry pada saat yang tepat "
 "untuk menghapuskan serangan musuh."
@@ -7035,8 +6989,8 @@ msgid ""
 "Deals damage to all nearby enemies when you block an attack. Deals critical "
 "damage when you parry."
 msgstr ""
-"Menimbulkan damage kepada semua musuh disekitar ketika menangkis. menimbul "
-"kan CRITICAL ketika parry"
+"Menimbulkan damage kepada semua musuh disekitar ketika menangkis. menimbul kan "
+"CRITICAL ketika parry"
 
 #. BumpShield (name)
 #.
@@ -7053,10 +7007,8 @@ msgstr "Shove Shield"
 #. "Repousse fortement les ennemis bloqués. La puissance de l'effet est doublée "
 #. "en cas de Parade réussie."
 #: res/data.cdb:item/#89.gameplayDesc
-msgid ""
-"Violently knocks back enemies. Double the effect if you parry correctly."
-msgstr ""
-"Mendorong musuh dengan keras. Efek ini digandakan ketika parrynya benar."
+msgid "Violently knocks back enemies. Double the effect if you parry correctly."
+msgstr "Mendorong musuh dengan keras. Efek ini digandakan ketika parrynya benar."
 
 #. Rampart (name)
 #.
@@ -7077,8 +7029,8 @@ msgid ""
 "Absorbes extra damage when held up. Creates a force field for ::duration:: "
 "seconds when you parry correctly."
 msgstr ""
-"Menangkis damage tambahan ketika tertahan. Membuat forcefield selama "
-"::duration:: detik ketika parry benar."
+"Menangkis damage tambahan ketika tertahan. Membuat forcefield selama ::"
+"duration:: detik ketika parry benar."
 
 #. DashShield (name)
 #.
@@ -7113,8 +7065,8 @@ msgstr "Blood Shield"
 #. "cas de Parade réussie."
 #: res/data.cdb:item/#92.gameplayDesc
 msgid ""
-"Causes bleeding (::+dps:: damage/s for ::duration:: seconds) when you block "
-"an enemy. Bleeding affects nearby enemies if you parry."
+"Causes bleeding (::+dps:: damage/s for ::duration:: seconds) when you block an "
+"enemy. Bleeding affects nearby enemies if you parry."
 msgstr ""
 "Menimbulkan pendarahan (::+dps:: dps selama ::duration:: detik) ketika men "
 "ahan. Penderahan berefek kepada musuh disekitar ketika parry. "
@@ -7142,8 +7094,8 @@ msgstr "Greed Shield"
 #. "par ennemi). Transforme aussi les flèches en or."
 #: res/data.cdb:item/#93.gameplayDesc
 msgid ""
-"Blocks attacks and shakes out any loose gold from your enemy's teeth (once "
-"per enemy). Also transforms enemy arrows into gold."
+"Blocks attacks and shakes out any loose gold from your enemy's teeth (once per "
+"enemy). Also transforms enemy arrows into gold."
 msgstr ""
 "Menahan serangan dan mengeluarkan uang sisa dari musuh (sekali per musuh). "
 "Panah musuh berubah menjadi emas."
@@ -7180,8 +7132,8 @@ msgstr "Counter Shield"
 #. "sont renvoyés avec plus de puissance."
 #: res/data.cdb:item/#95.gameplayDesc
 msgid ""
-"Can not be held up permanently. Deflected grenades and shots are sent back "
-"with more power."
+"Can not be held up permanently. Deflected grenades and shots are sent back with "
+"more power."
 msgstr ""
 "Tidak dapat ditahan selamanya. granat dan panah yang ditepis dikembalikan "
 "dengan kekuatan yang lebih kuat. "
@@ -7237,10 +7189,8 @@ msgstr "Gelang Ruby"
 #: res/data.cdb:item/#98.gameplayDesc res/data.cdb:item/#99.gameplayDesc
 #: res/data.cdb:item/#100.gameplayDesc res/data.cdb:item/#101.gameplayDesc
 #: res/data.cdb:item/#102.gameplayDesc
-msgid ""
-"You may only equip one amulet at a time, but their effects are powerful..."
-msgstr ""
-"Kamu hanya dapat memakai satu gelang saja, namun efeknya sangat kuat..."
+msgid "You may only equip one amulet at a time, but their effects are powerful..."
+msgstr "Kamu hanya dapat memakai satu gelang saja, namun efeknya sangat kuat..."
 
 #. Talisman1 (ambiantDesc)
 #.
@@ -7466,9 +7416,7 @@ msgstr "Taktik +1"
 #. "d'utilisation."
 #: res/data.cdb:item/#115.gameplayDesc
 msgid "Increase active skill damage and reduce their cooldown timer."
-msgstr ""
-"Semua skill aktif tertingkat damagenya dan cooldownnya diren "
-"dahi"
+msgstr "Semua skill aktif tertingkat damagenya dan cooldownnya diren dahi"
 
 #. LadderKey (name)
 #.
@@ -7523,8 +7471,8 @@ msgid ""
 "This PERMANENTE RUNE unlocks the door leading to the daily run in the "
 "Prisoners' Cells."
 msgstr ""
-"Sajak ini memperbolehkan akses untuk melakukan daily di Sel Tawanan "
-"secara PERMANEN."
+"Sajak ini memperbolehkan akses untuk melakukan daily di Sel Tawanan secara "
+"PERMANEN."
 
 #. BreakableGroundKey (name)
 #.
@@ -7559,9 +7507,7 @@ msgstr "Sajak Laba Laba"
 #. msgid "Cette RUNE PERMANENTE vous permet de vous agripper aux murs."
 #: res/data.cdb:item/#120.gameplayDesc
 msgid "This rune PERMANENTLY gives you the ability to climb walls."
-msgstr ""
-"Sajak ini memberikan kemampuan untuk memanjat tembok secara PERMANEN."
-
+msgstr "Sajak ini memberikan kemampuan untuk memanjat tembok secara PERMANEN."
 
 #. Flask1 (name)
 #.
@@ -7585,8 +7531,7 @@ msgstr "Botol Vitalitas I"
 #. msgid "Vous disposez d'une Fiole de Soin utilisable à tout moment."
 #: res/data.cdb:item/#121.gameplayDesc
 msgid "You now own a health flask you can use at any time."
-msgstr ""
-"Kamu sekarang mempunya Botol Vitalitas yang dapat dipakai kapanpun."
+msgstr "Kamu sekarang mempunya Botol Vitalitas yang dapat dipakai kapanpun."
 
 #. Flask2 (name)
 #.
@@ -7675,8 +7620,7 @@ msgstr "Pengembalian Emas I"
 #: res/data.cdb:item/#125.gameplayDesc res/data.cdb:item/#126.gameplayDesc
 #: res/data.cdb:item/#127.gameplayDesc res/data.cdb:item/#128.gameplayDesc
 msgid "You conserve up to ::power:: GOLD when you die."
-msgstr ""
-"Emas secara otomatis tertabung sebanyak ::power:: ketika mati"
+msgstr "Emas secara otomatis tertabung sebanyak ::power:: ketika mati"
 
 #. Money2 (name)
 #.
@@ -7768,11 +7712,10 @@ msgstr "Pendauran Ulang I"
 #. "par terre ou dans des coffres."
 #: res/data.cdb:item/#132.gameplayDesc res/data.cdb:item/#133.gameplayDesc
 msgid ""
-"You can transform the items you find on the ground or in chests into gold "
-"(at ::prct::% of the sale price)."
+"You can transform the items you find on the ground or in chests into gold (at ::"
+"prct::% of the sale price)."
 msgstr ""
 "Kamu dapat mendaur ulang barang yang kamu temukan menjadi emas (::prct::% "
-"dari harga barang).
 
 #. Recycling2 (name)
 #.
@@ -7818,11 +7761,10 @@ msgstr "Kategori Barang"
 #. "rencontrez."
 #: res/data.cdb:item/#135.gameplayDesc
 msgid ""
-"The merchants offer a certain category of items when you meet them from now "
-"on."
+"The merchants offer a certain category of items when you meet them from now on."
 msgstr ""
-"Para pedagang akan menawarkan berbagai macam barang ketika kau menemui "
-"mereka mulai dari sekarang."
+"Para pedagang akan menawarkan berbagai macam barang ketika kau menemui mereka "
+"mulai dari sekarang."
 
 #. PokebombUnlock (gameplayDesc)
 #.
@@ -7835,8 +7777,9 @@ msgid ""
 "Unlocks a special item, the \"Hunter's Grenade\" in the Prison Cells. The "
 "grenade allows you to hunt for rare Blueprints more easily."
 msgstr ""
-"Membuka barang spesial, \"Granat Pemburu"\ di sel tawanan. Granat ini mem "
+"Membuka barang spesial, \"Granat Pemburu\"\\ di sel tawanan. Granat ini mem "
 "perbolehkan anda untuk mencari Blueprint langkah dengan mudah."
+
 #. BossRune1 (gameplayDesc)
 #.
 #. --------
@@ -8180,10 +8123,9 @@ msgstr "Malachite"
 #. "Bien que commune, vous en tirerez ::$power:: OR sans trop de difficulté."
 #: res/data.cdb:item/#166.gameplayDesc
 msgid ""
-"Probably fake, but you should be able to trick a poor soul into buying it "
-"for ::$power:: GOLD."
-msgstr ""
-"Mungkin palsu, namun anda tetap menjualnya seharga ::$power:: EMAS."
+"Probably fake, but you should be able to trick a poor soul into buying it for ::"
+"$power:: GOLD."
+msgstr "Mungkin palsu, namun anda tetap menjualnya seharga ::$power:: EMAS."
 
 #. MinorGem (name)
 #.
@@ -8201,7 +8143,7 @@ msgstr "Batu Kinclong"
 #. "même ?"
 #: res/data.cdb:item/#167.gameplayDesc
 msgid "Seriously? Is this even worth picking up?"
-msgstr "Apa kam- ..terserah deh"
+msgstr "Apa kam- ..terserah deh?"
 
 #. SpawnerGem (name)
 #.
@@ -8218,7 +8160,7 @@ msgstr "Hati hitam"
 #. "Ca se vend relativement bien, vous pourrez en tirer ::$power:: OR au moins."
 #: res/data.cdb:item/#168.gameplayDesc
 msgid "This sells quite well! Easiest ::$power:: you'll ever make..."
-msgstr " ::$power:: termudah yang pernah kau jual..."
+msgstr "::$power:: termudah yang pernah kau jual..."
 
 #. GreedGem (name)
 #.
@@ -8267,10 +8209,8 @@ msgstr "Panah Emas"
 #. "Une flêche transmutée d'une valeur de ::$power:: OR. Pour un carquois "
 #. "bourgeois."
 #: res/data.cdb:item/#171.gameplayDesc
-msgid ""
-"A transmuted arrow worth ::$power:: GOLD. For the aristocratic marksman."
-msgstr ""
-"Panah yang terubah seharga ::$power:: EMAS. Untuk orang kaya?"
+msgid "A transmuted arrow worth ::$power:: GOLD. For the aristocratic marksman."
+msgstr "Panah yang terubah seharga ::$power:: EMAS. Untuk orang kaya."
 
 #. BigGemScore (gameplayDesc)
 #.
@@ -8296,10 +8236,9 @@ msgstr "Batu ungu ini berharga ::$power:: poin! My precioooouuss..."
 #. "Bien que commune, vous en tirerez ::$power:: points sans trop de difficulté."
 #: res/data.cdb:item/#174.gameplayDesc
 msgid ""
-"Probably fake, but you should be able to trick a poor soul into buying it "
-"for ::$power:: points."
-msgstr ""
-"Mungkin palsu, namun seharusnya dapat dijual seharga ::$power:: poin."
+"Probably fake, but you should be able to trick a poor soul into buying it for ::"
+"$power:: points."
+msgstr "Mungkin palsu, namun seharusnya dapat dijual seharga ::$power:: poin."
 
 #. P_DmgKill (name)
 #.
@@ -8316,10 +8255,8 @@ msgstr "Pengaliran"
 #. "+::+dps:: dégâts/sec environ pendant ::duration:: sec après avoir tué un "
 #. "ennemi."
 #: res/data.cdb:item/#175.gameplayDesc
-msgid ""
-"About +::+dps:: damage/s for ::duration:: seconds after killing an enemy."
-msgstr ""
-"Menambah ::+dps:: dps selama ::duration:: detik setelah membunuh musuh."
+msgid "About +::+dps:: damage/s for ::duration:: seconds after killing an enemy."
+msgstr "Menambah ::+dps:: dps selama ::duration:: detik setelah membunuh musuh."
 
 #. P_DmgRevenge (name)
 #.
@@ -8337,7 +8274,7 @@ msgstr "Pembalasan"
 #. "blessure."
 #: res/data.cdb:item/#176.gameplayDesc
 msgid "About +::+dps:: damage/s for ::duration:: seconds after taking damage."
-msgstr "Menambah ::+dps:: dps selama ::duration:: detik setelah terpukul"
+msgstr "Menambah ::+dps:: dps selama ::duration:: detik setelah terpukul."
 
 #. P_ManyMobsAround (gameplayDesc)
 #.
@@ -8348,12 +8285,11 @@ msgstr "Menambah ::+dps:: dps selama ::duration:: detik setelah terpukul"
 #: res/data.cdb:item/#177.gameplayDesc
 msgid ""
 "About +::+dps:: damage/s while there are at least ::count:: enemies nearby."
-msgstr ""
-"Menambah ::+dps:: dps selama ada ::count:: musuh disekitarmu."
+msgstr "Menambah ::+dps:: dps selama ada ::count:: musuh disekitarmu."
 
 #. P_DmgDotsAround (name)
 #.
-#.0 --------
+#. 0 --------
 #. msgid "Sadisme"
 #: res/data.cdb:item/#178.name
 msgid "Sadism"
@@ -8371,6 +8307,7 @@ msgid ""
 "damage."
 msgstr ""
 "Menambah ::+dps:: dps selama musuh terkena racun, terbakar, atau berdarah."
+
 #. P_CorruptedHealing (name)
 #.
 #. --------
@@ -8390,8 +8327,8 @@ msgid ""
 "Your health flasks only restore ::prct::% HP but they add +::+dps:: damage/s "
 "for ::duration:: seconds when used."
 msgstr ""
-"Botol Vitalitasmu hanya memulihkan ::prct::% namun menambah ::+dps:: dps"
-"selama ::duration:: detik ketika digunakan."
+"Botol Vitalitasmu hanya memulihkan ::prct::% namun menambah ::+dps:: "
+"dpsselama ::duration:: detik ketika digunakan."
 
 #. P_Cooldown (name)
 #.
@@ -8407,7 +8344,7 @@ msgstr "Efisiensi"
 #. msgid "-::cdr::% délai d'utilisation des capacités actives."
 #: res/data.cdb:item/#180.gameplayDesc
 msgid "-::cdr::% cool down delay when using your skills."
-msgstr "::cdr::% cooldown delay ketika menggunakan skillmu"
+msgstr "::cdr::% cooldown delay ketika menggunakan skillmu."
 
 #. P_DeployedDmg (name)
 #.
@@ -8443,8 +8380,8 @@ msgstr "Hadiah Perpisahan"
 #. "ennemi autrement qu'au corps à corps."
 #: res/data.cdb:item/#182.gameplayDesc
 msgid ""
-"Summons a bomb that inflicts ::+power:: damage when you kill an enemy "
-"without your hand to hand weapons."
+"Summons a bomb that inflicts ::+power:: damage when you kill an enemy without "
+"your hand to hand weapons."
 msgstr ""
 
 #. P_NoMobAround (name)
@@ -8462,7 +8399,7 @@ msgstr "Tenang Jiwa"
 #. "+::+dps:: dégâts/sec environ tant qu'il n'y a aucun ennemi près de vous."
 #: res/data.cdb:item/#183.gameplayDesc
 msgid "About +::+dps:: damage/s for while there are no enemies nearby."
-msgstr "Menambah ::+dps:: dps selama tidak ada musuh disekitar"
+msgstr "Menambah ::+dps:: dps selama tidak ada musuh disekitar."
 
 #. P_AmmoOnHit (name)
 #.
@@ -8483,8 +8420,8 @@ msgid ""
 "A melee attack on a nearby enemy with a projectile stuck in it causes the "
 "projectile to fall out and inflicts ::+power:: damage."
 msgstr ""
-"Serangan dari senjata ini selama masih ada proyektil menimbulkan "
-"proyektil jatuh dan menimbulkan ::+power:: damage."
+"Serangan dari senjata ini selama masih ada proyektil menimbulkan proyektil "
+"jatuh dan menimbulkan ::+power:: damage."
 
 #. P_DmgParry (name)
 #.
@@ -8551,11 +8488,11 @@ msgstr "Perpanjangan Pemulihan"
 #. "ajoutent +::+dps:: dégâts/sec pendant cette période."
 #: res/data.cdb:item/#188.gameplayDesc
 msgid ""
-"Health flasks' healing effect is spread over ::duration:: seconds, but "
-"during this period you deal +::+dps:: extra damage/s."
+"Health flasks' healing effect is spread over ::duration:: seconds, but during "
+"this period you deal +::+dps:: extra damage/s."
 msgstr ""
-"Efek penyembuhan Botol Vitalitas tersebar melalui beberapa ::duration:: "
-"detik, namun dps anda bertambah (+::dps::) selama periode ini."
+"Efek penyembuhan Botol Vitalitas tersebar melalui beberapa ::duration:: detik, "
+"namun dps anda bertambah (+::dps::) selama periode ini."
 
 #. P_Food (name)
 #.
@@ -8573,11 +8510,11 @@ msgstr "Gastronomi"
 #. "L'efficacité de la guérison prodiguée augmente de ::prct::%."
 #: res/data.cdb:item/#189.gameplayDesc
 msgid ""
-"Eating food gives you +::+dps:: damage/s for ::duration:: seconds. The "
-"healing effect is also increased by +::prct::%."
+"Eating food gives you +::+dps:: damage/s for ::duration:: seconds. The healing "
+"effect is also increased by +::prct::%."
 msgstr ""
-"Memakan makanan memberikanmu +::dps:: dps selama ::duration:: detik. "
-"Efek makanan pun tertingkat sebanyak +::prct::%."
+"Memakan makanan memberikanmu +::dps:: dps selama ::duration:: detik. Efek "
+"makanan pun tertingkat sebanyak +::prct::%."
 
 #. P_Ammo (name)
 #.
@@ -8630,8 +8567,8 @@ msgid ""
 "The time available to recover your health after taking damage is multiplied "
 "by ::count::."
 msgstr ""
-"Waktu untuk mengembalikan darah mu setelah terkena damage tertambah sebanyak "
-"::count::."
+"Waktu untuk mengembalikan darah mu setelah terkena damage tertambah sebanyak ::"
+"count::."
 
 #. P_QuickHeal (name)
 #.
@@ -8649,11 +8586,12 @@ msgstr "Triage Darurat"
 #. "totalement pendant ::duration:: sec."
 #: res/data.cdb:item/#193.gameplayDesc
 msgid ""
-"Accelerates the use of your health flask by ::prct::% and completely "
-"protects you for ::duration:: seconds."
+"Accelerates the use of your health flask by ::prct::% and completely protects "
+"you for ::duration:: seconds."
 msgstr ""
-"Mempercepat waktu untuk menggunakan botol vitalitas sebanyak ::prct::% "
-"dan melindungimu selama ::duration:: detik."
+"Mempercepat waktu untuk menggunakan botol vitalitas sebanyak ::prct::% dan "
+"melindungimu selama ::duration:: detik."
+
 #. P_SpeedBuff (name)
 #.
 #. --------
@@ -8670,10 +8608,9 @@ msgstr "Velositas"
 #. "count::x plus longtemps."
 #: res/data.cdb:item/#194.gameplayDesc
 msgid ""
-"The speed bonus from killing multiple enemies in a row lasts ::count::x "
-"longer."
-msgstr ""
-"Bonus kecepatan dari membunuh musuh bertahan ::count::x lebih lama."
+"The speed bonus from killing multiple enemies in a row lasts ::count::x longer."
+msgstr "Bonus kecepatan dari membunuh musuh bertahan ::count::x lebih lama."
+
 #. P_Curse (name)
 #.
 #. --------
@@ -8690,11 +8627,10 @@ msgstr "Alienasi"
 #. "moins de morts pour s'en débarrasser."
 #: res/data.cdb:item/#195.gameplayDesc
 msgid ""
-"Curses restore ::prct::% HP and require ::count::x less kills to be rid of "
-"them."
+"Curses restore ::prct::% HP and require ::count::x less kills to be rid of them."
 msgstr ""
 "Kutukan memulihkan ::prct::%HP dan membutuhkan ::count::x pembunuhan lebih "
-"sedikit agar kutukannya hilang. "
+"sedikit agar kutukannya hilang."
 
 #. Zombie (name)
 #.
@@ -9190,7 +9126,7 @@ msgstr "TAKTIK"
 #. msgid "+::prct::% de dégâts sur une cible enflammée"
 #: res/data.cdb:affix/#4.desc
 msgid "+::prct::% damage on a burning target"
-msgstr "+::prct::% damage kepada musuh yang terbakar."
+msgstr "+::prct::% damage kepada musuh yang terbakar"
 
 #. BleedDamage (desc)
 #.
@@ -9198,7 +9134,7 @@ msgstr "+::prct::% damage kepada musuh yang terbakar."
 #. msgid "+::prct::% de dégâts sur une cible qui saigne"
 #: res/data.cdb:affix/#5.desc
 msgid "+::prct::% damage on a bleeding target"
-msgstr "+::prct::% damage pada target yang berdarah."
+msgstr "+::prct::% damage pada target yang berdarah"
 
 #. IceDamage (desc)
 #.
@@ -9238,7 +9174,7 @@ msgstr "+::prct::% damage kepada musuh yang diracuni."
 #. msgid "+::prct::% de dégâts sur une cible étourdie"
 #: res/data.cdb:affix/#10.desc
 msgid "+::prct::% damage on a stunned target"
-msgstr "+::prct::% damage kepada musuh yang tertegun."
+msgstr "+::prct::% damage kepada musuh yang tertegun"
 
 #. PoisonSkin (desc)
 #.
@@ -9254,7 +9190,7 @@ msgstr "Meracuni musuh yang menyakitimu."
 #. msgid "Vous produisez un nuage toxique quand vous subissez une blessure."
 #: res/data.cdb:affix/#12.desc
 msgid "You release a toxic cloud when you take damage."
-msgstr "Mengeluarkan awan beracun ketika terkena damage. "
+msgstr "Mengeluarkan awan beracun ketika terkena damage"
 
 #. PoisonShield (desc)
 #.
@@ -9262,7 +9198,7 @@ msgstr "Mengeluarkan awan beracun ketika terkena damage. "
 #. msgid "Empoisonne les ennemis bloqués par une Parade."
 #: res/data.cdb:affix/#13.desc
 msgid "Poisons enemies when you parry."
-msgstr "Meracuni musuh ketika parrying"
+msgstr "Meracuni musuh ketika parrying."
 
 #. FireShield (desc)
 #.
@@ -9270,7 +9206,7 @@ msgstr "Meracuni musuh ketika parrying"
 #. msgid "Enflamme les ennemis bloqués par une Parade."
 #: res/data.cdb:affix/#14.desc
 msgid "Burns enemies when you parry."
-msgstr "Membakar musuh ketika parrying"
+msgstr "Membakar musuh ketika parrying."
 
 #. FrostShield (desc)
 #.
@@ -9426,8 +9362,7 @@ msgstr "Musuh mengeluarkan awan racun ketika mereka mati."
 #. "autres ennemis."
 #: res/data.cdb:affix/#32.desc
 msgid "Upon death, victims freeze nearby enemies for ::duration:: seconds."
-msgstr ""
-"Ketika mati, membekukan musuh disekitarnya selama ::duration:: detik."
+msgstr "Ketika mati, membekukan musuh disekitarnya selama ::duration:: detik."
 
 #. CadaverExplosion (desc)
 #.
@@ -9550,8 +9485,7 @@ msgstr "Membakar tanah disekitarmu."
 #. msgid "Vos dégâts augmentent de ::prct::% quand vous êtes proches."
 #: res/data.cdb:affix/#47.desc
 msgid "Increase your damage by ::prct::% when you are close."
-msgstr ""
-"Meningkatkan damage sebesar ::prct::% ketika dekat dengan musuh."
+msgstr "Meningkatkan damage sebesar ::prct::% ketika dekat dengan musuh."
 
 #. DeployedResist (desc)
 #.
@@ -9561,8 +9495,7 @@ msgstr ""
 #: res/data.cdb:affix/#48.desc
 msgid "Reduce damage taken by ::prct::% as long as you are close."
 msgstr ""
-"Mengurangi damage yang dikenakan sebesar ::prct::% ketika dekat dengan "
-"musuh."
+"Mengurangi damage yang dikenakan sebesar ::prct::% ketika dekat dengan musuh."
 
 #. CantBeSold (desc)
 #.
@@ -9594,7 +9527,7 @@ msgstr "Damage dari barang ini dikurangi sebesar ::prct::%."
 #. msgid "Vous subissez +::prct::% dégâts."
 #: res/data.cdb:affix/#52.desc
 msgid "You take +::prct::% damage."
-msgstr "Kamu terkena damage +::prct::%"
+msgstr "Kamu terkena damage +::prct::%."
 
 #. StrongIce (desc)
 #.
@@ -9602,9 +9535,7 @@ msgstr "Kamu terkena damage +::prct::%"
 #. msgid "La victime a moins de chance de dégeler en cas de dégât."
 #: res/data.cdb:affix/#53.desc
 msgid "Reduces the chance of unfreezing an enemy when attacking."
-msgstr ""
-"Mengurangi kesempatan untuk tidak membekukan musuh ketika "
-"menyerang."
+msgstr "Mengurangi kesempatan untuk tidak membekukan musuh ketika menyerang."
 
 #. Poison (desc)
 #.
@@ -9620,7 +9551,7 @@ msgstr "Meracuni korban."
 #. msgid "Applique de l'huile sur la victime."
 #: res/data.cdb:affix/#55.desc
 msgid "Covers the victim in flammable oil."
-msgstr "Menyelimuti korban dengan minyak. "
+msgstr "Menyelimuti korban dengan minyak"
 
 #. OilAndFireOnUse (desc)
 #.
@@ -9700,8 +9631,7 @@ msgstr "Menembakkan serumpuhan panah (::+power:: damage/arrow)"
 #. msgid "Dégâts infligés x::power::, dégâts subis x::power2:: !"
 #: res/data.cdb:affix/#64.desc
 msgid "Damage dealt x::power::, damage received x::power2::!"
-msgstr ""
-"Damage yang ditimbulkan x::power::, damage yang diterima x::power2:: !"
+msgstr "Damage yang ditimbulkan x::power::, damage yang diterima x::power2:: !"
 
 #. QuadDamage (desc)
 #.
@@ -9711,8 +9641,7 @@ msgstr ""
 #. "power2:: !!"
 #: res/data.cdb:affix/#65.desc
 msgid ""
-"Need more power? Damage dealt x::power::, but... damage received x::"
-"power2::!!"
+"Need more power? Damage dealt x::power::, but... damage received x::power2::!!"
 msgstr ""
 
 #. Leech (desc)
@@ -9726,8 +9655,8 @@ msgid ""
 "Recover ::prct::% of your life with each melee attack, but take x::power:: "
 "damage!"
 msgstr ""
-"Memulihkan ::prct::% dari nyawamu dengan setiap melee attack, namun menerima "
-"x::power:: damage!"
+"Memulihkan ::prct::% dari nyawamu dengan setiap melee attack, namun menerima x::"
+"power:: damage!"
 
 #. PoisonImmunity (desc)
 #.
@@ -9785,11 +9714,11 @@ msgstr "+::prct::% damage ketika nyawamu penuh."
 #. "attaque en étant invisible inflige +::prct::% de dégâts."
 #: res/data.cdb:affix/#73.desc
 msgid ""
-"Make you invisible after ::duration:: without attacking. You next strike "
-"while still being invisible inflicts +::prct::% damage."
+"Make you invisible after ::duration:: without attacking. You next strike while "
+"still being invisible inflicts +::prct::% damage."
 msgstr ""
-"Membuatmu menghilang setelah ::duration:: tanpa menyerang. Serangan "
-"berikutnya saat menghilang menimbulkan +::prct::% damage."
+"Membuatmu menghilang setelah ::duration:: tanpa menyerang. Serangan berikutnya "
+"saat menghilang menimbulkan +::prct::% damage."
 
 #. Invisibility (desc)
 #.
@@ -9799,11 +9728,11 @@ msgstr ""
 #. "attaque en étant invisible inflige +::prct::% de dégâts."
 #: res/data.cdb:affix/#73.desc
 msgid ""
-"Makes you invisible after ::duration::/sec without attacking. While "
-"invisible your first hit will do +::prct::% damage."
+"Makes you invisible after ::duration::/sec without attacking. While invisible "
+"your first hit will do +::prct::% damage."
 msgstr ""
-"Membuatmu menghilang setelah ::duration:: tanpa menyerang. Serangan "
-"berikutnya saat menghilang menimbulkan +::prct::% damage."
+"Membuatmu menghilang setelah ::duration:: tanpa menyerang. Serangan berikutnya "
+"saat menghilang menimbulkan +::prct::% damage."
 
 #. BleedPoison (desc)
 #.
@@ -9818,10 +9747,8 @@ msgstr "Pendarahan menimbulkan peracunan pula."
 #. --------
 #. msgid "Si un ennemi sous Saignement meurt, le saignement se propage."
 #: res/data.cdb:affix/#75.desc
-msgid ""
-"If an enemy dies while bleeding, nearby enemies will begin to bleed too."
-msgstr ""
-"Ketika musuh sedang berdarah, musuh disekitar akan berdarah pula."
+msgid "If an enemy dies while bleeding, nearby enemies will begin to bleed too."
+msgstr "Ketika musuh sedang berdarah, musuh disekitar akan berdarah pula."
 
 #. MarioJump (desc)
 #.
@@ -9829,7 +9756,7 @@ msgstr ""
 #. msgid "Mode Super Mario : sauter sur un ennemi l'étourdit."
 #: res/data.cdb:affix/#76.desc
 msgid "Super Mario Mode: Jumping on an enemy's head stuns it."
-msgstr "Super Mario Mode: Stun ketika meloncati musuh. "
+msgstr "Super Mario Mode: Stun ketika meloncati musuh."
 
 #. SecretHint (desc)
 #.
@@ -10160,11 +10087,11 @@ msgstr "Senjata baru terbuka!"
 #. "Débloquez cet objet auprès du Collecteur dans le mode normal pour pouvoir "
 #. "l'utiliser durant les Défis Quotidiens"
 msgid ""
-"Unlock this item from the Collector in the normal game mode to use it in "
-"your Daily Runs"
+"Unlock this item from the Collector in the normal game mode to use it in your "
+"Daily Runs"
 msgstr ""
-"Buka barang ini dari Sang Collector dari game normal agar dapat dipakai "
-"dalam Daily Runs."
+"Buka barang ini dari Sang Collector dari game normal agar dapat dipakai dalam "
+"Daily Runs"
 
 #. Deprecated
 #.
@@ -10206,7 +10133,6 @@ msgid ""
 "Launches ::count:: traps which immobilize enemies for ::duration:: seconds. "
 "Increases all damage taken by trapped enemies by ::prct::%."
 msgstr ""
-"Melontarkan ::count:: jebakan yang mengunci musuh
 
 #. Deprecated
 #. DamageBuff (gameplayDesc)
@@ -10216,8 +10142,8 @@ msgstr ""
 #. "Vous infligez +::prct::% dégâts pendant ::duration:: sec. Vous subissez "
 #. "également +::prct2::% dégâts supplémentaires pendant cette période."
 msgid ""
-"You deal +::prct::% damage for ::duration:: seconds. You also take +::prct2::"
-"% extra damage during this period."
+"You deal +::prct::% damage for ::duration:: seconds. You also take +::prct2::% "
+"extra damage during this period."
 msgstr ""
 "Kamu menimbulkan +::prct::% damage untuk ::duration:: detik. Kamu juka menerima "
 "+::prct2:: & damage tambahan saat periode ini."
@@ -10231,11 +10157,11 @@ msgstr ""
 #. "pendant ::duration:: sec. Vous subissez également +::prct::% dégâts "
 #. "supplémentaires pendant cette période."
 msgid ""
-"You recover ::+power:: HP per melee hit that you deal for ::duration:: "
-"seconds. You also take +::prct::% extra damage during this period."
+"You recover ::+power:: HP per melee hit that you deal for ::duration:: seconds. "
+"You also take +::prct::% extra damage during this period."
 msgstr ""
-"Memulihkan ::+power:: nyawamu setiap pukulan selama ::duration:: "
-"detik. Kamu terkena damage tambahan +::prct::% saat periode ini."
+"Memulihkan ::+power:: nyawamu setiap pukulan selama ::duration:: detik. Kamu "
+"terkena damage tambahan +::prct::% saat periode ini."
 
 #. Deprecated
 #. ExtraHeal (gameplayDesc)
@@ -10293,8 +10219,8 @@ msgid ""
 "Like any old shield, it allows you to block attacks and temporarily protects "
 "you if you take damage."
 msgstr ""
-"Seperti tameng apapun, anda dapat menahan serangan dan melindungi diri "
-"untuk sementara ketika terkena damage."
+"Seperti tameng apapun, anda dapat menahan serangan dan melindungi diri untuk "
+"sementara ketika terkena damage."
 
 #. Deprecated
 #. HoldShield (name)
@@ -10310,7 +10236,7 @@ msgstr "Tameng yang Ditahan"
 #. --------
 #. msgid "Maintenez pour bloquer les attaques."
 msgid "Hold to block attacks."
-msgstr "Tahan untuk menahan tameng"
+msgstr "Tahan untuk menahan tameng."
 
 #. Deprecated
 #. Shield (name)
@@ -10345,7 +10271,7 @@ msgstr "Menahan serangan dan mendorong musuh dengan keras."
 #. "Permet de bloquer les attaques. Génère un champ de force quand vous y "
 #. "parvenez."
 msgid "Triggers a force field when you parry."
-msgstr "Menimbulkan force field ketika parrying. "
+msgstr "Menimbulkan force field ketika parrying."
 
 #. Deprecated
 #. BloodShield (gameplayDesc)
@@ -10355,11 +10281,11 @@ msgstr "Menimbulkan force field ketika parrying. "
 #. "Bloque les attaques, tout  en infligeant des Saignements (::+dps:: dégâts/"
 #. "sec pendant ::duration:: sec) à tous les ennemis proches."
 msgid ""
-"Blocks attacks and causes bleeding (::+dps:: damage/s for ::duration:: "
-"seconds) on all nearby enemies."
+"Blocks attacks and causes bleeding (::+dps:: damage/s for ::duration:: seconds) "
+"on all nearby enemies."
 msgstr ""
-"Menangkis serangan musuh dan menyebabkan pendarahan (::+dps:: dps "
-"selama ::duration:: detik) terhadap semua musuh disekitar."
+"Menangkis serangan musuh dan menyebabkan pendarahan (::+dps:: dps selama ::"
+"duration:: detik) terhadap semua musuh disekitar."
 
 #. Deprecated
 #. SpikeShield (gameplayDesc)
@@ -10382,7 +10308,6 @@ msgstr "BELUM DIIMPLEMENTASIKAN"
 #.
 #. --------
 #. msgid "Congèle les ennemis devant vous."
-#, fuzzy
 msgid "Freezes enemies hit by the blast."
 msgstr "Matikan pukulan musuh dengan ledakan."
 
@@ -10391,7 +10316,6 @@ msgstr "Matikan pukulan musuh dengan ledakan."
 #.
 #. --------
 #. msgid "Repousse les victimes et interrompt les attaques."
-#, fuzzy
 msgid "Kicks victims backwards and interrupts their attacks."
 msgstr "Tendang korban kebelakang dan ganggu serangan mereka."
 
@@ -10454,7 +10378,7 @@ msgstr ""
 #. --------
 #. msgid "Soigne ::+power:: PV."
 msgid "Restores ::+power:: HP."
-msgstr "Memulihkan ::power::HP"
+msgstr "Memulihkan ::power::HP."
 
 #. Deprecated
 #. Berserk (name)
