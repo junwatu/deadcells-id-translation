@@ -39,3 +39,23 @@ Tekan tombol **New pull request** jika sudah mengedit kemudian ikuti langkah ber
 
 
 > Untuk memudahkan syncing dengan repo utama setelah Pull Request diterima, hapus saja fork lama di Github kemudian re-fork repo lagi dan lanjutkan lagi proses 2 dan 3.
+
+
+## Testing Offline
+
+Jika anda ingin melakukan pengetestan secara offline anda perlu menginstal tool untuk meng-kompile berkas `po` karena Dead Cells hanya akan mengambil translasi yang telah dikompilasi seperti `main.mo`. Tool seperti **poedit** bisa anda pakai untuk mengkompilasi file `po`.
+
+> Catatan: Hasil kompilasi akan diabaikan oleh repositori github
+
+Lihat link berikut untuk langkah-langkah pengetestan secara offline http://steamcommunity.com/games/588650/announcements/detail/1253537422578152950
+
+atau ketik aja di *command prompt* dimana game Dead Cells berada, perintah berikut
+
+```
+deadcells.exe --workshop-test [direktori_dimana_file_main.mo_setting.json_berada]
+```
+
+kemudian pada menu awal pilih setting language `Indonesia`.
+
+![language_settings](20180306081128_1.jpg)
+
