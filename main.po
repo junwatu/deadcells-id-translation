@@ -2566,7 +2566,7 @@ msgstr ""
 #. msgid "Écran des sauvegardes"
 #: src/pr/OldUserWarning.hx:70
 msgid "Save Slots"
-msgstr ""
+msgstr "Simpan Slot"
 
 #. --------
 #. msgid "Ignorer"
@@ -4305,10 +4305,8 @@ msgstr ""
 #. --------
 #. msgid "Recycler ({::v::@GO}{iconCoin@img})"
 #: src/ui/NewItemDesc.hx:297 src/en/inter/ItemDrop.hx:154
-#, fuzzy
-#| msgid "Recycle (::v:: GOLD)"
 msgid "Recycle ({::v::@GO} {iconCoin@img})"
-msgstr "Dijual ulang"
+msgstr "Siklus Ulang ({::v::@GO} {iconCoin@img})"
 
 #. --------
 #. msgid "Absorbe ::v::% dégâts"
@@ -4457,7 +4455,7 @@ msgstr ""
 #. msgid "Restaurer les valeurs par défaut de toutes les options ?"
 #: src/ui/Options.hx:358
 msgid "Restore default values for all settings?"
-msgstr "Kembalikan pengaturan"
+msgstr "Kembalikan pengaturan awal?"
 
 #. Switch terminology
 #.
@@ -4577,10 +4575,8 @@ msgstr "KONFIGURASI TOMBOL"
 #. --------
 #. msgid "Rétablit les touches d'origine. || XBox Terminology"
 #: src/ui/Options.hx:417
-#, fuzzy
-#| msgid "Restore default options"
 msgid "Revert to default button mapping."
-msgstr "Mengembalikan ke opsi semula"
+msgstr "Mengembalikan pemetaan tombol ke awal."
 
 #. --------
 #. msgid "Roulade"
@@ -4911,10 +4907,8 @@ msgstr "Kontrol Tutorial"
 #. --------
 #. msgid "Affiche les explications des contrôles en début de partie."
 #: src/ui/Options.hx:714
-#, fuzzy
-#| msgid "Show the controls at the beginning of the game."
 msgid "Show control tips at the start of the game."
-msgstr "Tunjukkan kontrol pada bagian awal game"
+msgstr "Tunjukkan kontrol pada bagian awal game."
 
 #. --------
 #. msgid "Roulade prête"
@@ -6623,7 +6617,7 @@ msgstr "Ramuan Nyawa"
 #. msgid "Régénère ::n:: points de santé."
 #: src/en/inter/HealPotion.hx:51
 msgid "Regenerates ::n:: health points."
-msgstr "Memulihkan ::n:: nyawa"
+msgstr "Memulihkan ::n:: nyawa."
 
 #. --------
 #. msgid "Gratter le mur"
@@ -10530,7 +10524,7 @@ msgstr ""
 #. msgid "Pyrotechnie"
 #: res/data.cdb:item/#101.name
 msgid "Pyrotechnics"
-msgstr ""
+msgstr "Teknik Api"
 
 #. FireBall (gameplayDesc)
 #.
@@ -10920,10 +10914,8 @@ msgstr "Lingkaran Komunitas"
 #. --------
 #. msgid "Talisman de rubis"
 #: res/data.cdb:item/#121.name
-#, fuzzy
-#| msgid "Ruby amulet"
 msgid "Ruby Amulet"
-msgstr "Gelang Ruby"
+msgstr "Jimat Rubi"
 
 #. Talisman1 (ambiantDesc)
 #.
@@ -10956,10 +10948,8 @@ msgstr "Kalung Topaz"
 #. --------
 #. msgid "Talisman de saphir"
 #: res/data.cdb:item/#123.name
-#, fuzzy
-#| msgid "Sapphire amulet"
 msgid "Sapphire Amulet"
-msgstr "Kalung Sapphire"
+msgstr "Jimat Safir"
 
 #. Talisman4 (name)
 #.
@@ -10990,10 +10980,8 @@ msgstr "\"Ygdar Orus Li Ox !\""
 #. --------
 #. msgid "Vous sauve la vie UNE fois (inefficace contre les Malédictions)."
 #: res/data.cdb:item/#126.gameplayDesc
-#, fuzzy
-#| msgid "Saves your life ONCE. Does NOT work against Curses."
 msgid "Saves your life ONCE (doesn't work against Curses)."
-msgstr "Menyelamatkan hidupmu sekali, tidak bekerja saat terkutuk."
+msgstr "Menyelamatkan hidupmu SEKALI ( tidak bekerja saat Terkutuk)."
 
 #. Immortality (ambiantDesc)
 #.
@@ -11972,7 +11960,7 @@ msgstr "Pengisi Ulang Botol Vitalitas"
 #. msgid "Restitue 1 charge de potion."
 #: res/data.cdb:item/#209.gameplayDesc
 msgid "Restores 1 health flask charge."
-msgstr "Memulihkan 1 porsi botol vitalitas"
+msgstr "Memulihkan 1 porsi botol vitalitas."
 
 #. PermanentPoisonRemedy (name)
 #: res/data.cdb:item/#210.name res/data.cdb:item/#210.gameplayDesc
@@ -13676,10 +13664,8 @@ msgstr "Sang Pelacak"
 #. --------
 #. msgid "Coureur"
 #: res/data.cdb:mob/#15.name
-#, fuzzy
-#| msgid "Spinner"
 msgid "Runner"
-msgstr "Spinner"
+msgstr "Pelari"
 
 #. LeapingDuelyst (name)
 #.
@@ -13694,8 +13680,6 @@ msgstr "Kanibal"
 #. --------
 #. msgid "Porteur de bouclier"
 #: res/data.cdb:mob/#17.name
-#, fuzzy
-#| msgid "Shield bearer"
 msgid "Shieldbearer"
 msgstr "Pemegang Tameng"
 
@@ -13765,10 +13749,8 @@ msgstr "Sang Penangkap"
 #. --------
 #. msgid "Crache-mort"
 #: res/data.cdb:mob/#27.name
-#, fuzzy
-#| msgid "Spawnling"
 msgid "Spawner"
-msgstr "Anak Cacing"
+msgstr "Spawner"
 
 #. Spawnling (name)
 #.
@@ -13791,8 +13773,6 @@ msgstr ""
 #. --------
 #. msgid "Chef Pirate"
 #: res/data.cdb:mob/#30.name
-#, fuzzy
-#| msgid "Pirate captain"
 msgid "Pirate Captain"
 msgstr "Kapten Bajak Laut"
 
@@ -14417,7 +14397,7 @@ msgstr "Tembakan menembus target pertama."
 #. msgid "Tire une flèche vers le haut (::+power:: dégâts)"
 #: res/data.cdb:affix/#39.desc
 msgid "Shoots an arrow upward (::+power:: damage)"
-msgstr "Menembak sebuah panah keatas (::+power:: damage)"
+msgstr "Menembak sebuah panah keatas (::+power:: kerusakan)"
 
 #. FrontArrow (desc)
 #.
@@ -14425,7 +14405,7 @@ msgstr "Menembak sebuah panah keatas (::+power:: damage)"
 #. msgid "Tire une flèche devant vous (::+power:: dégâts)"
 #: res/data.cdb:affix/#40.desc
 msgid "Shoots an arrow in front of you (::+power:: damage)"
-msgstr "Menembak sebuah panah kedepan (::+power:: damage)"
+msgstr "Menembak sebuah panah kedepan (::+power:: kerusakan)"
 
 #. BackArrow (desc)
 #.
@@ -14433,7 +14413,7 @@ msgstr "Menembak sebuah panah kedepan (::+power:: damage)"
 #. msgid "Tire une flèche en arrière (::+power:: dégâts)"
 #: res/data.cdb:affix/#41.desc
 msgid "Shoots an arrow behind you (::+power:: damage)"
-msgstr "Menembak sebuah panah kebelakang (::+power:: damage)"
+msgstr "Menembak sebuah panah kebelakang (::+power:: kerusakan)"
 
 #. ExtraAmmo (desc)
 #.
@@ -14816,10 +14796,8 @@ msgstr "Semua serangan yang kau terima dilempar ke musuh sekitar."
 #. --------
 #. msgid "Tire une volée de flèches (::+power:: dégâts / flèche)"
 #: res/data.cdb:affix/#88.desc
-#, fuzzy
-#| msgid "Fires a volley of arrows (::+power:: damage / arrow)"
 msgid "Shoots a volley of arrows (::+power:: damage / arrow)"
-msgstr "Menembakkan serumpuhan panah (::+power:: damage/arrow)"
+msgstr "Menembakkan serumpuhan panah (::+power:: kerusakan/panah)"
 
 #. DoubleDamage (desc)
 #.
@@ -17606,7 +17584,7 @@ msgstr ""
 #. msgid "sarcophage"
 #: res/data.cdb:loreRoom/#17.examinables/#0.label
 msgid "sarcophagus"
-msgstr ""
+msgstr "sarkofagus"
 
 #. Tomb3 (examinables) body (label)
 #.
@@ -19432,10 +19410,8 @@ msgstr ""
 #. --------
 #. msgid "Une inscription peinte sur la bannière..."
 #: res/data.cdb:loreRoom/#41.examinables/#1.events/#0.text
-#, fuzzy
-#| msgid "Something is blocking the door."
 msgid "Something painted on the banner..."
-msgstr "Sesuatu menahan pintu ini"
+msgstr "Sesuatu terlukis di spanduk..."
 
 #. PublicOrder2 (examinables) banner (events) (text)
 #.
@@ -19727,10 +19703,8 @@ msgstr ""
 #. --------
 #. msgid "Corps pourri"
 #: res/data.cdb:loreRoom/#47.examinables/#1.label
-#, fuzzy
-#| msgid "Decapitated corpse"
 msgid "Rotten corpse"
-msgstr "Mayat yang dipenggal"
+msgstr "Mayat yang membusuk"
 
 #. SoldierMessage6 (examinables) message (events) (text)
 #.
@@ -20360,10 +20334,8 @@ msgstr "Peralatan Alkimia"
 
 #. TextWall3 (examinables) crates (label)
 #: res/data.cdb:loreRoom/#56.examinables/#2.label
-#, fuzzy
-#| msgid "Stockchange"
 msgid "Stock"
-msgstr "Penggantian Stock"
+msgstr "Stok"
 
 #. TextWall3 (examinables) lettersGround (label)
 #.
@@ -21201,10 +21173,8 @@ msgstr "Kandang"
 
 #. ResearchDiary13 (examinables) crowTube (label)
 #: res/data.cdb:loreRoom/#70.examinables/#1.label
-#, fuzzy
-#| msgid "Corruption"
 msgid "Solution"
-msgstr "Korupsi"
+msgstr "Solusi"
 
 #. ResearchDiary13 (examinables) crowCages (events) (text)
 #.
@@ -21973,10 +21943,8 @@ msgstr ""
 #. --------
 #. msgid "Caisse privée"
 #: res/data.cdb:loreRoom/#83.examinables/#2.label
-#, fuzzy
-#| msgid "Pirate captain"
 msgid "Private crate"
-msgstr "Kapten Bajak Laut"
+msgstr "Gerobak pribadi"
 
 #. Behemoth1 (examinables) books (label)
 #.
@@ -23071,10 +23039,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Vive-mort"
-#, fuzzy
-#| msgid "Quick bow"
 msgid "Quick Death"
-msgstr "Panah Cepat"
+msgstr "Mati dengan Cepat"
 
 #. Deprecated
 #. FastGrenade (gameplayDesc)
@@ -23113,10 +23079,8 @@ msgstr "Badai Es"
 #.
 #. --------
 #. msgid "Pyromane"
-#, fuzzy
-#| msgid "Pyrotechnics"
 msgid "Pyromaniac"
-msgstr "Pyroteknik"
+msgstr "Maniak api"
 
 #. Deprecated
 #. RootBomb (legendaryName)
@@ -23128,10 +23092,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Prémonition"
-#, fuzzy
-#| msgid "Ammunition"
 msgid "Premonition"
-msgstr "Amunisi"
+msgstr "Ramalan"
 
 #. Deprecated
 #. SideBomb (legendaryName)
@@ -23148,10 +23110,8 @@ msgstr "Memanggil sebuah kerumunan makhluk penggigit kecil."
 
 #. Deprecated
 #. SlowOrb (legendaryName)
-#, fuzzy
-#| msgid "Mutation"
 msgid "Purification"
-msgstr "Mutasi"
+msgstr "Rukyah"
 
 #. Deprecated
 #. Tornado (legendaryName)
@@ -23211,10 +23171,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Se régénère au prochain niveau."
-#, fuzzy
-#| msgid "Regenerates when you leave a level."
 msgid "Regenerates in the next level."
-msgstr "Kembali lagi setelah melewati level."
+msgstr "Kembali lagi setelah melewati level"
 
 #. Deprecated
 #. ExtraHeal (legendaryName)
@@ -23421,10 +23379,8 @@ msgstr "Pedang Cepat"
 #.
 #. --------
 #. msgid "Vive-lance"
-#, fuzzy
-#| msgid "Swift sword"
 msgid "Swiftspear"
-msgstr "Pedang Cepat"
+msgstr "Tombak Cepat"
 
 #. Deprecated
 #. ImpaleSpear (legendaryName)
@@ -23468,10 +23424,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Etourdit les cibles qui ont plus de ::prct::% de vie."
-#, fuzzy
-#| msgid "Stuns victims that have more than ::prct::% health."
 msgid "Stuns targets who have more than ::prct::% health."
-msgstr "Stun korban yang nyawanya diatas ::prct::% nyawa."
+msgstr "Setrum korban yang kesehatannya diatas ::prct::%."
 
 #. Deprecated
 #. BumpBoots (legendaryName)
@@ -23485,16 +23439,12 @@ msgstr ""
 #. msgid ""
 #. "Repousse les ennemis et interrompt leurs attaques. Dégâts supplémentaires si "
 #. "l'ennemi est projeté contre un mur."
-#, fuzzy
-#| msgid ""
-#| "Knocks enemies back and interrupts their attacks. Inflicts extra damage "
-#| "if the victim is hurled against a wall."
 msgid ""
 "Pushes enemies back and interrupts their attacks. Additional damage if the "
 "enemy hits a wall."
 msgstr ""
 "Musuh terdorong dan seranganya terganggu, menimbulkan damage ekstra apabila "
-"korban terdorong ke tembok"
+"korban terdorong ke tembok."
 
 #. Deprecated
 #. SpikedBoots (legendaryName)
@@ -23559,10 +23509,8 @@ msgstr "Pedang Alkemi"
 #.
 #. --------
 #. msgid "Tacticienne"
-#, fuzzy
-#| msgid "Tactics"
 msgid "Tactician"
-msgstr "Taktik"
+msgstr "Ahli Taktik"
 
 #. Deprecated
 #. DualBow (name)
@@ -24103,10 +24051,8 @@ msgstr "+::prct::% HP."
 #.
 #. --------
 #. msgid "Réduire une malédiction restaure ::prct::% PV."
-#, fuzzy
-#| msgid "Restores ::prct::% HP."
 msgid "Reducing a curse restores ::prct::% of HP."
-msgstr "Memulihkan ::prct::% HP"
+msgstr "Mengurangi kutukan mengembalikan HP ::prct::%"
 
 #. Deprecated
 #. P_EasierCurse (gameplayDesc)
@@ -24118,7 +24064,7 @@ msgid ""
 "curse."
 msgstr ""
 "Mengurangi musuh yang perlu dibunuh untuk menghapus kutukan sebanyak ::prct::"
-"% "
+"%"
 
 #. Deprecated
 #. P_Traps (name)
@@ -24174,7 +24120,7 @@ msgstr "Damage yang diterima sebesar +::prct::%"
 #. --------
 #. msgid "Réduit l'infection au Mal-être"
 msgid "Reduces Malaise infection"
-msgstr "Mengurangi infeksi Malaise."
+msgstr "Mengurangi infeksi Malaise"
 
 #. Deprecated
 #. SuperCrit (desc)
