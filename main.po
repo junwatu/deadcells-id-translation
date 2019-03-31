@@ -335,9 +335,8 @@ msgstr ""
 #. --------
 #. msgid "Une vue magnifique"
 #: src/Lang.hx:583
-#, fuzzy
 msgid "A room with a view!"
-msgstr "LIhat semua"
+msgstr "Kamar dengan pemandangan!"
 
 #. --------
 #. msgid "Un moment de répit... ?"
@@ -392,9 +391,8 @@ msgstr ""
 #. --------
 #. msgid "Peur du noir ?"
 #: src/Lang.hx:592
-#, fuzzy
 msgid "Afraid of the dark?"
-msgstr "UNLIMITED POWAAH!"
+msgstr "Takut gelap?"
 
 #. --------
 #. msgid "Des geoliers peu commode..."
@@ -488,9 +486,8 @@ msgstr ""
 #. --------
 #. msgid "Fine lame"
 #: src/Lang.hx:607
-#, fuzzy
 msgid "Blade Master"
-msgstr "Pedang Seimbang"
+msgstr "Ahli Pedang"
 
 #. --------
 #. msgid "Tel est pris..."
@@ -829,37 +826,32 @@ msgstr ""
 #. --------
 #. msgid "Vous avez absorbé la Rune des Vignes !"
 #: src/Lang.hx:674
-#, fuzzy
 msgid "Absorb the Vine Rune."
-msgstr "Sajak Perambat"
+msgstr "Serap Sajak Perambat."
 
 #. --------
 #. msgid "Vous avez absorbé la Rune de Téléportation !"
 #: src/Lang.hx:675
-#, fuzzy
 msgid "Absorb the Teleportation rune."
-msgstr "Sajak Teleportasi"
+msgstr "Serap Sajak Teleportasi."
 
 #. --------
 #. msgid "Vous avez absorbé la Rune du Challenger !"
 #: src/Lang.hx:676
-#, fuzzy
 msgid "Absorb the Challenger Rune!"
-msgstr "Sajak Tantangan"
+msgstr "Serap Sajak Tantangan!"
 
 #. --------
 #. msgid "Vous avez absorbé la Rune de l'Araignée !"
 #: src/Lang.hx:677
-#, fuzzy
 msgid "Absorb the Spider's Rune!"
-msgstr "Sajak Laba Laba"
+msgstr "Serap Sajak dari Laba Laba!"
 
 #. --------
 #. msgid "Vous avez absorbé la Rune du Bélier !"
 #: src/Lang.hx:678
-#, fuzzy
 msgid "Absorb the Ram's Rune."
-msgstr "Serap"
+msgstr "Serap Sajak dari Ram."
 
 #. --------
 #. msgid "Vous avez battu \"Le Concierge\" !"
@@ -902,9 +894,8 @@ msgstr ""
 #. --------
 #. msgid "Vous avez battu la Main du Roi !"
 #: src/Lang.hx:685
-#, fuzzy
 msgid "Beat the Hand of the King."
-msgstr "Bawalah uang, atau pergi sana!"
+msgstr "Kalahkanlah Tangan dari Raja"
 
 #. --------
 #. msgid "Vous avez battu La Main du Roi sans prendre le moindre coup !"
@@ -967,25 +958,25 @@ msgstr ""
 #. msgid "Vous avez absorbé votre première Cellule Souche de Boss !"
 #: src/Lang.hx:695
 msgid "Absorb your first Boss Stem Cell"
-msgstr ""
+msgstr "Serap Stem Cell Bos pertama"
 
 #. --------
 #. msgid "Vous avez absorbé votre deuxième Cellule Souche de Boss !"
 #: src/Lang.hx:696
 msgid "Absorb your second Boss Stem Cell"
-msgstr ""
+msgstr "Serap Stem Cell Bos kedua"
 
 #. --------
 #. msgid "Vous avez absorbé votre troisième Cellule Souche de Boss !"
 #: src/Lang.hx:697
 msgid "Absorb your third Boss Stem Cell"
-msgstr ""
+msgstr "Serap Stem Cell Bos ketiga"
 
 #. --------
 #. msgid "Vous avez absorbé votre quatrième Cellule Souche de Boss"
 #: src/Lang.hx:698
 msgid "Absorb your fourth Boss Stem Cell"
-msgstr ""
+msgstr "Serap Stem Cell Bos keempat"
 
 #. --------
 #. msgid "Vous avez terminé le jeu avec une Cellule Souche de Boss d'inoculée !"
@@ -1053,9 +1044,8 @@ msgstr ""
 #. --------
 #. msgid "Être maudit... et y survivre !"
 #: src/Lang.hx:709
-#, fuzzy
 msgid "Be cursed... Survive."
-msgstr "Peti terkutuk dijarah"
+msgstr "Yang Terkutuk...Bertahanlah."
 
 #. --------
 #. msgid "Vous avez terminé un défi quotidien, bravo !"
@@ -1142,9 +1132,8 @@ msgstr ""
 #. --------
 #. msgid "Chasseur prudent"
 #: src/Lang.hx:736
-#, fuzzy
 msgid "Careful hunter"
-msgstr "Granat Pemburu"
+msgstr "Pemburu yang Waspada"
 
 #. --------
 #. msgid "Un coup, un mort (la vôtre)"
@@ -1694,9 +1683,8 @@ msgstr "Kamu? Disini? Para pejuangku akan menghabisimu, kau bisa yakin itu."
 #. "Vous avez finalement réussi à détruire toutes les possibilités pour nous sauver "
 #. "du mal-être..."
 #: src/cine/EnterTimeKeeperRoomFirst.hx:57
-#, fuzzy
 msgid "Are you proud of yourself?"
-msgstr "... kok diem sih?"
+msgstr "Apa kamu bangga terhadap dirimu?"
 
 #. --------
 #. msgid "Tous ces efforts permanents que je fais pour contenir ce fléau sont vains..."
@@ -1857,16 +1845,14 @@ msgstr "Mati Dikutuk"
 #. --------
 #. msgid "Corps détruit (dégâts x4)"
 #: src/cine/HeroDeath.hx:178
-#, fuzzy
 msgid "Body desecrated! (damage x4)"
-msgstr "Badan Hancur (kerusakan x::n::)"
+msgstr "Badan Hancur (kerusakan x4)"
 
 #. --------
 #. msgid "Corps détruit (dégâts x2)"
 #: src/cine/HeroDeath.hx:180
-#, fuzzy
 msgid "Body desecrated! (damage x2)"
-msgstr "Badan Hancur (kerusakan x::n::)"
+msgstr "Badan Hancur (kerusakan x2)"
 
 #. --------
 #. msgid "Corps détruit"
@@ -2103,9 +2089,8 @@ msgstr ""
 #. --------
 #. msgid "Cette sensation... Je ne m'en lasse pas."
 #: src/cine/StartCollectorFightAlt.hx:100
-#, fuzzy
 msgid "Ah, that's better!"
-msgstr "Nah, bukankah begitu lebih baik?"
+msgstr "Nah, bukankah begitu lebih baik!"
 
 #. --------
 #. msgid "Vous avez été infecté par le Mal-être."
@@ -2136,9 +2121,8 @@ msgid "Malaise infection reduced"
 msgstr "Tingkat infeksi KRITIS"
 
 #: src/en/Hero.hx:927
-#, fuzzy
 msgid "+::n:: {iconCoin@img}"
-msgstr "Damage +::n::%"
+msgstr "+::n:: {iconCoin@img}"
 
 #: src/en/Hero.hx:931
 msgid "-::n:: {iconCoin@img}"
@@ -2196,7 +2180,6 @@ msgstr "Kotak ini menyimpan makanan sebanyak {Stored}"
 #. --------
 #. msgid "Vos 3 caractéristiques ont été augmentées !"
 #: src/en/Hero.hx:1442
-#, fuzzy
 msgid "All 3 of your stats have been increased!"
 msgstr "3 statistik anda telah diperbaiki!"
 
@@ -2314,9 +2297,8 @@ msgstr ""
 #. --------
 #. msgid "Pas utile pour l'instant"
 #: src/en/Hero.hx:2750
-#, fuzzy
 msgid "Can't use that right now."
-msgstr "Aku tidak dapat melakukan ini sekarang"
+msgstr "Aku tidak dapat melakukan ini sekarang."
 
 #. --------
 #. msgid "Les secrets des Architectes vous ont été révélés."
@@ -2327,9 +2309,8 @@ msgstr ""
 #. --------
 #. msgid "Fiole de santé +1"
 #: src/en/Hero.hx:3005
-#, fuzzy
 msgid "+1 health flask"
-msgstr "Memulihkan 1 porsi botol vitalitas"
+msgstr "+1 botol vitalitas"
 
 #. --------
 #. msgid "Pas prêt"
@@ -2611,9 +2592,8 @@ msgstr "Dia mati"
 #. --------
 #. msgid "Boss droit devant"
 #: src/pr/Game.hx:753
-#, fuzzy
 msgid "Boss dead ahead"
-msgstr "Dia mati"
+msgstr "Bos telah mati ada didepan"
 
 #. --------
 #. msgid "Version non optimisée !"
@@ -2718,9 +2698,8 @@ msgstr ""
 #. --------
 #. msgid "Sauvegarde inaccessible"
 #: src/pr/TitleScreen.hx:250 src/pr/TitleScreen.hx:509
-#, fuzzy
 msgid "Cannot access saved game"
-msgstr "Stasiun pompa ini tidak dapat mengakses cairan apa pun"
+msgstr "Tidak bisa mengakses game tersimpan"
 
 #. --------
 #. msgid ""
@@ -3267,9 +3246,8 @@ msgstr "Peralatan"
 #. --------
 #. msgid "Options avancées"
 #: src/ui/CustomGame.hx:274 src/ui/CustomGame.hx:1702 src/ui/CustomGame.hx:1703
-#, fuzzy
 msgid "Advanced options"
-msgstr "Mengembalikan ke opsi semula"
+msgstr "Pilihan Tingkat Lanjut."
 
 #. --------
 #. msgid "Lancer la partie personnalisée"
@@ -3407,9 +3385,8 @@ msgstr ""
 #. --------
 #. msgid "= Désactivera l'obtention de Trophée"
 #: src/ui/CustomGame.hx:389 src/ui/CustomGame.hx:408
-#, fuzzy
 msgid "= Disable trophies"
-msgstr "Menonaktifkan Panen Otomatis"
+msgstr "= Nonaktifkan Piala"
 
 #. XBox terminology
 #.
@@ -3418,9 +3395,8 @@ msgstr "Menonaktifkan Panen Otomatis"
 #. --------
 #. msgid "= Désactivera l'obtention de Haut Fait"
 #: src/ui/CustomGame.hx:391 src/ui/CustomGame.hx:410
-#, fuzzy
 msgid "= Disable achievements"
-msgstr "Menonaktifkan Panen Otomatis"
+msgstr "= Nonatktifkan pencapaian"
 
 #. --------
 #. msgid "Équipement de départ"
@@ -3815,9 +3791,8 @@ msgstr "Sang Kolektor"
 #. --------
 #. msgid "Disponible"
 #: src/ui/CustomGame.hx:2009 src/ui/CustomGame.hx:2399
-#, fuzzy
 msgid "Available"
-msgstr "Cetak biru senjata tidak tersedia!"
+msgstr "Tersedia"
 
 #. --------
 #. msgid "Pas disponible"
@@ -3909,7 +3884,6 @@ msgstr "Hadiah berikutnya dalam ::num:: kemenangan perjalanan harian"
 #. --------
 #. msgid "Bonus de victoire contre le Boss :"
 #: src/ui/EndScoreMode.hx:117
-#, fuzzy
 msgid "Bonus for beating the Boss:"
 msgstr "Poin tambahan untuk menang melawan Boss"
 
@@ -4110,9 +4084,8 @@ msgstr "Tidak Ada"
 #. --------
 #. msgid "Schémas"
 #: src/ui/GameInfos.hx:100
-#, fuzzy
 msgid "Blueprints"
-msgstr "Blueprints meta tidak tersedia"
+msgstr "Blueprint"
 
 #. --------
 #. msgid "::num:: Cellule Souche de Boss activée"
@@ -4266,9 +4239,8 @@ msgstr "Jimat"
 #. --------
 #. msgid "Absorbe ::v::% dég"
 #: src/ui/ItemDesc.hx:89
-#, fuzzy
 msgid "Absorbs ::v::% dmg"
-msgstr "Menyerap ::v::% damage"
+msgstr "Menyerap ::v::% krs"
 
 #. --------
 #. msgid "Inflige ::d:: dég"
@@ -4312,9 +4284,8 @@ msgstr "Hanya senjata sekunder saja"
 #. --------
 #. msgid "Dégâts +::n::%"
 #: src/ui/ItemDesc.hx:166 src/ui/NewItemDesc.hx:373
-#, fuzzy
 msgid "+::n::% damage"
-msgstr "Damage +::n::%"
+msgstr "Kerusakan +::n::%"
 
 #. --------
 #. msgid "Tous dégâts subis -::n::%"
@@ -4421,9 +4392,8 @@ msgstr ""
 #. --------
 #. msgid "Enfin un peu de répit..."
 #: src/ui/Loading.hx:127
-#, fuzzy
 msgid "At last, a little rest..."
-msgstr "Seperti yang lainnya kurasa."
+msgstr "Akhirnya, istirahat sebentar..."
 
 #. --------
 #. msgid ""
@@ -4511,7 +4481,7 @@ msgstr ""
 #. msgid "Schéma pour avoir terminé ::num:: fois le Défi Quotidien :"
 #: src/ui/LogManager.hx:318
 msgid "Blueprint for finishing the Daily Challenge ::num:: times:"
-msgstr "Blueprint untuk menyelesaikan perjalanan harian ::num:: kali;"
+msgstr "Blueprint untuk menyelesaikan perjalanan harian ::num:: kali:"
 
 #. --------
 #. msgid "Schéma RARE débloqué :"
@@ -4523,7 +4493,7 @@ msgstr "Kamu menemukan blueprint LANGKA;"
 #. msgid "Schéma débloqué :"
 #: src/ui/LogManager.hx:322
 msgid "Blueprint unlocked:"
-msgstr "Blueprint ditemukan;"
+msgstr "Blueprint ditemukan:"
 
 #. --------
 #. msgid "Schéma RARE obtenu :"
@@ -4535,7 +4505,7 @@ msgstr "Blueprint LANGKA ditemukan;"
 #. msgid "Schéma obtenu :"
 #: src/ui/LogManager.hx:326
 msgid "Blueprint acquired:"
-msgstr "Blueprint ditemukan;"
+msgstr "Blueprint ditemukan:"
 
 #. --------
 #. msgid "Acheter"
@@ -4560,9 +4530,8 @@ msgstr "Dijual ulang"
 #. --------
 #. msgid "Absorbe ::v::% dégâts"
 #: src/ui/NewItemDesc.hx:355
-#, fuzzy
 msgid "Absorbs ::v::% damage"
-msgstr "Menyerap ::v::% damage"
+msgstr "Menyerap kerusakan ::v::%"
 
 #. --------
 #. msgid "Inflige ::d:: dégâts"
@@ -4793,7 +4762,6 @@ msgstr "Gunakan D-Pad untuk bergerak"
 #. --------
 #. msgid "Active l'utilisation du bouton multidirectionnel pour se déplacer"
 #: src/ui/Options.hx:393
-#, fuzzy
 msgid "Activate the D-pad to move around"
 msgstr "Gunakan D-Pad untuk bergerak"
 
@@ -5068,7 +5036,6 @@ msgstr "Volume SFX"
 #. --------
 #. msgid "Volume Ambiance"
 #: src/ui/Options.hx:521
-#, fuzzy
 msgid "Ambient sound volume"
 msgstr "Volume Suara Ambien"
 
@@ -5214,9 +5181,8 @@ msgstr ""
 #. --------
 #. msgid "Annonce d'attaques"
 #: src/ui/Options.hx:718
-#, fuzzy
 msgid "Attack warning"
-msgstr "Tunjukkan penanda serangan musuh"
+msgstr "Peringatan Penyerangan"
 
 #. --------
 #. msgid "Affiche un \"{!@CC}\" lorsqu'un ennemi va attaquer."
@@ -5268,9 +5234,8 @@ msgstr "Sembunyikan skema kontrol di UI"
 #. --------
 #. msgid "Activer les effets chroma"
 #: src/ui/Options.hx:732
-#, fuzzy
 msgid "Activate Chroma"
-msgstr "Aktifkan"
+msgstr "Aktifkan Chroma"
 
 #. --------
 #. msgid "Permet d'activer les effets lumineux Chroma sur vos matériels Razer."
@@ -5281,9 +5246,8 @@ msgstr ""
 #. --------
 #. msgid "Activer la synchronisation Steam Cloud"
 #: src/ui/Options.hx:745
-#, fuzzy
 msgid "Activate Steam Cloud synchronization."
-msgstr "Aktifkan Sinkronisasi Steam Cloud"
+msgstr "Aktifkan Sinkronisasi Steam Cloud."
 
 #. --------
 #. msgid ""
@@ -5315,9 +5279,8 @@ msgstr ""
 #. --------
 #. msgid "Activer l'interface des mods"
 #: src/ui/Options.hx:766
-#, fuzzy
 msgid "Activate the mod interface"
-msgstr "Aktifkan"
+msgstr "Aktifkan antarmuka mod"
 
 #. --------
 #. msgid ""
@@ -5472,9 +5435,8 @@ msgstr ""
 #. --------
 #. msgid "Activer l'intégration streaming"
 #: src/ui/Options.hx:954
-#, fuzzy
 msgid "Activate the streaming integration"
-msgstr "Aktifkan"
+msgstr "Aktifkan integrasi streaming"
 
 #. --------
 #. msgid "Aucun compte actuellement associé"
@@ -5497,9 +5459,8 @@ msgstr ""
 #. --------
 #. msgid "Activer le Poulet"
 #: src/ui/Options.hx:966
-#, fuzzy
 msgid "Activate Captain Chicken"
-msgstr "Aktifkan"
+msgstr "Aktifkan Kapten Ayam"
 
 #. --------
 #. msgid ""
@@ -5576,9 +5537,8 @@ msgstr ""
 #. --------
 #. msgid "Activer le contrôle du Boss"
 #: src/ui/Options.hx:994
-#, fuzzy
 msgid "Activate control of the Boss."
-msgstr "Aktifkan"
+msgstr "Aktifkan Kontrol Bos."
 
 #. --------
 #. msgid ""
@@ -5593,9 +5553,8 @@ msgstr ""
 #. --------
 #. msgid "Activer les modifications de niveau"
 #: src/ui/Options.hx:999
-#, fuzzy
 msgid "Activate level modifiers."
-msgstr "Aktifkan"
+msgstr "Aktifkan Pengubah Level"
 
 #. --------
 #. msgid ""
@@ -5610,9 +5569,8 @@ msgstr ""
 #. --------
 #. msgid "Activer les Livres de la Communauté"
 #: src/ui/Options.hx:1004
-#, fuzzy
 msgid "Activate the Community Codex"
-msgstr "Aktifkan"
+msgstr "Aktifkan Codex Komunitas"
 
 #. --------
 #. msgid "Les spectateurs pourront choisir quel parchemin de puissance vous donner."
@@ -5623,9 +5581,8 @@ msgstr ""
 #. --------
 #. msgid "Activer les Coffres de la Communauté"
 #: src/ui/Options.hx:1008
-#, fuzzy
 msgid "Activate Community Chests"
-msgstr "Aktifkan"
+msgstr "Aktifkan Catur Komunitas"
 
 #. --------
 #. msgid ""
@@ -5639,7 +5596,7 @@ msgstr ""
 #. msgid "Activer les aides aux secrets"
 #: src/ui/Options.hx:1012
 msgid "Activate Community help to spot Secrets"
-msgstr ""
+msgstr "Aktifkan pertolongan komunitas untuk menolong mengenali Rahasia."
 
 #. --------
 #. msgid ""
@@ -5654,9 +5611,8 @@ msgstr ""
 #. --------
 #. msgid "Activer les améliorations permanentes du Talisman"
 #: src/ui/Options.hx:1017
-#, fuzzy
 msgid "Activate permanent improvement for the Talisman"
-msgstr "Peningkatan Permanen terbuka!"
+msgstr "Aktifkan peningkaran permanane untuk Talisman"
 
 #. --------
 #. msgid ""
@@ -5670,9 +5626,8 @@ msgstr ""
 #. --------
 #. msgid "Activer les commentaires"
 #: src/ui/Options.hx:1022
-#, fuzzy
 msgid "Activate comments"
-msgstr "Aktifkan"
+msgstr "Aktifkan Komen"
 
 #. --------
 #. msgid ""
@@ -5687,9 +5642,8 @@ msgstr ""
 #. --------
 #. msgid "Activer l'indication de niveau"
 #: src/ui/Options.hx:1034
-#, fuzzy
 msgid "Activate level suggestions"
-msgstr "Aktifkan"
+msgstr "Aktifkan Saran Level."
 
 #. --------
 #. msgid ""
@@ -5917,16 +5871,14 @@ msgstr ""
 #. --------
 #. msgid "Êtes vous sûr de vouloir supprimer cette sauvegarde ?"
 #: src/ui/SaveChoice.hx:270
-#, fuzzy
 msgid "Are you sure you want to delete this save?"
-msgstr "Apa kau yakin ingin mensetel ulang slot ::index::?"
+msgstr "Apa kau yakin ingin menghapus penyimpanan ini?"
 
 #. --------
 #. msgid "Êtes vous sûr de vouloir réinitialiser la sauvegarde expérimentale ?"
 #: src/ui/SaveChoice.hx:280
-#, fuzzy
 msgid "Are you sure you want to reset the experimental save?"
-msgstr "Apa kau yakin ingin mensetel ulang slot ::index::?"
+msgstr "Apa kau yakin ingin mensetel ulang penyimpanan eksperimental?"
 
 #. --------
 #. msgid "Emplacement experimental (actif)"
@@ -5945,14 +5897,12 @@ msgstr "Slot ::index::"
 #. --------
 #. msgid "0::index:: (actif)"
 #: src/ui/SaveChoice.hx:481
-#, fuzzy
 msgid "0::index:: (active)"
-msgstr "Slot ::index::"
+msgstr "0::index:: (aktif)"
 
 #: src/ui/SaveChoice.hx:481
-#, fuzzy
 msgid "0::index::"
-msgstr "Slot ::index::"
+msgstr "0::index::"
 
 #. --------
 #. msgid "{Accès Anticipé@CC}"
@@ -5994,7 +5944,6 @@ msgstr "Jumlah total perjalanan"
 #. --------
 #. msgid "Bonus +::num:: points !"
 #: src/ui/ScoreTip.hx:38
-#, fuzzy
 msgid "+::num:: bonus points!"
 msgstr "Bonus +::num:: poin!"
 
@@ -6080,9 +6029,8 @@ msgstr "Kematian"
 #. --------
 #. msgid "Hauts faits"
 #: src/ui/StatsPanel.hx:116
-#, fuzzy
 msgid "Achievements"
-msgstr "Aku juga menyadari...\"pencapaianmu\", jika memang itu panggilannya."
+msgstr "Pencapaian."
 
 #. --------
 #. msgid "Schémas d'armes rapportés au Collecteur"
@@ -6094,9 +6042,8 @@ msgstr "Cetak biru senjata tidak tersedia."
 #. --------
 #. msgid "Armes disponibles"
 #: src/ui/StatsPanel.hx:328
-#, fuzzy
 msgid "Available weapons"
-msgstr "Senjata"
+msgstr "Senjata Tersedia"
 
 #. --------
 #. msgid "Schémas de compétences rapportés au Collecteur"
@@ -6108,9 +6055,8 @@ msgstr "blueprints kemampuan aktif tidak tersedia"
 #. --------
 #. msgid "Compétences disponibles"
 #: src/ui/StatsPanel.hx:339
-#, fuzzy
 msgid "Available skills"
-msgstr "Keahlian"
+msgstr "Keahlian Tersedia"
 
 #. --------
 #. msgid "Nombre total de parties"
@@ -6156,9 +6102,8 @@ msgstr "Jumlah cells terbanyak yang pernah dimiliki"
 #. --------
 #. msgid "Cellules gagnées"
 #: src/ui/StatsPanel.hx:358
-#, fuzzy
 msgid "Cells acquired"
-msgstr "Blueprint ditemukan"
+msgstr "Cell didapatkan"
 
 #. --------
 #. msgid "Cellules dépensées"
@@ -6352,23 +6297,20 @@ msgstr "Pilih 1 mutasi"
 #. --------
 #. msgid "+::prct::% dégâts sur objets {ROUGES@BR}."
 #: src/ui/TierSelect.hx:186
-#, fuzzy
 msgid "+::prct::% damage with {RED@BR} items."
-msgstr "+::prct::% damage untuk peralatan HIJAU"
+msgstr ""
 
 #. --------
 #. msgid "+::prct::% dégâts sur objets {MAUVES@TA}."
 #: src/ui/TierSelect.hx:196
-#, fuzzy
 msgid "+::prct::% damage with {PURPLE@TA} items."
-msgstr "+::prct::% damage untuk peralatan VIOLET"
+msgstr ""
 
 #. --------
 #. msgid "+::prct::% dégâts sur objets {VERTS@SU}."
 #: src/ui/TierSelect.hx:206
-#, fuzzy
 msgid "+::prct::% damage with {GREEN@SU} items."
-msgstr "+::prct::% damage untuk peralatan VIOLET"
+msgstr ""
 
 #. --------
 #. msgid "C'est enfin terminé... Quel gâchis !"
@@ -6616,9 +6558,8 @@ msgstr "Ouch!"
 #. --------
 #. msgid "Aïe !"
 #: src/cine/coll/SmashCinem.hx:31
-#, fuzzy
 msgid "Ahhh!"
-msgstr "Iya, benar... ini semua hasil ulah mu..."
+msgstr "Ahhh!"
 
 #. --------
 #. msgid "Urgh !"
@@ -6889,9 +6830,8 @@ msgstr "Harta karun terkutuk ditemukan"
 #. --------
 #. msgid "Retour à l'entrée"
 #: src/en/inter/EntranceTeleporter.hx:35
-#, fuzzy
 msgid "Back to entrance"
-msgstr "Kembali"
+msgstr "Pintu Belakang"
 
 #. --------
 #. msgid "Ca ne semble pas fonctionner."
@@ -7052,9 +6992,8 @@ msgstr ""
 #. msgid "Impossible de vendre cet objet."
 #: src/en/inter/ItemAltar.hx:179 src/en/inter/ItemDrop.hx:301
 #: src/en/inter/LegendaryAltar.hx:145 src/en/inter/TimedItem.hx:160
-#, fuzzy
 msgid "Cannot sell this item."
-msgstr "Kamu tidak dapat menjual barang ini"
+msgstr "Kamu tidak dapat menjual barang ini."
 
 #. --------
 #. msgid "Ramasser"
@@ -7180,9 +7119,8 @@ msgstr "Raba"
 #. --------
 #. msgid "Impossible de l'ouvrir..."
 #: src/en/inter/ScoringDoor.hx:195
-#, fuzzy
 msgid "Can't open it..."
-msgstr "Aku tidak dapat melakukan ini sekarang"
+msgstr "Tidak dapat dibuka..."
 
 #. --------
 #. msgid "Utiliser la rune"
@@ -7393,7 +7331,6 @@ msgstr "Gelitik"
 #. --------
 #. msgid "Schéma déjà obtenu (::name::)"
 #: src/en/loot/Blueprint.hx:93
-#, fuzzy
 msgid "Blueprint already acquired (::name::)"
 msgstr "Kamu sudah mempunyai blueprint ::name::"
 
@@ -7433,7 +7370,6 @@ msgstr "Kanan"
 #. --------
 #. msgid "Un ::name:: !"
 #: src/en/mob/Screamer.hx:359
-#, fuzzy
 msgid "A ::name::!"
 msgstr "::name::!"
 
@@ -7630,7 +7566,6 @@ msgstr "Ada yang dapat saya bantu?"
 #. --------
 #. msgid "Aaaaaah !"
 #: src/tool/vote/FallTaunt.hx:18 src/tool/vote/FallTaunt.hx:39
-#, fuzzy
 msgid "Ahhhh!"
 msgstr "AHHHH!"
 
@@ -8016,7 +7951,6 @@ msgstr "Namun untuk berapa lama?"
 #. --------
 #. msgid "Derrière vous, la grosse LUMIERE, juste là !"
 #: src/en/inter/npc/CryptDemon.hx:126
-#, fuzzy
 msgid "Behind you, that big LIGHT, just there!"
 msgstr "Dibelakang mu, CAHAYA TERANG BENDERANG ITU! Disitu!"
 
@@ -8185,16 +8119,14 @@ msgstr ""
 #. --------
 #. msgid "Achetez quelque chose sinon ils vont me punir !"
 #: src/en/inter/npc/InternMerchant.hx:42
-#, fuzzy
 msgid "Buy something, or else they'll punish me!"
 msgstr "Tolong beli sesuatu, aku takut dihukum lagi!"
 
 #. --------
 #. msgid "Allez, s'il vous plait !"
 #: src/en/inter/npc/InternMerchant.hx:43
-#, fuzzy
 msgid "C'mon, please?"
-msgstr "Tolonglah, beli susuatu!"
+msgstr "Ayo, tolonglah?"
 
 #. --------
 #. msgid "Elle est morte."
@@ -8261,9 +8193,8 @@ msgstr "Dia mati"
 #. --------
 #. msgid "Et c'est récent..."
 #: src/en/inter/npc/Knight.hx:246
-#, fuzzy
 msgid "And it's recent..."
-msgstr "dan baru saat ini pula..."
+msgstr "Dan baru saat ini pula..."
 
 #. --------
 #. msgid "Oh... Intéressant !"
@@ -8274,9 +8205,8 @@ msgstr ""
 #. --------
 #. msgid "Morte depuis un moment."
 #: src/en/inter/npc/Knight.hx:288
-#, fuzzy
 msgid "Been dead for a while."
-msgstr "Ia sudah mati..."
+msgstr "Telah mati beberapa saat.."
 
 #. --------
 #. msgid "Parler à Guillain"
@@ -8319,12 +8249,11 @@ msgstr ""
 #. --------
 #. msgid "Tiens, d... d... d'ailleurs, ce... c'est drôle, vous leur ressemblez beaucoup."
 #: src/en/inter/npc/PerkMaster.hx:91
-#, fuzzy
 msgid ""
 "By the way, it's an odd thing to say... But you... kind of look like these "
 "guys..."
 msgstr ""
-"Oh iya, ini mungkin kedengarannya aneh.. namun kamu kelihatannyamirip "
+"Oh iya, ini mungkin kedengarannya aneh.. namun kamu kelihatannya mirip "
 "mereka..."
 
 #. --------
@@ -8389,7 +8318,6 @@ msgstr ""
 #. --------
 #. msgid "Ah ! Un client !"
 #: src/en/inter/npc/PlagueDoctor.hx:47
-#, fuzzy
 msgid "Ah! A customer!"
 msgstr "Ah ha! Seorang pelanggan!"
 
@@ -8551,7 +8479,6 @@ msgstr ""
 #. --------
 #. msgid "Et n'oublie pas, le chemin le plus court n'est pas forcément le meilleur..."
 #: src/en/inter/npc/ScoringGuy.hx:107
-#, fuzzy
 msgid "And don't forget, the shortest path isn't always the best..."
 msgstr "Dan jangan lupa.. jalan terpendek bukan berarti jalan yang benar..."
 
@@ -8592,9 +8519,8 @@ msgstr "Kemampuanmu sepertinya masih tumpul saja"
 #. --------
 #. msgid "Rapporte la moi vite !"
 #: src/en/inter/npc/SewerCreature.hx:98 src/en/inter/npc/SewerCreature.hx:236
-#, fuzzy
 msgid "Bring it back to me quick!"
-msgstr "Bawakan kepadaku sekarang"
+msgstr "Bawakan kepadaku sekarang!"
 
 #. --------
 #. msgid "Elle est quelque part dans le coin ! Je le sais, je le SENS !"
@@ -8639,7 +8565,6 @@ msgstr ""
 #. --------
 #. msgid "Un peu de courage !"
 #: src/en/inter/npc/SewerCreature.hx:109
-#, fuzzy
 msgid "A little courage, my man!"
 msgstr "Berani sedikitlah kawan!"
 
@@ -8702,7 +8627,6 @@ msgstr ""
 #. --------
 #. msgid "Et j'ai BESOIN de ma rune..."
 #: src/en/inter/npc/SewerCreature.hx:216
-#, fuzzy
 msgid "And I NEED my rune, you see..."
 msgstr "Dan aku BUTUH sajak itu..."
 
@@ -8726,9 +8650,8 @@ msgstr ""
 #. --------
 #. msgid "Ah ! Te revoilà !"
 #: src/en/inter/npc/SewerCreature.hx:254
-#, fuzzy
 msgid "Aha! There you are!"
-msgstr "Kamu membuka"
+msgstr "Aha! ternyata kmau disitu!"
 
 #. --------
 #. msgid "C'est ici qu'elle se trouve ! La... MA rune se trouve un peu plus bas !"
@@ -8880,9 +8803,8 @@ msgstr ""
 #. --------
 #. msgid "Et bah c'est pas trop tôt !"
 #: src/en/inter/npc/Tailor.hx:73
-#, fuzzy
 msgid "At last!"
-msgstr "Kau telah berhasil melewati bos terakhir...untuk sekarang..."
+msgstr "Akhirnya!"
 
 #. --------
 #. msgid "Approchez, approchez je vais pas vous couper..."
@@ -9269,9 +9191,8 @@ msgstr "Granat"
 #. --------
 #. msgid "Provoque une large explosion."
 #: res/data.cdb:item/#12.gameplayDesc
-#, fuzzy
 msgid "Causes a large explosion."
-msgstr "Ledakan besar yang menimbulkan ::+power::."
+msgstr "Menimbulkan ledakan lebih besar."
 
 #. FastGrenade (name)
 #.
@@ -9304,11 +9225,8 @@ msgstr "Granat"
 #. --------
 #. msgid "Se sépare en ::count:: bombes (::+power:: dégâts chacune)."
 #: res/data.cdb:item/#14.gameplayDesc
-#, fuzzy
 msgid "Breaks into ::count:: bombs (::+power:: damage each)."
 msgstr ""
-"Meledak menjadi ::count:: bom kecil yang memimbulkan ::+power::setiap bom "
-"kecilnya"
 
 #. MagnetGrenade (name)
 #.
@@ -9324,9 +9242,8 @@ msgstr "Granat Magnet"
 #. --------
 #. msgid "Attire tout ce qui est proche."
 #: res/data.cdb:item/#15.gameplayDesc
-#, fuzzy
 msgid "Attracts everything nearby."
-msgstr "Semua barang ini dijual!"
+msgstr "Menyerang apa saya didekatnya."
 
 #. StunningGrenade (name)
 #.
@@ -9929,7 +9846,6 @@ msgstr "TIDAK DAPAT DIJATOHKAN"
 #. --------
 #. msgid "Epée équilibrée"
 #: res/data.cdb:item/#49.name
-#, fuzzy
 msgid "Balanced Blade"
 msgstr "Pedang Seimbang"
 
@@ -9979,7 +9895,6 @@ msgstr ""
 #. --------
 #. msgid "Dague d'assassin"
 #: res/data.cdb:item/#51.name
-#, fuzzy
 msgid "Assassin's Dagger"
 msgstr "Pisau Pembunuh"
 
@@ -10004,7 +9919,6 @@ msgstr ""
 #. --------
 #. msgid "Bain de sang"
 #: res/data.cdb:item/#52.name
-#, fuzzy
 msgid "Blood Sword"
 msgstr "Pedang Darah"
 
@@ -10600,7 +10514,6 @@ msgstr ""
 #. --------
 #. msgid "Arc du fils du geolier"
 #: res/data.cdb:item/#78.name
-#, fuzzy
 msgid "Beginner's Bow"
 msgstr "Panah Pemula"
 
@@ -10645,7 +10558,6 @@ msgstr "Menembak ::count:: anak panah pada saat yang sama."
 #. --------
 #. msgid "Arc et carquois sans fond"
 #: res/data.cdb:item/#80.name
-#, fuzzy
 msgid "Bow and Endless Quiver"
 msgstr "Panah berbusur ganda"
 
@@ -10779,9 +10691,8 @@ msgstr "Panah Es"
 #. --------
 #. msgid "{Gèle@IC} brièvement les ennemis."
 #: res/data.cdb:item/#85.gameplayDesc
-#, fuzzy
 msgid "Briefly {freezes@IC} enemies."
-msgstr "Meracuni musuh yang menyakitimu."
+msgstr ""
 
 #. CrossBow (name)
 #.
@@ -10805,7 +10716,6 @@ msgstr ""
 #. --------
 #. msgid "Un carnage à bout portant."
 #: res/data.cdb:item/#86.ambiantDesc
-#, fuzzy
 msgid "A point-blank blast."
 msgstr "Matikan pukulan musuh dengan ledakan."
 
@@ -11356,9 +11266,8 @@ msgstr ""
 #. --------
 #. msgid "Bouclier sanguinaire"
 #: res/data.cdb:item/#113.name
-#, fuzzy
 msgid "Bloodthirsty Shield"
-msgstr "Perisai"
+msgstr "Perisai Haus Darah"
 
 #. BloodShield (gameplayDesc)
 #.
@@ -11660,7 +11569,6 @@ msgstr "Sepertinya sangat tua."
 #. --------
 #. msgid "Clé de l'architecte"
 #: res/data.cdb:item/#132.name
-#, fuzzy
 msgid "Architect's Key"
 msgstr "Kunci Arsitek"
 
@@ -11695,9 +11603,8 @@ msgstr "Terbuka dengan  ::key::"
 #. --------
 #. msgid "Clé du Clocher"
 #: res/data.cdb:item/#135.name
-#, fuzzy
 msgid "Bell Tower Key"
-msgstr "Kunci"
+msgstr "Kunci Bel Menara"
 
 #. CourtyardKey (name)
 #.
@@ -11740,9 +11647,8 @@ msgstr "Kastil"
 #. --------
 #. msgid "Clé Allen"
 #: res/data.cdb:item/#139.name
-#, fuzzy
 msgid "Allen Key"
-msgstr "Kunci"
+msgstr "Kunci Allen"
 
 #. AstrolabKeyB (name)
 #.
@@ -11758,9 +11664,8 @@ msgstr "Elevator"
 #. --------
 #. msgid "Clé du sommet de la tour"
 #: res/data.cdb:item/#141.name
-#, fuzzy
 msgid "Apex Key"
-msgstr "Kunci"
+msgstr "Kunci Apex"
 
 #. AstrolabKeyBoss (name)
 #.
@@ -11829,9 +11734,8 @@ msgstr ""
 #. --------
 #. msgid "Joyau incrustable"
 #: res/data.cdb:item/#148.name
-#, fuzzy
 msgid "Cavern Key"
-msgstr "Gua"
+msgstr "Kunci Gua"
 
 #. SurvivalUp (gameplayDesc)
 #.
@@ -12289,9 +12193,8 @@ msgstr ""
 #. --------
 #. msgid "Forge avancée I"
 #: res/data.cdb:item/#178.name
-#, fuzzy
 msgid "Advanced Forge I"
-msgstr "<link=\"GLASSFORGE\">Penempa Kaca</link>"
+msgstr "Penempa Tingkat Lanjut!"
 
 #. ForgeRefine1 (gameplayDesc)
 #.
@@ -12353,9 +12256,8 @@ msgstr "Cell Emas"
 #. --------
 #. msgid "Cellule Souche V"
 #: res/data.cdb:item/#183.name
-#, fuzzy
 msgid "Boss Cell V"
-msgstr "::rune:: Cell Source Boss tertanamkan"
+msgstr "Cell Bos V"
 
 #. AnyUp (name)
 #.
@@ -12379,7 +12281,6 @@ msgstr ""
 #. --------
 #. msgid "Parchemin de l'Assassin"
 #: res/data.cdb:item/#185.name
-#, fuzzy
 msgid "Assassin’s Scroll"
 msgstr "Scroll Sang Assassin"
 
@@ -12658,9 +12559,8 @@ msgstr ""
 #. --------
 #. msgid "Ajoute un bonus de points"
 #: res/data.cdb:item/#213.gameplayDesc
-#, fuzzy
 msgid "Adds a points bonus"
-msgstr "Bonus +::num:: poin!"
+msgstr "Tambahkan poin bonus"
 
 #. LoreNotes (name)
 #.
@@ -12736,7 +12636,6 @@ msgstr ""
 #. --------
 #. msgid "Saphir bleu"
 #: res/data.cdb:item/#218.name res/data.cdb:item/#228.name
-#, fuzzy
 msgid "Blue Sapphire"
 msgstr "Saffir Biru"
 
@@ -12745,9 +12644,8 @@ msgstr "Saffir Biru"
 #. --------
 #. msgid "Une magnifique pierre d'une valeur de ::$power::{iconCoin@img} !"
 #: res/data.cdb:item/#218.gameplayDesc
-#, fuzzy
 msgid "A magnificent stone worth ::$power:: {iconCoin@img}!"
-msgstr "Sebuah Batu mulia berharga ::$power:: poin!"
+msgstr "Sebuah Batu mulia berharga ::$power:: {iconCoin@img}!"
 
 #. MediumGem (name)
 #.
@@ -12809,7 +12707,6 @@ msgstr ""
 #. --------
 #. msgid "Coeur noir"
 #: res/data.cdb:item/#222.name
-#, fuzzy
 msgid "Black Heart"
 msgstr "Hati hitam"
 
@@ -12903,7 +12800,6 @@ msgstr "Panah Emas"
 #. --------
 #. msgid "Une magnifique pierre d'une valeur de ::$power:: points !"
 #: res/data.cdb:item/#228.gameplayDesc
-#, fuzzy
 msgid "A magnificent stone worth ::$power:: points!"
 msgstr "Sebuah Batu mulia berharga ::$power:: poin!"
 
@@ -13211,7 +13107,7 @@ msgstr ""
 #. msgid "Inspiration inébranlable"
 #: res/data.cdb:item/#248.name
 msgid "Blind faith"
-msgstr ""
+msgstr "Keyakinan buta."
 
 #. P_CDR_Parry (gameplayDesc)
 #.
@@ -13363,18 +13259,16 @@ msgstr ""
 #. --------
 #. msgid "Munitions"
 #: res/data.cdb:item/#256.name
-#, fuzzy
 msgid "Ammo"
-msgstr "Amunisi terjebak di dalam musuh"
+msgstr "Amunisi "
 
 #. P_Ammo (gameplayDesc)
 #.
 #. --------
 #. msgid "Munitions de vos armes x::power::."
 #: res/data.cdb:item/#256.gameplayDesc
-#, fuzzy
 msgid "Ammo for your weapons x ::power::."
-msgstr "::power::x amunisi untuk senjata berjarak."
+msgstr "::power::x amunisi untuk senjatamu."
 
 #. P_Yolo (name)
 #: res/data.cdb:item/#257.name res/data.cdb:item/#258.name
@@ -13618,9 +13512,8 @@ msgstr ""
 #. --------
 #. msgid "Ne faites plus qu'un avec les ombres..."
 #: res/data.cdb:item/#271.gameplayDesc
-#, fuzzy
 msgid "Become one with the shadows..."
-msgstr "selalu sendiri..."
+msgstr "Menjadi satu dengan byangan..."
 
 #. PrisonerGhost (name)
 #.
@@ -13783,9 +13676,8 @@ msgstr ""
 #. --------
 #. msgid "Un vêtement pour ceux qui ont du cœur."
 #: res/data.cdb:item/#281.gameplayDesc
-#, fuzzy
 msgid "An outfit for those with heart."
-msgstr "Hati hitam"
+msgstr "Pakaian untuk mereka yang berhati."
 
 #. PrisonerAladdin (name)
 #.
@@ -14488,7 +14380,6 @@ msgstr "Inquisitor"
 #. --------
 #. msgid "Lanceur d'Orbe"
 #: res/data.cdb:mob/#34.name
-#, fuzzy
 msgid "Caster"
 msgstr "Penyihir"
 
@@ -14893,9 +14784,8 @@ msgstr "Tidak berwarna (status tertinggi berlaku pada barang ini)"
 #. --------
 #. msgid "Ne peut être vendu."
 #: res/data.cdb:affix/#9.desc
-#, fuzzy
 msgid "Cannot be sold"
-msgstr "Tidak dapat dijual."
+msgstr "Tidak dapat dijual"
 
 #. InfectedFood (desc)
 #.
@@ -14927,9 +14817,8 @@ msgstr ""
 #. --------
 #. msgid "+::prct::% dégâts sur cible qui {brûle@FI}."
 #: res/data.cdb:affix/#15.desc
-#, fuzzy
 msgid "+::prct::% damage to a {burning@FI} target."
-msgstr "+::prct::% damage kepada musuh yang diracuni."
+msgstr ""
 
 #. CannotInterrupt (desc)
 #.
@@ -14969,54 +14858,48 @@ msgstr ""
 #. --------
 #. msgid "+::prct::% dégâts sur cible qui {saigne@BL}."
 #: res/data.cdb:affix/#20.desc
-#, fuzzy
 msgid "+::prct::% damage to a {bleeding@BL} target."
-msgstr "+::prct::% damage kepada musuh yang diracuni."
+msgstr ""
 
 #. IceDamage (desc)
 #.
 #. --------
 #. msgid "+::prct::% dégâts sur cible {gelée@IC}."
 #: res/data.cdb:affix/#21.desc
-#, fuzzy
 msgid "+::prct::% damage to a {frozen@IC} target ."
-msgstr "+::prct::% damage kepada musuh yang diracuni."
+msgstr ""
 
 #. SlowDamage (desc)
 #.
 #. --------
 #. msgid "+::prct::% dégâts sur cible {ralentie@IC}."
 #: res/data.cdb:affix/#22.desc
-#, fuzzy
 msgid "+::prct::% damage to a {slowed-down@IC} target."
-msgstr "+::prct::% damage kepada musuh yang diperlambat."
+msgstr ""
 
 #. PoisonDamageWeap (desc)
 #.
 #. --------
 #. msgid "+::prct::% dégâts sur cible {empoisonnée@TO}."
 #: res/data.cdb:affix/#23.desc res/data.cdb:affix/#24.desc
-#, fuzzy
 msgid "+::prct::% damage to a {poisoned@TO} target."
-msgstr "+::prct::% damage kepada musuh yang diracuni."
+msgstr ""
 
 #. StunDamage (desc)
 #.
 #. --------
 #. msgid "+::prct::% dégâts sur cible étourdie."
 #: res/data.cdb:affix/#25.desc
-#, fuzzy
 msgid "+::prct::% damage to a stunned target."
-msgstr "+::prct::% damage kepada musuh yang tertegun"
+msgstr "Kerusakan +::prct::% kepada musuh yang tertegun"
 
 #. BackDamage (desc)
 #.
 #. --------
 #. msgid "+::prct::% de dégâts pour les coups dans le dos"
 #: res/data.cdb:affix/#26.desc
-#, fuzzy
 msgid "+::prct::% damage for hits in the back"
-msgstr "+::prct::% damage untuk peralatan HIJAU"
+msgstr ""
 
 #. LongStun (desc)
 #.
@@ -15081,18 +14964,16 @@ msgstr ""
 #. --------
 #. msgid "Absorbe +::prct::% dégâts si maintenu."
 #: res/data.cdb:affix/#34.desc
-#, fuzzy
 msgid "Absorbs +::prct::% of damage when held up."
-msgstr "Menyerap ::prct::% damage proyektil dan ledakan ketika ditahan."
+msgstr "Menyerap kerusakan ::prct::% ketika ditahan."
 
 #. ShieldBulletAbsorb (desc)
 #.
 #. --------
 #. msgid "Absorbe +::prct::% dégâts des projectiles si maintenu."
 #: res/data.cdb:affix/#35.desc
-#, fuzzy
 msgid "Absorbs +::prct::% of projectile damage when held up."
-msgstr "Menyerap ::prct::% damage proyektil dan ledakan ketika ditahan."
+msgstr "Menyerap kerusakan proyektil ::prct::%  ketika ditahan."
 
 #. BulletArmor (desc)
 #.
@@ -15219,9 +15100,8 @@ msgstr "Jeroan korban meledak, menimbulkan ::+power:: damage."
 #. --------
 #. msgid "Des vers sortent des morts."
 #: res/data.cdb:affix/#51.desc
-#, fuzzy
 msgid "Biters crawl from the dead."
-msgstr "Sekerumungan penggigit merangkak dari korbanmu."
+msgstr "Merangkak dari kematian"
 
 #. DiveAttackFire (desc)
 #.
@@ -15244,9 +15124,8 @@ msgstr ""
 #. --------
 #. msgid "Un saut supplémentaire dans les airs."
 #: res/data.cdb:affix/#54.desc
-#, fuzzy
 msgid "An extra jump in mid-air."
-msgstr "Kamu mendapatkan 2 loncat tambahan di udara."
+msgstr "Kamu mendapatkan loncat tambahan di udara."
 
 #. QuadrupleJump (desc)
 #.
@@ -15333,9 +15212,8 @@ msgstr ""
 #. --------
 #. msgid " +::prct::% dégâts quand vous en êtes proche."
 #: res/data.cdb:affix/#65.desc
-#, fuzzy
 msgid "+::prct::% damage when you are near it."
-msgstr "Meningkatkan damage sebesar ::prct::% ketika dekat dengan musuh."
+msgstr "Kerusakan sebesar ::prct::% ketika dekat dengan musuh."
 
 #. DeployedResist (desc)
 #.
@@ -15376,9 +15254,8 @@ msgstr ""
 #. --------
 #. msgid "Capable de briser les boucliers"
 #: res/data.cdb:affix/#70.desc
-#, fuzzy
 msgid "Can break shields"
-msgstr "Perisai"
+msgstr "Dapat memecah Perisai"
 
 #. HeavyStun (desc)
 #.
@@ -15491,9 +15368,8 @@ msgstr ""
 #. --------
 #. msgid "Attaquer juste après une {parade@PA} inflige +::prct::% dégâts."
 #: res/data.cdb:affix/#85.desc
-#, fuzzy
 msgid "Attacking just after a {parry@PA} inflicts +::prct::% damage."
-msgstr "Menyerang setelah parrying menimbulkan ::prct%::% damage."
+msgstr ""
 
 #. IceArmor (desc)
 #.
@@ -15535,9 +15411,8 @@ msgstr ""
 #. --------
 #. msgid "+::prct::% dégâts infligés aux ennemis !"
 #: res/data.cdb:affix/#92.desc res/data.cdb:affix/#93.desc
-#, fuzzy
 msgid "+::prct::% damage inflicted on enemies!"
-msgstr "+::prct::% damage untuk euqipment MERAH."
+msgstr ""
 
 #. Leech (desc)
 #.
@@ -15596,9 +15471,8 @@ msgstr ""
 #. --------
 #. msgid "+::prct::% dégâts si vos {PV@LI} sont au maximum."
 #: res/data.cdb:affix/#100.desc
-#, fuzzy
 msgid "+::prct::% damage when you are at max {HP@LI}."
-msgstr "Meningkatkan damage sebesar ::prct::% ketika dekat dengan musuh."
+msgstr ""
 
 #. Invisibility (desc)
 #.
@@ -15940,7 +15814,6 @@ msgstr ""
 #. --------
 #. msgid "Ancien réseau d'égouts"
 #: res/data.cdb:level/#6.name res/data.cdb:level/#65.name
-#, fuzzy
 msgid "Ancient Sewers"
 msgstr "Sumur Jadul"
 
@@ -15993,7 +15866,6 @@ msgstr ""
 #. --------
 #. msgid "Pont noir"
 #: res/data.cdb:level/#7.name
-#, fuzzy
 msgid "Black Bridge"
 msgstr "Jembatan Hitam"
 
@@ -16710,9 +16582,8 @@ msgstr ""
 #. --------
 #. msgid "Repos des architectes"
 #: res/data.cdb:level/#23.name
-#, fuzzy
 msgid "Architects' Rest"
-msgstr "Terbentanglah disini para arsitek"
+msgstr "Tempat Istiraha Arsitek"
 
 #. BoatDock (name)
 #.
@@ -17248,9 +17119,8 @@ msgstr "Saya.. masih tidak mengerti"
 #. --------
 #. msgid "Le Roi est bien mort pourtant..."
 #: res/data.cdb:loreRoom/#1.examinables/#0.events/#5.text
-#, fuzzy
 msgid "But the King is quite dead..."
-msgstr "THIS. IS. DEAD CELLS!"
+msgstr "Tetapi Raja telah mati..."
 
 #. AfterEnd (examinables) trigger (events) (text)
 #.
@@ -17435,7 +17305,7 @@ msgstr ""
 #. msgid "Feu de camp"
 #: res/data.cdb:loreRoom/#3.examinables/#0.label
 msgid "Campfire"
-msgstr ""
+msgstr "Api unggun"
 
 #. DarkCamp (examinables) sign (label)
 #.
@@ -17461,9 +17331,8 @@ msgstr ""
 #: res/data.cdb:loreRoom/#69.examinables/#2.label
 #: res/data.cdb:loreRoom/#71.examinables/#2.label
 #: res/data.cdb:loreRoom/#76.examinables/#2.label
-#, fuzzy
 msgid "Body"
-msgstr "Cacing Tubuh"
+msgstr "Tubuh"
 
 #. DarkCamp (examinables) fire (events) (text)
 #.
@@ -17526,9 +17395,8 @@ msgstr ""
 #: res/data.cdb:loreRoom/#5.examinables/#0.label
 #: res/data.cdb:loreRoom/#6.examinables/#0.label
 #: res/data.cdb:loreRoom/#22.examinables/#0.label
-#, fuzzy
 msgid "Cell door"
-msgstr "Cell Emas"
+msgstr "Pintu Cell"
 
 #. DoorPrisonner1 (examinables) food (label)
 #.
@@ -17665,7 +17533,7 @@ msgstr "Aku sungguh senang aku menemukan tumpukan mayat busuk ini!"
 #: res/data.cdb:loreRoom/#7.examinables/#1.label
 #: res/data.cdb:loreRoom/#57.examinables/#0.label
 msgid "Banner"
-msgstr ""
+msgstr "Spanduk"
 
 #. MassGrave1 (examinables) pile (events) (text)
 #.
@@ -17840,9 +17708,8 @@ msgstr ""
 #. --------
 #. msgid "Sans grande certitude."
 #: res/data.cdb:loreRoom/#10.examinables/#0.events/#1.text
-#, fuzzy
 msgid "Can't really be sure."
-msgstr "Aku sungguh yakin, bahwa aku akan mendapatkannya kembali..."
+msgstr "Tidak bisa terlalu yakin."
 
 #. Hanged3 (examinables) body1 (events) (text)
 #.
@@ -17983,9 +17850,8 @@ msgstr ""
 #. msgid "Sac"
 #: res/data.cdb:loreRoom/#12.examinables/#4.label
 #: res/data.cdb:loreRoom/#39.examinables/#1.label
-#, fuzzy
 msgid "Bag"
-msgstr "Tas ini mengandung beberapa emas dari kehidupan sebelumnya."
+msgstr "Tas"
 
 #. Well1 (examinables) tool (knownLabel)
 #.
@@ -18066,7 +17932,6 @@ msgstr ""
 #. --------
 #. msgid "Une petite cuillère."
 #: res/data.cdb:loreRoom/#12.examinables/#3.events/#0.text
-#, fuzzy
 msgid "A little spoon."
 msgstr "Gagah sedikit kenapa!"
 
@@ -18185,9 +18050,8 @@ msgstr ""
 #. --------
 #. msgid "Ah !"
 #: res/data.cdb:loreRoom/#13.examinables/#3.events/#3.text
-#, fuzzy
 msgid "Ah!"
-msgstr "Ah ha! Seorang pelanggan!"
+msgstr "Ah ha!"
 
 #. EvadeTunnel1 (examinables) tunnel (label)
 #: res/data.cdb:loreRoom/#14.examinables/#0.label
@@ -18445,16 +18309,14 @@ msgstr ""
 #. --------
 #. msgid "Alcove de Mathieu I"
 #: res/data.cdb:loreRoom/#18.examinables/#1.label
-#, fuzzy
 msgid "Alcove of Mathieu I"
-msgstr "Aku tidak membutuhkan ini sekarang"
+msgstr "Botol Vitalitas I"
 
 #. TombArchi (examinables) mat2 (label)
 #.
 #. --------
 #. msgid "Alcove de Mathieu II"
 #: res/data.cdb:loreRoom/#18.examinables/#2.label
-#, fuzzy
 msgid "Alcove of Mathieu II"
 msgstr "Botol Vitalitas II"
 
@@ -18584,9 +18446,8 @@ msgstr ""
 #. --------
 #. msgid "Mais toutes deux incomplètes."
 #: res/data.cdb:loreRoom/#18.examinables/#1.events/#4.text
-#, fuzzy
 msgid "But both incomplete."
-msgstr "Karya Seni Belum Selesai"
+msgstr "tetapi keduanya tidak lengkap."
 
 #. TombArchi (examinables) mat2 (events) (text)
 #.
@@ -18949,9 +18810,8 @@ msgstr ""
 #. --------
 #. msgid "Flèches"
 #: res/data.cdb:loreRoom/#20.examinables/#2.label
-#, fuzzy
 msgid "Arrows"
-msgstr "Tidak ada yang namanya \"terlalu banyak panah\" = Legolas"
+msgstr "Panah"
 
 #. ShootTraining1 (examinables) sign (events) (text)
 #.
@@ -18966,9 +18826,8 @@ msgstr ""
 #. --------
 #. msgid "Une réserve de flèches et d'arcs."
 #: res/data.cdb:loreRoom/#20.examinables/#1.events/#1.text
-#, fuzzy
 msgid "A supply of bows and arrows."
-msgstr "Menembak ::count:: anak panah pada saat yang sama."
+msgstr ""
 
 #. ShootTraining1 (examinables) loot (events) (text)
 #.
@@ -19459,7 +19318,7 @@ msgstr ""
 #: res/data.cdb:loreRoom/#24.examinables/#0.label
 #: res/data.cdb:loreRoom/#90.examinables/#0.label
 msgid "Boxes"
-msgstr ""
+msgstr "Kotak"
 
 #. Crystals1 (examinables) crystals (events) (text)
 #.
@@ -19528,9 +19387,8 @@ msgstr ""
 #. --------
 #. msgid "Une...table."
 #: res/data.cdb:loreRoom/#25.examinables/#1.events/#0.text
-#, fuzzy
 msgid "A... table."
-msgstr "Duplikat lebih nyaman makan di meja, daripada makan di lantai."
+msgstr "Sebuah...Meja."
 
 #. Crystals2 (examinables) table (events) (text)
 #.
@@ -19547,9 +19405,8 @@ msgstr ""
 #. --------
 #. msgid "Passage bloqué"
 #: res/data.cdb:loreRoom/#26.examinables/#0.label
-#, fuzzy
 msgid "Blocked passageway"
-msgstr "Terblokir!"
+msgstr "JalanTerblokir!"
 
 #. CavernLocked (examinables) doorLocked (events) (text)
 #.
@@ -19652,9 +19509,8 @@ msgstr ""
 #. --------
 #. msgid "La statue du Roi de l'île."
 #: res/data.cdb:loreRoom/#28.examinables/#0.events/#0.text
-#, fuzzy
 msgid "A statue of the King of the island."
-msgstr "Kamu dapat mengatakan bahwa pulau ini hidup..."
+msgstr "Patung dari Raja di pulau"
 
 #. Altar2 (examinables) statue (events) (text)
 #.
@@ -19767,9 +19623,8 @@ msgstr "End"
 #. --------
 #. msgid "C'est toujours ça de pris !"
 #: res/data.cdb:loreRoom/#31.examinables/#1.events/#2.text
-#, fuzzy
 msgid "Better than nothing!"
-msgstr "Kamu lebih baik daripada ini..."
+msgstr "Lbeih baik daripada tidak ada!"
 
 #. PerkShop (examinables) pile (label)
 #.
@@ -20246,9 +20101,8 @@ msgstr ""
 #. --------
 #. msgid "Un message abandonné dans la réserve."
 #: res/data.cdb:loreRoom/#42.examinables/#0.events/#0.text
-#, fuzzy
 msgid "A message left in the storeroom."
-msgstr "Klik Kiri."
+msgstr "Pesan ditinggalkan di kamar penyimpanan."
 
 #. SoldierMessage1 (examinables) message (events) (text)
 #.
@@ -20301,9 +20155,8 @@ msgstr "Lukisan Kasar"
 #. msgid "Une lettre d'un soldat."
 #: res/data.cdb:loreRoom/#43.examinables/#0.events/#0.text
 #: res/data.cdb:loreRoom/#49.examinables/#0.events/#0.text
-#, fuzzy
 msgid "A letter from a soldier."
-msgstr "Ditransfer dari pipa"
+msgstr "Surat dari tentara."
 
 #. SoldierMessage2 (examinables) message (events) (text)
 #.
@@ -20376,9 +20229,8 @@ msgstr "Senjata"
 #. --------
 #. msgid "Salle de repos"
 #: res/data.cdb:loreRoom/#45.examinables/#1.label
-#, fuzzy
 msgid "Break room"
-msgstr "Pukul"
+msgstr "Ruang Break"
 
 #. SoldierMessage4 (examinables) message (events) (text)
 #.
@@ -21160,9 +21012,8 @@ msgstr "Namun untuk berapa lama?"
 #. --------
 #. msgid "Matériel alchimique"
 #: res/data.cdb:loreRoom/#56.examinables/#1.label
-#, fuzzy
 msgid "Alchemy equipment"
-msgstr "Peralatan"
+msgstr "Peralatan Alkimia"
 
 #. TextWall3 (examinables) crates (label)
 #: res/data.cdb:loreRoom/#56.examinables/#2.label
@@ -21244,9 +21095,8 @@ msgstr ""
 #. --------
 #. msgid "Pas mal d'ustensiles inutilisés."
 #: res/data.cdb:loreRoom/#56.examinables/#2.events/#0.text
-#, fuzzy
 msgid "A lot of unused items."
-msgstr "UNUSED"
+msgstr "banyak item tidak dgunakan."
 
 #. TextWall3 (examinables) lettersGround (events) (text)
 #.
@@ -21493,9 +21343,8 @@ msgstr "Bagaimanapun caranya... kau akan tetap disini"
 #. --------
 #. msgid " Suis-je sur la bonne voie ?\""
 #: res/data.cdb:loreRoom/#60.examinables/#0.events/#3.text
-#, fuzzy
 msgid "Am I on the right track?\""
-msgstr "Sini!"
+msgstr "Apa aku berada di jalur yang berna?\""
 
 #. ResearchDiary3 (examinables) bed (events) (text)
 #.
@@ -21700,20 +21549,16 @@ msgstr ""
 #. --------
 #. msgid "Et par taille."
 #: res/data.cdb:loreRoom/#63.examinables/#1.events/#3.text
-#, fuzzy
 msgid "And by size."
-msgstr ""
-"Makhluk ini tidak nyaman berada di ruangan ukuran ini dengan begitu banyak "
-"makhluk lain"
+msgstr "dan sesuai ukuran."
 
 #. ResearchDiary6 (examinables) insects (events) (text)
 #.
 #. --------
 #. msgid "Et par ordre alphabétique."
 #: res/data.cdb:loreRoom/#63.examinables/#1.events/#5.text
-#, fuzzy
 msgid "And in alphabetical order."
-msgstr "Batalkan perintah disinfeksi"
+msgstr "dan sesuai abjad."
 
 #. ResearchDiary6 (examinables) insects (events) (text)
 #.
@@ -21838,9 +21683,8 @@ msgstr ""
 #. --------
 #. msgid "Tous ces corps...Toutes ces vies."
 #: res/data.cdb:loreRoom/#65.examinables/#0.events/#2.text
-#, fuzzy
 msgid "All these bodies... All these lives."
-msgstr "Kuncinya berada di pergelangan..."
+msgstr ""
 
 #. ResearchDiary8 (examinables) desk (events) (text)
 #.
@@ -22028,7 +21872,7 @@ msgstr ""
 #. ResearchDiary13 (examinables) crowCages (label)
 #: res/data.cdb:loreRoom/#70.examinables/#0.label
 msgid "Cages"
-msgstr ""
+msgstr "Kandang"
 
 #. ResearchDiary13 (examinables) crowTube (label)
 #: res/data.cdb:loreRoom/#70.examinables/#1.label
@@ -22044,9 +21888,8 @@ msgstr ""
 #. --------
 #. msgid "Toutes ces cages brisées..."
 #: res/data.cdb:loreRoom/#70.examinables/#0.events/#0.text
-#, fuzzy
 msgid "All these broken cages..."
-msgstr "Rusak"
+msgstr "Semua kandang yang rusak ini..."
 
 #. ResearchDiary13 (examinables) crowCages (events) (text)
 #.
@@ -22061,9 +21904,8 @@ msgstr ""
 #. --------
 #. msgid "Encore un remède raté..."
 #: res/data.cdb:loreRoom/#70.examinables/#1.events/#0.text
-#, fuzzy
 msgid "Another failed cure..."
-msgstr "Telah Gagal"
+msgstr "Obat lain yang gagal..."
 
 #. ResearchDiary13 (examinables) crowTube (events) (text)
 #.
@@ -22281,9 +22123,8 @@ msgstr "Hadiah yang bagus seharga ::$power:: EMAS."
 #. --------
 #. msgid "Tout en cuivre."
 #: res/data.cdb:loreRoom/#72.examinables/#2.events/#1.text
-#, fuzzy
 msgid "All copper."
-msgstr "LIhat semua"
+msgstr ""
 
 #. ObservatoryRoom1 (examinables) telescope (events) (text)
 #.
@@ -23180,9 +23021,8 @@ msgstr ""
 #. --------
 #. msgid "Bout de corps"
 #: res/data.cdb:loreRoom/#86.examinables/#2.label
-#, fuzzy
 msgid "Body parts"
-msgstr "Temperatur Tubuh"
+msgstr "Bagian Tubuh"
 
 #. Behemoth4 (examinables) door (label)
 #.
@@ -23516,9 +23356,8 @@ msgstr ""
 #. --------
 #. msgid "Arrière-salle"
 #: res/data.cdb:loreRoom/#92.examinables/#0.label
-#, fuzzy
 msgid "Back room"
-msgstr "Kembali"
+msgstr "Kamar Belakang"
 
 #. BossKingsHandThrone (examinables) room (events) (text)
 #.
@@ -23704,7 +23543,6 @@ msgstr "Cari Si Bos dan habisi!"
 #.
 #. --------
 #. msgid "Essais restants: ::n::"
-#, fuzzy
 msgid "Attempts remaining: ::n::"
 msgstr "Usaha tersisa ::n::"
 
@@ -23934,9 +23772,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Attrape-moi si tu peux"
-#, fuzzy
 msgid "Catch Me If You Can"
-msgstr "Hei! Kamu! Bukalah aku!"
+msgstr "Tangkap Aku Kalau Kamu Bisa"
 
 #. Deprecated
 #. ExplosiveGrenade (legendaryName)
@@ -24042,18 +23879,16 @@ msgstr ""
 #.
 #. --------
 #. msgid "Sang noir"
-#, fuzzy
 msgid "Black Blood"
-msgstr "Hati hitam"
+msgstr "Darah Hitam"
 
 #. Deprecated
 #. DamageBuff (legendaryName)
 #.
 #. --------
 #. msgid "Anomalie"
-#, fuzzy
 msgid "Anomaly"
-msgstr "Kamu pasti kelaininan yang sedang ia cari..."
+msgstr "Anomali"
 
 #. Deprecated
 #. LeechBuff (legendaryName)
@@ -24206,7 +24041,6 @@ msgstr ""
 #.
 #. --------
 #. msgid "Soigneusement équilibrée pour enchainer des attaques rapides."
-#, fuzzy
 msgid "Carefully balanced for rapid attack sequences."
 msgstr "Keseimbangannya memperbolehkan serangan cepat secara konsekutif."
 
@@ -24400,9 +24234,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Fouet de Belmont"
-#, fuzzy
 msgid "Belmont's Whip"
-msgstr "Cambuk Valmont"
+msgstr "Cambuk Belmont"
 
 #. Deprecated
 #. HookWhip (legendaryName)
@@ -24417,9 +24250,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Lame de l'Alchimiste"
-#, fuzzy
 msgid "Alchemist's Blade"
-msgstr "Pedang Seimbang"
+msgstr "Pedang Alkemi"
 
 #. Deprecated
 #. LowHealth (legendaryName)
@@ -24451,9 +24283,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Arc de la Terre"
-#, fuzzy
 msgid "Bow of the Earth"
-msgstr "Panah Pemula"
+msgstr "Panah dari Bumi"
 
 #. Deprecated
 #. InfiniteBow (gameplayDesc)
@@ -24476,7 +24307,6 @@ msgstr ""
 #.
 #. --------
 #. msgid "Barbelure"
-#, fuzzy
 msgid "Barbed Arrow"
 msgstr "Panah Emas"
 
@@ -24755,7 +24585,7 @@ msgstr "Sangat sangat hangat"
 #. Deprecated
 #. ParryShield (legendaryName)
 msgid "Arrogance"
-msgstr ""
+msgstr "Kesombongan"
 
 #. Deprecated
 #. HoldShield (legendaryName)
@@ -24851,9 +24681,8 @@ msgstr ""
 #.
 #. --------
 #. msgid " +::+dps:: DPS avec au moins ::count:: ennemis près de vous."
-#, fuzzy
 msgid "+::+dps:: DPS with at least ::count:: enemies near you."
-msgstr "Menambah ::+dps:: dps selama ada ::count:: musuh disekitarmu."
+msgstr "+::+dps:: dps selama ada ::count:: musuh disekitarmu."
 
 #. Deprecated
 #. P_DmgDotsAround (name)
@@ -24968,9 +24797,8 @@ msgstr "Menyelamatkan mu sekali ketika kau mati konyol."
 #.
 #. --------
 #. msgid "PV +::prct::%."
-#, fuzzy
 msgid "+::prct::% HP."
-msgstr "+::prct::% HP"
+msgstr "+::prct::% HP."
 
 #. Deprecated
 #. P_Curse (gameplayDesc)
@@ -25037,9 +24865,8 @@ msgstr "Monster Elit"
 #.
 #. --------
 #. msgid "Dégâts subis +::prct::%"
-#, fuzzy
 msgid "+::prct::% damage taken."
-msgstr "Damage yang diterima dikurangi sebesar ::prct::%"
+msgstr "Damage yang diterima sebesar +::prct::%"
 
 #. Deprecated
 #. ReduceInfection (desc)
@@ -25089,9 +24916,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Des vers sortent des victimes."
-#, fuzzy
 msgid "A swarm of biting worms crawls from your victims."
-msgstr "Sekerumungan penggigit merangkak dari korbanmu."
+msgstr ""
 
 #. Deprecated
 #. RunSpeedOnCrit (desc)
