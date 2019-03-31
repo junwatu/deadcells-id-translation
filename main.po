@@ -88,7 +88,7 @@ msgstr "Granat"
 #. msgid "Armes à distance"
 #: src/Lang.hx:530
 msgid "Ranged weapons"
-msgstr "Senjata Beradius"
+msgstr "Senjata Jarak Dekat"
 
 #. --------
 #. msgid "Alliés"
@@ -106,7 +106,7 @@ msgstr "Kekuatan"
 #. msgid "Armes de mêlée"
 #: src/Lang.hx:533
 msgid "Melee weapons"
-msgstr "Senjata Serang"
+msgstr "Senjata Jarak Jauh"
 
 #. --------
 #. msgid "Pendentifs"
