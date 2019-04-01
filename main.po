@@ -2832,13 +2832,13 @@ msgstr "{Kebrutalan@BR} / {Taktik@TA}"
 #. msgid " {Brutalité@BR} / {Survie@SU}"
 #: src/tool/InventItem.hx:633
 msgid "{Brutality@BR} / {Survival@SU}"
-msgstr "{Kebrutalan@BR}/{Ketahanan@SU}"
+msgstr "{Kebrutalan@BR} / {Ketahanan@SU}"
 
 #. --------
 #. msgid " {Tactique@TA} / {Survie@SU}"
 #: src/tool/InventItem.hx:635
 msgid "{Tactics@TA} / {Survival@SU}"
-msgstr "{Taktik@TA}/ {Ketahanan@SU}"
+msgstr "{Taktik@TA} / {Ketahanan@SU}"
 
 #. --------
 #. msgid "Capacité active"
@@ -3055,7 +3055,7 @@ msgstr "Mainkan Mode Kustom"
 #. msgid "(Présélection : {::name::@ST})"
 #: src/ui/CustomGame.hx:277
 msgid "(Preset : {::name::@ST})"
-msgstr "{Preset : {::name::@ST}}"
+msgstr "(Preset : {::name::@ST})"
 
 #. --------
 #. msgid ""
@@ -6138,7 +6138,7 @@ msgstr "Ibuuuuu!"
 #. msgid "Je n’avais jamais remarqué à quel point le carrelage était froid."
 #: src/cine/coll/SmashCinem.hx:45
 msgid "I... I... I never noticed how cold these tiles are."
-msgstr "Aku… Aku… Aku tidak pernah menyadari betapa dingin ubin-ubin ini."
+msgstr "Aku... Aku... Aku tidak pernah menyadari betapa dingin ubin-ubin ini."
 
 #. --------
 #. msgid "Oh mon dieu ! Ils ont tué le collecteur !"
@@ -22398,7 +22398,7 @@ msgstr "Pemakan Jiwa Yang Rakus"
 #. --------
 #. msgid "Vous procure ::+power:: PV par coup porté (::duration:: sec)."
 msgid "Gives you ::+power:: HP for each hit you land on an enemy (::duration:: sec)."
-msgstr "Memberikanmu ::+power:: nyawa setiap pukulan yang kau beri ke musuh (::+duration:: detik)."
+msgstr "Memberikanmu ::+power:: nyawa setiap pukulan yang kau beri ke musuh (::duration:: detik)."
 
 #. Deprecated
 #. LeechBuffEmpty (legendaryName)
@@ -23284,7 +23284,7 @@ msgstr ""
 #. --------
 #. msgid "Réduit les dégâts infligés par les pièges de ::prct::%."
 msgid "Reduces the damage inflicted by traps by ::prct::%."
-msgstr "Mengurangi kerusakan akibat perangkap sebesar ::pcrt::%."
+msgstr "Mengurangi kerusakan akibat perangkap sebesar ::prct::%."
 
 #. Deprecated
 #. Beholder (name)
