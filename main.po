@@ -228,7 +228,7 @@ msgstr "Skin"
 #. msgid "POT DE DÉPART : les ennemis lachent une bombe en mourant."
 #: src/Lang.hx:562
 msgid "THE CHERRY ON THE CAKE: Enemies drop a bomb when they die."
-msgstr ""
+msgstr "CERI PADA KUE: Musuh menjatuhkan bom ketika mereka mati."
 
 #. --------
 #. msgid "PORTES PIÉGÉES : les portes explosent."
@@ -240,55 +240,59 @@ msgstr ""
 #. msgid "OBSCURITÉ MORTELLE : le niveau est plongé dans la pénombre."
 #: src/Lang.hx:564
 msgid "FOLLOW THE LIGHT: The level is plunged into darkness."
-msgstr ""
+msgstr "IKUTILAH CAHAYA: Level  terjerumus ke dalam kegelapan."
 
 #. --------
 #. msgid "SOIF DE SANG : tuez des ennemis continuellement ou mourez !"
 #: src/Lang.hx:565
 msgid "BLOODLUST: Keep killing enemies or die."
-msgstr ""
+msgstr "NAFSU MEMBUNUH: Tetap jalankan pembunuhan atau mati."
 
 #. --------
 #. msgid "VENIMEUX : tous ce qui vous blesse vous empoisonne."
 #: src/Lang.hx:566
 msgid "VENOMOUS: Every wound also poisons you."
-msgstr ""
+msgstr "BERACUN: setiap luka juga akan meracunimu."
 
 #. --------
 #. msgid "POULETHOR : le Poulet attaque les ennemis proches."
 #: src/Lang.hx:567
+#, fuzzy
 msgid "CHICKENTHOR: Captain Chicken will attack nearby enemies."
-msgstr ""
+msgstr "CHICKENTHOR: Kapten Ayam akan meyerang musuh terdekat."
 
 #. --------
 #. msgid "HITCHCOCK : il y a des volatiles partout !"
 #: src/Lang.hx:568
 msgid "HITCHCOCK: Birds, birds everywhere!"
-msgstr ""
+msgstr "HITCHCOCK: burung, burung di mana-mana!"
 
 #. --------
 #. msgid "BRUMES : gare aux monstres invisibles !"
 #: src/Lang.hx:569
 msgid "FOG: Warning, deadly invisible monsters may be hidden by dense fog, travel at your own risk."
 msgstr ""
+"KABUT: peringatan, monster tak terlihat yang mematikan tersembunyikan oleh kabut lebat, lakukan perjalanan dengan risikomu "
+"sendiri."
 
 #. --------
 #. msgid "TIREURS : essayez de ne pas prendre un tir dans la tête."
 #: src/Lang.hx:570
 msgid "SHARP SHOOTERS: Take cover!"
-msgstr ""
+msgstr "PENEMBAK JITU: Berlindung!"
 
 #. --------
 #. msgid "EMPALEURS : gare aux champignons..."
 #: src/Lang.hx:571
+#, fuzzy
 msgid "SPIKERS: Time for some mushroom hunting..."
-msgstr ""
+msgstr "SPIKERS: Saatnya berburu jamur..."
 
 #. --------
 #. msgid "SAUTS : vous pouvez sauter plusieurs fois en l'air"
 #: src/Lang.hx:572
 msgid "JUMPS: You can jump multiple times in the air."
-msgstr ""
+msgstr "LOMPAT: Kamu dapat mlompat beberapa kali di udara."
 
 #. --------
 #. msgid ""
@@ -296,19 +300,20 @@ msgstr ""
 #. "couleur majoritaire à chaque niveau de transition"
 #: src/Lang.hx:573
 msgid "ADAPTATION: This item will be replaced by another one (same type) of your main color between each level"
-msgstr ""
+msgstr "ADAPTASI: Item akan digantikan dengan warna Utama yang lain (tipe yang sama) pada tiap level"
 
 #. --------
 #. msgid "Maître de l'Ile"
 #: src/Lang.hx:580
+#, fuzzy
 msgid "Master of the Island"
-msgstr ""
+msgstr "Pemilik dari pulau"
 
 #. --------
 #. msgid "L'air frais a du bon"
 #: src/Lang.hx:582
 msgid "Love the serenity..."
-msgstr ""
+msgstr "Aku suka Brutalitas..."
 
 #. --------
 #. msgid "Une vue magnifique"
@@ -320,49 +325,49 @@ msgstr "Kamar dengan pemandangan!"
 #. msgid "Un moment de répit... ?"
 #: src/Lang.hx:584
 msgid "Finally, a moment of rest..."
-msgstr ""
+msgstr "Akhirnya, momen untuk beristirahat..."
 
 #. --------
 #. msgid "Comme une odeur de chair brulée"
 #: src/Lang.hx:585
 msgid "Smells like burned flesh"
-msgstr ""
+msgstr "Baunya seperti daging yang terbakar"
 
 #. --------
 #. msgid "Pas besoin de plombier italien"
 #: src/Lang.hx:586
 msgid "What's that funky smell?"
-msgstr ""
+msgstr "Bau aneh apa ini?"
 
 #. --------
 #. msgid "Attention aux mycoses..."
 #: src/Lang.hx:587
 msgid "Who needs an Italian plumber?"
-msgstr ""
+msgstr "Siapa yang butuh tukang ledeng Itali?"
 
 #. --------
 #. msgid "Même les rats n'y vont plus..."
 #: src/Lang.hx:588
 msgid "Even the rats avoid the place..."
-msgstr ""
+msgstr "Tikuspun mengindari tempat itu..."
 
 #. --------
 #. msgid "Il est frais mon poisson !"
 #: src/Lang.hx:589
 msgid "\"My only wish, to catch a fish...\""
-msgstr ""
+msgstr "\"Harapanku sebenarnya, menangkap ikan...\""
 
 #. --------
 #. msgid "Vous auriez pu ramener des fleurs..."
 #: src/Lang.hx:590
 msgid "The dead center of the island..."
-msgstr ""
+msgstr "Daerah tengsh yang mati di pulau..."
 
 #. --------
 #. msgid "Pas le temps pour l'archéologie"
 #: src/Lang.hx:591
 msgid "Fortune and glory, kid. Fortune and Glory..."
-msgstr ""
+msgstr "Kebruntungan dan Kemenangan, Le, Keberuntungan dan Kemenangan..."
 
 #. --------
 #. msgid "Peur du noir ?"
@@ -374,49 +379,49 @@ msgstr "Takut gelap?"
 #. msgid "Des geoliers peu commode..."
 #: src/Lang.hx:593
 msgid "It rubs the lotion on its skin!"
-msgstr ""
+msgstr "Dia mengoleskan pelembab ke kulitnya sendiri!"
 
 #. --------
 #. msgid "Tic... Tac..."
 #: src/Lang.hx:594
 msgid "Tic... Toc..."
-msgstr ""
+msgstr "Tik...Tok..."
 
 #. --------
 #. msgid "Bataille au sommet"
 #: src/Lang.hx:595
 msgid "High drama"
-msgstr ""
+msgstr "Dramatis"
 
 #. --------
 #. msgid "Prière de ne pas abîmer le marbre"
 #: src/Lang.hx:596
 msgid "Please leave your shoes at the entrance."
-msgstr ""
+msgstr "Tolong tinggalkan sepatumu di pintu masuk."
 
 #. --------
 #. msgid "Ployer le genou ? JAMAIS !"
 #: src/Lang.hx:597
 msgid "Bend the knee? I think not..."
-msgstr ""
+msgstr "Berlutut? Tidak..."
 
 #. --------
 #. msgid "Fini les chatouillis !"
 #: src/Lang.hx:598
 msgid "Quit tickling!"
-msgstr ""
+msgstr "Cukup menggelitik!"
 
 #. --------
 #. msgid "Fini le frottage !"
 #: src/Lang.hx:599
 msgid "What are you rubbing at anyway?"
-msgstr ""
+msgstr "Sebenarnya engkau meraba dimana?"
 
 #. --------
 #. msgid "Fini la procrastination !"
 #: src/Lang.hx:600
 msgid "Here comes a new challenger!"
-msgstr ""
+msgstr "Inilah tantangan yang baru!"
 
 #. --------
 #. msgid "Fini la pesanteur !"
@@ -446,13 +451,13 @@ msgstr ""
 #. msgid "T'as pas un truc dans l'oeil ?"
 #: src/Lang.hx:605
 msgid "Is there something in your eye?"
-msgstr ""
+msgstr "Apkah ada sesuatu di matamu?"
 
 #. --------
 #. msgid "Avoir le compas dans l'oeil"
 #: src/Lang.hx:606
 msgid "Flawless victory."
-msgstr ""
+msgstr "Kemenangan telak"
 
 #. --------
 #. msgid "Fine lame"
@@ -464,7 +469,7 @@ msgstr "Ahli Pedang"
 #. msgid "Tel est pris..."
 #: src/Lang.hx:608
 msgid "The Dance"
-msgstr ""
+msgstr "Tarian"
 
 #. --------
 #. msgid "Le dernier rempart tombe..."
@@ -476,19 +481,19 @@ msgstr ""
 #. msgid "Terminé en un tour de main, ah ah !"
 #: src/Lang.hx:610
 msgid "Do you need... A hand?? Bahaha!"
-msgstr ""
+msgstr "Apa kau perlu...bantuan? Hahahaha!"
 
 #. --------
 #. msgid "Même pas peur !"
 #: src/Lang.hx:611
 msgid "Not so tough"
-msgstr ""
+msgstr "Tidak begitu tangguh"
 
 #. --------
 #. msgid "Slash ! Slash !"
 #: src/Lang.hx:612
 msgid "Slash! Slash! Roll!"
-msgstr ""
+msgstr "Sebet! Sebet! Berguling!"
 
 #. --------
 #. msgid "Bien équipé !"
@@ -500,13 +505,13 @@ msgstr ""
 #. msgid "Jamais tombé au combat"
 #: src/Lang.hx:614
 msgid "Never fallen"
-msgstr ""
+msgstr "Tidak pernah terjatuh"
 
 #. --------
 #. msgid "J'aime vivre dangereusement"
 #: src/Lang.hx:615
 msgid "I like to live dangerously..."
-msgstr ""
+msgstr "Aku menyukai hidup yang berbahaya..."
 
 #. --------
 #. msgid "Rapide !"
@@ -518,7 +523,7 @@ msgstr "Yo, Yo Yo! Cuk, Cuk, Cuk!"
 #. msgid "Ca n'était pas si difficile que ça, si ?"
 #: src/Lang.hx:617
 msgid "See, that wasn't so hard now, was it?"
-msgstr ""
+msgstr "Lihat, tidak begitu sulit, bukan?"
 
 #. --------
 #. msgid "Fin limier"
@@ -530,7 +535,7 @@ msgstr ""
 #. msgid "Extraction chirurgicale"
 #: src/Lang.hx:619
 msgid "Surgical extraction"
-msgstr ""
+msgstr "Ekstraksi melalui pembedahan"
 
 #. --------
 #. msgid "Extraction d'une main de maître"
@@ -560,11 +565,11 @@ msgstr ""
 #. msgid "A vaincre sans péril..."
 #: src/Lang.hx:624
 msgid "Finished, without fear."
-msgstr ""
+msgstr "Habisi, tanpa rasa takut."
 
 #: src/Lang.hx:625
 msgid "Harder Better Faster Stronger"
-msgstr ""
+msgstr "Lebih Keras Lebih Baik Lebih Cepat Lebih Kuat"
 
 #. --------
 #. msgid "Allez, on s'accroche !"
@@ -582,7 +587,7 @@ msgstr ""
 #. msgid "La mort vient d'en haut"
 #: src/Lang.hx:628
 msgid "They came from behind!"
-msgstr ""
+msgstr "Mereka datang dari belakang!"
 
 #. --------
 #. msgid "Ah ah, pas cette fois !"
@@ -594,19 +599,19 @@ msgstr ""
 #. msgid "Quel gâchis..."
 #: src/Lang.hx:630
 msgid "Ohhhhhh! That hurt!"
-msgstr ""
+msgstr "Ohhhhhhh! Sakit!"
 
 #. --------
 #. msgid "On l'a tous fait une fois..."
 #: src/Lang.hx:631
 msgid "We've all been there before..."
-msgstr ""
+msgstr "Kita semua sudah pernah mengalaminya..."
 
 #. --------
 #. msgid "Bah quoi, elles ne sont pas si mal, ces armes..."
 #: src/Lang.hx:632
 msgid "What? There's nothing wrong with these..."
-msgstr ""
+msgstr "Apa? Semua ini tidak ada hal yang salah..."
 
 #. --------
 #. msgid "Péché absous"
@@ -618,7 +623,7 @@ msgstr ""
 #. msgid "Toujours plus fort, toujours plus vite."
 #: src/Lang.hx:634
 msgid "Faster than light!"
-msgstr ""
+msgstr "Lebih cepat dari cahaya!"
 
 #. --------
 #. msgid "Extraction parfaite"
@@ -630,7 +635,7 @@ msgstr ""
 #. msgid "Ce n'est pas la taille qui compte"
 #: src/Lang.hx:639
 msgid "Size doesn't matter"
-msgstr ""
+msgstr "Ukuran bukanlah suatu masalah"
 
 #. --------
 #. msgid "Je mets les pieds où je veux..."
