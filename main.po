@@ -2782,7 +2782,7 @@ msgstr "Keluar dari game ini?"
 #. msgid "Nécessite le DLC Rise of The Giant"
 #: src/tool/DLC.hx:28
 msgid "You need the Rise of the Giant DLC for this"
-msgstr ""
+msgstr "Kau memerlukan DLC Rise of the Giant"
 
 #. Steam/PC terminology
 #.
@@ -2790,7 +2790,7 @@ msgstr ""
 #. msgid "Aller sur la boutique"
 #: src/tool/DLC.hx:29
 msgid "Head over to the store"
-msgstr ""
+msgstr "Kunjungi toko"
 
 #. --------
 #. msgid "Annuler"
@@ -2802,7 +2802,7 @@ msgstr "Batal"
 #. msgid "Amélioration {permanente@PE}"
 #: src/tool/InventItem.hx:626
 msgid "{Permanent@PE} upgrade"
-msgstr ""
+msgstr "Upgrade {Permanen@PE}"
 
 #. --------
 #. msgid " {Brutalité@BR}"
@@ -2832,13 +2832,13 @@ msgstr "{Kebrutalan@BR} / {Taktik@TA}"
 #. msgid " {Brutalité@BR} / {Survie@SU}"
 #: src/tool/InventItem.hx:633
 msgid "{Brutality@BR} / {Survival@SU}"
-msgstr ""
+msgstr "{Kebrutalan@BR}/{Ketahanan@SU}"
 
 #. --------
 #. msgid " {Tactique@TA} / {Survie@SU}"
 #: src/tool/InventItem.hx:635
 msgid "{Tactics@TA} / {Survival@SU}"
-msgstr ""
+msgstr "{Taktik@TA}/ {Ketahanan@SU}"
 
 #. --------
 #. msgid "Capacité active"
@@ -2904,7 +2904,7 @@ msgstr "LIhat semua"
 #. msgid "Cacher les lignes inutiles"
 #: src/ui/CollectorPanel.hx:178
 msgid "Hide irrelevant lines"
-msgstr ""
+msgstr "Sembunyikan baris yang tidak relevan"
 
 #. --------
 #. msgid "{Verrouillé@LO} : débloquer \"::name::\""
@@ -3055,7 +3055,7 @@ msgstr "Mainkan Mode Kustom"
 #. msgid "(Présélection : {::name::@ST})"
 #: src/ui/CustomGame.hx:277
 msgid "(Preset : {::name::@ST})"
-msgstr ""
+msgstr "{Preset : {::name::@ST}}"
 
 #. --------
 #. msgid ""
@@ -4361,7 +4361,7 @@ msgstr ""
 #. msgid "Restaurer les valeurs par défaut de toutes les options ?"
 #: src/ui/Options.hx:358
 msgid "Restore default values for all settings?"
-msgstr "Kembalikan pengaturan"
+msgstr "Kembalikan pengaturan ke nilai default?"
 
 #. Switch terminology
 #.
@@ -4481,10 +4481,8 @@ msgstr "KONFIGURASI TOMBOL"
 #. --------
 #. msgid "Rétablit les touches d'origine. || XBox Terminology"
 #: src/ui/Options.hx:417
-#, fuzzy
-#| msgid "Restore default options"
 msgid "Revert to default button mapping."
-msgstr "Mengembalikan ke opsi semula"
+msgstr "Kembali ke pemetaan tombol default"
 
 #. --------
 #. msgid "Roulade"
@@ -4808,10 +4806,8 @@ msgstr "Kontrol Tutorial"
 #. --------
 #. msgid "Affiche les explications des contrôles en début de partie."
 #: src/ui/Options.hx:714
-#, fuzzy
-#| msgid "Show the controls at the beginning of the game."
 msgid "Show control tips at the start of the game."
-msgstr "Tunjukkan kontrol pada bagian awal game"
+msgstr "Tunjukkan tip kontrol pada bagian awal game."
 
 #. --------
 #. msgid "Roulade prête"
@@ -5388,13 +5384,13 @@ msgstr "PILIH 1 MUTASI"
 #. "{::gold::@GO}{iconCoin@img} ?"
 #: src/ui/PerkSelect.hx:398
 msgid "Do you really want to reset your mutations for {::gold::@GO} {iconCoin@img}?"
-msgstr ""
+msgstr "Apa kau benar benar ingin mensetel ulang mutasi {::gold::@GO} {iconCoin@img}?"
 
 #. --------
 #. msgid "Inverser"
 #: src/ui/ReplaceItem.hx:106
 msgid "Invert"
-msgstr "Inventaris"
+msgstr "Membalikkan"
 
 #. --------
 #. msgid "NOUVEL OBJET DÉBLOQUÉ !"
@@ -5408,7 +5404,7 @@ msgstr "ITEM BARU TERBUKA!"
 #. "fioles."
 #: src/ui/RewardPopup.hx:83
 msgid "You can only change your skin at the Taylor's place, located near the starting room."
-msgstr ""
+msgstr "Kau hanya bias merubah kulitmu di tempat Taylor, lokasinya deka dengan ruang awal."
 
 #. --------
 #. msgid ""
@@ -5416,19 +5412,19 @@ msgstr ""
 #. "conservées."
 #: src/ui/SaveChoice.hx:54
 msgid "Saved games from this experimental version will not be kept."
-msgstr ""
+msgstr "Gim tersimpan pada versi eksperimental tidak akan di disimpan."
 
 #. --------
 #. msgid "SAUVEGARDES"
 #: src/ui/SaveChoice.hx:54 src/ui/SaveChoice.hx:162
 msgid "SAVED GAMES"
-msgstr ""
+msgstr "GIM TERSIMPAN"
 
 #. --------
 #. msgid "Créer une sauvegarde expérimentale vierge"
 #: src/ui/SaveChoice.hx:64
 msgid "Make a fresh experimental save"
-msgstr ""
+msgstr "Buat penyimpanan eksperimental baru"
 
 #. --------
 #. msgid "Valider l'import"
@@ -5450,7 +5446,7 @@ msgstr "Salin"
 #. msgid "SUR QUEL EMPLACEMENT COPIER LA SAUVEGARDE N°0::numslot:: ?"
 #: src/ui/SaveChoice.hx:159
 msgid "WHERE DO YOU WANT TO COPY SAVE N°0::numslot:: TO?"
-msgstr ""
+msgstr "DIMANA KAU INGIN MENSALIN SIMPANAN N°0::numslot::?"
 
 #. --------
 #. msgid ""
@@ -5458,7 +5454,7 @@ msgstr ""
 #. "tant que sauvegarde expérimentale ?"
 #: src/ui/SaveChoice.hx:224
 msgid "Are you sure you want to import save 0::from:: as an experimental save?"
-msgstr ""
+msgstr "Apa kau yakin ingin meng-impor simpanan 0::from:: sebagai simpanan eksperimental?"
 
 #. --------
 #. msgid ""
@@ -5466,13 +5462,13 @@ msgstr ""
 #. "l'emplacement 0::to:: ?"
 #: src/ui/SaveChoice.hx:237
 msgid "Are you sure you want to copy the save 0::from:: to the slot n° 0::to::?"
-msgstr ""
+msgstr "Apa kau yakin ingin mensalin simpanan 0::from::  ke slot n° 0::to::?"
 
 #. --------
 #. msgid "(L'actuelle sauvegarde sur l'emplacement 0::to:: sera écrasé !)"
 #: src/ui/SaveChoice.hx:239
 msgid "(The current save on the slot n°0::to:: will be erased!)"
-msgstr ""
+msgstr "(Simpanan saat ini pada slot n°0::to:: akan dihapus!)"
 
 #. --------
 #. msgid "Êtes vous sûr de vouloir supprimer cette sauvegarde ?"
@@ -5484,15 +5480,13 @@ msgstr "Apa kau yakin ingin menghapus penyimpanan ini?"
 #. msgid "Êtes vous sûr de vouloir réinitialiser la sauvegarde expérimentale ?"
 #: src/ui/SaveChoice.hx:280 src/ui/SaveChoice.hx:479
 msgid "Experimental slot (active)"
-msgstr ""
+msgstr "Slot Eksperimental (aktif)"
 
 #. --------
 #. msgid "Importer 0::index::"
 #: src/ui/SaveChoice.hx:479
-#, fuzzy
-#| msgid "Slot ::index::"
 msgid "Import 0::index::"
-msgstr "Slot ::index::"
+msgstr "Impor 0::index::"
 
 #. --------
 #. msgid "0::index:: (actif)"
@@ -5507,10 +5501,8 @@ msgstr "0::index::"
 #. --------
 #. msgid "{Accès Anticipé@CC}"
 #: src/ui/SaveChoice.hx:486
-#, fuzzy
-#| msgid "Early Access Forum"
 msgid "{Early Access@CC}"
-msgstr "Forum Akses Awal"
+msgstr "{Akses Awal@CC}"
 
 #. --------
 #. msgid "Vide"
@@ -5522,7 +5514,7 @@ msgstr "Kosong"
 #. msgid "Sauvegarde incompatible avec la version actuelle du jeu"
 #: src/ui/SaveChoice.hx:507
 msgid "Saved game is incompatible with current game version"
-msgstr ""
+msgstr "Penyimpanan gim tidak kompatibel pada gim versi ini"
 
 #: src/ui/SaveChoice.hx:515
 msgid "::d::/::m::/::y:: ::hour::"
@@ -5532,7 +5524,7 @@ msgstr "::d::/::m::/::y:: ::hour::"
 #. msgid "Dernière partie :"
 #: src/ui/SaveChoice.hx:522
 msgid "Last game:"
-msgstr ""
+msgstr "Gim terakhir:"
 
 #. --------
 #. msgid "Nombre de runs :"
@@ -5629,10 +5621,8 @@ msgstr "Pencapaian"
 #. --------
 #. msgid "Schémas d'armes rapportés au Collecteur"
 #: src/ui/StatsPanel.hx:327
-#, fuzzy
-#| msgid "Weapon blueprints recoverd"
 msgid "Weapon blueprints brought to the Collector"
-msgstr "Blueprint senjata yang ditemukan"
+msgstr "Cetak biru senjata dibawa ke Kolektor"
 
 #. --------
 #. msgid "Armes disponibles"
@@ -5644,7 +5634,7 @@ msgstr "Senjata Tersedia"
 #. msgid "Schémas de compétences rapportés au Collecteur"
 #: src/ui/StatsPanel.hx:338
 msgid "Skill blueprints brought to the Collector"
-msgstr ""
+msgstr "Cetak biru keahlian dbawa ke Kolektor"
 
 #. --------
 #. msgid "Compétences disponibles"
@@ -5698,19 +5688,19 @@ msgstr "Cell didapatkan"
 #. msgid "Cellules dépensées"
 #: src/ui/StatsPanel.hx:359
 msgid "Cells spent"
-msgstr "Jumlah Cells yang dibelanjakan"
+msgstr "Cell yang dibelanjakan"
 
 #. --------
 #. msgid "Téléportations utilisés"
 #: src/ui/StatsPanel.hx:361
 msgid "Teleportations used"
-msgstr "Jumlah teleportasi"
+msgstr "Penggunaan teleportasi"
 
 #. --------
 #. msgid "Soins utilisés"
 #: src/ui/StatsPanel.hx:362
 msgid "Health flasks used"
-msgstr "Botol Vitalitas digunakan"
+msgstr "Penggunaan Botol Vitalitas"
 
 #. --------
 #. msgid "Malédictions survécues"
@@ -5764,13 +5754,13 @@ msgstr "Tantangan pintu berwaktu yang gagal ditaklukkan"
 #. msgid "Défis de porte de perfection réussis"
 #: src/ui/StatsPanel.hx:388
 msgid "Untouchable doors completed"
-msgstr ""
+msgstr "Pintu tak tersentuh selesai"
 
 #. --------
 #. msgid "Défis de porte de perfection ratés"
 #: src/ui/StatsPanel.hx:389
 msgid "Untouchable doors failed"
-msgstr ""
+msgstr "Pintu tak tersentuh gagal"
 
 #. --------
 #. msgid "Total de monstres occis"
@@ -5880,7 +5870,7 @@ msgstr "Kerusakan +::prct::% dengan item {GREEN@SU}"
 #. msgid "C'est enfin terminé... Quel gâchis !"
 #: src/cine/coll/EndCollectorPostSmash.hx:72 src/cine/coll/EndCollectorPostSmashKS.hx:37
 msgid "At last, it's over... What a waste!"
-msgstr ""
+msgstr "Setidaknya, telah selesai...Buang buang waktu!"
 
 #. --------
 #. msgid "Le remède..."
@@ -5892,7 +5882,7 @@ msgstr ""
 #. msgid "On dirait qu'il fonctionne."
 #: src/cine/coll/EndCollectorPostSmash.hx:96
 msgid "It looks like it's working..."
-msgstr ""
+msgstr "Sepertinya bias bekerja dengan baik..."
 
 #. --------
 #. msgid ""
@@ -5900,7 +5890,7 @@ msgstr ""
 #. "?"
 #: src/cine/coll/EndCollectorPostSmash.hx:101
 msgid "My skin... Seems to be fading... Is this the end?"
-msgstr ""
+msgstr "Kulitku...Sepertinya semakin menghilang...apakah ini akhir?"
 
 #. --------
 #. msgid ""
@@ -5908,55 +5898,55 @@ msgstr ""
 #. "la paix."
 #: src/cine/coll/EndCollectorPostSmash.hx:116
 msgid "This Kingdom may be damned to eternity... But at least I won't be stuck here with it."
-msgstr ""
+msgstr "Kerajaan ini dikutuk selamanya...tetapi setidaknya aku tidak akan terjebak disini."
 
 #. --------
 #. msgid "Adieu !"
 #: src/cine/coll/EndCollectorPostSmash.hx:125
 msgid "Farewell!"
-msgstr ""
+msgstr "Selamat Tinggal!"
 
 #. --------
 #. msgid "...Et bien quoi ??? Ça ne marche pas ?!"
 #: src/cine/coll/EndCollectorPostSmash.hx:139
 msgid "... Annnnny time now..."
-msgstr ""
+msgstr "...Terrrrseraaaaaah..."
 
 #. --------
 #. msgid "Malgrès le peu que j'en ai bu...On dirait qu'il fonctionne !"
 #: src/cine/coll/EndCollectorPostSmashKS.hx:54
 msgid "Despite how litte there was left... It seems to be doing something!"
-msgstr ""
+msgstr "Meskipun hanya sedikit yang tersisa...Sepertinya itu berbuat sesuatu!"
 
 #. --------
 #. msgid "Mon enveloppe semble enfin à nouveau lié à mon esprit..."
 #: src/cine/coll/EndCollectorPostSmashKS.hx:58
 msgid "My body and spirit are bound again..."
-msgstr ""
+msgstr "Tubuh dan Jiwaku menyatu kembali..."
 
 #. --------
 #. msgid "En finir"
 #: src/cine/coll/EndCollectorPreSmash.hx:15
 msgid "End him."
-msgstr ""
+msgstr "Habisi dia."
 
 #. --------
 #. msgid "Qu'avez vous fait, misérable..."
 #: src/cine/coll/EndCollectorPreSmash.hx:40
 msgid "What have you done moron..."
-msgstr ""
+msgstr "Apa yang telah kau lakukan blo'on'..."
 
 #. --------
 #. msgid "Tout ce que je voulais, c'était sauver le Royaume..."
 #: src/cine/coll/EndCollectorPreSmash.hx:44
 msgid "I've been trying to save this wretched Kingdom..."
-msgstr ""
+msgstr "I telah mencoba menyelamantkan Kerajaan yang malang ini..."
 
 #. --------
 #. msgid "Le sauver...d'un couillon comme vous !!!"
 #: src/cine/coll/EndCollectorPreSmash.hx:55
 msgid "Save it... From an ass like you!"
-msgstr ""
+msgstr "Simpanlah...dari pecundang macam kamu!"
 
 #. --------
 #. msgid "Nous sommes tellement foutus, ah ah ah..."
@@ -5982,7 +5972,7 @@ msgstr ""
 #. msgid "Aujourd’hui, j’espère que vous comprendrez pourquoi..."
 #: src/cine/coll/MeetCollectorEnd.hx:102
 msgid "Today, I hope you understand why..."
-msgstr ""
+msgstr "Hari ini, aku harap kau mengerti mengapa..."
 
 #. --------
 #. msgid ""
@@ -5996,7 +5986,7 @@ msgstr ""
 #. msgid "Bienvenue mon lugubre ami !"
 #: src/cine/coll/MeetCollectorEnd.hx:118
 msgid "Welcome, my mute friend!"
-msgstr ""
+msgstr "Selamat Datang, teman pendiamku!"
 
 #. --------
 #. msgid "Voici le Catalyseur, mon... je veux dire, notre dernier espoir."
@@ -6022,13 +6012,13 @@ msgstr ""
 #. msgid "Tout repose sur cette machine, celle qui devrait élaborer... La Panacée."
 #: src/cine/coll/MeetCollectorEnd.hx:224
 msgid "Are you familiar with the myth of the Panacea?"
-msgstr ""
+msgstr "Apa kau akrab dengan mitos Obat Segala Penyakit?"
 
 #. --------
 #. msgid "Avez-vous déjà entendu parler de ce mythe ? Le remède à tout les maux..."
 #: src/cine/coll/MeetCollectorEnd.hx:232
 msgid "The cure to all disease..."
-msgstr ""
+msgstr "Obat dari segala macam penyakit..."
 
 #. --------
 #. msgid "...distillé à partir de l’essence même de la vie."
@@ -6060,7 +6050,7 @@ msgstr ""
 #. msgid "Jouer avec l’essence vitale n’a jamais rien apporté de bénéfique."
 #: src/cine/coll/MeetCollectorEnd.hx:276
 msgid "Nothing good can come of messing around with cells..."
-msgstr ""
+msgstr "Tidak ada hal baik yan timbul dari main main dengan cell..."
 
 #. --------
 #. msgid ""
@@ -6088,7 +6078,7 @@ msgstr ""
 #. msgid "Pathétique..."
 #: src/cine/coll/MeetCollectorEnd.hx:329
 msgid "Pathetic."
-msgstr ""
+msgstr "Menyedihkan."
 
 #. --------
 #. msgid "Outch !"
@@ -6118,55 +6108,55 @@ msgstr "Kau tidak bisa membunuhku!"
 #. msgid "J’ai rien senti !"
 #: src/cine/coll/SmashCinem.hx:37
 msgid "That's it? I didn't feel a thing."
-msgstr ""
+msgstr "Hanya itu? Aku tidak merasakan apapun."
 
 #. --------
 #. msgid "Sans la potion vous ne valez rien !"
 #: src/cine/coll/SmashCinem.hx:38
 msgid "Without me, you're nothing!"
-msgstr ""
+msgstr "Tanpaku, kau bukanlah siapa-siapa!"
 
 #. --------
 #. msgid "Incapable de régler un conflit pacifiquement..."
 #: src/cine/coll/SmashCinem.hx:42
 msgid "You really are incapable of settlling a conflict peacefully, aren't you? Pity..."
-msgstr ""
+msgstr "Kau benar-benar tidak mampu menyelesaikan konflik secara damai, bukankah begitu? Sayang sekali..."
 
 #. --------
 #. msgid "J’espère que tout le monde est dans les crédits ici."
 #: src/cine/coll/SmashCinem.hx:43
 msgid "Not cool mate! Not cool."
-msgstr ""
+msgstr "Kurang ajar teman! kurang ajar."
 
 #. --------
 #. msgid "J’ai tellement crunché pour en arriver là !"
 #: src/cine/coll/SmashCinem.hx:44
 msgid "Mommy!"
-msgstr ""
+msgstr "Ibuuuuu!"
 
 #. --------
 #. msgid "Je n’avais jamais remarqué à quel point le carrelage était froid."
 #: src/cine/coll/SmashCinem.hx:45
 msgid "I... I... I never noticed how cold these tiles are."
-msgstr ""
+msgstr "Aku… Aku… Aku tidak pernah menyadari betapa dingin ubin-ubin ini."
 
 #. --------
 #. msgid "Oh mon dieu ! Ils ont tué le collecteur !"
 #: src/cine/coll/SmashCinem.hx:46
 msgid "Oh my god! They killed the Collector!"
-msgstr ""
+msgstr "Oh Tuhan! Mereka membunuh Kolektor!"
 
 #. --------
 #. msgid "La princesse est dans un autre château."
 #: src/cine/coll/SmashCinem.hx:47
 msgid "Your Princess is in another castle."
-msgstr ""
+msgstr "Sang Putri-mu ada di kastil lin."
 
 #. --------
 #. msgid "Plus besoin de dentiste !"
 #: src/cine/coll/SmashCinem.hx:48
 msgid "No need for a dentist anymore !"
-msgstr ""
+msgstr "Tidak butuh dokter gigi lagi!"
 
 #: src/cine/coll/SmashCinem.hx:49
 msgid "Git gu..."
@@ -6176,13 +6166,13 @@ msgstr ""
 #. msgid "Si je n’étais pas là, vous seriez vous ?"
 #: src/cine/coll/SmashCinem.hx:50
 msgid "Where would you be without me?"
-msgstr ""
+msgstr "Dimanakah kau tanpaku?"
 
 #. --------
 #. msgid "Frapper"
 #: src/cine/coll/SmashCinem.hx:81
 msgid "Hit"
-msgstr ""
+msgstr "Pukulan"
 
 #. --------
 #. msgid "Wooo, regardez moi ça...Mon corps est tellement bien conservé !"
@@ -6208,13 +6198,13 @@ msgstr "WOOOOOOOOOOOOOO!"
 #. msgid "J'avais complètement oublié que je pouvais faire ça..."
 #: src/cine/kf/Revealed.hx:57
 msgid "I totally forgot I could do that..."
-msgstr ""
+msgstr "Aku benar-benar lup aku bias melakukan hal itu..."
 
 #. --------
 #. msgid "Vive la mémoire musculaire !"
 #: src/cine/kf/Revealed.hx:61
 msgid "Long live muscle memory!"
-msgstr ""
+msgstr "Hidup memori otot!"
 
 #. --------
 #. msgid ""
@@ -6222,7 +6212,7 @@ msgstr ""
 #. "la corruption du Mal-Être environnant..."
 #: src/cine/kf/Revealed.hx:70
 msgid "Ergh! My body is already beginning to degrade though."
-msgstr ""
+msgstr "Eghhh! Sebenarnya tubuhku sudah mulai melemah. "
 
 #. --------
 #. msgid "À cause de MA corruption..."
@@ -6755,7 +6745,7 @@ msgstr "Tidak ada tempat teleportasi lain tersedia"
 #. msgid "Aucune destination disponible."
 #: src/en/inter/Teleport.hx:148
 msgid "No destinations available."
-msgstr "a"
+msgstr "Tujuan tidak tersedia."
 
 #. --------
 #. msgid "Téléporteur cassé"
@@ -6960,10 +6950,8 @@ msgstr ""
 #. --------
 #. msgid "Amélioration :"
 #: src/tool/vote/ChooseScroll.hx:13
-#, fuzzy
-#| msgid "Improved"
 msgid "Improvement:"
-msgstr "Diperbarui"
+msgstr "Peningkatan:"
 
 #. --------
 #. msgid "CHOISISSEZ L'AMÉLIORATION!"
@@ -6988,10 +6976,8 @@ msgstr ""
 #. --------
 #. msgid "Amélioration permanente du joueur :"
 #: src/tool/vote/ChooseTalismanAffix.hx:24
-#, fuzzy
-#| msgid "Permanent improvement unlocked!"
 msgid "Permanent improvement of the hero:"
-msgstr "Peningkatan Permanen terbuka!"
+msgstr "Peningkatan permanen dari Pendekar:"
 
 #. --------
 #. msgid "QUEL SERA LE PROCHAIN BONUS PERMANENT ACCORDÉ AU JOUEUR ?"
@@ -15565,9 +15551,8 @@ msgstr "Jalan ke Jembatan Hitam"
 #. --------
 #. msgid "Passage vers la Crypte nauséabonde"
 #: res/data.cdb:level/#34.name
-#, fuzzy
 msgid "Passage to the Insufferable Crypt"
-msgstr " Jalan ke  "
+msgstr " Jalan ke Insufferable Crypt"
 
 #. T_AfterBridge (name)
 #.
@@ -18081,7 +18066,7 @@ msgstr ""
 #. msgid "Peut-être en faisait-il le commerce..."
 #: res/data.cdb:loreRoom/#24.examinables/#0.events/#1.text
 msgid "Maybe he was selling them..."
-msgstr ""
+msgstr "Mungkin dia menjual kristal-kristal itu..."
 
 #. Crystals1 (examinables) crystals (events) (text)
 #.
@@ -18089,7 +18074,7 @@ msgstr ""
 #. msgid "Ou peut-être qu'il aime juste les jolis cailloux."
 #: res/data.cdb:loreRoom/#24.examinables/#0.events/#2.text
 msgid "Or maybe he just likes pretty rocks."
-msgstr ""
+msgstr "Atau dia hanya menyukai batu mulia."
 
 #. Crystals2 (examinables) crystals (label)
 #.
@@ -18106,7 +18091,7 @@ msgstr "Kristal"
 #. msgid "Table à manger"
 #: res/data.cdb:loreRoom/#25.examinables/#1.label
 msgid "Dining table"
-msgstr ""
+msgstr "Meja makan"
 
 #. Crystals2 (examinables) crystals (events) (text)
 #.
@@ -18116,7 +18101,7 @@ msgstr ""
 #. "commerce..."
 #: res/data.cdb:loreRoom/#25.examinables/#0.events/#0.text
 msgid "Some of the villagers surely managed to get crystals to sell..."
-msgstr ""
+msgstr "Beberapa orang desa tentunya bias memperoleh kristal untuk dijual..."
 
 #. Crystals2 (examinables) crystals (events) (text)
 #.
@@ -18124,7 +18109,7 @@ msgstr ""
 #. msgid "...ils n'auront plus besoin de ça, en tout cas."
 #: res/data.cdb:loreRoom/#25.examinables/#0.events/#3.text
 msgid "...They won't need it anymore, anyway."
-msgstr ""
+msgstr "...Bagaimanapun juga, mereka tidak membutuhkannya lagi. "
 
 #. Crystals2 (examinables) table (events) (text)
 #.
@@ -18142,7 +18127,7 @@ msgstr "Sebuah...Meja."
 #. "dans l'assiette."
 #: res/data.cdb:loreRoom/#25.examinables/#1.events/#1.text
 msgid "Nothing else, and I don't really want to taste what's left in the plate."
-msgstr ""
+msgstr "Tidak ada yang lain, dan aku benar-benar tidak ingin merasakan apa yang tersisa di piring itu."
 
 #. CavernLocked (examinables) doorLocked (label)
 #.
@@ -18165,16 +18150,14 @@ msgstr ""
 #. --------
 #. msgid "Des grondements étranges, aussi."
 #: res/data.cdb:loreRoom/#26.examinables/#0.events/#1.text
-#, fuzzy
-#| msgid "Something is blocking the door."
 msgid "Some strange rumblings too..."
-msgstr "Sesuatu menahan pintu ini"
+msgstr "Terdengar juga suara gaduh yang aneh..."
 
 #. Altar1 (examinables) statue (label)
 #: res/data.cdb:loreRoom/#27.examinables/#0.label res/data.cdb:loreRoom/#28.examinables/#0.label
 #: res/data.cdb:loreRoom/#29.examinables/#0.label res/data.cdb:loreRoom/#30.examinables/#0.label
 msgid "Statue"
-msgstr ""
+msgstr "Patung"
 
 #. Altar1 (examinables) head (label)
 #.
@@ -18182,7 +18165,7 @@ msgstr ""
 #. msgid "Tête d'animal"
 #: res/data.cdb:loreRoom/#27.examinables/#1.label
 msgid "Animal head"
-msgstr ""
+msgstr "Kepala binatang"
 
 #. Altar1 (examinables) statue (events) (text)
 #.
