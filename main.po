@@ -457,7 +457,7 @@ msgstr "Apkah ada sesuatu di matamu?"
 #. msgid "Avoir le compas dans l'oeil"
 #: src/Lang.hx:606
 msgid "Flawless victory."
-msgstr "Kemenangan telak"
+msgstr "Kemenangan telak."
 
 #. --------
 #. msgid "Fine lame"
@@ -653,19 +653,19 @@ msgstr ""
 #. msgid "Toi, tu creuses"
 #: src/Lang.hx:651
 msgid "You dig"
-msgstr ""
+msgstr "Kau galilah"
 
 #. --------
 #. msgid "Attention à la chute..."
 #: src/Lang.hx:652
 msgid "Life on the edge"
-msgstr ""
+msgstr "Hidup diujung tanduk"
 
 #. --------
 #. msgid "Chaud devant !"
 #: src/Lang.hx:653
 msgid "Hot and cold"
-msgstr ""
+msgstr "Panas dan dingin"
 
 #. --------
 #. msgid "La tête dans les étoiles"
@@ -683,7 +683,7 @@ msgstr ""
 #. msgid "Vous avez atteint l'Astrolab pour la première fois !"
 #: src/Lang.hx:657
 msgid "Reach the Astrolab for the first time."
-msgstr ""
+msgstr "Mencapai Astrolab untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint le Repaire du Gardien pour la première fois !"
@@ -691,19 +691,19 @@ msgstr ""
 #. msgid "Vous avez atteint le Trône pour la première fois !"
 #: src/Lang.hx:658
 msgid "Reach the Guardian's Haven for the first time."
-msgstr ""
+msgstr "Mencapai Haven dari Guardia untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint l'Observatoire pour la première fois !"
 #: src/Lang.hx:659
 msgid "Reach the Observatory for the first time."
-msgstr ""
+msgstr "Mencapai Observatory untuk  pertama kalinya."
 
 #. --------
 #. msgid "Vous avez débloqué tous les trophées de Dead Cells."
 #: src/Lang.hx:667
 msgid "You unlocked all the trophies of Dead Cells"
-msgstr ""
+msgstr "Kau telah membuka semua trofi dari Dead Cells"
 
 #. --------
 #. msgid "Vous avez atteint la Promenade des Condamnés pour la première fois !"
@@ -714,18 +714,21 @@ msgstr "Mencapai Jalan Terkutuk untuk pertama kalinya."
 #. --------
 #. msgid "Vous avez atteint les Toits de la Prison pour la première fois !"
 #: src/Lang.hx:670
+#, fuzzy
 msgid "Reach the Ramparts for the first time."
 msgstr "Mencapai Ramparts untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint le Pont Noir pour la première fois !"
 #: src/Lang.hx:671
+#, fuzzy
 msgid "Reach the Black Bridge for the first time."
 msgstr "Mencapai Black Bridge untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint le Charnier pour la première fois !"
 #: src/Lang.hx:672
+#, fuzzy
 msgid "Reach the Ossuary for the first time."
 msgstr "Mencapai Ossuary untuk pertama kalinya."
 
@@ -733,13 +736,14 @@ msgstr "Mencapai Ossuary untuk pertama kalinya."
 #. msgid "Vous avez atteint les Egouts Toxiques pour la première fois !"
 #: src/Lang.hx:673
 msgid "Reach the Toxic Sewers for the first time."
-msgstr ""
+msgstr "Mencapai Selokan Beracun untuk  pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint l'Ancien Réseau d'Egouts pour la première fois !"
 #: src/Lang.hx:674
+#, fuzzy
 msgid "Reach the Ancient Sewers for the first time."
-msgstr ""
+msgstr "Mencapai Ancient Sewers untuk  pertama kalinya"
 
 #. --------
 #. msgid "Vous avez atteint la Crypte Nauséabonde pour la première fois !"
@@ -757,7 +761,7 @@ msgstr ""
 #. msgid "Vous avez atteint le Cimetière du Val pour la première fois !"
 #: src/Lang.hx:677
 msgid "Reach the Graveyard for the first time."
-msgstr ""
+msgstr "Mencapai Kuburan untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint le Temple Ancien pour la première fois !"
@@ -781,25 +785,25 @@ msgstr ""
 #. msgid "Vous avez atteint la Tour de l'Horloge pour la première fois !"
 #: src/Lang.hx:681
 msgid "Reach the Clock Tower for the first time!"
-msgstr ""
+msgstr "Mencapai Menara Jam untuk pertama kalinya!"
 
 #. --------
 #. msgid "Vous avez atteint la Salle de l'Horloge pour la première fois !"
 #: src/Lang.hx:682
 msgid "Reach the Clock Room for the first time!"
-msgstr ""
+msgstr "Mencapai Ruang Jam untuk pertama kalinya!"
 
 #. --------
 #. msgid "Vous avez atteint le Château pour la première fois !"
 #: src/Lang.hx:683
 msgid "Reach the Castle for the first time."
-msgstr ""
+msgstr "Mencapai Kastil untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint le Trône pour la première fois !"
 #: src/Lang.hx:684
 msgid "Reach the Throne Room for the first time."
-msgstr ""
+msgstr "Mencapai Ruang Singgasana untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez absorbé la Rune des Vignes !"
@@ -883,25 +887,25 @@ msgstr ""
 #. msgid "Vous avez triomphé de près de 100 monstres élites !"
 #: src/Lang.hx:698
 msgid "You slayed 100 elites. Badman."
-msgstr ""
+msgstr "Kau membantai 100 elit. Orang Sadis."
 
 #. --------
 #. msgid "Vous avez débloqué 10 armes !"
 #: src/Lang.hx:699
 msgid "Unlock 10 weapons."
-msgstr ""
+msgstr "Membuka 10 senjata."
 
 #. --------
 #. msgid "Vous avez débloqué 10 actifs !"
 #: src/Lang.hx:700
 msgid "Unlock 10 skills."
-msgstr ""
+msgstr "Membuka 10 keahlian."
 
 #. --------
 #. msgid "Vous avez terminé le jeu avec \"l'Ygdar Orus Li Ox\" en votre possession !"
 #: src/Lang.hx:701
 msgid "Finish the game with \"Ygdar Orus Li Ox\" in your possesion!"
-msgstr ""
+msgstr "Selesaikan permainan dengan \"Ygdar Orus Li Ox\" yang kau miliki!"
 
 #. --------
 #. msgid "Vous avez terminé le jeu avec l'Épée Maudite en votre possession !"
@@ -2604,7 +2608,7 @@ msgstr "Skor saya"
 #. msgid "Traduction réalisée par un joueur"
 #: src/pr/TitleScreen.hx:315
 msgid "Translated by a player"
-msgstr "Ditranslasi oleh "
+msgstr "Ditranslasi oleh Pangurakan, 0bscur1ty, TrifectaRose"
 
 #. --------
 #. msgid "Il est conseillé de jouer à Dead Cells avec une manette !"
@@ -2682,7 +2686,7 @@ msgstr "Lanjut (Mode Normal - Streaming)"
 #. msgid "Vous devez configurer un compte de streaming pour pouvoir jouer à ce mode."
 #: src/pr/TitleScreen.hx:447
 msgid "You need to configure a streaming service to use this game mode."
-msgstr ""
+msgstr "Kau perlu mengkonfigurasi layanan streaming untuk gim mode ini."
 
 #. --------
 #. msgid "Continuer (mode personnalisé)"
@@ -21380,10 +21384,8 @@ msgstr ""
 
 #. Behemoth2 (examinables) order (events) (text)
 #: res/data.cdb:loreRoom/#84.examinables/#1.events/#2.text
-#, fuzzy
-#| msgid "Loading..."
 msgid "\"Castaing..."
-msgstr "Memuat..."
+msgstr ""
 
 #. Behemoth2 (examinables) order (events) (text)
 #.
@@ -22053,8 +22055,6 @@ msgstr "Selamat! Kamu sudah berhasil mengalahkan bos di demo ini!"
 #.
 #. --------
 #. msgid "Dernière tentative échouée !"
-#, fuzzy
-#| msgid "Last chance failed!"
 msgid "Last attempt failed!"
 msgstr "Kesempatana terakhir gagal!"
 
@@ -22083,10 +22083,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Objet débloqué: ::name::"
-#, fuzzy
-#| msgid "Key required: ::name::"
 msgid "Item unlocked: ::name::"
-msgstr "Dibutuhkan kunci ::name::"
+msgstr "Item terbuka ::name::"
 
 #. Deprecated
 #.
@@ -22133,8 +22131,6 @@ msgstr "Impor ::slot::"
 #.
 #. --------
 #. msgid "Créer une nouvelle sauvegarde"
-#, fuzzy
-#| msgid "Create a new save"
 msgid "Start a new save"
 msgstr "Buat simpanan baru"
 
@@ -22143,7 +22139,7 @@ msgstr "Buat simpanan baru"
 #. --------
 #. msgid "Réinitialiser ma sauvegarde expérimentale"
 msgid "Reset my experimental save"
-msgstr ""
+msgstr "Setel ulang penyimpanan eksperimental"
 
 #. Deprecated
 #.
@@ -22199,7 +22195,7 @@ msgstr "Cahaya terang"
 #. --------
 #. msgid "Police pixelisée"
 msgid "Pixelated font"
-msgstr ""
+msgstr "Font terpikselasi"
 
 #. Deprecated
 #.
@@ -22220,21 +22216,21 @@ msgstr "Tantangan yang gagal ditaklukkan"
 #. --------
 #. msgid "::user:: s'est proposé(e) en premier(ère) !"
 msgid "::user:: answered first!"
-msgstr ""
+msgstr "::user:: menjawan pertama kali!"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "::user:: a voté en premier(ère)."
 msgid "::user:: voted first!"
-msgstr ""
+msgstr "::user:: vote pertama kali!"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Il est mort."
 msgid "She is dead."
-msgstr "Dia mati."
+msgstr "Dia telah mati."
 
 #. Deprecated
 #. HorizontalTurret (legendaryName)
@@ -22242,7 +22238,7 @@ msgstr "Dia mati."
 #. --------
 #. msgid "Perce-tripes"
 msgid "Gut Skewer"
-msgstr ""
+msgstr "Pisau Belati Jeroan"
 
 #. Deprecated
 #. StandardTurret (legendaryName)
@@ -22250,7 +22246,7 @@ msgstr ""
 #. --------
 #. msgid "Sang corrompu"
 msgid "Tainted Blood"
-msgstr ""
+msgstr "Darah Tercemar"
 
 #. Deprecated
 #. FireTurret (legendaryName)
@@ -22258,7 +22254,7 @@ msgstr ""
 #. --------
 #. msgid "Fournaise"
 msgid "Furnace"
-msgstr ""
+msgstr "Perapian"
 
 #. Deprecated
 #. GroundSaw (legendaryName)
@@ -22266,7 +22262,7 @@ msgstr ""
 #. --------
 #. msgid "Coupe-jarret"
 msgid "Hamstringer"
-msgstr ""
+msgstr "Pelumpuh"
 
 #. Deprecated
 #. RootTrap (legendaryName)
@@ -22274,7 +22270,7 @@ msgstr ""
 #. --------
 #. msgid "BOUGE PAS !"
 msgid "DON'T MOVE!"
-msgstr ""
+msgstr "JANGAN BERGERAK!"
 
 #. Deprecated
 #. Crusher (legendaryName)
@@ -22282,7 +22278,7 @@ msgstr ""
 #. --------
 #. msgid "Justice divine"
 msgid "Divine Justice"
-msgstr ""
+msgstr "Keadilan Tuhan"
 
 #. Deprecated
 #. Decoy (legendaryName)
@@ -22298,17 +22294,15 @@ msgstr "Tangkap Aku Kalau Kamu Bisa"
 #. --------
 #. msgid "Dévastation"
 msgid "Devastation"
-msgstr ""
+msgstr "Penghancuran"
 
 #. Deprecated
 #. FastGrenade (legendaryName)
 #.
 #. --------
 #. msgid "Vive-mort"
-#, fuzzy
-#| msgid "Quick bow"
 msgid "Quick Death"
-msgstr "Panah Cepat"
+msgstr "Mati Cepat"
 
 #. Deprecated
 #. FastGrenade (gameplayDesc)
@@ -22326,7 +22320,7 @@ msgstr "Menimbulkan ::d:: damage"
 #. --------
 #. msgid "Brise glace"
 msgid "Ice Breaker"
-msgstr "Pemecah ES"
+msgstr "Pemecah Es"
 
 #. Deprecated
 #. StunningGrenade (legendaryName)
@@ -22334,27 +22328,23 @@ msgstr "Pemecah ES"
 #. --------
 #. msgid "Inconscience"
 msgid "Knockout"
-msgstr ""
+msgstr "KO"
 
 #. Deprecated
 #. IceBomb (legendaryName)
 #.
 #. --------
 #. msgid "Hivernale"
-#, fuzzy
-#| msgid "Ice bow"
 msgid "Ice Storm"
-msgstr "Panah Es"
+msgstr "Badai Es"
 
 #. Deprecated
 #. FireBomb (legendaryName)
 #.
 #. --------
 #. msgid "Pyromane"
-#, fuzzy
-#| msgid "Pyrotechnics"
 msgid "Pyromaniac"
-msgstr "Pyroteknik"
+msgstr "Ahli Api"
 
 #. Deprecated
 #. RootBomb (legendaryName)
@@ -22366,10 +22356,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Prémonition"
-#, fuzzy
-#| msgid "Ammunition"
 msgid "Premonition"
-msgstr "Amunisi"
+msgstr "Ramalan"
 
 #. Deprecated
 #. SideBomb (legendaryName)
@@ -22386,10 +22374,8 @@ msgstr "Memanggil sebuah kerumunan makhluk penggigit kecil."
 
 #. Deprecated
 #. SlowOrb (legendaryName)
-#, fuzzy
-#| msgid "Mutation"
 msgid "Purification"
-msgstr "Mutasi"
+msgstr "Penyucian"
 
 #. Deprecated
 #. Tornado (legendaryName)
@@ -22397,7 +22383,7 @@ msgstr "Mutasi"
 #. --------
 #. msgid "Vents putrides"
 msgid "Putrid Winds"
-msgstr ""
+msgstr "Angin Busuk"
 
 #. Deprecated
 #. KnivesCircle (legendaryName)
@@ -22421,17 +22407,15 @@ msgstr "Anomali"
 #. --------
 #. msgid "Mange-âmes"
 msgid "Soul Gobbler"
-msgstr ""
+msgstr "Pemakan Jiwa Yang Rakus"
 
 #. Deprecated
 #. LeechBuff (gameplayDesc)
 #.
 #. --------
 #. msgid "Vous procure ::+power:: PV par coup porté (::duration:: sec)."
-#, fuzzy
-#| msgid "You recover ::+power:: HP per hit you give for ::duration:: seconds."
 msgid "Gives you ::+power:: HP for each hit you land on an enemy (::duration:: sec)."
-msgstr "Kamu mendapatkan ::+power:: nyawa setiap pukulan yang kau beri selama ::+duration:: detik."
+msgstr "Memberikanmu ::+power:: nyawa setiap pukulan yang kau beri ke musuh (::+duration:: detik)."
 
 #. Deprecated
 #. LeechBuffEmpty (legendaryName)
@@ -22439,17 +22423,15 @@ msgstr "Kamu mendapatkan ::+power:: nyawa setiap pukulan yang kau beri selama ::
 #. --------
 #. msgid "Mange-âmes (vide)"
 msgid "Soul Gobbler (empty)"
-msgstr ""
+msgstr "Pemakan Jiwa Yang Rakus (kosong)"
 
 #. Deprecated
 #. LeechBuffEmpty (gameplayDesc)
 #.
 #. --------
 #. msgid "Se régénère au prochain niveau."
-#, fuzzy
-#| msgid "Regenerates when you leave a level."
 msgid "Regenerates in the next level."
-msgstr "Kembali lagi setelah melewati level."
+msgstr "Regenerasi kembali setelah melewati level."
 
 #. Deprecated
 #. ExtraHeal (legendaryName)
@@ -22457,7 +22439,7 @@ msgstr "Kembali lagi setelah melewati level."
 #. --------
 #. msgid "Miracle"
 msgid "Miracle Tonic"
-msgstr ""
+msgstr "Tonik Ajaib"
 
 #. Deprecated
 #. ExtraHeal (gameplayDesc)
@@ -22472,10 +22454,8 @@ msgstr "Menambah ::+power:: HP dan melindungimu selama ::duration:: detik."
 #.
 #. --------
 #. msgid "Miracle (vide)"
-#, fuzzy
-#| msgid "Tonic (empty)"
 msgid "Miracle Tonic (empty)"
-msgstr "Tonik (kosong)"
+msgstr "Tonik Ajaib (kosong)"
 
 #. Deprecated
 #. Hook (legendaryName)
@@ -22508,8 +22488,6 @@ msgstr ""
 #.
 #. --------
 #. msgid "Nuage toxique"
-#, fuzzy
-#| msgid "Toxic cloud"
 msgid "Toxic Cloud"
 msgstr "Awan Racun"
 
@@ -22527,7 +22505,7 @@ msgstr ""
 #. --------
 #. msgid "Crée un large nuage de poison (::duration:: sec)."
 msgid "Creates a large cloud of poison (::duration:: sec)."
-msgstr ""
+msgstr "Menciptakan awan besar beracun (::duration:: detik)."
 
 #. Deprecated
 #. DamageAura (legendaryName)
@@ -22626,8 +22604,6 @@ msgstr ""
 
 #. Deprecated
 #. EvilSword (legendaryName)
-#, fuzzy
-#| msgid "Suicides"
 msgid "Suicide"
 msgstr "Bunuh Diri"
 
@@ -22637,7 +22613,7 @@ msgstr "Bunuh Diri"
 #. --------
 #. msgid "Meurtrière"
 msgid "Murderous"
-msgstr ""
+msgstr "Pembunuhan"
 
 #. Deprecated
 #. SpeedBlade (legendaryName)
@@ -22670,7 +22646,7 @@ msgstr ""
 #. Deprecated
 #. KingsSpear (legendaryName)
 msgid "Justice"
-msgstr ""
+msgstr "Keadilan"
 
 #. Deprecated
 #. Rapier (legendaryName)
@@ -22696,22 +22672,20 @@ msgstr "Menimbulkan CRITICAL setelah rolling"
 #. --------
 #. msgid "Sournoise"
 msgid "Sneaky"
-msgstr ""
+msgstr "Mengendap"
 
 #. Deprecated
 #. StunMace (gameplayDesc)
 #.
 #. --------
 #. msgid "Etourdit les cibles qui ont plus de ::prct::% de vie."
-#, fuzzy
-#| msgid "Stuns victims that have more than ::prct::% health."
 msgid "Stuns targets who have more than ::prct::% health."
-msgstr "Stun korban yang nyawanya diatas ::prct::% nyawa."
+msgstr "Stun korban yang kesehatannya diatas ::prct::%."
 
 #. Deprecated
 #. BumpBoots (legendaryName)
 msgid "Leonidas"
-msgstr ""
+msgstr "Leonidas"
 
 #. Deprecated
 #. BumpBoots (gameplayDesc)
@@ -22739,17 +22713,15 @@ msgstr ""
 #. --------
 #. msgid "Bottes de Tipyx"
 msgid "Tipyx' boots"
-msgstr ""
+msgstr "Boot Tipy"
 
 #. Deprecated
 #. QuickFists (legendaryName)
 #.
 #. --------
 #. msgid "Poings de Deepnight"
-#, fuzzy
-#| msgid "The Prison Depths"
 msgid "The fist of Deepnight"
-msgstr "Kedalaman Penjara"
+msgstr "Tinju Deepnight"
 
 #. Deprecated
 #. QuickFists (gameplayDesc)
@@ -22757,7 +22729,7 @@ msgstr "Kedalaman Penjara"
 #. --------
 #. msgid "Le 5ème coup est un {coup critique@CC}."
 msgid "The 5th strike is a {critical hit@CC}"
-msgstr ""
+msgstr "Serangan kelima adalah {kritis pukulan@CC}"
 
 #. Deprecated
 #. Whip (legendaryName)
@@ -22788,10 +22760,8 @@ msgstr "Pedang Alkemi"
 #.
 #. --------
 #. msgid "Tacticienne"
-#, fuzzy
-#| msgid "Tactics"
 msgid "Tactician"
-msgstr "Taktik"
+msgstr "Ahli Taktik"
 
 #. Deprecated
 #. DualBow (name)
@@ -22847,7 +22817,7 @@ msgstr ""
 #. --------
 #. msgid "Arc de Noja"
 msgid "Noja's Bow"
-msgstr ""
+msgstr "Panah Noja"
 
 #. Deprecated
 #. FrostBow (legendaryName)
@@ -22855,7 +22825,7 @@ msgstr ""
 #. --------
 #. msgid "Frimas"
 msgid "Jack Frost"
-msgstr ""
+msgstr "Jack Frost"
 
 #. Deprecated
 #. FrostBow (gameplayDesc)
@@ -22863,7 +22833,7 @@ msgstr ""
 #. --------
 #. msgid "{Gèle@IC} les ennemis."
 msgid "{Freezes@IC} the enemy."
-msgstr ""
+msgstr "{Memantengkan@IC} musuh."
 
 #. Deprecated
 #. CrossBow (legendaryName)
@@ -22871,7 +22841,7 @@ msgstr ""
 #. --------
 #. msgid "Sans-appel"
 msgid "Merciless"
-msgstr ""
+msgstr "Tanpa Ampun"
 
 #. Deprecated
 #. MultiCrossBow (legendaryName)
@@ -22895,7 +22865,7 @@ msgstr ""
 #. --------
 #. msgid "Long-hiver"
 msgid "Long Winter"
-msgstr ""
+msgstr "Musim Dingin Panjang"
 
 #. Deprecated
 #. ExplosiveCrossBow (legendaryName)
@@ -22919,7 +22889,7 @@ msgstr "Hemlock"
 #. --------
 #. msgid "Revanche"
 msgid "Revenge"
-msgstr ""
+msgstr "Balas Dendam"
 
 #. Deprecated
 #. Boomerang (gameplayDesc)
@@ -22958,7 +22928,7 @@ msgstr ""
 #. --------
 #. msgid "Sévice"
 msgid "Abuse"
-msgstr ""
+msgstr "Pelecehan"
 
 #. Deprecated
 #. ThrowingTorch (legendaryName)
@@ -22966,7 +22936,7 @@ msgstr ""
 #. --------
 #. msgid "Justice populaire"
 msgid "Mob Justice"
-msgstr ""
+msgstr "Keadilam Masal"
 
 #. Deprecated
 #. ThrowingIce (name)
@@ -23040,12 +23010,12 @@ msgstr ""
 #. --------
 #. msgid "Sommeil"
 msgid "Deep Sleep"
-msgstr ""
+msgstr "Tidur Nyenyak"
 
 #. Deprecated
 #. AreaShield (legendaryName)
 msgid "Injustice"
-msgstr ""
+msgstr "Ketidakadilan"
 
 #. Deprecated
 #. BumpShield (legendaryName)
@@ -23061,7 +23031,7 @@ msgstr "Pembantahan"
 #. --------
 #. msgid "Mur de glace"
 msgid "Wall of Ice"
-msgstr ""
+msgstr "Tembok Es"
 
 #. Deprecated
 #. DashShield (legendaryName)
@@ -23095,7 +23065,7 @@ msgstr "Menahan serangan dan mengeluarkan uang sisa dari musuh (sekali per musuh
 #. --------
 #. msgid "Bon-accueil"
 msgid "Warm Welcome"
-msgstr ""
+msgstr "Sambutan Hangat"
 
 #. Deprecated
 #. ParryShield (legendaryName)
@@ -23105,7 +23075,7 @@ msgstr "Kesombongan"
 #. Deprecated
 #. HoldShield (legendaryName)
 msgid "Surprise"
-msgstr ""
+msgstr "Kejutan"
 
 #. Deprecated
 #. HoldShield (gameplayDesc)
@@ -23226,7 +23196,7 @@ msgstr ""
 #. --------
 #. msgid "Artificier"
 msgid "Fireworks Technician"
-msgstr ""
+msgstr "Teknisi Kebakaran"
 
 #. Deprecated
 #. P_Cooldown (name)
@@ -23271,7 +23241,7 @@ msgstr "Mengembalikan ::+power:: setelah musuh mati."
 #. "Les potions de soins ont leur effet étalé sur ::duration:: sec mais ajoutent "
 #. "+::+dps:: DPS sur cette durée."
 msgid "Health potions heal you over time (::duration:: sec) but add +::+dps:: DPS for this period."
-msgstr ""
+msgstr "Jamu kesehatan menyembuhkanmu seiring waktu (::duration:: detik) tetapi menambah +::+dps:: KPS untuk sesaat ini."
 
 #. Deprecated
 #. P_Food (gameplayDesc)
@@ -23331,7 +23301,7 @@ msgstr ""
 #. --------
 #. msgid "Réduit les dégâts infligés par les pièges de ::prct::%."
 msgid "Reduces the damage inflicted by traps by ::prct::%."
-msgstr ""
+msgstr "Mengurangi kerusakan akibat perangkap sebesar ::pcrt::%."
 
 #. Deprecated
 #. Beholder (name)
@@ -23379,7 +23349,7 @@ msgstr "Mengurangi infeksi Malaise."
 #. --------
 #. msgid "Coups critiques +::prct::% dégâts."
 msgid "Critical hits deal +::prct::% damage."
-msgstr ""
+msgstr "Pukulan kritis menghasilkan kerusakan +::prct::%."
 
 #. Deprecated
 #. DeathFire (desc)
