@@ -2593,7 +2593,7 @@ msgstr "Skor saya"
 #. msgid "Traduction réalisée par un joueur"
 #: src/pr/TitleScreen.hx:315
 msgid "Translated by a player"
-msgstr "Ditranslasi oleh Pangurakan, 0bscur1ty, TrifectaRose"
+msgstr "Ditranslasi oleh Pangurakan, 0bscur1ty, Triffyrose"
 
 #. --------
 #. msgid "Il est conseillé de jouer à Dead Cells avec une manette !"
