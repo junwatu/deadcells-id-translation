@@ -712,16 +712,14 @@ msgstr "Mencapai Jalan Terkutuk untuk pertama kalinya."
 #. --------
 #. msgid "Vous avez atteint les Toits de la Prison pour la première fois !"
 #: src/Lang.hx:670
-#, fuzzy
 msgid "Reach the Ramparts for the first time."
-msgstr "Mencapai Ramparts untuk pertama kalinya."
+msgstr "Mencapai Benteng untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint le Pont Noir pour la première fois !"
 #: src/Lang.hx:671
-#, fuzzy
 msgid "Reach the Black Bridge for the first time."
-msgstr "Mencapai Black Bridge untuk pertama kalinya."
+msgstr "Mencapai Jembatan Hitam untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint le Charnier pour la première fois !"
@@ -739,9 +737,8 @@ msgstr "Mencapai Selokan Beracun untuk  pertama kalinya."
 #. --------
 #. msgid "Vous avez atteint l'Ancien Réseau d'Egouts pour la première fois !"
 #: src/Lang.hx:674
-#, fuzzy
 msgid "Reach the Ancient Sewers for the first time."
-msgstr "Mencapai Ancient Sewers untuk  pertama kalinya"
+msgstr "Mencapai Selokan Tua untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint la Crypte Nauséabonde pour la première fois !"
@@ -915,7 +912,7 @@ msgstr ""
 #. msgid "Vous avez ouvert votre première porte minutée !"
 #: src/Lang.hx:703
 msgid "Open your first timed door."
-msgstr ""
+msgstr "Buka pintu berwaktu pertamamu."
 
 #. --------
 #. msgid "Vous avez réussi une Faille de Défi !"
@@ -1155,7 +1152,7 @@ msgstr "Skor anda tidak bisa disimpan, anda harus terkoneksi dengan ::platform::
 #. msgid "Échec"
 #: src/Main.hx:351 src/Main.hx:360 src/pow/Pokecharge.hx:94
 msgid "Failed"
-msgstr ""
+msgstr "Gagal"
 
 #. --------
 #. msgid "Votre version n'est pas à jour. Veuillez mettre à jour le jeu, s'il vous plaît."
@@ -1218,13 +1215,13 @@ msgstr "Space"
 #. msgid "Page préc."
 #: src/Options.hx:459
 msgid "PgUp"
-msgstr ""
+msgstr "PgUp"
 
 #. --------
 #. msgid "Page suiv."
 #: src/Options.hx:460
 msgid "PgDn"
-msgstr ""
+msgstr "PgDn"
 
 #. End key
 #.
@@ -1278,79 +1275,79 @@ msgstr "Insert"
 #. msgid "Supprimer"
 #: src/Options.hx:468
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #. --------
 #. msgid "Num. 0"
 #: src/Options.hx:479
 msgid "Num 0"
-msgstr ""
+msgstr "Num 0"
 
 #. --------
 #. msgid "Num. 1"
 #: src/Options.hx:480
 msgid "Num 1"
-msgstr ""
+msgstr "Num 1"
 
 #. --------
 #. msgid "Num. 2"
 #: src/Options.hx:481
 msgid "Num 2"
-msgstr ""
+msgstr "Num 2"
 
 #. --------
 #. msgid "Num. 3"
 #: src/Options.hx:482
 msgid "Num 3"
-msgstr ""
+msgstr "Num 3"
 
 #. --------
 #. msgid "Num. 4"
 #: src/Options.hx:483
 msgid "Num 4"
-msgstr ""
+msgstr "Num 4"
 
 #. --------
 #. msgid "Num. 5"
 #: src/Options.hx:484
 msgid "Num 5"
-msgstr ""
+msgstr "Num 5"
 
 #. --------
 #. msgid "Num. 6"
 #: src/Options.hx:485
 msgid "Num 6"
-msgstr ""
+msgstr "Num 6"
 
 #. --------
 #. msgid "Num. 7"
 #: src/Options.hx:486
 msgid "Num 7"
-msgstr ""
+msgstr "Num 7"
 
 #. --------
 #. msgid "Num. 8"
 #: src/Options.hx:487
 msgid "Num 8"
-msgstr ""
+msgstr "Num 8"
 
 #. --------
 #. msgid "Num. 9"
 #: src/Options.hx:488
 msgid "Num 9"
-msgstr ""
+msgstr "Num 9"
 
 #. --------
 #. msgid "Num. *"
 #: src/Options.hx:527
 msgid "Num *"
-msgstr ""
+msgstr "Num *"
 
 #. --------
 #. msgid "Num. +"
 #: src/Options.hx:528
 msgid "Num +"
-msgstr ""
+msgstr "Num +"
 
 #. --------
 #. msgid "Num. Entrée"
@@ -1362,19 +1359,19 @@ msgstr "Num Enter"
 #. msgid "Num. -"
 #: src/Options.hx:530
 msgid "Num -"
-msgstr ""
+msgstr "Num -"
 
 #. --------
 #. msgid "Num. ."
 #: src/Options.hx:531
 msgid "Num ."
-msgstr ""
+msgstr "Num ."
 
 #. --------
 #. msgid "Num. /"
 #: src/Options.hx:532
 msgid "Num /"
-msgstr ""
+msgstr "Num /"
 
 #. Shift key
 #.
@@ -1400,7 +1397,7 @@ msgstr "Alt"
 #. msgid "Maj. G."
 #: src/Options.hx:536
 msgid "L Shift"
-msgstr "L Shift"
+msgstr "Shift Kiri"
 
 #. Right shift key
 #.
@@ -1408,7 +1405,7 @@ msgstr "L Shift"
 #. msgid "Maj. D."
 #: src/Options.hx:537
 msgid "R Shift"
-msgstr "R Shift"
+msgstr "Shift Kanan"
 
 #. Left control key
 #.
@@ -1416,7 +1413,7 @@ msgstr "R Shift"
 #. msgid "Ctrl G."
 #: src/Options.hx:538
 msgid "L Ctrl"
-msgstr "L Ctrl"
+msgstr "Ctrl Kiri"
 
 #. Right control key
 #.
@@ -1425,7 +1422,7 @@ msgstr "L Ctrl"
 #: src/Options.hx:539
 #| msgid "Ctrl"
 msgid "R Ctrl"
-msgstr "R Ctrl"
+msgstr "Ctrl Kanan"
 
 #. Left Alt key
 #.
@@ -1433,7 +1430,7 @@ msgstr "R Ctrl"
 #. msgid "Alt G."
 #: src/Options.hx:540
 msgid "L Alt"
-msgstr ""
+msgstr "Alt Kiri"
 
 #. Right Alt key
 #.
@@ -1441,7 +1438,7 @@ msgstr ""
 #. msgid "Alt D."
 #: src/Options.hx:541
 msgid "R Alt"
-msgstr ""
+msgstr "Alt Kanan"
 
 #. Mouse left click
 #.
@@ -1500,13 +1497,13 @@ msgstr ""
 #. msgid "Qu'est ce que..."
 #: src/cine/DoubleHero.hx:114
 msgid "What the..."
-msgstr ""
+msgstr "Apa..."
 
 #. --------
 #. msgid "Vous... Ici ?"
 #: src/cine/EnterGiantRoom.hx:119
 msgid "You... here?"
-msgstr ""
+msgstr "Kau... disini?"
 
 #. --------
 #. msgid "Le Mal-être vous a bien changé !"
@@ -1554,13 +1551,13 @@ msgstr ""
 #. msgid "Mon... Mon roi ??"
 #: src/cine/EnterThroneRoomAsKing.hx:41
 msgid "My... My king?"
-msgstr ""
+msgstr "Raja... Rajaku?"
 
 #. --------
 #. msgid "Comment est-ce possible ?"
 #: src/cine/EnterThroneRoomAsKing.hx:56
 msgid "How is that possible?"
-msgstr ""
+msgstr "Bagaimana kau bisa...?"
 
 #: src/cine/EnterThroneRoomAsKing.hx:69
 msgid "?!"
@@ -1578,25 +1575,25 @@ msgstr "?!?!"
 #. msgid "Attendez... vous n'êtes pas le Roi !"
 #: src/cine/EnterThroneRoomAsKing.hx:104
 msgid "Wait... You're not the King!"
-msgstr ""
+msgstr "Tunggu... Kamu bukan Raja!"
 
 #. --------
 #. msgid "Vous lui avez volé son corps !"
 #: src/cine/EnterThroneRoomAsKing.hx:109
 msgid "Did you steal his body?"
-msgstr ""
+msgstr "Kau mencuri badannya?"
 
 #. --------
 #. msgid "IMPOSTEUR !!"
 #: src/cine/EnterThroneRoomAsKing.hx:119
 msgid "Thief!"
-msgstr ""
+msgstr "Pencuri!"
 
 #. --------
 #. msgid "VOUS!!!"
 #: src/cine/EnterTimeKeeperRoomFirst.hx:50
 msgid "You!"
-msgstr ""
+msgstr "Kau!"
 
 #. --------
 #. msgid ""
@@ -1634,7 +1631,7 @@ msgstr ""
 #. msgid "Non... Non, non"
 #: src/cine/EnterTimeKeeperRoomOther.hx:50
 msgid "No! No! NO!"
-msgstr ""
+msgstr "Tidak! Tidak! TIDAK!"
 
 #. --------
 #. msgid "ET NON !"
@@ -1658,7 +1655,7 @@ msgstr ""
 #. msgid "Mais quel tocard"
 #: src/cine/EnterTimeKeeperRoomOther.hx:117
 msgid "What a jackass..."
-msgstr ""
+msgstr "Dasar anak bangsat..."
 
 #. --------
 #. msgid "Vous étiez un exemple pour nous tous..."
@@ -1754,13 +1751,13 @@ msgstr "Mati terkutuk"
 #. msgid "Corps détruit (dégâts x4)"
 #: src/cine/HeroDeath.hx:178
 msgid "Body desecrated! (damage x4)"
-msgstr "Badan Hancur (kerusakan x4)"
+msgstr "Badan hancur! (kerusakan x4)"
 
 #. --------
 #. msgid "Corps détruit (dégâts x2)"
 #: src/cine/HeroDeath.hx:180
 msgid "Body desecrated! (damage x2)"
-msgstr "Badan Hancur (kerusakan x2)"
+msgstr "Badan hancur! (kerusakan x2)"
 
 #. --------
 #. msgid "Corps détruit"
@@ -1800,7 +1797,7 @@ msgstr "PERGI DARI HADAPANKU!"
 #. msgid "Oh, salut gamin."
 #: src/cine/MeetBlacksmith.hx:28
 msgid "Heya short stuff."
-msgstr ""
+msgstr "Hei orang kecil."
 
 #. --------
 #. msgid "Tu a réussi à arriver jusqu'ici vivant."
@@ -5921,7 +5918,7 @@ msgstr "I telah mencoba menyelamantkan Kerajaan yang malang ini..."
 #. msgid "Le sauver...d'un couillon comme vous !!!"
 #: src/cine/coll/EndCollectorPreSmash.hx:55
 msgid "Save it... From an ass like you!"
-msgstr "Simpanlah...dari pecundang macam kamu!"
+msgstr "Simpanlah... Dari pecundang macam kamu!"
 
 #. --------
 #. msgid "Nous sommes tellement foutus, ah ah ah..."
@@ -6135,7 +6132,7 @@ msgstr "Tidak butuh dokter gigi lagi!"
 
 #: src/cine/coll/SmashCinem.hx:49
 msgid "Git gu..."
-msgstr ""
+msgstr "Git gu..."
 
 #. --------
 #. msgid "Si je n’étais pas là, vous seriez vous ?"
@@ -6837,10 +6834,8 @@ msgstr "Lenyapkan dia!"
 #. --------
 #. msgid "Voulez-vous être le Boss?"
 #: src/tool/vote/BecomeBoss.hx:19 src/tool/vote/BecomeBoss.hx:25
-#, fuzzy
-#| msgid "Would you like to restart your run?"
 msgid "Would you like to be the Boss?"
-msgstr "Apakah anda ingin mengulang perjalanan anda?"
+msgstr "Apakah anda mau menjadi Bos?"
 
 #. --------
 #. msgid "::user:: s'est proposé(e) en premier !"
@@ -7416,10 +7411,8 @@ msgstr "Oh, hello."
 #. --------
 #. msgid "Ca sera sûrement très joli quand toutes ces flasques seront illuminées."
 #: src/en/inter/npc/Flasks.hx:30
-#, fuzzy
-#| msgid "It's going to be a sight to see when all of these flasks are lit up..."
 msgid "This is certainly going to be something when all the flasks are lit up."
-msgstr "Ini akan menjadi suatu hal yang indah ketika semua ini menjadi terang..."
+msgstr ""
 
 #. --------
 #. msgid "Vous y travaillez, n'est-ce pas ?"
@@ -7436,10 +7429,8 @@ msgstr "Ya..."
 #. --------
 #. msgid "Evidemment que vous y travaillez."
 #: src/en/inter/npc/Flasks.hx:52
-#, fuzzy
-#| msgid "Of course you don't..."
 msgid "Of course you are..."
-msgstr "Tentu saja kamu tidak..."
+msgstr ""
 
 #. --------
 #. msgid "Drôle d'endroit, tout de même."
@@ -7556,10 +7547,8 @@ msgstr ""
 #. --------
 #. msgid "Comme tous les autres."
 #: src/en/inter/npc/Knight.hx:215
-#, fuzzy
-#| msgid "Like all the rest, I guess."
 msgid "Like all the others..."
-msgstr "Seperti yang lainnya kurasa."
+msgstr "Seperti yang lainnya..."
 
 #. --------
 #. msgid "Elle est MORTE."
@@ -7671,7 +7660,7 @@ msgstr "*ehem*"
 #. msgid "Hé, bonjour monsieur le prisonnier !"
 #: src/en/inter/npc/PerkMaster.hx:132
 msgid "Well, hello, Mr. Prisoner, sir!"
-msgstr "Selamat datang Tuan Tawanan!"
+msgstr "Selamat datang, Tuan Tawanan!"
 
 #. --------
 #. msgid "Je sais que c'est bon, mais il ne faut pas en abuser..."
@@ -8143,7 +8132,7 @@ msgstr ""
 #. msgid "Vous lui apportez des schémas de tenue, et je vous les confectionne !"
 #: src/en/inter/npc/Tailor.hx:98
 msgid "You bring him the templates and I will craft it for you!"
-msgstr ""
+msgstr "Kamu berikan templatenya ke dia dan aku membuatnya untukmu!"
 
 #. --------
 #. msgid "Vous êtes MA-GNI-FIQUE !"
@@ -8179,7 +8168,7 @@ msgstr ""
 #. msgid "Condition: tuer ::n:: ennemis sans subir de dégât."
 #: src/en/inter/zdoor/ChallengeZDoor.hx:194
 msgid "Condition: kill ::n:: enemies without taking any damage."
-msgstr ""
+msgstr "Syarat: Bunuh ::n:: musuh tanpa menerima serangan."
 
 #. --------
 #. msgid "::n:: cellules de boss requises"
@@ -8197,13 +8186,13 @@ msgstr "diperlukan 1 cell boss"
 #. msgid "Encore ! Ramène moi plus de cellules !"
 #: src/en/mob/boss/Collector.hx:164
 msgid "Go Back! Bring me more cells!"
-msgstr ""
+msgstr "Kembalilah! Berikan aku cell lebih banyak!"
 
 #. --------
 #. msgid "Allez ! Juste quelques unes de plus !"
 #: src/en/mob/boss/Collector.hx:165
 msgid "Just a few more!"
-msgstr ""
+msgstr "Sedikit lagi!"
 
 #. --------
 #. msgid "Ne sois pas si radin ! Pense à ton pote !"
@@ -8281,7 +8270,7 @@ msgstr ""
 #. "DPS."
 #: res/data.cdb:item/#0.gameplayDesc
 msgid "Shoots at ::count:: nearby enemies at the same time. Each shot inflicts ::+dps:: DPS."
-msgstr ""
+msgstr "Menembak ::count:: musuh sekitar pada waktu yang sama. Setiap tembakan memberi ::+dps:: KPS."
 
 #. StandardTurret (name)
 #.
@@ -8333,7 +8322,7 @@ msgstr ""
 #. msgid "Tire sur les ennemis qui passent en dessous."
 #: res/data.cdb:item/#3.gameplayDesc
 msgid "Shoots enemies who pass beneath it."
-msgstr ""
+msgstr "Menembak musuh dibawahnya."
 
 #. FireTurret (name)
 #.
@@ -8349,7 +8338,7 @@ msgstr "Turret Pelontar Api"
 #. msgid "{Brûle@FI} les ennemis proches (::+dps:: DPS sur ::duration:: sec)."
 #: res/data.cdb:item/#4.gameplayDesc res/data.cdb:item/#18.gameplayDesc
 msgid "{Burns@FI} nearby enemies (::+dps:: DPS for ::duration:: sec)."
-msgstr ""
+msgstr "{Membakar@FI} musuh sekitar {::+dps:: KPS selama ::duration detik)."
 
 #. GroundSaw (name)
 #.
@@ -8357,7 +8346,7 @@ msgstr ""
 #. msgid "Hachoir"
 #: res/data.cdb:item/#5.name res/data.cdb:mob/#26.name
 msgid "Cleaver"
-msgstr "Golok"
+msgstr "Pembelah"
 
 #. GroundSaw (gameplayDesc)
 #.
@@ -8679,7 +8668,7 @@ msgstr ""
 #. msgid "Tornade"
 #: res/data.cdb:item/#25.name
 msgid "Tornado"
-msgstr ""
+msgstr "Tornado"
 
 #. Tornado (gameplayDesc)
 #.
@@ -9244,7 +9233,7 @@ msgstr "Pedang Terkutuk"
 #. msgid "Vous tue immédiatement si vous subissez le moindre dégât."
 #: res/data.cdb:item/#56.gameplayDesc
 msgid "One hit and you're dead."
-msgstr "Jika kau terpukul, kamu mati"
+msgstr "Jika kau terpukul, kamu mati."
 
 #. EvilSword (ambiantDesc)
 #.
@@ -9310,7 +9299,7 @@ msgstr ""
 #. msgid "Tueuse de géants"
 #: res/data.cdb:item/#59.name
 msgid "Giantkiller"
-msgstr ""
+msgstr "Pembunuh Raksasa"
 
 #. GiantKiller (gameplayDesc)
 #.
@@ -9318,7 +9307,7 @@ msgstr ""
 #. msgid "Inflige un {coup critique@CC} si la victime est un élite ou un boss."
 #: res/data.cdb:item/#59.gameplayDesc
 msgid "Inflicts a {critical hit@CC} if the victim is an elite enemy or a boss."
-msgstr ""
+msgstr "Memberi {serangan kritis@CC} jika musuh adalah musuh elit atau boss."
 
 #. GiantKiller (ambiantDesc)
 #.
@@ -9402,7 +9391,7 @@ msgstr "Penyula"
 #. msgid "Inflige un {coup critique@CC} si la victime est contre un mur."
 #: res/data.cdb:item/#63.gameplayDesc
 msgid "Inflicts a {critical hit@CC} if the victim is up against a wall."
-msgstr ""
+msgstr "Memberi {serangan kritis@CC} jika musuh berdekatan dengan dinding."
 
 #. KingsSpear (name)
 #.
@@ -9410,7 +9399,7 @@ msgstr ""
 #. msgid "Lance symétrique"
 #: res/data.cdb:item/#64.name
 msgid "Symmetrical Lance"
-msgstr ""
+msgstr "Tombak Simetris"
 
 #. KingsSpear (gameplayDesc)
 #.
@@ -9419,8 +9408,9 @@ msgstr ""
 #. "Inflige des {coups critiques@CC} pendant ::duration:: sec si vous tuez "
 #. "rapidement ::count:: ennemis avec cette arme."
 #: res/data.cdb:item/#64.gameplayDesc
+#, fuzzy
 msgid "Inflicts {critical hits@CC} for ::duration:: sec if you quickly kill ::count:: enemies with this weapon."
-msgstr ""
+msgstr "Memberi {serangan kritis@CC} selama ::duration:: detik jika kamu membunuh ::count:: musuh dengan senjata ini dengan cepat."
 
 #. Rapier (name)
 #.
@@ -9740,7 +9730,7 @@ msgstr "Menembak ::count:: anak panah pada saat yang sama."
 #. msgid "Arc et carquois sans fond"
 #: res/data.cdb:item/#80.name
 msgid "Bow and Endless Quiver"
-msgstr "Panah dan"
+msgstr ""
 
 #. InfiniteBow (gameplayDesc)
 #.
@@ -9811,8 +9801,9 @@ msgstr "Panah Infantri"
 #. --------
 #. msgid "Inflige un {coup critique@CC} à courte portée."
 #: res/data.cdb:item/#83.gameplayDesc
+#, fuzzy
 msgid "Inflicts a {critical hit@CC} at close range."
-msgstr ""
+msgstr "Memberi {serangan kritis@CC} pada jarak dekat."
 
 #. CloseCombatBow (ambiantDesc)
 #.
@@ -9862,7 +9853,7 @@ msgstr "Panah Es"
 #. msgid "{Gèle@IC} brièvement les ennemis."
 #: res/data.cdb:item/#85.gameplayDesc
 msgid "Briefly {freezes@IC} enemies."
-msgstr ""
+msgstr "{Membekukan@IC} musuh sementara."
 
 #. CrossBow (name)
 #.
@@ -10199,7 +10190,7 @@ msgstr ""
 #. msgid "Lance-flammes"
 #: res/data.cdb:item/#103.name
 msgid "Fire blast"
-msgstr ""
+msgstr "Ledakan Api"
 
 #. FlameThrower (gameplayDesc)
 #.
@@ -10582,7 +10573,7 @@ msgstr "Kalung Moonstone"
 #. msgid "\"Ygdar Orus Li Ox !\""
 #: res/data.cdb:item/#126.name
 msgid "\"Ygdar Orus Li Ox!\""
-msgstr "\"Ygdar Orus Li Ox !\""
+msgstr "\"Ygdar Orus Li Ox!\""
 
 #. Immortality (gameplayDesc)
 #.
@@ -10818,7 +10809,7 @@ msgstr ""
 #. msgid "Elle sent très mauvais."
 #: res/data.cdb:item/#147.gameplayDesc
 msgid "It stinks."
-msgstr ""
+msgstr "Sangat bau."
 
 #. CavernKey (name)
 #.
@@ -10916,7 +10907,7 @@ msgstr "Sajak Tantangan"
 #. "Prisonniers)."
 #: res/data.cdb:item/#155.gameplayDesc
 msgid "This {permanent@PE} rune provides access to the daily challenge (Prisoners' Quarters)."
-msgstr "Sajak {permanent@PE} ini memberimu akses ke tantangan harian (Sel Tahanan)."
+msgstr "Sajak {permanen@PE} ini memberimu akses ke tantangan harian (Sel Tahanan)."
 
 #. CustomKey (name)
 #.
@@ -11570,7 +11561,7 @@ msgstr "Sirup Batuk"
 #. msgid "Réduit votre infection au Mal-être de ::prct::%."
 #: res/data.cdb:item/#211.gameplayDesc
 msgid "Reduces you Malaise infection level by ::prct::%."
-msgstr ""
+msgstr "Mengurangi infeksi Malaise sebanyak ::prct::%"
 
 #. InfectionRemedySmall (name)
 #.
@@ -11586,7 +11577,7 @@ msgstr ""
 #. msgid "Réduit votre infection au Mal-être de ::power::."
 #: res/data.cdb:item/#212.gameplayDesc
 msgid "Reduces you Malaise infection level by ::power::%."
-msgstr ""
+msgstr "Mengurangi infeksi Malaise sebanyak ::power::%"
 
 #. ComboMultDrop (gameplayDesc)
 #.
@@ -11620,7 +11611,7 @@ msgstr ""
 #. "dure ::duration:: secondes."
 #: res/data.cdb:item/#215.gameplayDesc
 msgid "You earn one extra cell when you eliminate an enemy. This bonus lasts for ::duration:: seconds."
-msgstr ""
+msgstr "Kamu akan mendapatkan satu cell ekstra saat kamu membunuh musuh. Bonus ini berakhir selama ::duration:: detik."
 
 #. LegendGem (name)
 #.
@@ -11857,7 +11848,7 @@ msgstr ""
 #. msgid "Inspiration meurtrière"
 #: res/data.cdb:item/#232.name
 msgid "Killer instinct"
-msgstr ""
+msgstr "Insting Pembunuh"
 
 #. P_CDR_Kill (gameplayDesc)
 #.
@@ -11944,10 +11935,13 @@ msgstr ""
 #. "elle est vide, elle se re-rempli gratuitement après avoir tué ::*count:: ennemis "
 #. "\"Elites\"."
 #: res/data.cdb:item/#238.gameplayDesc
+#, fuzzy
 msgid ""
 "Using a health potion grants +::+dps:: DPS for ::duration:: sec. If the flask is empty it will automatically refill itself after you kill ::*count:: \"Elite\" "
 "enemies... Easy."
 msgstr ""
+"Memakai botol vitalitas memberi +::+dps:: KPS selama ::duration:: detik. Jika botol vitalitas kosong, botol akan terisi kembali setelah kamu membunuh ::*count:: "
+"musuh Elit."
 
 #. P_ScaledHealth (name)
 #.
@@ -12152,7 +12146,7 @@ msgstr "Penujuman"
 #. "en tuant un Boss."
 #: res/data.cdb:item/#251.gameplayDesc
 msgid "Recover ::+prct::% HP when an enemy dies. Reduce your infection level when you kill a boss."
-msgstr ""
+msgstr "Memulihkan ::+prct::% nyawamu jika kamu membunuh musuh. Mengurangi level infeksimu jika kamu membunuh boss."
 
 #. P_Hot (name)
 #.
@@ -12399,7 +12393,7 @@ msgstr ""
 #. "sec. Ne peut se produire qu'une fois toutes les ::duration2:: sec."
 #: res/data.cdb:item/#266.gameplayDesc
 msgid "If your HP falls below ::prct::%, a force field protects you for ::duration:: sec. Can only be used every ::duration2:: sec."
-msgstr ""
+msgstr "Jika nyawamu kurang dari ::prct::%, sebuah force field melindungimu selama ::duration:: sec. Hanya bisa dipakai setiap ::duration2:: detik."
 
 #. PrisonerDefault (name)
 #.
@@ -12407,7 +12401,7 @@ msgstr ""
 #. msgid "Tenue classique"
 #: res/data.cdb:item/#268.name
 msgid "Classic outfit"
-msgstr ""
+msgstr "Pakaian biasa"
 
 #. PrisonerDefault (gameplayDesc)
 #.
@@ -12423,7 +12417,7 @@ msgstr ""
 #. msgid "Tenue dorée"
 #: res/data.cdb:item/#269.name
 msgid "Golden outfit"
-msgstr "Baju Emas"
+msgstr "Pakaian Emas"
 
 #. PrisonerGold (gameplayDesc)
 #.
@@ -12455,7 +12449,7 @@ msgstr ""
 #. msgid "Tenue Ninja"
 #: res/data.cdb:item/#271.name
 msgid "Ninja outfit"
-msgstr ""
+msgstr "Pakaian Ninja"
 
 #. PrisonerBlack (gameplayDesc)
 #.
@@ -12471,7 +12465,7 @@ msgstr "Menjadi satu dengan byangan..."
 #. msgid "Tenue Fantôme"
 #: res/data.cdb:item/#272.name
 msgid "Ghost outfit"
-msgstr ""
+msgstr "Pakaian Hantu"
 
 #. PrisonerGhost (gameplayDesc)
 #.
@@ -12479,7 +12473,7 @@ msgstr ""
 #. msgid "Le costume parfait pour Halloween."
 #: res/data.cdb:item/#272.gameplayDesc
 msgid "Ready for Halloween."
-msgstr ""
+msgstr "Siap untuk Halloween."
 
 #. PrisonerSewers (name)
 #.
@@ -12487,7 +12481,7 @@ msgstr ""
 #. msgid "Tenue Donatello"
 #: res/data.cdb:item/#273.name
 msgid "Donatello's outfit"
-msgstr ""
+msgstr "Pakaian Donatello"
 
 #. PrisonerSewers (gameplayDesc)
 #.
@@ -12519,7 +12513,7 @@ msgstr ""
 #. msgid "Tenue du Pêcheur"
 #: res/data.cdb:item/#275.name
 msgid "Fisherman's outfit"
-msgstr ""
+msgstr "Pakaian nelayan"
 
 #. PrisonerStilt (gameplayDesc)
 #.
@@ -12558,10 +12552,8 @@ msgstr ""
 #. --------
 #. msgid "Le violet le plus pur."
 #: res/data.cdb:item/#277.gameplayDesc
-#, fuzzy
-#| msgid "This serves no purpose."
 msgid "The most pure of purple."
-msgstr "Ini tidak ada gunanya."
+msgstr ""
 
 #. PrisonerAphrodite (name)
 #.
@@ -12569,7 +12561,7 @@ msgstr "Ini tidak ada gunanya."
 #. msgid "Tenue Aphrodite"
 #: res/data.cdb:item/#278.name
 msgid "Aphrodite's outfit"
-msgstr ""
+msgstr "Pakaian Aphrodite"
 
 #. PrisonerAphrodite (gameplayDesc)
 #.
@@ -12601,7 +12593,7 @@ msgstr ""
 #. msgid "Tenue Cloud"
 #: res/data.cdb:item/#280.name
 msgid "Cloud Outfit"
-msgstr "Awan Racun"
+msgstr ""
 
 #. PrisonerCloud (gameplayDesc)
 #.
@@ -14570,7 +14562,7 @@ msgstr "\"Ditransfer ke kedalaman penjara\" berarti kamu tidak kembali. Yang kam
 #. msgid "Egouts toxiques"
 #: res/data.cdb:level/#3.name
 msgid "Toxic Sewers"
-msgstr "Sumur beracun"
+msgstr "Selokan Beracun"
 
 #. SewerShort (loreDescriptions) (text)
 #.
@@ -14696,7 +14688,7 @@ msgstr ""
 #. msgid "Ancien réseau d'égouts"
 #: res/data.cdb:level/#6.name res/data.cdb:level/#65.name
 msgid "Ancient Sewers"
-msgstr ""
+msgstr "Selokan Tua"
 
 #. SewerDepths (loreDescriptions) (text)
 #.
@@ -14706,7 +14698,7 @@ msgstr ""
 #. "égouts. Enfin... Possible aussi qu'ils aient tous préféré taire son existence."
 #: res/data.cdb:level/#6.loreDescriptions/#0.text
 msgid "Even the guards seemed to know nothing about this part of the sewers. Or maybe they all just wanted to pretend it wasn't there."
-msgstr "Bahkan para penjaga tidak tau keberadaan bagian sumur ini. Atau mungkin mereka hanya ingin berpura-pura sumur ini tidak ada."
+msgstr "Bahkan para penjaga tidak tau keberadaan bagian selokan ini. Atau mungkin mereka hanya ingin berpura-pura sumur ini tidak ada."
 
 #. SewerDepths (loreDescriptions) (text)
 #.
@@ -16116,10 +16108,8 @@ msgstr "Pintu Cell"
 #. --------
 #. msgid "Plateau repas"
 #: res/data.cdb:loreRoom/#4.examinables/#1.label
-#, fuzzy
-#| msgid "Bear trap"
 msgid "Meal tray"
-msgstr "Jebakan beruang"
+msgstr ""
 
 #. DoorPrisonner1 (examinables) npc (events) (text)
 #.
@@ -16541,7 +16531,7 @@ msgstr "Tas"
 #. msgid "Cuillère"
 #: res/data.cdb:loreRoom/#12.examinables/#3.knownLabel
 msgid "Spoon"
-msgstr ""
+msgstr "Sendok"
 
 #. Well1 (examinables) well (events) (text)
 #.
@@ -16629,7 +16619,7 @@ msgstr ""
 #. msgid "Déchets"
 #: res/data.cdb:loreRoom/#13.examinables/#1.label res/data.cdb:loreRoom/#13.examinables/#3.label res/data.cdb:loreRoom/#33.examinables/#2.label
 msgid "Rubbish"
-msgstr ""
+msgstr "Sampah"
 
 #. Well2 (examinables) body (label)
 #.
@@ -17482,7 +17472,7 @@ msgstr ""
 #. msgid "Hmm ?"
 #: res/data.cdb:loreRoom/#20.examinables/#1.events/#3.text
 msgid "Hmm?"
-msgstr ""
+msgstr "Hmm?"
 
 #. ShootTraining1 (examinables) arrows (events) (text)
 #.
@@ -17498,7 +17488,7 @@ msgstr ""
 #. msgid "Une seule flèche l'a atteint."
 #: res/data.cdb:loreRoom/#20.examinables/#3.events/#0.text
 msgid "Only one arrow hit the target."
-msgstr ""
+msgstr "Hanya satu anak panah yang mengenai target."
 
 #. ShootTraining1 (examinables) body (events) (text)
 #.
@@ -17506,7 +17496,7 @@ msgstr ""
 #. msgid "Pleine tête."
 #: res/data.cdb:loreRoom/#20.examinables/#3.events/#1.text
 msgid "Right in the head."
-msgstr ""
+msgstr "Tepat di kepalanya."
 
 #. CellMap1 (examinables) pit (label)
 #.
@@ -17609,7 +17599,7 @@ msgstr ""
 #. CellMap1 (examinables) body (events) (text)
 #: res/data.cdb:loreRoom/#21.examinables/#2.events/#5.text
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmmm..."
 
 #. CellMap1 (examinables) paper (events) (text)
 #.
@@ -17660,10 +17650,8 @@ msgstr ""
 #. --------
 #. msgid "Où a-t-il bien pu filer ?"
 #: res/data.cdb:loreRoom/#21.examinables/#3.events/#12.text
-#, fuzzy
-#| msgid "Where could he have gotten to?"
 msgid "Where could he have gone to?"
-msgstr "Memangnya dia bisa kemana?"
+msgstr ""
 
 #. CellMap2 (examinables) door (events) (text)
 #.
@@ -17748,14 +17736,14 @@ msgstr ""
 #. msgid "Gardien mort"
 #: res/data.cdb:loreRoom/#23.examinables/#1.label
 msgid "Dead guard"
-msgstr ""
+msgstr "Penjaga mati"
 
 #. CellMap3 (examinables) paper (label)
 #: res/data.cdb:loreRoom/#23.examinables/#5.label res/data.cdb:loreRoom/#42.examinables/#0.label res/data.cdb:loreRoom/#43.examinables/#0.label
 #: res/data.cdb:loreRoom/#44.examinables/#0.label res/data.cdb:loreRoom/#45.examinables/#0.label res/data.cdb:loreRoom/#48.examinables/#0.label
 #: res/data.cdb:loreRoom/#49.examinables/#0.label res/data.cdb:loreRoom/#53.examinables/#0.label res/data.cdb:loreRoom/#76.examinables/#1.label
 msgid "Message"
-msgstr ""
+msgstr "Pesan"
 
 #. CellMap3 (examinables) wc (label)
 #.
@@ -18349,7 +18337,7 @@ msgstr ""
 #. msgid "Petit sac"
 #: res/data.cdb:loreRoom/#34.examinables/#1.label res/data.cdb:loreRoom/#46.examinables/#0.label res/data.cdb:loreRoom/#77.examinables/#1.label
 msgid "Small bag"
-msgstr ""
+msgstr "Tas kecil"
 
 #. PrisonCell1 (examinables) door (events) (text)
 #.
@@ -18542,7 +18530,7 @@ msgstr ""
 #. msgid "\"À tous les soldats."
 #: res/data.cdb:loreRoom/#39.examinables/#0.events/#0.text
 msgid "\"To all soldiers."
-msgstr ""
+msgstr "\"Untuk semua prajurit."
 
 #. SoldierOrder5 (examinables) order (events) (text)
 #.
@@ -18576,7 +18564,7 @@ msgstr ""
 #. msgid "...mais ils sont déjà tous morts de toute façon."
 #: res/data.cdb:loreRoom/#39.examinables/#1.events/#3.text
 msgid "...but they're all dead anyway."
-msgstr ""
+msgstr "...tetapi mereka semua sudah mati."
 
 #. PublicOrder1 (examinables) order (label)
 #.
@@ -18736,7 +18724,7 @@ msgstr "Hadiah Perpisahan"
 #. msgid "Une lettre d'un soldat."
 #: res/data.cdb:loreRoom/#43.examinables/#0.events/#0.text res/data.cdb:loreRoom/#49.examinables/#0.events/#0.text
 msgid "A letter from a soldier."
-msgstr "Surat dari tentara."
+msgstr "Surat dari seorang prajurit."
 
 #. SoldierMessage2 (examinables) message (events) (text)
 #.
@@ -18804,7 +18792,7 @@ msgstr "Kereta penuh senjata."
 #. msgid "Salle de repos"
 #: res/data.cdb:loreRoom/#45.examinables/#1.label
 msgid "Break room"
-msgstr "Ruang Break"
+msgstr "Ruang istirahat"
 
 #. SoldierMessage4 (examinables) message (events) (text)
 #.
@@ -18830,7 +18818,7 @@ msgstr ""
 #. msgid "Vive le Roi !\""
 #: res/data.cdb:loreRoom/#45.examinables/#0.events/#2.text
 msgid "Long live the King!\""
-msgstr ""
+msgstr "Hidup Raja!\""
 
 #. SoldierMessage4 (examinables) desk (events) (text)
 #.
@@ -18854,7 +18842,7 @@ msgstr ""
 #. msgid "AH !"
 #: res/data.cdb:loreRoom/#45.examinables/#3.events/#1.text
 msgid "AHA!"
-msgstr ""
+msgstr "AHA!"
 
 #. SoldierMessage5 (examinables) desk (label)
 #.
@@ -18938,10 +18926,8 @@ msgstr ""
 #. --------
 #. msgid "Corps pourri"
 #: res/data.cdb:loreRoom/#47.examinables/#1.label
-#, fuzzy
-#| msgid "Decapitated corpse"
 msgid "Rotten corpse"
-msgstr "Mayat yang dipenggal"
+msgstr "Mayat busuk"
 
 #. SoldierMessage6 (examinables) message (events) (text)
 #.
@@ -19099,7 +19085,7 @@ msgstr ""
 #. msgid "Petit trou"
 #: res/data.cdb:loreRoom/#50.examinables/#2.label
 msgid "Small hole"
-msgstr ""
+msgstr "Lubang kecil"
 
 #. Beholder1 (examinables) fluid (knownLabel)
 #.
@@ -19157,7 +19143,7 @@ msgstr ""
 #. msgid "Trou"
 #: res/data.cdb:loreRoom/#51.examinables/#2.label res/data.cdb:loreRoom/#54.examinables/#1.label
 msgid "Hole"
-msgstr ""
+msgstr "Lubang"
 
 #. Beholder2 (examinables) body (knownLabel)
 #.
@@ -19314,7 +19300,7 @@ msgstr "Kereta Senjata"
 #. msgid "Trou géant"
 #: res/data.cdb:loreRoom/#52.examinables/#4.label
 msgid "Giant hole"
-msgstr ""
+msgstr "Lubang besar"
 
 #. Beholder3 (examinables) fluid (events) (text)
 #.
@@ -19432,17 +19418,15 @@ msgstr "Barang Penjaga"
 #. msgid "On dirait un message d'alerte d'un garde."
 #: res/data.cdb:loreRoom/#53.examinables/#0.events/#1.text
 msgid "Looks like a warning message from a guard."
-msgstr ""
+msgstr "Sepertinya sebuah pesan peringatan dari penjaga."
 
 #. Beholder4 (examinables) message (events) (text)
 #.
 #. --------
 #. msgid "C'est écrit en rouge, alors ça doit être important."
 #: res/data.cdb:loreRoom/#53.examinables/#0.events/#2.text
-#, fuzzy
-#| msgid "It seems that being cursed might just be worth it..."
 msgid "It's written in red so it must be important."
-msgstr "Sepertinya menjadi terkutuk tidak terlalu buruk..."
+msgstr "Tulisannya berwarna merah, pasti sangat penting."
 
 #. Beholder4 (examinables) message (events) (text)
 #.
@@ -19552,10 +19536,8 @@ msgstr "Peralatan Alkimia"
 
 #. TextWall3 (examinables) crates (label)
 #: res/data.cdb:loreRoom/#56.examinables/#2.label
-#, fuzzy
-#| msgid "Stockchange"
 msgid "Stock"
-msgstr "Penggantian Stock"
+msgstr "Stok"
 
 #. TextWall3 (examinables) lettersGround (label)
 #.
@@ -19775,7 +19757,7 @@ msgstr ""
 #. msgid "Champignons"
 #: res/data.cdb:loreRoom/#59.examinables/#1.label
 msgid "Mushrooms"
-msgstr ""
+msgstr "Jamur"
 
 #. ResearchDiary2 (examinables) desk (events) (text)
 #.
@@ -19809,7 +19791,7 @@ msgstr ""
 #. msgid "Fiole"
 #: res/data.cdb:loreRoom/#60.examinables/#2.label
 msgid "Flask"
-msgstr ""
+msgstr "Botol"
 
 #. ResearchDiary3 (examinables) shelf (label)
 #.
@@ -19817,7 +19799,7 @@ msgstr ""
 #. msgid "Etagère"
 #: res/data.cdb:loreRoom/#60.examinables/#3.label res/data.cdb:loreRoom/#63.examinables/#2.label
 msgid "Shelf"
-msgstr ""
+msgstr "Rak"
 
 #. ResearchDiary3 (examinables) desk (events) (text)
 #.
@@ -19850,10 +19832,8 @@ msgstr "Apa aku berada di jalur yang benar?\""
 #. --------
 #. msgid "Cette tache, là..."
 #: res/data.cdb:loreRoom/#60.examinables/#1.events/#1.text
-#, fuzzy
-#| msgid "He's not here..."
 msgid "This stain here..."
-msgstr "Dia tidak disini..."
+msgstr "Noda ini..."
 
 #. ResearchDiary3 (examinables) bed (events) (text)
 #.
@@ -20948,7 +20928,7 @@ msgstr ""
 #. msgid "Tiroir"
 #: res/data.cdb:loreRoom/#81.examinables/#0.label
 msgid "Drawer"
-msgstr ""
+msgstr "Laci"
 
 #. TimeMaster2 (examinables) sword1 (label)
 #.
@@ -21098,7 +21078,7 @@ msgstr "Kapten Bajak Laut"
 #. msgid "Livres"
 #: res/data.cdb:loreRoom/#83.examinables/#3.label
 msgid "Books"
-msgstr ""
+msgstr "Buku-buku"
 
 #. Behemoth1 (examinables) order (events) (text)
 #.
@@ -21239,7 +21219,7 @@ msgstr ""
 #. Behemoth2 (examinables) order (events) (text)
 #: res/data.cdb:loreRoom/#84.examinables/#1.events/#2.text
 msgid "\"Castaing..."
-msgstr ""
+msgstr "\"Castaing..."
 
 #. Behemoth2 (examinables) order (events) (text)
 #.
@@ -21636,7 +21616,7 @@ msgstr ""
 #. msgid "Attendez !"
 #: res/data.cdb:loreRoom/#90.examinables/#0.events/#2.text
 msgid "Wait!"
-msgstr ""
+msgstr "Tunggu!"
 
 #. KingGiant2 (examinables) crate (events) (text)
 #.
@@ -21793,7 +21773,7 @@ msgstr ""
 #. msgid "Crâne"
 #: res/data.cdb:loreRoom/#94.examinables/#2.label
 msgid "Skull"
-msgstr ""
+msgstr "Tengkorak"
 
 #. PrisonTube2 (examinables) skel (events) (text)
 #.
@@ -22009,7 +21989,7 @@ msgstr "Hapus semua perkembangan yang di simpan di berkas ini"
 #. --------
 #. msgid "VERROUILLÉ"
 msgid "LOCKED"
-msgstr ""
+msgstr "TERKUNCI"
 
 #. Deprecated
 #.
