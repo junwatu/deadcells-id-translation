@@ -234,7 +234,7 @@ msgstr "CERI PADA KUE: Musuh menjatuhkan bom ketika mereka mati."
 #. msgid "PORTES PIÉGÉES : les portes explosent."
 #: src/Lang.hx:563
 msgid "TRAPPED DOORS: Doors explode."
-msgstr ""
+msgstr "PINTU TEPEANGKAP: Pintu meledak."
 
 #. --------
 #. msgid "OBSCURITÉ MORTELLE : le niveau est plongé dans la pénombre."
@@ -303,9 +303,8 @@ msgstr "ADAPTASI: Item akan digantikan dengan warna Utama yang lain (tipe yang s
 #. --------
 #. msgid "Maître de l'Ile"
 #: src/Lang.hx:580
-#, fuzzy
 msgid "Master of the Island"
-msgstr "Pemilik dari pulau"
+msgstr "Pemilik Pulau"
 
 #. --------
 #. msgid "L'air frais a du bon"
@@ -425,25 +424,25 @@ msgstr "Inilah tantangan yang baru!"
 #. msgid "Fini la pesanteur !"
 #: src/Lang.hx:601
 msgid "Incy Wincy..."
-msgstr ""
+msgstr "Incy Wincy..."
 
 #. --------
 #. msgid "Fini la délicatesse !"
 #: src/Lang.hx:602
 msgid "La Brute"
-msgstr ""
+msgstr "Yang Kasar"
 
 #. --------
 #. msgid "Fat & Furious"
 #: src/Lang.hx:603
 msgid "The Fat and The Furious"
-msgstr ""
+msgstr "Si Gemuk dan Si Tukang Marah"
 
 #. --------
 #. msgid "Vite fait, bien fait"
 #: src/Lang.hx:604
 msgid "Steam rolled."
-msgstr ""
+msgstr "Digulung dengan uap."
 
 #. --------
 #. msgid "T'as pas un truc dans l'oeil ?"
@@ -473,7 +472,7 @@ msgstr "Tarian"
 #. msgid "Le dernier rempart tombe..."
 #: src/Lang.hx:609
 msgid "The last rampart falls..."
-msgstr ""
+msgstr "Benteng terakhir jatuh..."
 
 #. --------
 #. msgid "Terminé en un tour de main, ah ah !"
@@ -497,7 +496,7 @@ msgstr "Sebet! Sebet! Berguling!"
 #. msgid "Bien équipé !"
 #: src/Lang.hx:613
 msgid "Pimp my ride."
-msgstr ""
+msgstr "Baguskalnah Kendaraanku"
 
 #. --------
 #. msgid "Jamais tombé au combat"
@@ -527,7 +526,7 @@ msgstr "Lihat, tidak begitu sulit, bukan?"
 #. msgid "Fin limier"
 #: src/Lang.hx:618
 msgid "Shrewd sleuth"
-msgstr ""
+msgstr "Detektif Licik"
 
 #. --------
 #. msgid "Extraction chirurgicale"
@@ -539,25 +538,25 @@ msgstr "Ekstraksi melalui pembedahan"
 #. msgid "Extraction d'une main de maître"
 #: src/Lang.hx:620
 msgid "Masterful extraction"
-msgstr ""
+msgstr "Ahli Ekstraksi"
 
 #. --------
 #. msgid "Extraction d'une rare précision"
 #: src/Lang.hx:621
 msgid "Artful extraction"
-msgstr ""
+msgstr "Ekstraksi Berseni"
 
 #. --------
 #. msgid "Extraction fine"
 #: src/Lang.hx:622
 msgid "Deft extraction"
-msgstr ""
+msgstr "Ekstraksi Yang Cekatan"
 
 #. --------
 #. msgid "Les choses sérieuses commencent..."
 #: src/Lang.hx:623
 msgid "Up, Guards, and at them again!"
-msgstr ""
+msgstr "Naik, Pengawal, dan ke mereka lagi!"
 
 #. --------
 #. msgid "A vaincre sans péril..."
@@ -573,13 +572,13 @@ msgstr "Lebih Keras Lebih Baik Lebih Cepat Lebih Kuat"
 #. msgid "Allez, on s'accroche !"
 #: src/Lang.hx:626
 msgid "Let's get down to the nitty gritty..."
-msgstr ""
+msgstr "Mari kita turun ke seluk beluk ..."
 
 #. --------
 #. msgid "Attention à la fermeture des portes..."
 #: src/Lang.hx:627
 msgid "Going down!"
-msgstr ""
+msgstr "Turun!"
 
 #. --------
 #. msgid "La mort vient d'en haut"
@@ -591,7 +590,7 @@ msgstr "Mereka datang dari belakang!"
 #. msgid "Ah ah, pas cette fois !"
 #: src/Lang.hx:629
 msgid "YOLO! Or not?"
-msgstr ""
+msgstr "YOLO! Atau tidak?"
 
 #. --------
 #. msgid "Quel gâchis..."
@@ -615,7 +614,7 @@ msgstr "Apa? Semua ini tidak ada hal yang salah..."
 #. msgid "Péché absous"
 #: src/Lang.hx:633
 msgid "Absolution"
-msgstr ""
+msgstr "Pengampunan"
 
 #. --------
 #. msgid "Toujours plus fort, toujours plus vite."
@@ -627,7 +626,7 @@ msgstr "Lebih cepat dari cahaya!"
 #. msgid "Extraction parfaite"
 #: src/Lang.hx:637
 msgid "Perfect extraction"
-msgstr ""
+msgstr "Ekstraksi Sempurna"
 
 #. --------
 #. msgid "Ce n'est pas la taille qui compte"
@@ -639,13 +638,13 @@ msgstr "Ukuran bukanlah suatu masalah"
 #. msgid "Je mets les pieds où je veux..."
 #: src/Lang.hx:640
 msgid "I don't step on toes..."
-msgstr ""
+msgstr "Saya tidak menginjak kaki..."
 
 #. --------
 #. msgid "Bravo, tout simplement, bravo."
 #: src/Lang.hx:643
 msgid "Nothing to say but... Bravo!"
-msgstr ""
+msgstr "Tak ada lagi yang dikatakan tetapi… Bravo!"
 
 #. --------
 #. msgid "Toi, tu creuses"
@@ -669,13 +668,13 @@ msgstr "Panas dan dingin"
 #. msgid "La tête dans les étoiles"
 #: src/Lang.hx:654
 msgid "Star gazing"
-msgstr ""
+msgstr "Menatap bintang"
 
 #. --------
 #. msgid "Vous avez atteint atteint la Caverne pour la première fois !"
 #: src/Lang.hx:656
 msgid "Reach the Cavern for the first time."
-msgstr ""
+msgstr "Mencapai Gua Besar untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint l'Astrolab pour la première fois !"
@@ -724,9 +723,8 @@ msgstr "Mencapai Jembatan Hitam untuk pertama kalinya."
 #. --------
 #. msgid "Vous avez atteint le Charnier pour la première fois !"
 #: src/Lang.hx:672
-#, fuzzy
 msgid "Reach the Ossuary for the first time."
-msgstr "Mencapai Ossuary untuk pertama kalinya."
+msgstr "Mencapai Kuburan untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint les Egouts Toxiques pour la première fois !"
@@ -744,13 +742,13 @@ msgstr "Mencapai Selokan Tua untuk pertama kalinya."
 #. msgid "Vous avez atteint la Crypte Nauséabonde pour la première fois !"
 #: src/Lang.hx:675
 msgid "Reach the Insufferable Crypt for the first time."
-msgstr ""
+msgstr "Mencapai Insufferable Crypt untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint le Gué des Brumes pour la première fois !"
 #: src/Lang.hx:676
 msgid "Reach the Stilt Village for the first time."
-msgstr ""
+msgstr "Mencapai Desa Panggun untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint le Cimetière du Val pour la première fois !"
@@ -762,19 +760,19 @@ msgstr "Mencapai Kuburan untuk pertama kalinya."
 #. msgid "Vous avez atteint le Temple Ancien pour la première fois !"
 #: src/Lang.hx:678
 msgid "Reach the Slumbering Sanctuary for the first time!"
-msgstr ""
+msgstr "Mencapai Suaka Tidur untuk pertama kalinya!."
 
 #. --------
 #. msgid "Vous avez atteint le Sépulcre Oublié pour la première fois !"
 #: src/Lang.hx:679
 msgid "Reach the Forgotten Sepulcher for the first time!"
-msgstr ""
+msgstr "Mencapai Makam Terlupakan untuk pertama kalinya!."
 
 #. --------
 #. msgid "Vous avez atteint les Profondeurs de la Prison pour la première fois !"
 #: src/Lang.hx:680
 msgid "Reach the Prison Depths for the first time."
-msgstr ""
+msgstr "Mencapai Penjara Dalam untuk pertama kalinya."
 
 #. --------
 #. msgid "Vous avez atteint la Tour de l'Horloge pour la première fois !"
@@ -840,13 +838,13 @@ msgstr "Kamu mengalahkan \"The Concierge\"!"
 #. msgid "Vous avez vaincu \"Le Concierge\" sans prendre le moindre coup !"
 #: src/Lang.hx:691
 msgid "You beat \"The Concierge\" without taking a single hit!"
-msgstr ""
+msgstr "Kamu mengalahkan \"The Concierge\" tanpa terkena satu serangan-pun!"
 
 #. --------
 #. msgid "Vous avez battu \"Conjonctivius\" !"
 #: src/Lang.hx:692
 msgid "You beat \"Conjunctivius\"!"
-msgstr ""
+msgstr "Kamu mengalahkan  \"Conjunctivius\"!"
 
 #. --------
 #. msgid "Vous avez vaincu \"Conjonctivius\" sans prendre le moindre coup !"
@@ -4923,67 +4921,67 @@ msgstr "KREDIT"
 
 #: src/ui/Options.hx:804
 msgid "Sébastien \"deepnight\" BÉNARD"
-msgstr ""
+msgstr "Sébastien \"deepnight\" BÉNARD"
 
 #: src/ui/Options.hx:805
 msgid "Mathieu \"Looping\" CAPDEGELLE"
-msgstr ""
+msgstr "Mathieu \"Looping\" CAPDEGELLE"
 
 #: src/ui/Options.hx:806
 msgid "Gwenaël \"Gwenichou\" MASSÉ"
-msgstr ""
+msgstr "Gwenaël \"Gwenichou\" MASSÉ"
 
 #: src/ui/Options.hx:807
 msgid "Pascal \"Skool\" PÉRIDONT"
-msgstr ""
+msgstr "Pascal \"Skool\" PÉRIDONT"
 
 #: src/ui/Options.hx:808
 msgid "Mathieu \"Tipyx\" PISTOL"
-msgstr ""
+msgstr "Mathieu \"Tipyx\" PISTOL"
 
 #: src/ui/Options.hx:809
 msgid "Christophe \"Quittouff\" RAUTOU"
-msgstr ""
+msgstr "Christophe \"Quittouff\" RAUTOU"
 
 #: src/ui/Options.hx:810
 msgid "Noémie \"Grouny\" SZMRZSIK-COHARD"
-msgstr ""
+msgstr "Noémie \"Grouny\" SZMRZSIK-COHARD"
 
 #: src/ui/Options.hx:811
 msgid "Thomas \"Carduus\" VASSEUR"
-msgstr ""
+msgstr "Thomas \"Carduus\" VASSEUR"
 
 #. --------
 #. msgid "Son et Musique"
 #: src/ui/Options.hx:814
 msgid "Sound and Music"
-msgstr ""
+msgstr "Suara dan Musik"
 
 #: src/ui/Options.hx:815
 msgid "Yoann \"Valmont\" LAULAN"
-msgstr ""
+msgstr "Yoann \"Valmont\" LAULAN"
 
 #: src/ui/Options.hx:818
 msgid "\"Indie Catapult\" Business Marketing"
-msgstr ""
+msgstr "\"Indie Catapult\" Marketing Bisnis"
 
 #: src/ui/Options.hx:819
 msgid "Joan \"Noja\" BLACHÈRE"
-msgstr ""
+msgstr "Joan \"Noja\" BLACHÈRE"
 
 #: src/ui/Options.hx:820
 msgid "Steve \"Buzzard\" FILBY"
-msgstr ""
+msgstr "Steve \"Buzzard\" FILBY"
 
 #: src/ui/Options.hx:821
 msgid "Benjamin \"indie_Ben\" LAULAN"
-msgstr ""
+msgstr "Benjamin \"indie_Ben\" LAULAN"
 
 #. --------
 #. msgid "Remerciements"
 #: src/ui/Options.hx:830
 msgid "Acknowledgements"
-msgstr ""
+msgstr "Ucapan Terima Kasih"
 
 #. --------
 #. msgid ""
@@ -5023,19 +5021,19 @@ msgstr ""
 #. msgid "Motion Twin sur Facebook"
 #: src/ui/Options.hx:876
 msgid "Motion Twin on Facebook"
-msgstr ""
+msgstr "Motion Twin di Facebook"
 
 #. --------
 #. msgid "Motion Twin sur Twitter"
 #: src/ui/Options.hx:877
 msgid "Motion Twin on Twitter"
-msgstr ""
+msgstr "Motion Twin di Twitter"
 
 #. --------
 #. msgid "Erreur de chargement : ::e::"
 #: src/ui/Options.hx:939
 msgid "Loading error: ::e::"
-msgstr ""
+msgstr "Memuat error ::e::"
 
 #. --------
 #. msgid "Certains changements ne seront pris en compte qu'à la prochaine partie."
@@ -5053,13 +5051,13 @@ msgstr "Aktifkan integrasi streaming"
 #. msgid "Aucun compte actuellement associé"
 #: src/ui/Options.hx:957
 msgid "There are no streaming accounts connected with the game."
-msgstr ""
+msgstr "Tidak ada akun streaming yang terhubung dengan gim."
 
 #. --------
 #. msgid "Compte ::service:: associé : ::nickname::"
 #: src/ui/Options.hx:958
 msgid "::service:: account connected: ::nickname::"
-msgstr ""
+msgstr "::service:: akun terhubung: ::nickname::"
 
 #. --------
 #. msgid "Configurer"
@@ -5127,7 +5125,7 @@ msgstr ""
 #. msgid "::user:: a été destitué du rôle de Poulet."
 #: src/ui/Options.hx:985
 msgid "::user:: has been banished as Captain Chicken."
-msgstr ""
+msgstr "::user:: telah diasingkan sebagai Kapten Ayam."
 
 #. --------
 #. msgid ""
@@ -5135,7 +5133,7 @@ msgstr ""
 #. "lancé."
 #: src/ui/Options.hx:986
 msgid "::user::, you have been banished as Captain Chicken, with great power 'came' great responsibility... A new Captain is being chosen."
-msgstr ""
+msgstr "::user::, kau telah diasingkan sebagai Kapten Ayam, dengan kekuatan yang besar dibutukan tanggung jawab yang besar… Kapten baru telah terpilih. "
 
 #. --------
 #. msgid "Activer le contrôle du Boss"
@@ -21442,10 +21440,8 @@ msgstr ""
 #. --------
 #. msgid "Oh et ce n'est pas tout."
 #: res/data.cdb:loreRoom/#86.examinables/#0.events/#4.text
-#, fuzzy
-#| msgid "And that's recent..."
 msgid "Oh, and that's not all."
-msgstr "dan baru saat ini pula..."
+msgstr "Oh dan bukan hanya itu."
 
 #. Behemoth4 (examinables) room (events) (text)
 #.
@@ -22128,10 +22124,8 @@ msgstr "Mati Cepat"
 #.
 #. --------
 #. msgid "Inflige des dégâts modérés."
-#, fuzzy
-#| msgid "Inflict ::d:: damage"
 msgid "Inflicts moderate damage."
-msgstr "Menimbulkan ::d:: damage"
+msgstr "Menimbulkan kerusakan biasa."
 
 #. Deprecated
 #. ClusterBomb (legendaryName)
@@ -22440,19 +22434,16 @@ msgstr "Pembunuhan"
 #. --------
 #. msgid "Célérité"
 #, fuzzy
-#| msgid "Swift sword"
 msgid "Swiftness"
-msgstr "Pedang Cepat"
+msgstr "Kecepatan"
 
 #. Deprecated
 #. Spear (legendaryName)
 #.
 #. --------
 #. msgid "Vive-lance"
-#, fuzzy
-#| msgid "Swift sword"
 msgid "Swiftspear"
-msgstr "Pedang Cepat"
+msgstr ""
 
 #. Deprecated
 #. ImpaleSpear (legendaryName)
@@ -22460,7 +22451,7 @@ msgstr "Pedang Cepat"
 #. --------
 #. msgid "Perce-armées"
 msgid "Perforator"
-msgstr ""
+msgstr "Alat Pembuat Lubang"
 
 #. Deprecated
 #. KingsSpear (legendaryName)
@@ -22473,17 +22464,15 @@ msgstr "Keadilan"
 #. --------
 #. msgid "Carduus le subtil"
 msgid "Carduus the Subtle"
-msgstr ""
+msgstr "Carduus yang Halus"
 
 #. Deprecated
 #. Rapier (gameplayDesc)
 #.
 #. --------
 #. msgid "Inflige un {coup critique@CC} juste après une roulade."
-#, fuzzy
-#| msgid "Inflicts a CRITICAL HIT immediately after rolling."
 msgid "Inflicts {a critical hit@CC} immediately after a roll."
-msgstr "Menimbulkan CRITICAL setelah rolling"
+msgstr "Menimbulkan {pukulan@CC telak} tiba-tiba setelah berguling."
 
 #. Deprecated
 #. DashSword (legendaryName)
@@ -22513,10 +22502,8 @@ msgstr "Leonidas"
 #. msgid ""
 #. "Repousse les ennemis et interrompt leurs attaques. Dégâts supplémentaires si "
 #. "l'ennemi est projeté contre un mur."
-#, fuzzy
-#| msgid "Knocks enemies back and interrupts their attacks. Inflicts extra damage if the victim is hurled against a wall."
 msgid "Pushes enemies back and interrupts their attacks. Additional damage if the enemy hits a wall."
-msgstr "Musuh terdorong dan seranganya terganggu, menimbulkan damage ekstra apabila korban terdorong ke tembok"
+msgstr "Mendorong musuh kembali dan memotong serangan mereka. Kerusakan tambahan jika musuh menghantam tembok."
 
 #. Deprecated
 #. SpikedBoots (legendaryName)
@@ -22564,7 +22551,7 @@ msgstr "Cambuk Belmont"
 #. --------
 #. msgid "Echardes"
 msgid "Splinters"
-msgstr ""
+msgstr "Pemecah"
 
 #. Deprecated
 #. OilSword (legendaryName)
@@ -22588,7 +22575,7 @@ msgstr "Ahli Taktik"
 #. --------
 #. msgid "Arc à double-encoche"
 msgid "Duplex Bow"
-msgstr ""
+msgstr "Busur Duplex"
 
 #. Deprecated
 #. DualBow (legendaryName)
@@ -22596,7 +22583,7 @@ msgstr ""
 #. --------
 #. msgid "Triplette"
 msgid "Triplet"
-msgstr ""
+msgstr "Kembar Tiga"
 
 #. Deprecated
 #. InfiniteBow (legendaryName)
@@ -22620,7 +22607,7 @@ msgstr "Tidak akan pernah habis"
 #. --------
 #. msgid "Hâte"
 msgid "Haste"
-msgstr ""
+msgstr "Bergegas"
 
 #. Deprecated
 #. CloseCombatBow (legendaryName)
@@ -22628,7 +22615,7 @@ msgstr ""
 #. --------
 #. msgid "Barbelure"
 msgid "Barbed Arrow"
-msgstr ""
+msgstr "Anak Panah Berduri"
 
 #. Deprecated
 #. FastBow (legendaryName)
@@ -22668,7 +22655,7 @@ msgstr "Tanpa Ampun"
 #. --------
 #. msgid "Flambeuse"
 msgid "Flashy"
-msgstr ""
+msgstr "Mencolok"
 
 #. Deprecated
 #. MultiCrossBow (gameplayDesc)
@@ -22964,7 +22951,7 @@ msgstr "Codex Komunitas"
 #. --------
 #. msgid "Donne à votre public le choix de votre progression !"
 msgid "Allows chat to choose the type of build you'll use!"
-msgstr ""
+msgstr "Mengijinkan obrolan untuk memilih tipe yang akan engkau pakai!"
 
 #. Deprecated
 #. P_DmgRevenge (gameplayDesc)
@@ -23006,7 +22993,7 @@ msgstr "::+dps:: KPS jika musuh terdekat {berdarah@BL}, {keracunan@TO} atau {ter
 #. --------
 #. msgid "Utiliser une potion de soin ajoute +::+dps:: DPS pendant ::duration:: sec."
 msgid "Using a health potion adds +::+dps:: KPS for ::duration:: sec."
-msgstr ""
+msgstr "Memakai obat kesehatan menambah +::+dps:: KPS selama ::duration:: detik."
 
 #. Deprecated
 #. P_CooldownGrenade (name)
@@ -23108,7 +23095,7 @@ msgstr "Mengurangi musuh yang perlu dibunuh untuk menghapus kutukan sebanyak ::p
 #. --------
 #. msgid "Peau dure"
 msgid "Tough Nut"
-msgstr ""
+msgstr "Si Gila Tangguh"
 
 #. Deprecated
 #. P_Traps (gameplayDesc)
@@ -23196,7 +23183,7 @@ msgstr "Ketika mati, {membekukan@IC} musuh disekitarnya selama ::duration:: deti
 #. --------
 #. msgid "Des vers sortent des victimes."
 msgid "A swarm of biting worms crawls from your victims."
-msgstr ""
+msgstr "Sekelompok cacing pengigit merayap dari korbanmu."
 
 #. Deprecated
 #. RunSpeedOnCrit (desc)
