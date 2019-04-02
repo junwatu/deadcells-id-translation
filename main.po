@@ -4690,7 +4690,7 @@ msgstr "BAHASA"
 #. msgid "Le changement de langue n'est possible qu'à l'écran titre."
 #: src/ui/Options.hx:591
 msgid "Changing the language can only be done at the start screen"
-msgstr ""
+msgstr "Perubahan Bahasa hanya bisa dilakukan pada layar awal"
 
 #. --------
 #. msgid "Télécharger une autre langue"
@@ -4702,7 +4702,7 @@ msgstr "Unduh bahasa lain"
 #. msgid "RÉGIME ALIMENTAIRE"
 #: src/ui/Options.hx:617
 msgid "DIET"
-msgstr ""
+msgstr "DIET"
 
 #. --------
 #. msgid ""
@@ -4710,7 +4710,7 @@ msgstr ""
 #. "qu'esthétique."
 #: src/ui/Options.hx:619
 msgid "You can change the appearance of the food found in the game. This change is purely aesthetic."
-msgstr ""
+msgstr "Kau dapat merubah tampilan dari makanan yang ditemukan di dalam gim. Perubahan ini sangat berestetika."
 
 #: src/ui/Options.hx:622
 msgid "Carnivore"
@@ -4744,35 +4744,35 @@ msgstr ""
 
 #: src/ui/Options.hx:632
 msgid "MODS"
-msgstr ""
+msgstr "MODS"
 
 #. --------
 #. msgid "Les nouveaux abonnement de mod peuvent mettre un peu de temps à s'afficher ici."
 #: src/ui/Options.hx:646
 msgid "New mod subscriptions may take a little while to appear here."
-msgstr ""
+msgstr "Berlangganan mod baru memerlukan beberapa waktu untuk muncul disini. "
 
 #. --------
 #. msgid "Attention, ce mod peut débloquer certains objets automatiquement."
 #: src/ui/Options.hx:663
 msgid "Warning: This mod may automatically unlock certain items."
-msgstr ""
+msgstr "Peringatan: mod ini mungkin secara otomatis akan membuka item tertentu."
 
 #. --------
 #. msgid "Ce mod n'est pas compatible avec ceux déjà activés"
 #: src/ui/Options.hx:663
 msgid "This mod is not compatible with activated ones."
-msgstr ""
+msgstr "Mod ini idak komptibel dengan yang telah diaktifkan."
 
 #. --------
 #. msgid "Ce mod n'est pas compatible avec ceux déjà activés"
 #: src/ui/Options.hx:663
 msgid "This mod is not compatible with others that are already active"
-msgstr ""
+msgstr "Mod ini tidak kompatibel dengan mod lain yang sedang aktif"
 
 #: src/ui/Options.hx:710
 msgid "GAMEPLAY"
-msgstr ""
+msgstr "GAMEPLAY"
 
 #. --------
 #. msgid "Tutorial contrôles"
@@ -4790,21 +4790,19 @@ msgstr "Tunjukkan tip kontrol pada bagian awal game."
 #. msgid "Roulade prête"
 #: src/ui/Options.hx:716
 msgid "Roll ready"
-msgstr ""
+msgstr "Gulungan tersedia"
 
 #. --------
 #. msgid "Léger feedback indiquant que la compétence d'esquive est prête."
 #: src/ui/Options.hx:716
 msgid "Subtle feedback indicating that the dodge skill is ready."
-msgstr ""
+msgstr "Umpan balik yang licik mengindikasikan bahwa keahlian untuk menghindar telah siap."
 
 #. --------
 #. msgid "Roulade intelligente"
 #: src/ui/Options.hx:717
-#, fuzzy
-#| msgid "Smart rolling"
 msgid "Smart roll"
-msgstr "Smart rolling"
+msgstr "Gulungan pintar"
 
 #. --------
 #. msgid ""
@@ -4876,7 +4874,7 @@ msgstr "Aktifkan Chroma"
 #. msgid "Permet d'activer les effets lumineux Chroma sur vos matériels Razer."
 #: src/ui/Options.hx:732
 msgid "Allows you to activate Chroma lighting effects on your Razer equipment."
-msgstr ""
+msgstr "Mengijinkan pengaktivasian efek pencahayaan Chroma pada peralatan Razer-mu."
 
 #. --------
 #. msgid "Activer la synchronisation Steam Cloud"
@@ -4889,10 +4887,8 @@ msgstr "Aktifkan Sinkronisasi Steam Cloud."
 #. "Il est conseillé de désactiver cette fonctionnalité si vous souhaitez jouer "
 #. "hors-ligne."
 #: src/ui/Options.hx:745
-#, fuzzy
-#| msgid "We strongly advise that you deactivate this functionality if you want to play offline."
 msgid "We recommend that you deactivate this function if you want to play offline."
-msgstr "Kami sangat menyarankan kamu menonaktifkan fungsinalitas ini jikajika kamu ingin bermain offline"
+msgstr "Kami sangat menyarankan kamu menonaktifkan fungsionalitas ini jika kamu ingin bermain offline."
 
 #. --------
 #. msgid ""
@@ -16434,7 +16430,7 @@ msgstr ""
 #. msgid "Oh, intéressant."
 #: res/data.cdb:loreRoom/#10.examinables/#3.events/#2.text
 msgid "Oh, interesting."
-msgstr "Oh..  sungguh menarik!"
+msgstr "Oh, sungguh menarik!"
 
 #. Hanged4 (examinables) letter (label)
 #.
@@ -18647,10 +18643,8 @@ msgstr ""
 #. --------
 #. msgid "Une inscription peinte sur la bannière..."
 #: res/data.cdb:loreRoom/#41.examinables/#1.events/#0.text
-#, fuzzy
-#| msgid "Something is blocking the door."
 msgid "Something painted on the banner..."
-msgstr "Sesuatu menahan pintu ini"
+msgstr "Sesauu terlukis di spanduk..."
 
 #. PublicOrder2 (examinables) banner (events) (text)
 #.
@@ -20670,10 +20664,8 @@ msgstr ""
 #. --------
 #. msgid "Oh chouette."
 #: res/data.cdb:loreRoom/#74.examinables/#1.events/#6.text
-#, fuzzy
-#| msgid "Shovel"
 msgid "Oh lovely."
-msgstr "Sekop"
+msgstr "Oh menyenangkan"
 
 #. Infection3 (examinables) massGrave (events) (text)
 #.
@@ -20952,7 +20944,7 @@ msgstr "Pedang lagi"
 #. msgid "Oh une épée"
 #: res/data.cdb:loreRoom/#81.examinables/#3.label
 msgid "Wow, a sword"
-msgstr "Oh, pedang lagi."
+msgstr "Wow, pedang"
 
 #. TimeMaster2 (examinables) room (label)
 #.
@@ -21923,10 +21915,8 @@ msgid "Early access (::version::)"
 msgstr "Akses Awal (::version::)"
 
 #. Deprecated
-#, fuzzy
-#| msgid "Early access (::version::)"
 msgid "v1.0 (::version::)"
-msgstr "Akses Awal (::version::)"
+msgstr "v1.0 (::version::)"
 
 #. Deprecated
 #.
@@ -23101,10 +23091,8 @@ msgstr "+::prct::% HP."
 #.
 #. --------
 #. msgid "Réduire une malédiction restaure ::prct::% PV."
-#, fuzzy
-#| msgid "Restores ::prct::% HP."
 msgid "Reducing a curse restores ::prct::% of HP."
-msgstr "Memulihkan ::prct::% HP"
+msgstr "Mengurangi kutukan mengembalikan ::prct::% HP."
 
 #. Deprecated
 #. P_EasierCurse (gameplayDesc)
