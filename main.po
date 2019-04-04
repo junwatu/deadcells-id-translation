@@ -6868,7 +6868,7 @@ msgstr "Sang bos adalah ::user::!"
 #. "secondes (commandes : ::cmds::) !"
 #: src/tool/vote/BecomeBoss.hx:64
 msgid "::user:: is The Boss! They can launch a special attack every ::t:: seconds (commands: ::cmds::)!"
-msgstr "::user:; adalah Sang Bos! Mereka bisa meluncurkan serangan unik setiap ::t:: detik (perintah ::cmds::)!"
+msgstr "::user:: adalah Sang Bos! Mereka bisa meluncurkan serangan unik setiap ::t:: detik (perintah ::cmds::)!"
 
 #. --------
 #. msgid "Voulez-vous être le Poulet sur ce niveau ?"
