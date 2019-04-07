@@ -936,31 +936,31 @@ msgstr "Serap Stem Cell Bos ketiga"
 #. msgid "Vous avez absorbé votre quatrième Cellule Souche de Boss"
 #: src/Lang.hx:698
 msgid "Absorb your fourth Boss Stem Cell"
-msgstr "Serap Stem Cell Bos keempat"
+msgstr "Serap Sel Stem Bos keempatmu"
 
 #. --------
 #. msgid "Vous avez terminé le jeu avec une Cellule Souche de Boss d'inoculée !"
 #: src/Lang.hx:699
 msgid "Finish the game with a Boss Stem Cell active."
-msgstr ""
+msgstr "Akhiri permainan dengan satu Sel Stem Bos yang aktif."
 
 #. --------
 #. msgid "Vous avez terminé le jeu avec deux Cellules Souches de Boss d'inoculées !"
 #: src/Lang.hx:700
 msgid "Finish the game with two Boss Stem Cells active"
-msgstr ""
+msgstr "Akhiri permainan dengan dua Sel Stem Bos yang aktif."
 
 #. --------
 #. msgid "Vous avez terminé le jeu avec trois Cellules Souches de Boss d'inoculées !"
 #: src/Lang.hx:701
 msgid "Finish the game with three Boss Stem Cells active"
-msgstr ""
+msgstr "Akhiri permainan dengan tiga Sel Stem Bos yang aktif."
 
 #. --------
 #. msgid "Vous avez terminé le jeu avec quatre Cellules Souches de Boss d'inoculées"
 #: src/Lang.hx:702
 msgid "Finish the game with four Boss Stem Cells active"
-msgstr ""
+msgstr "Akhiri permainan dengan empat Sel Stem Bos yang aktif."
 
 #. --------
 #. msgid "Tuer un ennemi avec un ascenseur."
