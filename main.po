@@ -912,19 +912,19 @@ msgstr "Sukses menyelesaikan Challenge Rift"
 #. msgid "Vous avez trouvé votre première zone secrète !"
 #: src/Lang.hx:694
 msgid "Find your first secret zone."
-msgstr ""
+msgstr "Temukan zona rahasia pertamamu."
 
 #. --------
 #. msgid "Vous avez absorbé votre première Cellule Souche de Boss !"
 #: src/Lang.hx:695
 msgid "Absorb your first Boss Stem Cell"
-msgstr "Serap Stem Cell Bos pertama"
+msgstr "Serap Sel Stem Bos pertamamu"
 
 #. --------
 #. msgid "Vous avez absorbé votre deuxième Cellule Souche de Boss !"
 #: src/Lang.hx:696
 msgid "Absorb your second Boss Stem Cell"
-msgstr "Serap Stem Cell Bos kedua"
+msgstr "Serap Sel Stem Bos keduamu"
 
 #. --------
 #. msgid "Vous avez absorbé votre troisième Cellule Souche de Boss !"
