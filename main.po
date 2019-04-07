@@ -996,7 +996,7 @@ msgstr ""
 #. msgid "Vous avez terminé le jeu avec l'épée, l'arc, ou le bouclier de départ."
 #: src/Lang.hx:708
 msgid "Finish the game with the starter sword, bow or shield."
-msgstr ""
+msgstr "Selesaikan game dengan pedang pemula, busur atau perisai."
 
 #. --------
 #. msgid "Être maudit... et y survivre !"
