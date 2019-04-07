@@ -990,7 +990,7 @@ msgstr "Mati ketika membawa setidaknya 100 sel. Terbakar."
 #. msgid "Faire une attaque plongeante... et atterrir dans des piques mortelles !"
 #: src/Lang.hx:707
 msgid "A downward smash attack... right into some deadly spikes!"
-msgstr ""
+msgstr "Serangan menghancurkan ke bawah ... tepat ke beberapa paku yang mematikan!"
 
 #. --------
 #. msgid "Vous avez terminé le jeu avec l'épée, l'arc, ou le bouclier de départ."
