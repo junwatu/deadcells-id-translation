@@ -1014,13 +1014,13 @@ msgstr "Kamu telah menyelesaikan tantangan harian. Bagus!"
 #. msgid "Vous avez absorbé votre cinquième Cellule Souche de Boss"
 #: src/Lang.hx:713
 msgid "You absorbed the fifth Boss Cell"
-msgstr ""
+msgstr "Kamu telah menyerap Sel Bos kelima"
 
 #. --------
 #. msgid "Vous avez battu Gigantus !"
 #: src/Lang.hx:715
 msgid "You beat the Giant!"
-msgstr ""
+msgstr "Kamu mengalahkan Raksasa!"
 
 #. --------
 #. msgid "Vous avez battu le Collector !"
