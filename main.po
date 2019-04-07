@@ -852,7 +852,7 @@ msgstr "Kamu telah mengalahkan \"Time Keeper\"!"
 #. msgid "Vous avez battu la Gardienne du Temps sans prendre le moindre coup !"
 #: src/Lang.hx:684
 msgid "You beat the \"Time Keeper\" without taking a single hit."
-msgstr ""
+msgstr "Kamu mengalahkan \"Time Keeper\" tanpa terpukul sekalipun!"
 
 #. --------
 #. msgid "Vous avez battu la Main du Roi !"
