@@ -846,7 +846,7 @@ msgstr "Kamu mengalahkan  \"Conjunctivius\ tanpa terpukul sekalipun!"
 #. msgid "Vous avez battu la Gardienne du Temps !"
 #: src/Lang.hx:683
 msgid "You have beaten the \"Time Keeper\"!"
-msgstr ""
+msgstr "Kamu telah mengalahkan \"Time Keeper\"!"
 
 #. --------
 #. msgid "Vous avez battu la Gardienne du Temps sans prendre le moindre coup !"
