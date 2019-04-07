@@ -294,7 +294,7 @@ msgstr "SPIKERS: Saatnya berburu jamur..."
 #. msgid "SAUTS : vous pouvez sauter plusieurs fois en l'air"
 #: src/Lang.hx:572
 msgid "JUMPS: You can jump multiple times in the air."
-msgstr "LOMPAT: Kamu dapat mlompat beberapa kali di udara."
+msgstr "LOMPAT: Kamu dapat melompat beberapa kali di udara."
 
 #. --------
 #. msgid ""
