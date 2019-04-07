@@ -984,7 +984,7 @@ msgstr "Tipu Kematian..."
 #. msgid "Vous êtes mort avec au moins 100 cellules sur vous."
 #: src/Lang.hx:706
 msgid "Die while carrying at least 100 cells. Burn."
-msgstr ""
+msgstr "Mati ketika membawa setidaknya 100 sel. Terbakar."
 
 #. --------
 #. msgid "Faire une attaque plongeante... et atterrir dans des piques mortelles !"
