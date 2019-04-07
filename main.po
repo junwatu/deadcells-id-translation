@@ -906,7 +906,7 @@ msgstr "Buka pintu berwaktu pertamamu."
 #. msgid "Vous avez réussi une Faille de Défi !"
 #: src/Lang.hx:693
 msgid "Successfully complete a Challenge Rift."
-msgstr ""
+msgstr "Sukses menyelesaikan Challenge Rift"
 
 #. --------
 #. msgid "Vous avez trouvé votre première zone secrète !"
