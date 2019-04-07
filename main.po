@@ -840,7 +840,7 @@ msgstr "Kamu mengalahkan  \"Conjunctivius\"!"
 #. msgid "Vous avez vaincu \"Conjonctivius\" sans prendre le moindre coup !"
 #: src/Lang.hx:682
 msgid "You beat \"Conjunctivius\" without taking a single hit!"
-msgstr "Kamu mengalahkan  \"Conjunctivius\ tanpa terpukul sekalipun!"
+msgstr "Kamu mengalahkan  \"Conjunctivius\" tanpa terpukul sekalipun!"
 
 #. --------
 #. msgid "Vous avez battu la Gardienne du Temps !"
