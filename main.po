@@ -966,13 +966,13 @@ msgstr "Akhiri permainan dengan empat Sel Stem Bos yang aktif."
 #. msgid "Tuer un ennemi avec un ascenseur."
 #: src/Lang.hx:703
 msgid "Kill an enemy with an elevator."
-msgstr ""
+msgstr "Bunuh musuh dengan elevator."
 
 #. --------
 #. msgid "Se suicider avec un ascenseur."
 #: src/Lang.hx:704
 msgid "Suicide by elevator."
-msgstr ""
+msgstr "Bunuh diri dengan elevator."
 
 #. --------
 #. msgid "Vous avez déjoué la mort !"
