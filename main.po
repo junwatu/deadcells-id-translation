@@ -234,7 +234,7 @@ msgstr "CERI DI KUE: Musuh menjatuhkan bom ketika mereka mati."
 #. msgid "PORTES PIÉGÉES : les portes explosent."
 #: src/Lang.hx:563
 msgid "TRAPPED DOORS: Doors explode."
-msgstr "PINTU TEPEANGKAP: Pintu meledak."
+msgstr "PINTU YANG TERPERANGKAP: Pintu meledak."
 
 #. --------
 #. msgid "OBSCURITÉ MORTELLE : le niveau est plongé dans la pénombre."
