@@ -274,7 +274,7 @@ msgid ""
 "FOG: Warning, deadly invisible monsters may be hidden by dense fog, travel at your own "
 "risk."
 msgstr ""
-"KABUT: peringatan, monster tak terlihat yang mematikan tersembunyikan oleh kabut lebat, "
+"KABUT: peringatan, monster tak terlihat yang mematikan tersembunyikan oleh kabut tebal, "
 "lakukan perjalanan dengan risikomu sendiri."
 
 #. --------
