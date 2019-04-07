@@ -228,7 +228,7 @@ msgstr "Skin"
 #. msgid "POT DE DÉPART : les ennemis lachent une bombe en mourant."
 #: src/Lang.hx:562
 msgid "THE CHERRY ON THE CAKE: Enemies drop a bomb when they die."
-msgstr "CERI PADA KUE: Musuh menjatuhkan bom ketika mereka mati."
+msgstr "CERI DI KUE: Musuh menjatuhkan bom ketika mereka mati."
 
 #. --------
 #. msgid "PORTES PIÉGÉES : les portes explosent."
