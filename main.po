@@ -1054,7 +1054,7 @@ msgstr "Kamu mengalahkan game dengan lima Sel Bos"
 
 #: src/Lang.hx:731
 msgid "Speed Run"
-msgstr ""
+msgstr "Lari cepat"
 
 #. --------
 #. msgid "J'aime la Brutalité"
